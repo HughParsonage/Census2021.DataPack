@@ -1235,17 +1235,22 @@ freadG(14) %>%
 
 ```{r Region__EduInstitutionType_Sex}
 freadG(15) %>%
-  .[, .SD, .SDcols = names(.) %pin% c(Region_key, ".Tot.[MF]", "Pre_school_[MF]", "Type_educanl_institution_ns_[MF]")] %>%
+  .[, .SD, .SDcols = names(.) %pin% c(Region_key, 
+                                      "^([A-Za-z_]+)_Tot_\\1_[MF]$", "Preschool_[MF]",
+                                      "Tert_(Voc|Uni).*edu_Tot_[MF]$",
+                                      # "Tot_[MF]$",
+                                      "Type_educanl_institution_ns_[MF]")] %>%
+  drop_grep("Tert_Tot_Tert_[MF]") %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "students") %>%
 
   .[!(variable %pin% "Type_educanl_institution_ns_[MF]"), EduInstitutionType := gsub("_[MF]$", "", variable)] %>%
-  .[variable %pin% "Pre.school",                          EduInstitutionType := "Pre-school"] %>%
-  .[variable %pin% "Infants.Primary",                     EduInstitutionType := "Infants/Primary"] %>%
-  .[variable %pin% "^Secondary",                          EduInstitutionType := "Secondary"] %>%
+  .[variable %pin% "Preschool",                          EduInstitutionType := "Pre-school"] %>%
+  .[variable %pin% "Primary",                     EduInstitutionType := "Infants/◘Primary"] %>%
+  .[variable %pin% "Secondary",                          EduInstitutionType := "Secondary"] %>%
   .[variable %pin% "Voc",                           EduInstitutionType := "Technical or Further Educational Institution"] %>%
   .[variable %pin% "Uni",                                EduInstitutionType := "University or other tertiary"] %>%
-  .[variable %pin% "^Oth",                                EduInstitutionType := NA_character_] %>%
+  .[variable %pin% "ns_.$",                                EduInstitutionType := NA_character_] %>%
   #
   .[, Sex := gsub("^.*([MF])$", "\\1", variable)] %>%
   .[] %>%
