@@ -691,26 +691,26 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_',
 ```{r Region__OnlyEnglishSpokenHome}
 fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
       select = c(Region_key, 
-                 "Lang_spoken_home_Eng_only_P",
-                 "Lang_spoken_home_Oth_Lang_P")) %>%
+                 "Lang_used_home_Eng_only_P",
+                 "Lang_used_home_Oth_Lang_P")) %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "persons") %>%
-  .[variable == "Lang_spoken_home_Eng_only_P", OnlyEnglishSpokenHome := TRUE] %>%
-  .[variable == "Lang_spoken_home_Oth_Lang_P", OnlyEnglishSpokenHome := FALSE] %>%
+  .[variable == "Lang_used_home_Eng_only_P", OnlyEnglishSpokenHome := TRUE] %>%
+  .[variable == "Lang_used_home_Oth_Lang_P", OnlyEnglishSpokenHome := FALSE] %>%
   Mop
 ```
 
 ```{r Region__OnlyEnglishSpokenHome_Sex}
 fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
         select = c(Region_key, 
-                   "Lang_spoken_home_Eng_only_F",
-                   "Lang_spoken_home_Eng_only_M",
-                   "Lang_spoken_home_Oth_Lang_F",
-                   "Lang_spoken_home_Oth_Lang_M")) %>%
+                   "Lang_used_home_Eng_only_F",
+                   "Lang_used_home_Eng_only_M",
+                   "Lang_used_home_Oth_Lang_F",
+                   "Lang_used_home_Oth_Lang_M")) %>%
   melt.data.table(id.vars = Region_key, 
                   value.name = "persons") %>%
-  .[variable %pin% "Lang_spoken_home_Eng_only", OnlyEnglishSpokenHome := TRUE] %>%
-  .[variable %pin% "Lang_spoken_home_Oth_Lang", OnlyEnglishSpokenHome := FALSE] %>%
+  .[variable %pin% "Lang_used_home_Eng_only", OnlyEnglishSpokenHome := TRUE] %>%
+  .[variable %pin% "Lang_used_home_Oth_Lang", OnlyEnglishSpokenHome := FALSE] %>%
   .[variable %pin% "F$", Sex := "F"] %>%
   .[variable %pin% "M$", Sex := "M"] %>%
   Mop
