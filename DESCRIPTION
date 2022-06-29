@@ -1,0 +1,13 @@
+Package: rpkg
+Title: Title
+Version: 0.0.0
+Authors@R: 
+    person(given = "Hugh",
+           family = "Parsonage",
+           role = c("aut", "cre"),
+           email = "hugh.parsonage@gmail.com")
+Description: ..
+License: GPL-2
+Encoding: UTF-8
+
+
