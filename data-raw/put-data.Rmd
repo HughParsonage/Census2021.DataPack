@@ -52,24 +52,51 @@ if (exists("table_killer") || !isTRUE(getOption("knitr.in.progress"))) {
     }
   }
 }
-suppressPackageStartupMessages(library(ASGS, quietly = TRUE))
+# suppressPackageStartupMessages(library(ASGS, quietly = TRUE))
+```
+
+```{r file_colnames}
+file_colnames <- function(x) {
+  if (!file.exists(x)) {
+    x <- sub("_AUS_([A-Z]+)\\.csv", "_AUST_\\1.csv", x)
+  }
+  temp <- data.table::fread(x, nrows = 1)
+  names(temp)
+}
+```
+
+```{r fread}
+# for file existence and different column names
+fread <- function(x, select = NULL, ...) {
+  if (!file.exists(x)) {
+    x <- sub("_AUS_([A-Z]+)\\.csv", "_AUST_\\1.csv", x)
+  }
+  # handle differently cased colnames
+  if (!is.null(select)) {
+    x.colnames <- file_colnames(x)
+    absent_colnames <- setdiff(select, x.colnames)
+    select <- x.colnames[tolower(x.colnames) %in% tolower(select)]
+  }
+  
+  data.table::fread(x, select = select, ...)
+}
 ```
 
 ```{r}
 Metadata <-
-  read_excel("data-raw/data-packs/Metadata/Metadata_2016_GCP_DataPack.xls",
+  read_excel("data-raw/data-packs/Metadata/Metadata_2021_GCP_DataPack_R1.xlsx",
              sheet = 2,
              skip = 10) %>%
   as.data.table
 ```
 
-```{r SA16_decoder}
-SA16_decoder <- fread("data-raw/SA16_decoder.csv")
+```{r SA21_decoder}
+SA21_decoder <- fread("data-raw/SA21_decoder.csv")
 ```
 
 ```{r Region_key}
 Region_key <- 
-  fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv')) %>%
+  fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUST_', Region, '.csv')) %>%
   names %>%
   extract2(1)
 ```
@@ -82,7 +109,7 @@ freadG <- function(g, ...) {
   file_list <-
     list.files(path = file.path('./data-raw/data-packs/data/', Region, 'AUST'),
                # Files may be of the form ..G08_AUS.. or ..G09B_AUS..
-               pattern = paste0('2016Census_G', g0, '[A-Z]?_AUS_', Region, '\\.csv$'),
+               pattern = paste0('2021Census_G', g0, '[A-Z]?_AUST_', Region, '\\.csv$'),
                full.names = TRUE)
   if (length(file_list) > 1) {
     file_list %>%
@@ -107,7 +134,7 @@ force_double <- function(x) suppressWarnings(as.double(x))
 
 ```{r total_adults}
 total_adults <- 
-  fread("./data-raw/data-packs/data/AUST/2016Census_G01_AUS.csv") %>%
+  fread("./data-raw/data-packs/data/AUST/2021Census_G01_AUS_AUS.csv") %>%
   .[, .SD, .SDcols = c(1, grep("^Age_[0-9]{2}.*_P$", names(.)))] %>%
   melt.data.table(id.vars = names(.)[1]) %$%
   sum(value)
@@ -306,7 +333,7 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
   
   expected_population <- 
     switch(value.name,
-           "persons" = 23401.9e3,
+           "persons" = 25401.9e3,
            "adults" = total_adults,
            # i.e. make no check
            apparent_population)
@@ -351,33 +378,33 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
   if (Region %notin% c("SA1", "POA")) {
     decoder <- 
       switch(Region,
-             "SA2" = SA16_decoder[ASGS_Structure == Region,
-                                  .(SA2_MAIN16 = Census_Code_2016,
-                                    SA2_NAME16 = Census_Name_2016)],
-             "SA3" = SA16_decoder[ASGS_Structure == Region,
-                                  .(SA3_MAIN16 = Census_Code_2016,
-                                    SA3_NAME16 = Census_Name_2016)],
-             "SA4" = SA16_decoder[ASGS_Structure == Region,
-                                  .(SA4_MAIN16 = Census_Code_2016,
-                                    SA4_NAME16 = Census_Name_2016)],
-             "STE" = SA16_decoder[ASGS_Structure == Region,
-                                  .(STE_MAIN16 = Census_Code_2016,
-                                    STE_NAME16 = Census_Name_2016)],
+             "SA2" = SA21_decoder[ASGS_Structure == Region,
+                                  .(SA2_MAIN16 = Census_Code_2021,
+                                    SA2_NAME16 = Census_Name_2021)],
+             "SA3" = SA21_decoder[ASGS_Structure == Region,
+                                  .(SA3_MAIN16 = Census_Code_2021,
+                                    SA3_NAME16 = Census_Name_2021)],
+             "SA4" = SA21_decoder[ASGS_Structure == Region,
+                                  .(SA4_MAIN16 = Census_Code_2021,
+                                    SA4_NAME16 = Census_Name_2021)],
+             "STE" = SA21_decoder[ASGS_Structure == Region,
+                                  .(STE_MAIN16 = Census_Code_2021,
+                                    STE_NAME16 = Census_Name_2021)],
              "LGA" = {
                NonABS_decoder[ASGS_Structure == Region,
-                              .(Census_Code_2016, LGA_NAME16 = Census_Name_2016)]
+                              .(Census_Code_2021, LGA_NAME16 = Census_Name_2021)]
              },
              "CED" = {
                NonABS_decoder[ASGS_Structure == Region,
-                              .(Census_Code_2016, CED_NAME16 = Census_Name_2016)]
+                              .(Census_Code_2021, CED_NAME16 = Census_Name_2021)]
              },
              "SED" = {
                NonABS_decoder[ASGS_Structure == Region,
-                              .(Census_Code_2016, SED_NAME16 = Census_Name_2016)]
+                              .(Census_Code_2021, SED_NAME16 = Census_Name_2021)]
              },
              "SSC" = {
                NonABS_decoder[ASGS_Structure == Region,
-                              .(Census_Code_2016, SSC_NAME16 = Census_Name_2016)]
+                              .(Census_Code_2021, SSC_NAME16 = Census_Name_2021)]
              },
              NULL) %>%
       unique %>%
@@ -450,8 +477,8 @@ expect_equal(.decode_country(c("United Kingdom", "Australia", "Australia",
 
 ```{r LGA_decoder}
 NonABS_decoder <-
-  read_excel("./data-raw/data-packs/Metadata/2016Census_geog_desc_1st_release.xlsx",
-             sheet = "2016_ASGS_Non-ABS_Structures") %>%
+  read_excel("./data-raw/data-packs/Metadata/2021Census_geog_desc_1st_release.xlsx",
+             sheet = "2021_ASGS_Non_ABS_Structures") %>%
   as.data.table
 ```
 
@@ -483,12 +510,12 @@ local({
 
 ```{r CED_decoder, eval=FALSE}
 CED_decoder <-
-  read_excel("./data-raw/data-packs/Metadata/2016Census_geog_desc_1st_release.xlsx", 
-             sheet = "2016_ASGS_Non-ABS_Structures") %>%
+  read_excel("./data-raw/data-packs/Metadata/2021Census_geog_desc_1st_release.xlsx", 
+             sheet = "2021_ASGS_Non-ABS_Structures") %>%
   setDT %>%
   .[ASGS_Structure == "CED"] %>%
-  setnames("Census_Code_2016", Region_key) %>%
-  setnames("Census_Name_2016", "Electoral_division") %>%
+  setnames("Census_Code_2021", Region_key) %>%
+  setnames("Census_Name_2021", "Electoral_division") %>%
   .[, .SD, .SDcols =  c(Region_key, "Electoral_division")]
 ```
 
@@ -546,7 +573,7 @@ expect_equal(strip_age("P_15_19_yr_Marrd_reg_marrge"), "P_Marrd_reg_marrge")
 ### G01
 
 ```{r Region__Persons}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'),
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUST_', Region, '.csv'),
       select = c(Region_key, "Tot_P_P")) %>%
   setnames("Tot_P_P", "persons") %>%
   Mop
@@ -554,7 +581,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__Sex}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'),
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUST_', Region, '.csv'),
       select = c(Region_key, "Tot_P_M", "Tot_P_F")) %>%
   melt.data.table(id.vars = Region_key,
                   variable.name = "Sex",
@@ -565,7 +592,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__Age}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv')) %>%
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv')) %>%
   .[, .SD, .SDcols = c(Region_key, 
                        grep("^Age_[0-9].*P$", names(.), value = TRUE))] %>%
   melt.data.table(id.vars = Region_key,
@@ -576,7 +603,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__Age_Sex}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv')) %>%
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv')) %>%
   .[, .SD, .SDcols = c(Region_key, 
                        grep("^Age_[0-9].*[MF]$", names(.), value = TRUE))] %>%
   melt.data.table(id.vars = Region_key,
@@ -588,7 +615,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__HomeCensusNight}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'), 
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
       select = c(Region_key, "Counted_Census_Night_home_P", "Count_Census_Nt_Ewhere_Aust_P")) %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "persons") %>%
@@ -598,7 +625,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__HomeCensusNight_Sex}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'), 
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
       select = c(Region_key,
                  "Counted_Census_Night_home_M", "Count_Census_Nt_Ewhere_Aust_M",
                  "Counted_Census_Night_home_F", "Count_Census_Nt_Ewhere_Aust_F")) %>%
@@ -611,7 +638,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__IndigenousStatus}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'), 
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
         select = c(Region_key,
                    "Tot_P_P",
                    "Indigenous_psns_Aboriginal_P",
@@ -635,7 +662,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__BornAust}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'), 
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
       select = c(Region_key, 
                  "Birthplace_Australia_P",
                  "Birthplace_Elsewhere_P")) %>%
@@ -648,7 +675,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__BornAust_Sex}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'), 
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
       select = c(Region_key, 
                  "Birthplace_Australia_F", "Birthplace_Australia_M",
                  "Birthplace_Elsewhere_F", "Birthplace_Elsewhere_M")) %>%
@@ -662,7 +689,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__OnlyEnglishSpokenHome}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'), 
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
       select = c(Region_key, 
                  "Lang_spoken_home_Eng_only_P",
                  "Lang_spoken_home_Oth_Lang_P")) %>%
@@ -674,7 +701,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__OnlyEnglishSpokenHome_Sex}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'), 
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
         select = c(Region_key, 
                    "Lang_spoken_home_Eng_only_F",
                    "Lang_spoken_home_Eng_only_M",
@@ -690,7 +717,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__AustCitizen}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'),
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'),
         select = c(Region_key,
                    "Tot_P_P",
                    "Australian_citizen_P")) %>%
@@ -706,7 +733,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 
 
 ```{r Region__AustCitizen_Sex}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'),
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'),
       select = c(Region_key,
                  "Tot_P_F",
                  "Australian_citizen_F",
@@ -726,7 +753,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__Age_students}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'),
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'),
       select = c(Region_key,
                  "Age_psns_att_educ_inst_0_4_P",
                  "Age_psns_att_educ_inst_5_14_P", 
@@ -741,7 +768,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__Age_Sex_students}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'),
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'),
       select = c(Region_key,
                  "Age_psns_att_educ_inst_0_4_F",
                  "Age_psns_att_educ_inst_0_4_M",
@@ -762,7 +789,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__MaxSchoolingCompleted}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv')) %>%
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv')) %>%
   .[, .SD, .SDcols = c(Region_key, grep("High_yr_schl_comp_.*_P", names(.), value = TRUE))] %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "adults") %>%
@@ -775,7 +802,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__MaxSchoolingCompleted_Sex}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv')) %>%
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv')) %>%
   .[, .SD, .SDcols = c(Region_key, grep("High_yr_schl_comp_.*_[MF]$", names(.), value = TRUE))] %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "persons") %>%
@@ -789,7 +816,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__Dwelling}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'), 
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
       select = c(Region_key,
                  #"Count_psns_occ_priv_dwgs_M",
                  #"Count_psns_occ_priv_dwgs_F", 
@@ -805,7 +832,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 ```
 
 ```{r Region__Dwelling_Sex}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_', Region, '.csv'), 
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G01_AUS_', Region, '.csv'), 
       select = c(Region_key,
                  "Count_psns_occ_priv_dwgs_M",
                  "Count_psns_occ_priv_dwgs_F", 
@@ -822,7 +849,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G01_AUS_',
 
 ### G02
 ```{r Region__medianTotalPersonalIncome}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G02_AUS_', Region, '.csv')) %>%
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G02_AUS_', Region, '.csv')) %>%
   .[, .SD, .SDcols = c(Region_key, "Median_tot_prsnl_inc_weekly")] %>%
   setnames("Median_tot_prsnl_inc_weekly", "medianTotalPersonalIncome") %>%
   .[, medianTotalPersonalIncome := medianTotalPersonalIncome * 52L] %>%
@@ -837,7 +864,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G02_AUS_',
 
 ```{r Region__medianMortgageRepayment}
 
-  fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G02_AUS_', Region, '.csv')) %>%
+  fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G02_AUS_', Region, '.csv')) %>%
     .[, .SD, .SDcols = c(Region_key, "Median_mortgage_repay_monthly")] %>%
     setnames("Median_mortgage_repay_monthly", "medianMortgageRepayment") %>%
     .[, medianMortgageRepayment := medianMortgageRepayment * 12L] %>%
@@ -852,7 +879,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G02_AUS_',
 ```
 
 ```{r Region__medianTotalHouseholdIncome}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G02_AUS_', Region, '.csv')) %>%
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G02_AUS_', Region, '.csv')) %>%
   .[, .SD, .SDcols = c(Region_key, "Median_tot_hhd_inc_weekly")] %>%
   setnames("Median_tot_hhd_inc_weekly", "medianTotalHouseholdIncome") %>%
   .[, medianTotalHouseholdIncome := medianTotalHouseholdIncome * 52L] %>%
@@ -867,7 +894,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G02_AUS_',
 ```
 
 ```{r Region__medianTotalFamilyIncome}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G02_AUS_', Region, '.csv')) %>%
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G02_AUS_', Region, '.csv')) %>%
   .[, .SD, .SDcols = c(Region_key, "Median_tot_fam_inc_weekly")] %>%
   setnames("Median_tot_fam_inc_weekly", "medianTotalFamilyIncome") %>%
   .[, medianTotalFamilyIncome := medianTotalFamilyIncome * 52L] %>%
@@ -881,7 +908,7 @@ fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G02_AUS_',
 ```
 
 ```{r Region__medianRent}
-fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2016Census_G02_AUS_', Region, '.csv')) %>%
+fread(paste0('./data-raw/data-packs/data/', Region, '/AUST/2021Census_G02_AUS_', Region, '.csv')) %>%
   .[, .SD, .SDcols = c(Region_key, "Median_rent_weekly")] %>%
   setnames("Median_rent_weekly", "medianRent") %>%
   .[, medianRent := medianRent * 52L] %>%
@@ -1126,7 +1153,7 @@ freadG(11, na.strings = "..") %>%
   .[order(EnglishProficiency)] %>%
   .[, EnglishProficiency := gsub("^[0-2]", "", EnglishProficiency)] %>%
   .[, EnglishProficiency := factor(EnglishProficiency, 
-                                   levels = Census2016.spec::MEASURE_VARS$EnglishProficiency$permitted_values,
+                                   levels = Census2021.spec::MEASURE_VARS$EnglishProficiency$permitted_values,
                                    ordered = TRUE)] %>%
   .[] %>%
   .[!grepl("YNS$", variable), YearOfArrival := 2000L + as.integer(gsub("^.*([0-9]{2})$", "\\1", variable))] %>%
@@ -1157,7 +1184,7 @@ freadG(12) %>%
 
 ```{r eval=FALSE}
 list.files(path = paste0('./data-raw/data-packs/data/', Region, '/AUST/'),
-             pattern = paste0('2016Census_G13[A-Z]_AUS_', Region, '\\.csv$'),
+             pattern = paste0('2021Census_G13[A-Z]_AUS_', Region, '\\.csv$'),
              full.names = TRUE) %>%
     lapply(fread, key = Region_key, na.strings = "..") %>%
     lapply(drop_empty_cols) %>%
@@ -1710,7 +1737,7 @@ ced_tbls <-
   use_series("NAME") %>%
   grep(pattern = paste0("^", Region, "_"), x = ., value = TRUE)
 
-library(Census2016.spec)
+library(Census2021.spec)
 ced_data_list <- mget(ced_tbls)
 tryCatch(test_check(data_list = ced_data_list, show.progress = FALSE), 
          error = function(e) {
@@ -1725,12 +1752,12 @@ provide_normalize <- function(x) {
 }
 
 if (Region == "SA1") {
-  data_path <- provide_normalize("~/Census2016.DataPack.SA1/data")
-  tsv_path <- provide_normalize(paste0("~/Census2016.DataPack.SA1/tsv/", Region))
+  data_path <- provide_normalize("~/Census2021.DataPack.SA1/data")
+  tsv_path <- provide_normalize(paste0("~/Census2021.DataPack.SA1/tsv/", Region))
 } else {
   if (Region == "SSC") {
-    data_path <- provide_normalize("~/Census2016.DataPack.SSC/data")
-    tsv_path <- provide_normalize(paste0("~/Census2016.DataPack.SSC/tsv/", Region))
+    data_path <- provide_normalize("~/Census2021.DataPack.SSC/data")
+    tsv_path <- provide_normalize(paste0("~/Census2021.DataPack.SSC/tsv/", Region))
   } else {
     data_path <- "data"
     tsv_path <- provide_normalize(paste0("./tsv/", Region))
@@ -1786,8 +1813,8 @@ CatR <- function(...) {
 }
 if (Region == "STE") {
   CatR("#' @title Data pack data")
-  CatR("#' @name Census2016__Data")
-  CatR("#' @description Data from the 2016 Australian Census")
+  CatR("#' @name Census2021__Data")
+  CatR("#' @description Data from the 2021 Australian Census")
   CatR("#' NULL")
 }
 
