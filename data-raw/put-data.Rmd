@@ -1246,7 +1246,7 @@ freadG(15) %>%
 
   .[!(variable %pin% "Type_educanl_institution_ns_[MF]"), EduInstitutionType := gsub("_[MF]$", "", variable)] %>%
   .[variable %pin% "Preschool",                          EduInstitutionType := "Pre-school"] %>%
-  .[variable %pin% "Primary",                     EduInstitutionType := "Infants/◘Primary"] %>%
+  .[variable %pin% "Primary",                     EduInstitutionType := "Infants/Primary"] %>%
   .[variable %pin% "Secondary",                          EduInstitutionType := "Secondary"] %>%
   .[variable %pin% "Voc",                           EduInstitutionType := "Technical or Further Educational Institution"] %>%
   .[variable %pin% "Uni",                                EduInstitutionType := "University or other tertiary"] %>%
@@ -1267,14 +1267,14 @@ freadG(15) %>%
                   value.name = "students") %>%
 
   .[!(variable %pin% "Type_educanl_institution_ns_[MF]"), EduInstitutionType := gsub("_[MF]$", "", variable)] %>%
-  .[variable %pin% "Pre.school",                          EduInstitutionType := "Pre-school"] %>%
-  .[variable %pin% "Infa?nts.Prima?ry",                   EduInstitutionType := "Infants/Primary"] %>%
+  .[variable %pin% "Pre.?school",                          EduInstitutionType := "Pre-school"] %>%
+  .[variable %pin% "(Infa?nts.)?Prima?ry",                   EduInstitutionType := "Infants/Primary"] %>%
   .[variable %pin% "^Secondary",                          EduInstitutionType := "Secondary"] %>%
-  .[variable %pin% "^Tec.Furt",                           EduInstitutionType := "Technical or Further Educational Institution"] %>%
-  .[variable %pin% "^Uni",                                EduInstitutionType := "University or other tertiary"] %>%
+  .[variable %pin% "Voc",                           EduInstitutionType := "Technical or Further Educational Institution"] %>%
+  .[variable %pin% "Uni",                                EduInstitutionType := "University or other tertiary"] %>%
   .[variable %pin% "^Oth",                                EduInstitutionType := NA_character_] %>%
   #
-  .[variable %pin% c("Primary", "^Secondary"), SchoolSector := gsub("^.*(Government|Catholic|Non_Govt).*$", "\\1", variable)] %>%
+  .[variable %pin% c("Primary", "Secondary"), SchoolSector := gsub("^.*(Government|Catholic|Non_Govt).*$", "\\1", variable)] %>%
   #
   .[variable %pin% c("_Ft_(?!ns)", "_Pt_(?!ns)"), FullTime := variable %pin% "_Ft_"] %>%
   #
@@ -1386,21 +1386,23 @@ freadG(18) %>%
 
 # G19
 
-```{r Age_Volunteer_Sex}
-freadG(19) %>%
-  drop_cols(grep("Tot", names(.), value = TRUE)) %>%
-  drop_cols(grep("^P_", names(.), value = TRUE)) %>%
+```{r Age_Volunteer_Sex, eval=FALSE}
+# if (FALSE) {
+freadG(23) %>%
+  select_grep("^[MF]_", .and = Region_key) %>%
+  drop_grep("Tot") %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "adults") %>%
   .[, Age := extract_age(variable)] %>%
   .[, Sex := substr(variable, 0, 1)] %>%
-  .[!grepl("ns$", variable), Volunteer := !grepl("N_A_Volunteer$", variable, ignore.case = TRUE)] %>%
+  .[!grepl("ns$", variable), Volunteer := !grepl("N_a_", variable, ignore.case = TRUE)] %>%
   .[] %>%
   Mop("adults")
+
 ```
 
 ```{r Age_HoursHousekeeping_Sex}
-freadG(20) %>%
+freadG(24) %>%
   drop_cols(grep("Tot", names(.), value = TRUE)) %>%
   drop_cols(grep("^P_", names(.), value = TRUE)) %>%
   melt.data.table(id.vars = Region_key,
@@ -1452,7 +1454,7 @@ freadG(22) %>%
 # G24
 
 ```{r Age_ChildrenEverBorn}
-freadG(24) %>%
+freadG(28) %>%
   drop_cols(grep("Tot", names(.), value = TRUE)) %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "females") %>%
