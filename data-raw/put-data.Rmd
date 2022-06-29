@@ -177,6 +177,7 @@ decode_country <- function(out) {
       CountryOfBirth := "United Kingdom"]
   out[CountryOfBirth %pin% "SE Europe nfd", CountryOfBirth := NA_character_]
   out[CountryOfBirth == "Vietnam", CountryOfBirth := "VNM"]
+  out[CountryOfBirth == "North Macedonia", CountryOfBirth := "MKD"]
   # Negative lookbehind due to FYROM (Macedonia)
   
   
@@ -1046,14 +1047,14 @@ freadG(7) %>%
 ```{r Region__Ancestry}
 freadG(8) %>%
   .[, .SD, .SDcols = c(Region_key,
-                       grep("Tot_Resp", names(.), value = TRUE))] %>%
+                       grep("Tot_Resp", names(.), value = TRUE, ignore.case = TRUE))] %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "responses") %>%
-  .[variable != "Tot_P_Tot_Resp"] %>%
+  .[variable != "Tot_P_Tot_resp"] %>%
   .[!grepl("Ancestry_NS", variable),
     Ancestry := gsub("^([A-Z].*)_(BP|FO|MO).*$", "\\1", variable)] %>%
   .[Ancestry %pin% "Sth.Afri?can", Ancestry := "South African"] %>%
-  .[, Ancestry := sub("_Tot_Resp", "", Ancestry)] %>%
+  .[, Ancestry := sub("_Tot_resp", "", Ancestry)] %>%
   .[, Ancestry := gsub("_", " ", Ancestry)] %>%
   .[, Ancestry := gsub("Aust", "Australian", Ancestry)] %>%
   .[, Ancestry := gsub("Abor", "Aboriginal", Ancestry)] %>%
@@ -1071,7 +1072,7 @@ freadG(8) %>%
   .[Ancestry %pin% "Sth.Afri?can", Ancestry := "South African"] %>%
   # Join to obtain those with ancestry but whose parents were not
   # born overseas
-  .[, Ancestry := sub("_Tot_Resp", "", Ancestry)] %>%
+  .[, Ancestry := sub("_Tot_resp", "", Ancestry)] %>%
   .[, Ancestry := gsub("_", " ", Ancestry)] %>%
   .[, Ancestry := gsub("Aust", "Australian", Ancestry)] %>%
   .[, Ancestry := gsub("Abor", "Aboriginal", Ancestry)] %>%
@@ -1148,13 +1149,13 @@ freadG(11, na.strings = "..") %>%
   .[, Age := gsub("-ov", "+", Age, fixed = TRUE)] %>%
   .[, Age := factor(Age, levels = unique(.$Age), ordered = TRUE)] %>%
   .[grepl("SEO", variable), SpeaksEnglishOnly := TRUE] %>%
-  .[grepl("SOLSE", variable), SpeaksEnglishOnly := FALSE] %>%
+  .[grepl("UOLSE", variable), SpeaksEnglishOnly := FALSE] %>%
   .[grepl("VWW", variable), EnglishProficiency := "1Speaks English well or very well"] %>%
   .[grepl("NWNAA", variable), EnglishProficiency := "2Speaks English not well or not at all"] %>%
   .[order(EnglishProficiency)] %>%
   .[, EnglishProficiency := gsub("^[0-2]", "", EnglishProficiency)] %>%
   .[, EnglishProficiency := factor(EnglishProficiency, 
-                                   levels = Census2021.spec::MEASURE_VARS$EnglishProficiency$permitted_values,
+                                   levels = Census2016.spec::MEASURE_VARS$EnglishProficiency$permitted_values,
                                    ordered = TRUE)] %>%
   .[] %>%
   .[!grepl("YNS$", variable), YearOfArrival := 2000L + as.integer(gsub("^.*([0-9]{2})$", "\\1", variable))] %>%
@@ -1242,8 +1243,8 @@ freadG(15) %>%
   .[variable %pin% "Pre.school",                          EduInstitutionType := "Pre-school"] %>%
   .[variable %pin% "Infants.Primary",                     EduInstitutionType := "Infants/Primary"] %>%
   .[variable %pin% "^Secondary",                          EduInstitutionType := "Secondary"] %>%
-  .[variable %pin% "^Tec.Furt",                           EduInstitutionType := "Technical or Further Educational Institution"] %>%
-  .[variable %pin% "^Uni",                                EduInstitutionType := "University or other tertiary"] %>%
+  .[variable %pin% "Voc",                           EduInstitutionType := "Technical or Further Educational Institution"] %>%
+  .[variable %pin% "Uni",                                EduInstitutionType := "University or other tertiary"] %>%
   .[variable %pin% "^Oth",                                EduInstitutionType := NA_character_] %>%
   #
   .[, Sex := gsub("^.*([MF])$", "\\1", variable)] %>%
@@ -1738,7 +1739,7 @@ ced_tbls <-
   use_series("NAME") %>%
   grep(pattern = paste0("^", Region, "_"), x = ., value = TRUE)
 
-library(Census2021.spec)
+library(Census2016.spec)
 ced_data_list <- mget(ced_tbls)
 tryCatch(test_check(data_list = ced_data_list, show.progress = FALSE), 
          error = function(e) {
