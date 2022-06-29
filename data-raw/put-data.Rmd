@@ -67,7 +67,8 @@ file_colnames <- function(x) {
 
 ```{r fread}
 # for file existence and different column names
-fread <- function(x, select = NULL, ...) {
+fread <- function(file, select = NULL, ...) {
+  x <- file
   if (!file.exists(x)) {
     x <- sub("_AUS_([A-Z]+)\\.csv", "_AUST_\\1.csv", x)
   }
@@ -446,7 +447,7 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
   }
   
   assign(object_name, out, envir = .GlobalEnv)
-  if (in_for_loop) cat("=")
+  if (get0("in_for_loop", ifnotfound = FALSE)) cat("=")
   
   decoded_out[]
 }
