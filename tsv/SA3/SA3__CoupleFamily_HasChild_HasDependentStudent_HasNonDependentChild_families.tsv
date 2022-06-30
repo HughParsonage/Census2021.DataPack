@@ -1,0 +1,5022 @@
+SA3_NAME16	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	families
+Queanbeyan					228
+Queanbeyan	0	0	0	1	830
+Queanbeyan	0	0	1	0	192
+Queanbeyan	0	0	1	1	81
+Queanbeyan	0	1	0	0	989
+Queanbeyan	0	1	0	1	83
+Queanbeyan	0	1	1	0	147
+Queanbeyan	0	1	1	1	30
+Queanbeyan	1	0	0	1	1444
+Queanbeyan	1	0	1	0	634
+Queanbeyan	1	0	1	1	410
+Queanbeyan	1	1	0	0	4763
+Queanbeyan	1	1	0	1	213
+Queanbeyan	1	1	1	0	751
+Queanbeyan	1	1	1	1	134
+Snowy Mountains					49
+Snowy Mountains	0	0	0	1	265
+Snowy Mountains	0	0	1	0	74
+Snowy Mountains	0	0	1	1	21
+Snowy Mountains	0	1	0	0	265
+Snowy Mountains	0	1	0	1	22
+Snowy Mountains	0	1	1	0	42
+Snowy Mountains	0	1	1	1	5
+Snowy Mountains	1	0	0	1	351
+Snowy Mountains	1	0	1	0	147
+Snowy Mountains	1	0	1	1	76
+Snowy Mountains	1	1	0	0	1090
+Snowy Mountains	1	1	0	1	53
+Snowy Mountains	1	1	1	0	208
+Snowy Mountains	1	1	1	1	29
+South Coast					217
+South Coast	0	0	0	1	1235
+South Coast	0	0	1	0	224
+South Coast	0	0	1	1	80
+South Coast	0	1	0	0	1215
+South Coast	0	1	0	1	120
+South Coast	0	1	1	0	223
+South Coast	0	1	1	1	54
+South Coast	1	0	0	1	1367
+South Coast	1	0	1	0	386
+South Coast	1	0	1	1	234
+South Coast	1	1	0	0	3202
+South Coast	1	1	0	1	268
+South Coast	1	1	1	0	622
+South Coast	1	1	1	1	98
+Goulburn - Mulwaree					122
+Goulburn - Mulwaree	0	0	0	1	617
+Goulburn - Mulwaree	0	0	1	0	122
+Goulburn - Mulwaree	0	0	1	1	46
+Goulburn - Mulwaree	0	1	0	0	667
+Goulburn - Mulwaree	0	1	0	1	88
+Goulburn - Mulwaree	0	1	1	0	78
+Goulburn - Mulwaree	0	1	1	1	24
+Goulburn - Mulwaree	1	0	0	1	801
+Goulburn - Mulwaree	1	0	1	0	237
+Goulburn - Mulwaree	1	0	1	1	142
+Goulburn - Mulwaree	1	1	0	0	2002
+Goulburn - Mulwaree	1	1	0	1	190
+Goulburn - Mulwaree	1	1	1	0	331
+Goulburn - Mulwaree	1	1	1	1	91
+Young - Yass					119
+Young - Yass	0	0	0	1	492
+Young - Yass	0	0	1	0	124
+Young - Yass	0	0	1	1	59
+Young - Yass	0	1	0	0	559
+Young - Yass	0	1	0	1	56
+Young - Yass	0	1	1	0	100
+Young - Yass	0	1	1	1	25
+Young - Yass	1	0	0	1	814
+Young - Yass	1	0	1	0	333
+Young - Yass	1	0	1	1	193
+Young - Yass	1	1	0	0	2281
+Young - Yass	1	1	0	1	144
+Young - Yass	1	1	1	0	447
+Young - Yass	1	1	1	1	92
+Gosford					574
+Gosford	0	0	0	1	3320
+Gosford	0	0	1	0	788
+Gosford	0	0	1	1	328
+Gosford	0	1	0	0	2938
+Gosford	0	1	0	1	251
+Gosford	0	1	1	0	608
+Gosford	0	1	1	1	128
+Gosford	1	0	0	1	4014
+Gosford	1	0	1	0	1697
+Gosford	1	0	1	1	1047
+Gosford	1	1	0	0	10563
+Gosford	1	1	0	1	502
+Gosford	1	1	1	0	1979
+Gosford	1	1	1	1	352
+Wyong					654
+Wyong	0	0	0	1	3787
+Wyong	0	0	1	0	710
+Wyong	0	0	1	1	368
+Wyong	0	1	0	0	3806
+Wyong	0	1	0	1	451
+Wyong	0	1	1	0	590
+Wyong	0	1	1	1	141
+Wyong	1	0	0	1	3776
+Wyong	1	0	1	0	1144
+Wyong	1	0	1	1	879
+Wyong	1	1	0	0	9219
+Wyong	1	1	0	1	728
+Wyong	1	1	1	0	1634
+Wyong	1	1	1	1	366
+Bathurst					173
+Bathurst	0	0	0	1	770
+Bathurst	0	0	1	0	179
+Bathurst	0	0	1	1	71
+Bathurst	0	1	0	0	966
+Bathurst	0	1	0	1	99
+Bathurst	0	1	1	0	179
+Bathurst	0	1	1	1	34
+Bathurst	1	0	0	1	874
+Bathurst	1	0	1	0	374
+Bathurst	1	0	1	1	224
+Bathurst	1	1	0	0	2709
+Bathurst	1	1	0	1	181
+Bathurst	1	1	1	0	498
+Bathurst	1	1	1	1	113
+Lachlan Valley					222
+Lachlan Valley	0	0	0	1	847
+Lachlan Valley	0	0	1	0	167
+Lachlan Valley	0	0	1	1	46
+Lachlan Valley	0	1	0	0	1033
+Lachlan Valley	0	1	0	1	125
+Lachlan Valley	0	1	1	0	160
+Lachlan Valley	0	1	1	1	37
+Lachlan Valley	1	0	0	1	951
+Lachlan Valley	1	0	1	0	338
+Lachlan Valley	1	0	1	1	163
+Lachlan Valley	1	1	0	0	2774
+Lachlan Valley	1	1	0	1	200
+Lachlan Valley	1	1	1	0	542
+Lachlan Valley	1	1	1	1	124
+Lithgow - Mudgee					173
+Lithgow - Mudgee	0	0	0	1	828
+Lithgow - Mudgee	0	0	1	0	126
+Lithgow - Mudgee	0	0	1	1	53
+Lithgow - Mudgee	0	1	0	0	854
+Lithgow - Mudgee	0	1	0	1	112
+Lithgow - Mudgee	0	1	1	0	121
+Lithgow - Mudgee	0	1	1	1	25
+Lithgow - Mudgee	1	0	0	1	951
+Lithgow - Mudgee	1	0	1	0	305
+Lithgow - Mudgee	1	0	1	1	163
+Lithgow - Mudgee	1	1	0	0	2543
+Lithgow - Mudgee	1	1	0	1	183
+Lithgow - Mudgee	1	1	1	0	440
+Lithgow - Mudgee	1	1	1	1	110
+Orange					220
+Orange	0	0	0	1	836
+Orange	0	0	1	0	177
+Orange	0	0	1	1	79
+Orange	0	1	0	0	1138
+Orange	0	1	0	1	140
+Orange	0	1	1	0	188
+Orange	0	1	1	1	45
+Orange	1	0	0	1	1092
+Orange	1	0	1	0	457
+Orange	1	0	1	1	246
+Orange	1	1	0	0	3947
+Orange	1	1	0	1	210
+Orange	1	1	1	0	706
+Orange	1	1	1	1	132
+Clarence Valley					233
+Clarence Valley	0	0	0	1	966
+Clarence Valley	0	0	1	0	163
+Clarence Valley	0	0	1	1	79
+Clarence Valley	0	1	0	0	1082
+Clarence Valley	0	1	0	1	126
+Clarence Valley	0	1	1	0	152
+Clarence Valley	0	1	1	1	27
+Clarence Valley	1	0	0	1	1026
+Clarence Valley	1	0	1	0	280
+Clarence Valley	1	0	1	1	153
+Clarence Valley	1	1	0	0	2307
+Clarence Valley	1	1	0	1	199
+Clarence Valley	1	1	1	0	433
+Clarence Valley	1	1	1	1	85
+Coffs Harbour					310
+Coffs Harbour	0	0	0	1	1694
+Coffs Harbour	0	0	1	0	366
+Coffs Harbour	0	0	1	1	128
+Coffs Harbour	0	1	0	0	1900
+Coffs Harbour	0	1	0	1	191
+Coffs Harbour	0	1	1	0	329
+Coffs Harbour	0	1	1	1	62
+Coffs Harbour	1	0	0	1	1749
+Coffs Harbour	1	0	1	0	627
+Coffs Harbour	1	0	1	1	323
+Coffs Harbour	1	1	0	0	4873
+Coffs Harbour	1	1	0	1	318
+Coffs Harbour	1	1	1	0	875
+Coffs Harbour	1	1	1	1	144
+Bourke - Cobar - Coonamble					110
+Bourke - Cobar - Coonamble	0	0	0	1	339
+Bourke - Cobar - Coonamble	0	0	1	0	37
+Bourke - Cobar - Coonamble	0	0	1	1	7
+Bourke - Cobar - Coonamble	0	1	0	0	461
+Bourke - Cobar - Coonamble	0	1	0	1	63
+Bourke - Cobar - Coonamble	0	1	1	0	53
+Bourke - Cobar - Coonamble	0	1	1	1	16
+Bourke - Cobar - Coonamble	1	0	0	1	287
+Bourke - Cobar - Coonamble	1	0	1	0	101
+Bourke - Cobar - Coonamble	1	0	1	1	53
+Bourke - Cobar - Coonamble	1	1	0	0	998
+Bourke - Cobar - Coonamble	1	1	0	1	76
+Bourke - Cobar - Coonamble	1	1	1	0	184
+Bourke - Cobar - Coonamble	1	1	1	1	32
+Broken Hill and Far West					100
+Broken Hill and Far West	0	0	0	1	424
+Broken Hill and Far West	0	0	1	0	66
+Broken Hill and Far West	0	0	1	1	30
+Broken Hill and Far West	0	1	0	0	533
+Broken Hill and Far West	0	1	0	1	64
+Broken Hill and Far West	0	1	1	0	44
+Broken Hill and Far West	0	1	1	1	15
+Broken Hill and Far West	1	0	0	1	385
+Broken Hill and Far West	1	0	1	0	78
+Broken Hill and Far West	1	0	1	1	51
+Broken Hill and Far West	1	1	0	0	831
+Broken Hill and Far West	1	1	0	1	71
+Broken Hill and Far West	1	1	1	0	136
+Broken Hill and Far West	1	1	1	1	21
+Dubbo					304
+Dubbo	0	0	0	1	1092
+Dubbo	0	0	1	0	222
+Dubbo	0	0	1	1	84
+Dubbo	0	1	0	0	1580
+Dubbo	0	1	0	1	165
+Dubbo	0	1	1	0	214
+Dubbo	0	1	1	1	52
+Dubbo	1	0	0	1	1236
+Dubbo	1	0	1	0	443
+Dubbo	1	0	1	1	264
+Dubbo	1	1	0	0	4151
+Dubbo	1	1	0	1	245
+Dubbo	1	1	1	0	698
+Dubbo	1	1	1	1	141
+Lower Hunter					342
+Lower Hunter	0	0	0	1	1753
+Lower Hunter	0	0	1	0	291
+Lower Hunter	0	0	1	1	141
+Lower Hunter	0	1	0	0	2230
+Lower Hunter	0	1	0	1	256
+Lower Hunter	0	1	1	0	323
+Lower Hunter	0	1	1	1	99
+Lower Hunter	1	0	0	1	2373
+Lower Hunter	1	0	1	0	584
+Lower Hunter	1	0	1	1	472
+Lower Hunter	1	1	0	0	5905
+Lower Hunter	1	1	0	1	459
+Lower Hunter	1	1	1	0	912
+Lower Hunter	1	1	1	1	216
+Maitland					327
+Maitland	0	0	0	1	1404
+Maitland	0	0	1	0	324
+Maitland	0	0	1	1	163
+Maitland	0	1	0	0	1862
+Maitland	0	1	0	1	173
+Maitland	0	1	1	0	314
+Maitland	0	1	1	1	68
+Maitland	1	0	0	1	1929
+Maitland	1	0	1	0	685
+Maitland	1	0	1	1	489
+Maitland	1	1	0	0	6095
+Maitland	1	1	0	1	408
+Maitland	1	1	1	0	1027
+Maitland	1	1	1	1	181
+Port Stephens					231
+Port Stephens	0	0	0	1	1369
+Port Stephens	0	0	1	0	277
+Port Stephens	0	0	1	1	105
+Port Stephens	0	1	0	0	1334
+Port Stephens	0	1	0	1	184
+Port Stephens	0	1	1	0	237
+Port Stephens	0	1	1	1	61
+Port Stephens	1	0	0	1	1717
+Port Stephens	1	0	1	0	561
+Port Stephens	1	0	1	1	331
+Port Stephens	1	1	0	0	3677
+Port Stephens	1	1	0	1	313
+Port Stephens	1	1	1	0	709
+Port Stephens	1	1	1	1	175
+Upper Hunter					93
+Upper Hunter	0	0	0	1	448
+Upper Hunter	0	0	1	0	81
+Upper Hunter	0	0	1	1	39
+Upper Hunter	0	1	0	0	588
+Upper Hunter	0	1	0	1	59
+Upper Hunter	0	1	1	0	101
+Upper Hunter	0	1	1	1	9
+Upper Hunter	1	0	0	1	527
+Upper Hunter	1	0	1	0	212
+Upper Hunter	1	0	1	1	151
+Upper Hunter	1	1	0	0	1780
+Upper Hunter	1	1	0	1	140
+Upper Hunter	1	1	1	0	350
+Upper Hunter	1	1	1	1	63
+Dapto - Port Kembla					308
+Dapto - Port Kembla	0	0	0	1	1736
+Dapto - Port Kembla	0	0	1	0	290
+Dapto - Port Kembla	0	0	1	1	169
+Dapto - Port Kembla	0	1	0	0	1511
+Dapto - Port Kembla	0	1	0	1	202
+Dapto - Port Kembla	0	1	1	0	277
+Dapto - Port Kembla	0	1	1	1	71
+Dapto - Port Kembla	1	0	0	1	2242
+Dapto - Port Kembla	1	0	1	0	601
+Dapto - Port Kembla	1	0	1	1	511
+Dapto - Port Kembla	1	1	0	0	4708
+Dapto - Port Kembla	1	1	0	1	345
+Dapto - Port Kembla	1	1	1	0	887
+Dapto - Port Kembla	1	1	1	1	180
+Kiama - Shellharbour					354
+Kiama - Shellharbour	0	0	0	1	1882
+Kiama - Shellharbour	0	0	1	0	379
+Kiama - Shellharbour	0	0	1	1	195
+Kiama - Shellharbour	0	1	0	0	1718
+Kiama - Shellharbour	0	1	0	1	201
+Kiama - Shellharbour	0	1	1	0	310
+Kiama - Shellharbour	0	1	1	1	64
+Kiama - Shellharbour	1	0	0	1	2718
+Kiama - Shellharbour	1	0	1	0	816
+Kiama - Shellharbour	1	0	1	1	667
+Kiama - Shellharbour	1	1	0	0	6004
+Kiama - Shellharbour	1	1	0	1	407
+Kiama - Shellharbour	1	1	1	0	1051
+Kiama - Shellharbour	1	1	1	1	226
+Wollongong					537
+Wollongong	0	0	0	1	2203
+Wollongong	0	0	1	0	604
+Wollongong	0	0	1	1	240
+Wollongong	0	1	0	0	1767
+Wollongong	0	1	0	1	142
+Wollongong	0	1	1	0	354
+Wollongong	0	1	1	1	61
+Wollongong	1	0	0	1	2860
+Wollongong	1	0	1	0	1365
+Wollongong	1	0	1	1	868
+Wollongong	1	1	0	0	8235
+Wollongong	1	1	0	1	275
+Wollongong	1	1	1	0	1493
+Wollongong	1	1	1	1	211
+Great Lakes					114
+Great Lakes	0	0	0	1	637
+Great Lakes	0	0	1	0	95
+Great Lakes	0	0	1	1	29
+Great Lakes	0	1	0	0	559
+Great Lakes	0	1	0	1	71
+Great Lakes	0	1	1	0	87
+Great Lakes	0	1	1	1	23
+Great Lakes	1	0	0	1	609
+Great Lakes	1	0	1	0	180
+Great Lakes	1	0	1	1	89
+Great Lakes	1	1	0	0	1202
+Great Lakes	1	1	0	1	123
+Great Lakes	1	1	1	0	228
+Great Lakes	1	1	1	1	49
+Kempsey - Nambucca					236
+Kempsey - Nambucca	0	0	0	1	1032
+Kempsey - Nambucca	0	0	1	0	186
+Kempsey - Nambucca	0	0	1	1	83
+Kempsey - Nambucca	0	1	0	0	1072
+Kempsey - Nambucca	0	1	0	1	132
+Kempsey - Nambucca	0	1	1	0	172
+Kempsey - Nambucca	0	1	1	1	49
+Kempsey - Nambucca	1	0	0	1	991
+Kempsey - Nambucca	1	0	1	0	233
+Kempsey - Nambucca	1	0	1	1	166
+Kempsey - Nambucca	1	1	0	0	2027
+Kempsey - Nambucca	1	1	0	1	189
+Kempsey - Nambucca	1	1	1	0	373
+Kempsey - Nambucca	1	1	1	1	87
+Lord Howe Island	0	0	0	1	5
+Lord Howe Island	0	1	0	0	5
+Lord Howe Island	1	0	0	1	11
+Lord Howe Island	1	1	0	0	28
+Port Macquarie					270
+Port Macquarie	0	0	0	1	1500
+Port Macquarie	0	0	1	0	339
+Port Macquarie	0	0	1	1	108
+Port Macquarie	0	1	0	0	1532
+Port Macquarie	0	1	0	1	145
+Port Macquarie	0	1	1	0	282
+Port Macquarie	0	1	1	1	64
+Port Macquarie	1	0	0	1	1599
+Port Macquarie	1	0	1	0	681
+Port Macquarie	1	0	1	1	337
+Port Macquarie	1	1	0	0	4212
+Port Macquarie	1	1	0	1	253
+Port Macquarie	1	1	1	0	847
+Port Macquarie	1	1	1	1	140
+Taree - Gloucester					229
+Taree - Gloucester	0	0	0	1	1143
+Taree - Gloucester	0	0	1	0	199
+Taree - Gloucester	0	0	1	1	67
+Taree - Gloucester	0	1	0	0	1158
+Taree - Gloucester	0	1	0	1	153
+Taree - Gloucester	0	1	1	0	183
+Taree - Gloucester	0	1	1	1	52
+Taree - Gloucester	1	0	0	1	1181
+Taree - Gloucester	1	0	1	0	285
+Taree - Gloucester	1	0	1	1	179
+Taree - Gloucester	1	1	0	0	2322
+Taree - Gloucester	1	1	0	1	235
+Taree - Gloucester	1	1	1	0	447
+Taree - Gloucester	1	1	1	1	106
+Albury					244
+Albury	0	0	0	1	971
+Albury	0	0	1	0	261
+Albury	0	0	1	1	96
+Albury	0	1	0	0	1366
+Albury	0	1	0	1	128
+Albury	0	1	1	0	234
+Albury	0	1	1	1	45
+Albury	1	0	0	1	1173
+Albury	1	0	1	0	475
+Albury	1	0	1	1	288
+Albury	1	1	0	0	3865
+Albury	1	1	0	1	199
+Albury	1	1	1	0	681
+Albury	1	1	1	1	143
+Lower Murray					46
+Lower Murray	0	0	0	1	171
+Lower Murray	0	0	1	0	45
+Lower Murray	0	0	1	1	18
+Lower Murray	0	1	0	0	169
+Lower Murray	0	1	0	1	19
+Lower Murray	0	1	1	0	23
+Lower Murray	0	1	1	1	4
+Lower Murray	1	0	0	1	246
+Lower Murray	1	0	1	0	84
+Lower Murray	1	0	1	1	49
+Lower Murray	1	1	0	0	689
+Lower Murray	1	1	0	1	43
+Lower Murray	1	1	1	0	123
+Lower Murray	1	1	1	1	27
+Upper Murray exc. Albury					120
+Upper Murray exc. Albury	0	0	0	1	538
+Upper Murray exc. Albury	0	0	1	0	113
+Upper Murray exc. Albury	0	0	1	1	40
+Upper Murray exc. Albury	0	1	0	0	566
+Upper Murray exc. Albury	0	1	0	1	64
+Upper Murray exc. Albury	0	1	1	0	113
+Upper Murray exc. Albury	0	1	1	1	19
+Upper Murray exc. Albury	1	0	0	1	743
+Upper Murray exc. Albury	1	0	1	0	272
+Upper Murray exc. Albury	1	0	1	1	163
+Upper Murray exc. Albury	1	1	0	0	2114
+Upper Murray exc. Albury	1	1	0	1	145
+Upper Murray exc. Albury	1	1	1	0	441
+Upper Murray exc. Albury	1	1	1	1	72
+Armidale					140
+Armidale	0	0	0	1	456
+Armidale	0	0	1	0	147
+Armidale	0	0	1	1	41
+Armidale	0	1	0	0	633
+Armidale	0	1	0	1	49
+Armidale	0	1	1	0	121
+Armidale	0	1	1	1	23
+Armidale	1	0	0	1	512
+Armidale	1	0	1	0	262
+Armidale	1	0	1	1	115
+Armidale	1	1	0	0	1882
+Armidale	1	1	0	1	118
+Armidale	1	1	1	0	398
+Armidale	1	1	1	1	77
+Inverell - Tenterfield					150
+Inverell - Tenterfield	0	0	0	1	632
+Inverell - Tenterfield	0	0	1	0	99
+Inverell - Tenterfield	0	0	1	1	43
+Inverell - Tenterfield	0	1	0	0	782
+Inverell - Tenterfield	0	1	0	1	89
+Inverell - Tenterfield	0	1	1	0	117
+Inverell - Tenterfield	0	1	1	1	21
+Inverell - Tenterfield	1	0	0	1	634
+Inverell - Tenterfield	1	0	1	0	208
+Inverell - Tenterfield	1	0	1	1	122
+Inverell - Tenterfield	1	1	0	0	1657
+Inverell - Tenterfield	1	1	0	1	112
+Inverell - Tenterfield	1	1	1	0	349
+Inverell - Tenterfield	1	1	1	1	65
+Moree - Narrabri					103
+Moree - Narrabri	0	0	0	1	385
+Moree - Narrabri	0	0	1	0	51
+Moree - Narrabri	0	0	1	1	22
+Moree - Narrabri	0	1	0	0	457
+Moree - Narrabri	0	1	0	1	60
+Moree - Narrabri	0	1	1	0	60
+Moree - Narrabri	0	1	1	1	15
+Moree - Narrabri	1	0	0	1	418
+Moree - Narrabri	1	0	1	0	162
+Moree - Narrabri	1	0	1	1	60
+Moree - Narrabri	1	1	0	0	1296
+Moree - Narrabri	1	1	0	1	65
+Moree - Narrabri	1	1	1	0	206
+Moree - Narrabri	1	1	1	1	37
+Tamworth - Gunnedah					390
+Tamworth - Gunnedah	0	0	0	1	1323
+Tamworth - Gunnedah	0	0	1	0	258
+Tamworth - Gunnedah	0	0	1	1	103
+Tamworth - Gunnedah	0	1	0	0	1941
+Tamworth - Gunnedah	0	1	0	1	155
+Tamworth - Gunnedah	0	1	1	0	268
+Tamworth - Gunnedah	0	1	1	1	55
+Tamworth - Gunnedah	1	0	0	1	1515
+Tamworth - Gunnedah	1	0	1	0	553
+Tamworth - Gunnedah	1	0	1	1	305
+Tamworth - Gunnedah	1	1	0	0	4794
+Tamworth - Gunnedah	1	1	0	1	298
+Tamworth - Gunnedah	1	1	1	0	814
+Tamworth - Gunnedah	1	1	1	1	161
+Lake Macquarie - East					478
+Lake Macquarie - East	0	0	0	1	2465
+Lake Macquarie - East	0	0	1	0	567
+Lake Macquarie - East	0	0	1	1	242
+Lake Macquarie - East	0	1	0	0	2296
+Lake Macquarie - East	0	1	0	1	249
+Lake Macquarie - East	0	1	1	0	415
+Lake Macquarie - East	0	1	1	1	70
+Lake Macquarie - East	1	0	0	1	2973
+Lake Macquarie - East	1	0	1	0	1163
+Lake Macquarie - East	1	0	1	1	781
+Lake Macquarie - East	1	1	0	0	7735
+Lake Macquarie - East	1	1	0	1	434
+Lake Macquarie - East	1	1	1	0	1359
+Lake Macquarie - East	1	1	1	1	249
+Lake Macquarie - West					290
+Lake Macquarie - West	0	0	0	1	1583
+Lake Macquarie - West	0	0	1	0	294
+Lake Macquarie - West	0	0	1	1	161
+Lake Macquarie - West	0	1	0	0	1590
+Lake Macquarie - West	0	1	0	1	212
+Lake Macquarie - West	0	1	1	0	247
+Lake Macquarie - West	0	1	1	1	51
+Lake Macquarie - West	1	0	0	1	2177
+Lake Macquarie - West	1	0	1	0	644
+Lake Macquarie - West	1	0	1	1	491
+Lake Macquarie - West	1	1	0	0	4930
+Lake Macquarie - West	1	1	0	1	361
+Lake Macquarie - West	1	1	1	0	782
+Lake Macquarie - West	1	1	1	1	166
+Newcastle					913
+Newcastle	0	0	0	1	2976
+Newcastle	0	0	1	0	835
+Newcastle	0	0	1	1	266
+Newcastle	0	1	0	0	2992
+Newcastle	0	1	0	1	265
+Newcastle	0	1	1	0	503
+Newcastle	0	1	1	1	74
+Newcastle	1	0	0	1	3059
+Newcastle	1	0	1	0	1618
+Newcastle	1	0	1	1	793
+Newcastle	1	1	0	0	10447
+Newcastle	1	1	0	1	369
+Newcastle	1	1	1	0	1742
+Newcastle	1	1	1	1	224
+Richmond Valley - Coastal					272
+Richmond Valley - Coastal	0	0	0	1	1457
+Richmond Valley - Coastal	0	0	1	0	404
+Richmond Valley - Coastal	0	0	1	1	104
+Richmond Valley - Coastal	0	1	0	0	1541
+Richmond Valley - Coastal	0	1	0	1	132
+Richmond Valley - Coastal	0	1	1	0	299
+Richmond Valley - Coastal	0	1	1	1	40
+Richmond Valley - Coastal	1	0	0	1	1621
+Richmond Valley - Coastal	1	0	1	0	626
+Richmond Valley - Coastal	1	0	1	1	292
+Richmond Valley - Coastal	1	1	0	0	4614
+Richmond Valley - Coastal	1	1	0	1	252
+Richmond Valley - Coastal	1	1	1	0	780
+Richmond Valley - Coastal	1	1	1	1	94
+Richmond Valley - Hinterland					297
+Richmond Valley - Hinterland	0	0	0	1	1463
+Richmond Valley - Hinterland	0	0	1	0	318
+Richmond Valley - Hinterland	0	0	1	1	117
+Richmond Valley - Hinterland	0	1	0	0	1493
+Richmond Valley - Hinterland	0	1	0	1	170
+Richmond Valley - Hinterland	0	1	1	0	256
+Richmond Valley - Hinterland	0	1	1	1	52
+Richmond Valley - Hinterland	1	0	0	1	1461
+Richmond Valley - Hinterland	1	0	1	0	444
+Richmond Valley - Hinterland	1	0	1	1	244
+Richmond Valley - Hinterland	1	1	0	0	3326
+Richmond Valley - Hinterland	1	1	0	1	263
+Richmond Valley - Hinterland	1	1	1	0	613
+Richmond Valley - Hinterland	1	1	1	1	141
+Tweed Valley					360
+Tweed Valley	0	0	0	1	1908
+Tweed Valley	0	0	1	0	408
+Tweed Valley	0	0	1	1	149
+Tweed Valley	0	1	0	0	1637
+Tweed Valley	0	1	0	1	184
+Tweed Valley	0	1	1	0	310
+Tweed Valley	0	1	1	1	61
+Tweed Valley	1	0	0	1	1898
+Tweed Valley	1	0	1	0	706
+Tweed Valley	1	0	1	1	405
+Tweed Valley	1	1	0	0	5152
+Tweed Valley	1	1	0	1	313
+Tweed Valley	1	1	1	0	858
+Tweed Valley	1	1	1	1	143
+Griffith - Murrumbidgee (West)					199
+Griffith - Murrumbidgee (West)	0	0	0	1	725
+Griffith - Murrumbidgee (West)	0	0	1	0	103
+Griffith - Murrumbidgee (West)	0	0	1	1	65
+Griffith - Murrumbidgee (West)	0	1	0	0	856
+Griffith - Murrumbidgee (West)	0	1	0	1	87
+Griffith - Murrumbidgee (West)	0	1	1	0	142
+Griffith - Murrumbidgee (West)	0	1	1	1	30
+Griffith - Murrumbidgee (West)	1	0	0	1	1073
+Griffith - Murrumbidgee (West)	1	0	1	0	314
+Griffith - Murrumbidgee (West)	1	0	1	1	257
+Griffith - Murrumbidgee (West)	1	1	0	0	2822
+Griffith - Murrumbidgee (West)	1	1	0	1	193
+Griffith - Murrumbidgee (West)	1	1	1	0	506
+Griffith - Murrumbidgee (West)	1	1	1	1	128
+Tumut - Tumbarumba					48
+Tumut - Tumbarumba	0	0	0	1	241
+Tumut - Tumbarumba	0	0	1	0	43
+Tumut - Tumbarumba	0	0	1	1	15
+Tumut - Tumbarumba	0	1	0	0	256
+Tumut - Tumbarumba	0	1	0	1	26
+Tumut - Tumbarumba	0	1	1	0	43
+Tumut - Tumbarumba	0	1	1	1	5
+Tumut - Tumbarumba	1	0	0	1	277
+Tumut - Tumbarumba	1	0	1	0	94
+Tumut - Tumbarumba	1	0	1	1	62
+Tumut - Tumbarumba	1	1	0	0	791
+Tumut - Tumbarumba	1	1	0	1	58
+Tumut - Tumbarumba	1	1	1	0	137
+Tumut - Tumbarumba	1	1	1	1	34
+Wagga Wagga					359
+Wagga Wagga	0	0	0	1	1371
+Wagga Wagga	0	0	1	0	299
+Wagga Wagga	0	0	1	1	147
+Wagga Wagga	0	1	0	0	1855
+Wagga Wagga	0	1	0	1	187
+Wagga Wagga	0	1	1	0	305
+Wagga Wagga	0	1	1	1	52
+Wagga Wagga	1	0	0	1	1749
+Wagga Wagga	1	0	1	0	661
+Wagga Wagga	1	0	1	1	418
+Wagga Wagga	1	1	0	0	5743
+Wagga Wagga	1	1	0	1	370
+Wagga Wagga	1	1	1	0	1057
+Wagga Wagga	1	1	1	1	271
+Shoalhaven					383
+Shoalhaven	0	0	0	1	1942
+Shoalhaven	0	0	1	0	361
+Shoalhaven	0	0	1	1	116
+Shoalhaven	0	1	0	0	1871
+Shoalhaven	0	1	0	1	193
+Shoalhaven	0	1	1	0	314
+Shoalhaven	0	1	1	1	67
+Shoalhaven	1	0	0	1	2107
+Shoalhaven	1	0	1	0	648
+Shoalhaven	1	0	1	1	372
+Shoalhaven	1	1	0	0	5192
+Shoalhaven	1	1	0	1	328
+Shoalhaven	1	1	1	0	923
+Shoalhaven	1	1	1	1	174
+Southern Highlands					157
+Southern Highlands	0	0	0	1	872
+Southern Highlands	0	0	1	0	175
+Southern Highlands	0	0	1	1	87
+Southern Highlands	0	1	0	0	589
+Southern Highlands	0	1	0	1	78
+Southern Highlands	0	1	1	0	142
+Southern Highlands	0	1	1	1	23
+Southern Highlands	1	0	0	1	1055
+Southern Highlands	1	0	1	0	474
+Southern Highlands	1	0	1	1	248
+Southern Highlands	1	1	0	0	3002
+Southern Highlands	1	1	0	1	183
+Southern Highlands	1	1	1	0	549
+Southern Highlands	1	1	1	1	93
+Baulkham Hills					337
+Baulkham Hills	0	0	0	1	1771
+Baulkham Hills	0	0	1	0	647
+Baulkham Hills	0	0	1	1	321
+Baulkham Hills	0	1	0	0	1190
+Baulkham Hills	0	1	0	1	82
+Baulkham Hills	0	1	1	0	316
+Baulkham Hills	0	1	1	1	41
+Baulkham Hills	1	0	0	1	4929
+Baulkham Hills	1	0	1	0	3036
+Baulkham Hills	1	0	1	1	1771
+Baulkham Hills	1	1	0	0	12263
+Baulkham Hills	1	1	0	1	360
+Baulkham Hills	1	1	1	0	2891
+Baulkham Hills	1	1	1	1	297
+Dural - Wisemans Ferry					55
+Dural - Wisemans Ferry	0	0	0	1	344
+Dural - Wisemans Ferry	0	0	1	0	86
+Dural - Wisemans Ferry	0	0	1	1	43
+Dural - Wisemans Ferry	0	1	0	0	221
+Dural - Wisemans Ferry	0	1	0	1	20
+Dural - Wisemans Ferry	0	1	1	0	47
+Dural - Wisemans Ferry	0	1	1	1	15
+Dural - Wisemans Ferry	1	0	0	1	1008
+Dural - Wisemans Ferry	1	0	1	0	391
+Dural - Wisemans Ferry	1	0	1	1	369
+Dural - Wisemans Ferry	1	1	0	0	1577
+Dural - Wisemans Ferry	1	1	0	1	101
+Dural - Wisemans Ferry	1	1	1	0	496
+Dural - Wisemans Ferry	1	1	1	1	109
+Hawkesbury					51
+Hawkesbury	0	0	0	1	327
+Hawkesbury	0	0	1	0	66
+Hawkesbury	0	0	1	1	40
+Hawkesbury	0	1	0	0	241
+Hawkesbury	0	1	0	1	28
+Hawkesbury	0	1	1	0	58
+Hawkesbury	0	1	1	1	19
+Hawkesbury	1	0	0	1	876
+Hawkesbury	1	0	1	0	235
+Hawkesbury	1	0	1	1	272
+Hawkesbury	1	1	0	0	1660
+Hawkesbury	1	1	0	1	132
+Hawkesbury	1	1	1	0	292
+Hawkesbury	1	1	1	1	72
+Rouse Hill - McGraths Hill					104
+Rouse Hill - McGraths Hill	0	0	0	1	582
+Rouse Hill - McGraths Hill	0	0	1	0	156
+Rouse Hill - McGraths Hill	0	0	1	1	89
+Rouse Hill - McGraths Hill	0	1	0	0	590
+Rouse Hill - McGraths Hill	0	1	0	1	44
+Rouse Hill - McGraths Hill	0	1	1	0	146
+Rouse Hill - McGraths Hill	0	1	1	1	27
+Rouse Hill - McGraths Hill	1	0	0	1	1448
+Rouse Hill - McGraths Hill	1	0	1	0	807
+Rouse Hill - McGraths Hill	1	0	1	1	594
+Rouse Hill - McGraths Hill	1	1	0	0	5676
+Rouse Hill - McGraths Hill	1	1	0	1	221
+Rouse Hill - McGraths Hill	1	1	1	0	986
+Rouse Hill - McGraths Hill	1	1	1	1	154
+Blacktown					806
+Blacktown	0	0	0	1	2833
+Blacktown	0	0	1	0	517
+Blacktown	0	0	1	1	299
+Blacktown	0	1	0	0	1978
+Blacktown	0	1	0	1	232
+Blacktown	0	1	1	0	399
+Blacktown	0	1	1	1	119
+Blacktown	1	0	0	1	3858
+Blacktown	1	0	1	0	1527
+Blacktown	1	0	1	1	1072
+Blacktown	1	1	0	0	10505
+Blacktown	1	1	0	1	439
+Blacktown	1	1	1	0	1749
+Blacktown	1	1	1	1	333
+Blacktown - North					377
+Blacktown - North	0	0	0	1	1531
+Blacktown - North	0	0	1	0	413
+Blacktown - North	0	0	1	1	243
+Blacktown - North	0	1	0	0	1562
+Blacktown - North	0	1	0	1	160
+Blacktown - North	0	1	1	0	314
+Blacktown - North	0	1	1	1	74
+Blacktown - North	1	0	0	1	3007
+Blacktown - North	1	0	1	0	1880
+Blacktown - North	1	0	1	1	1115
+Blacktown - North	1	1	0	0	15610
+Blacktown - North	1	1	0	1	463
+Blacktown - North	1	1	1	0	2529
+Blacktown - North	1	1	1	1	319
+Mount Druitt					566
+Mount Druitt	0	0	0	1	2542
+Mount Druitt	0	0	1	0	415
+Mount Druitt	0	0	1	1	265
+Mount Druitt	0	1	0	0	2538
+Mount Druitt	0	1	0	1	303
+Mount Druitt	0	1	1	0	445
+Mount Druitt	0	1	1	1	180
+Mount Druitt	1	0	0	1	3160
+Mount Druitt	1	0	1	0	977
+Mount Druitt	1	0	1	1	946
+Mount Druitt	1	1	0	0	7153
+Mount Druitt	1	1	0	1	618
+Mount Druitt	1	1	1	0	1519
+Mount Druitt	1	1	1	1	471
+Botany					475
+Botany	0	0	0	1	987
+Botany	0	0	1	0	264
+Botany	0	0	1	1	86
+Botany	0	1	0	0	694
+Botany	0	1	0	1	58
+Botany	0	1	1	0	105
+Botany	0	1	1	1	17
+Botany	1	0	0	1	1145
+Botany	1	0	1	0	551
+Botany	1	0	1	1	305
+Botany	1	1	0	0	3866
+Botany	1	1	0	1	110
+Botany	1	1	1	0	525
+Botany	1	1	1	1	59
+Marrickville - Sydenham - Petersham					351
+Marrickville - Sydenham - Petersham	0	0	0	1	837
+Marrickville - Sydenham - Petersham	0	0	1	0	258
+Marrickville - Sydenham - Petersham	0	0	1	1	77
+Marrickville - Sydenham - Petersham	0	1	0	0	614
+Marrickville - Sydenham - Petersham	0	1	0	1	30
+Marrickville - Sydenham - Petersham	0	1	1	0	117
+Marrickville - Sydenham - Petersham	0	1	1	1	13
+Marrickville - Sydenham - Petersham	1	0	0	1	814
+Marrickville - Sydenham - Petersham	1	0	1	0	437
+Marrickville - Sydenham - Petersham	1	0	1	1	190
+Marrickville - Sydenham - Petersham	1	1	0	0	3206
+Marrickville - Sydenham - Petersham	1	1	0	1	58
+Marrickville - Sydenham - Petersham	1	1	1	0	440
+Marrickville - Sydenham - Petersham	1	1	1	1	36
+Sydney Inner City					1435
+Sydney Inner City	0	0	0	1	1712
+Sydney Inner City	0	0	1	0	777
+Sydney Inner City	0	0	1	1	158
+Sydney Inner City	0	1	0	0	1789
+Sydney Inner City	0	1	0	1	77
+Sydney Inner City	0	1	1	0	208
+Sydney Inner City	0	1	1	1	17
+Sydney Inner City	1	0	0	1	1178
+Sydney Inner City	1	0	1	0	1009
+Sydney Inner City	1	0	1	1	254
+Sydney Inner City	1	1	0	0	8227
+Sydney Inner City	1	1	0	1	63
+Sydney Inner City	1	1	1	0	557
+Sydney Inner City	1	1	1	1	26
+Eastern Suburbs - North					486
+Eastern Suburbs - North	0	0	0	1	1143
+Eastern Suburbs - North	0	0	1	0	650
+Eastern Suburbs - North	0	0	1	1	139
+Eastern Suburbs - North	0	1	0	0	1402
+Eastern Suburbs - North	0	1	0	1	34
+Eastern Suburbs - North	0	1	1	0	315
+Eastern Suburbs - North	0	1	1	1	20
+Eastern Suburbs - North	1	0	0	1	1401
+Eastern Suburbs - North	1	0	1	0	1594
+Eastern Suburbs - North	1	0	1	1	550
+Eastern Suburbs - North	1	1	0	0	7867
+Eastern Suburbs - North	1	1	0	1	104
+Eastern Suburbs - North	1	1	1	0	1426
+Eastern Suburbs - North	1	1	1	1	91
+Eastern Suburbs - South					704
+Eastern Suburbs - South	0	0	0	1	1981
+Eastern Suburbs - South	0	0	1	0	649
+Eastern Suburbs - South	0	0	1	1	196
+Eastern Suburbs - South	0	1	0	0	1539
+Eastern Suburbs - South	0	1	0	1	58
+Eastern Suburbs - South	0	1	1	0	277
+Eastern Suburbs - South	0	1	1	1	26
+Eastern Suburbs - South	1	0	0	1	2314
+Eastern Suburbs - South	1	0	1	0	1626
+Eastern Suburbs - South	1	0	1	1	691
+Eastern Suburbs - South	1	1	0	0	8572
+Eastern Suburbs - South	1	1	0	1	164
+Eastern Suburbs - South	1	1	1	0	1392
+Eastern Suburbs - South	1	1	1	1	109
+Bankstown					841
+Bankstown	0	0	0	1	3872
+Bankstown	0	0	1	0	771
+Bankstown	0	0	1	1	547
+Bankstown	0	1	0	0	2587
+Bankstown	0	1	0	1	311
+Bankstown	0	1	1	0	651
+Bankstown	0	1	1	1	225
+Bankstown	1	0	0	1	5378
+Bankstown	1	0	1	0	1938
+Bankstown	1	0	1	1	1671
+Bankstown	1	1	0	0	11621
+Bankstown	1	1	0	1	662
+Bankstown	1	1	1	0	2608
+Bankstown	1	1	1	1	699
+Canterbury					869
+Canterbury	0	0	0	1	2933
+Canterbury	0	0	1	0	664
+Canterbury	0	0	1	1	321
+Canterbury	0	1	0	0	1728
+Canterbury	0	1	0	1	150
+Canterbury	0	1	1	0	326
+Canterbury	0	1	1	1	99
+Canterbury	1	0	0	1	3866
+Canterbury	1	0	1	0	1389
+Canterbury	1	0	1	1	1044
+Canterbury	1	1	0	0	8990
+Canterbury	1	1	0	1	371
+Canterbury	1	1	1	0	1746
+Canterbury	1	1	1	1	349
+Hurstville					770
+Hurstville	0	0	0	1	2515
+Hurstville	0	0	1	0	669
+Hurstville	0	0	1	1	302
+Hurstville	0	1	0	0	1482
+Hurstville	0	1	0	1	118
+Hurstville	0	1	1	0	296
+Hurstville	0	1	1	1	48
+Hurstville	1	0	0	1	3789
+Hurstville	1	0	1	0	1861
+Hurstville	1	0	1	1	1112
+Hurstville	1	1	0	0	8284
+Hurstville	1	1	0	1	299
+Hurstville	1	1	1	0	1492
+Hurstville	1	1	1	1	203
+Kogarah - Rockdale					942
+Kogarah - Rockdale	0	0	0	1	2748
+Kogarah - Rockdale	0	0	1	0	681
+Kogarah - Rockdale	0	0	1	1	278
+Kogarah - Rockdale	0	1	0	0	1584
+Kogarah - Rockdale	0	1	0	1	141
+Kogarah - Rockdale	0	1	1	0	310
+Kogarah - Rockdale	0	1	1	1	51
+Kogarah - Rockdale	1	0	0	1	3566
+Kogarah - Rockdale	1	0	1	0	1431
+Kogarah - Rockdale	1	0	1	1	969
+Kogarah - Rockdale	1	1	0	0	9263
+Kogarah - Rockdale	1	1	0	1	303
+Kogarah - Rockdale	1	1	1	0	1383
+Kogarah - Rockdale	1	1	1	1	255
+Canada Bay					435
+Canada Bay	0	0	0	1	1358
+Canada Bay	0	0	1	0	457
+Canada Bay	0	0	1	1	129
+Canada Bay	0	1	0	0	914
+Canada Bay	0	1	0	1	37
+Canada Bay	0	1	1	0	180
+Canada Bay	0	1	1	1	28
+Canada Bay	1	0	0	1	1845
+Canada Bay	1	0	1	0	1102
+Canada Bay	1	0	1	1	535
+Canada Bay	1	1	0	0	6206
+Canada Bay	1	1	0	1	113
+Canada Bay	1	1	1	0	929
+Canada Bay	1	1	1	1	87
+Leichhardt					225
+Leichhardt	0	0	0	1	688
+Leichhardt	0	0	1	0	287
+Leichhardt	0	0	1	1	60
+Leichhardt	0	1	0	0	711
+Leichhardt	0	1	0	1	24
+Leichhardt	0	1	1	0	133
+Leichhardt	0	1	1	1	6
+Leichhardt	1	0	0	1	650
+Leichhardt	1	0	1	0	756
+Leichhardt	1	0	1	1	192
+Leichhardt	1	1	0	0	4524
+Leichhardt	1	1	0	1	37
+Leichhardt	1	1	1	0	580
+Leichhardt	1	1	1	1	32
+Strathfield - Burwood - Ashfield					1234
+Strathfield - Burwood - Ashfield	0	0	0	1	2518
+Strathfield - Burwood - Ashfield	0	0	1	0	921
+Strathfield - Burwood - Ashfield	0	0	1	1	247
+Strathfield - Burwood - Ashfield	0	1	0	0	1550
+Strathfield - Burwood - Ashfield	0	1	0	1	100
+Strathfield - Burwood - Ashfield	0	1	1	0	314
+Strathfield - Burwood - Ashfield	0	1	1	1	40
+Strathfield - Burwood - Ashfield	1	0	0	1	3332
+Strathfield - Burwood - Ashfield	1	0	1	0	1941
+Strathfield - Burwood - Ashfield	1	0	1	1	971
+Strathfield - Burwood - Ashfield	1	1	0	0	9659
+Strathfield - Burwood - Ashfield	1	1	0	1	181
+Strathfield - Burwood - Ashfield	1	1	1	0	1529
+Strathfield - Burwood - Ashfield	1	1	1	1	144
+Chatswood - Lane Cove					492
+Chatswood - Lane Cove	0	0	0	1	1314
+Chatswood - Lane Cove	0	0	1	0	708
+Chatswood - Lane Cove	0	0	1	1	159
+Chatswood - Lane Cove	0	1	0	0	1366
+Chatswood - Lane Cove	0	1	0	1	42
+Chatswood - Lane Cove	0	1	1	0	257
+Chatswood - Lane Cove	0	1	1	1	17
+Chatswood - Lane Cove	1	0	0	1	1889
+Chatswood - Lane Cove	1	0	1	0	1973
+Chatswood - Lane Cove	1	0	1	1	651
+Chatswood - Lane Cove	1	1	0	0	9528
+Chatswood - Lane Cove	1	1	0	1	97
+Chatswood - Lane Cove	1	1	1	0	1634
+Chatswood - Lane Cove	1	1	1	1	80
+Hornsby					302
+Hornsby	0	0	0	1	1238
+Hornsby	0	0	1	0	459
+Hornsby	0	0	1	1	162
+Hornsby	0	1	0	0	967
+Hornsby	0	1	0	1	46
+Hornsby	0	1	1	0	219
+Hornsby	0	1	1	1	24
+Hornsby	1	0	0	1	2028
+Hornsby	1	0	1	0	1434
+Hornsby	1	0	1	1	681
+Hornsby	1	1	0	0	7553
+Hornsby	1	1	0	1	155
+Hornsby	1	1	1	0	1278
+Hornsby	1	1	1	1	109
+Ku-ring-gai					306
+Ku-ring-gai	0	0	0	1	1269
+Ku-ring-gai	0	0	1	0	814
+Ku-ring-gai	0	0	1	1	214
+Ku-ring-gai	0	1	0	0	1179
+Ku-ring-gai	0	1	0	1	46
+Ku-ring-gai	0	1	1	0	369
+Ku-ring-gai	0	1	1	1	25
+Ku-ring-gai	1	0	0	1	2810
+Ku-ring-gai	1	0	1	0	3054
+Ku-ring-gai	1	0	1	1	1231
+Ku-ring-gai	1	1	0	0	9805
+Ku-ring-gai	1	1	0	1	165
+Ku-ring-gai	1	1	1	0	2449
+Ku-ring-gai	1	1	1	1	140
+North Sydney - Mosman					447
+North Sydney - Mosman	0	0	0	1	884
+North Sydney - Mosman	0	0	1	0	563
+North Sydney - Mosman	0	0	1	1	92
+North Sydney - Mosman	0	1	0	0	1100
+North Sydney - Mosman	0	1	0	1	21
+North Sydney - Mosman	0	1	1	0	205
+North Sydney - Mosman	0	1	1	1	11
+North Sydney - Mosman	1	0	0	1	1027
+North Sydney - Mosman	1	0	1	0	1204
+North Sydney - Mosman	1	0	1	1	305
+North Sydney - Mosman	1	1	0	0	5826
+North Sydney - Mosman	1	1	0	1	49
+North Sydney - Mosman	1	1	1	0	855
+North Sydney - Mosman	1	1	1	1	33
+Manly					107
+Manly	0	0	0	1	391
+Manly	0	0	1	0	206
+Manly	0	0	1	1	61
+Manly	0	1	0	0	408
+Manly	0	1	0	1	11
+Manly	0	1	1	0	96
+Manly	0	1	1	1	8
+Manly	1	0	0	1	647
+Manly	1	0	1	0	731
+Manly	1	0	1	1	273
+Manly	1	1	0	0	3213
+Manly	1	1	0	1	48
+Manly	1	1	1	0	600
+Manly	1	1	1	1	44
+Pittwater					136
+Pittwater	0	0	0	1	810
+Pittwater	0	0	1	0	264
+Pittwater	0	0	1	1	120
+Pittwater	0	1	0	0	635
+Pittwater	0	1	0	1	51
+Pittwater	0	1	1	0	176
+Pittwater	0	1	1	1	17
+Pittwater	1	0	0	1	1634
+Pittwater	1	0	1	0	927
+Pittwater	1	0	1	1	577
+Pittwater	1	1	0	0	4256
+Pittwater	1	1	0	1	152
+Pittwater	1	1	1	0	952
+Pittwater	1	1	1	1	108
+Warringah					471
+Warringah	0	0	0	1	2097
+Warringah	0	0	1	0	740
+Warringah	0	0	1	1	286
+Warringah	0	1	0	0	1700
+Warringah	0	1	0	1	103
+Warringah	0	1	1	0	355
+Warringah	0	1	1	1	56
+Warringah	1	0	0	1	3437
+Warringah	1	0	1	0	2374
+Warringah	1	0	1	1	1346
+Warringah	1	1	0	0	11971
+Warringah	1	1	0	1	321
+Warringah	1	1	1	0	2301
+Warringah	1	1	1	1	236
+Camden					181
+Camden	0	0	0	1	1017
+Camden	0	0	1	0	260
+Camden	0	0	1	1	154
+Camden	0	1	0	0	1246
+Camden	0	1	0	1	156
+Camden	0	1	1	0	231
+Camden	0	1	1	1	71
+Camden	1	0	0	1	1969
+Camden	1	0	1	0	717
+Camden	1	0	1	1	652
+Camden	1	1	0	0	5957
+Camden	1	1	0	1	413
+Camden	1	1	1	0	1122
+Camden	1	1	1	1	243
+Campbelltown (NSW)					796
+Campbelltown (NSW)	0	0	0	1	3636
+Campbelltown (NSW)	0	0	1	0	686
+Campbelltown (NSW)	0	0	1	1	390
+Campbelltown (NSW)	0	1	0	0	3524
+Campbelltown (NSW)	0	1	0	1	477
+Campbelltown (NSW)	0	1	1	0	635
+Campbelltown (NSW)	0	1	1	1	200
+Campbelltown (NSW)	1	0	0	1	4704
+Campbelltown (NSW)	1	0	1	0	1546
+Campbelltown (NSW)	1	0	1	1	1207
+Campbelltown (NSW)	1	1	0	0	12393
+Campbelltown (NSW)	1	1	0	1	764
+Campbelltown (NSW)	1	1	1	0	2192
+Campbelltown (NSW)	1	1	1	1	579
+Wollondilly					98
+Wollondilly	0	0	0	1	612
+Wollondilly	0	0	1	0	131
+Wollondilly	0	0	1	1	64
+Wollondilly	0	1	0	0	649
+Wollondilly	0	1	0	1	84
+Wollondilly	0	1	1	0	112
+Wollondilly	0	1	1	1	29
+Wollondilly	1	0	0	1	1367
+Wollondilly	1	0	1	0	330
+Wollondilly	1	0	1	1	345
+Wollondilly	1	1	0	0	3193
+Wollondilly	1	1	0	1	284
+Wollondilly	1	1	1	0	584
+Wollondilly	1	1	1	1	170
+Blue Mountains					206
+Blue Mountains	0	0	0	1	1254
+Blue Mountains	0	0	1	0	415
+Blue Mountains	0	0	1	1	108
+Blue Mountains	0	1	0	0	1161
+Blue Mountains	0	1	0	1	88
+Blue Mountains	0	1	1	0	228
+Blue Mountains	0	1	1	1	39
+Blue Mountains	1	0	0	1	1753
+Blue Mountains	1	0	1	0	876
+Blue Mountains	1	0	1	1	487
+Blue Mountains	1	1	0	0	4669
+Blue Mountains	1	1	0	1	225
+Blue Mountains	1	1	1	0	1015
+Blue Mountains	1	1	1	1	158
+Penrith					638
+Penrith	0	0	0	1	2902
+Penrith	0	0	1	0	598
+Penrith	0	0	1	1	297
+Penrith	0	1	0	0	3156
+Penrith	0	1	0	1	337
+Penrith	0	1	1	0	507
+Penrith	0	1	1	1	125
+Penrith	1	0	0	1	3857
+Penrith	1	0	1	0	1315
+Penrith	1	0	1	1	1112
+Penrith	1	1	0	0	11494
+Penrith	1	1	0	1	765
+Penrith	1	1	1	0	1882
+Penrith	1	1	1	1	423
+Richmond - Windsor					132
+Richmond - Windsor	0	0	0	1	807
+Richmond - Windsor	0	0	1	0	174
+Richmond - Windsor	0	0	1	1	72
+Richmond - Windsor	0	1	0	0	732
+Richmond - Windsor	0	1	0	1	73
+Richmond - Windsor	0	1	1	0	112
+Richmond - Windsor	0	1	1	1	28
+Richmond - Windsor	1	0	0	1	988
+Richmond - Windsor	1	0	1	0	249
+Richmond - Windsor	1	0	1	1	253
+Richmond - Windsor	1	1	0	0	2125
+Richmond - Windsor	1	1	0	1	210
+Richmond - Windsor	1	1	1	0	354
+Richmond - Windsor	1	1	1	1	71
+St Marys					254
+St Marys	0	0	0	1	1316
+St Marys	0	0	1	0	218
+St Marys	0	0	1	1	115
+St Marys	0	1	0	0	1223
+St Marys	0	1	0	1	140
+St Marys	0	1	1	0	204
+St Marys	0	1	1	1	61
+St Marys	1	0	0	1	1634
+St Marys	1	0	1	0	385
+St Marys	1	0	1	1	377
+St Marys	1	1	0	0	3503
+St Marys	1	1	0	1	244
+St Marys	1	1	1	0	647
+St Marys	1	1	1	1	185
+Auburn					740
+Auburn	0	0	0	1	1570
+Auburn	0	0	1	0	390
+Auburn	0	0	1	1	150
+Auburn	0	1	0	0	1006
+Auburn	0	1	0	1	85
+Auburn	0	1	1	0	171
+Auburn	0	1	1	1	58
+Auburn	1	0	0	1	2151
+Auburn	1	0	1	0	908
+Auburn	1	0	1	1	600
+Auburn	1	1	0	0	6555
+Auburn	1	1	0	1	190
+Auburn	1	1	1	0	977
+Auburn	1	1	1	1	215
+Carlingford					284
+Carlingford	0	0	0	1	1195
+Carlingford	0	0	1	0	424
+Carlingford	0	0	1	1	163
+Carlingford	0	1	0	0	904
+Carlingford	0	1	0	1	47
+Carlingford	0	1	1	0	198
+Carlingford	0	1	1	1	30
+Carlingford	1	0	0	1	2041
+Carlingford	1	0	1	0	1150
+Carlingford	1	0	1	1	673
+Carlingford	1	1	0	0	5919
+Carlingford	1	1	0	1	176
+Carlingford	1	1	1	0	971
+Carlingford	1	1	1	1	102
+Merrylands - Guildford					867
+Merrylands - Guildford	0	0	0	1	3270
+Merrylands - Guildford	0	0	1	0	658
+Merrylands - Guildford	0	0	1	1	412
+Merrylands - Guildford	0	1	0	0	2094
+Merrylands - Guildford	0	1	0	1	261
+Merrylands - Guildford	0	1	1	0	475
+Merrylands - Guildford	0	1	1	1	185
+Merrylands - Guildford	1	0	0	1	4238
+Merrylands - Guildford	1	0	1	0	1350
+Merrylands - Guildford	1	0	1	1	1281
+Merrylands - Guildford	1	1	0	0	9970
+Merrylands - Guildford	1	1	0	1	643
+Merrylands - Guildford	1	1	1	0	2146
+Merrylands - Guildford	1	1	1	1	700
+Parramatta					909
+Parramatta	0	0	0	1	2185
+Parramatta	0	0	1	0	570
+Parramatta	0	0	1	1	218
+Parramatta	0	1	0	0	1545
+Parramatta	0	1	0	1	109
+Parramatta	0	1	1	0	305
+Parramatta	0	1	1	1	56
+Parramatta	1	0	0	1	2549
+Parramatta	1	0	1	0	1591
+Parramatta	1	0	1	1	762
+Parramatta	1	1	0	0	13698
+Parramatta	1	1	0	1	233
+Parramatta	1	1	1	0	1591
+Parramatta	1	1	1	1	170
+Pennant Hills - Epping					194
+Pennant Hills - Epping	0	0	0	1	651
+Pennant Hills - Epping	0	0	1	0	311
+Pennant Hills - Epping	0	0	1	1	94
+Pennant Hills - Epping	0	1	0	0	540
+Pennant Hills - Epping	0	1	0	1	27
+Pennant Hills - Epping	0	1	1	0	109
+Pennant Hills - Epping	0	1	1	1	5
+Pennant Hills - Epping	1	0	0	1	1382
+Pennant Hills - Epping	1	0	1	0	1083
+Pennant Hills - Epping	1	0	1	1	488
+Pennant Hills - Epping	1	1	0	0	4491
+Pennant Hills - Epping	1	1	0	1	61
+Pennant Hills - Epping	1	1	1	0	910
+Pennant Hills - Epping	1	1	1	1	59
+Ryde - Hunters Hill					804
+Ryde - Hunters Hill	0	0	0	1	2029
+Ryde - Hunters Hill	0	0	1	0	702
+Ryde - Hunters Hill	0	0	1	1	213
+Ryde - Hunters Hill	0	1	0	0	1489
+Ryde - Hunters Hill	0	1	0	1	64
+Ryde - Hunters Hill	0	1	1	0	282
+Ryde - Hunters Hill	0	1	1	1	23
+Ryde - Hunters Hill	1	0	0	1	3190
+Ryde - Hunters Hill	1	0	1	0	2047
+Ryde - Hunters Hill	1	0	1	1	985
+Ryde - Hunters Hill	1	1	0	0	10695
+Ryde - Hunters Hill	1	1	0	1	183
+Ryde - Hunters Hill	1	1	1	0	1611
+Ryde - Hunters Hill	1	1	1	1	150
+Bringelly - Green Valley					466
+Bringelly - Green Valley	0	0	0	1	2343
+Bringelly - Green Valley	0	0	1	0	460
+Bringelly - Green Valley	0	0	1	1	397
+Bringelly - Green Valley	0	1	0	0	2151
+Bringelly - Green Valley	0	1	0	1	301
+Bringelly - Green Valley	0	1	1	0	519
+Bringelly - Green Valley	0	1	1	1	155
+Bringelly - Green Valley	1	0	0	1	4132
+Bringelly - Green Valley	1	0	1	0	1332
+Bringelly - Green Valley	1	0	1	1	1349
+Bringelly - Green Valley	1	1	0	0	11254
+Bringelly - Green Valley	1	1	0	1	686
+Bringelly - Green Valley	1	1	1	0	2188
+Bringelly - Green Valley	1	1	1	1	647
+Fairfield					1169
+Fairfield	0	0	0	1	5447
+Fairfield	0	0	1	0	1059
+Fairfield	0	0	1	1	690
+Fairfield	0	1	0	0	2877
+Fairfield	0	1	0	1	369
+Fairfield	0	1	1	0	817
+Fairfield	0	1	1	1	226
+Fairfield	1	0	0	1	7463
+Fairfield	1	0	1	0	2002
+Fairfield	1	0	1	1	2135
+Fairfield	1	1	0	0	9389
+Fairfield	1	1	0	1	764
+Fairfield	1	1	1	0	2627
+Fairfield	1	1	1	1	776
+Liverpool					567
+Liverpool	0	0	0	1	2556
+Liverpool	0	0	1	0	580
+Liverpool	0	0	1	1	305
+Liverpool	0	1	0	0	2094
+Liverpool	0	1	0	1	211
+Liverpool	0	1	1	0	395
+Liverpool	0	1	1	1	128
+Liverpool	1	0	0	1	3633
+Liverpool	1	0	1	0	1431
+Liverpool	1	0	1	1	1202
+Liverpool	1	1	0	0	9836
+Liverpool	1	1	0	1	516
+Liverpool	1	1	1	0	1984
+Liverpool	1	1	1	1	460
+Cronulla - Miranda - Caringbah					373
+Cronulla - Miranda - Caringbah	0	0	0	1	1910
+Cronulla - Miranda - Caringbah	0	0	1	0	514
+Cronulla - Miranda - Caringbah	0	0	1	1	216
+Cronulla - Miranda - Caringbah	0	1	0	0	1329
+Cronulla - Miranda - Caringbah	0	1	0	1	89
+Cronulla - Miranda - Caringbah	0	1	1	0	286
+Cronulla - Miranda - Caringbah	0	1	1	1	37
+Cronulla - Miranda - Caringbah	1	0	0	1	3039
+Cronulla - Miranda - Caringbah	1	0	1	0	1375
+Cronulla - Miranda - Caringbah	1	0	1	1	1036
+Cronulla - Miranda - Caringbah	1	1	0	0	7942
+Cronulla - Miranda - Caringbah	1	1	0	1	282
+Cronulla - Miranda - Caringbah	1	1	1	0	1436
+Cronulla - Miranda - Caringbah	1	1	1	1	211
+Sutherland - Menai - Heathcote					278
+Sutherland - Menai - Heathcote	0	0	0	1	1657
+Sutherland - Menai - Heathcote	0	0	1	0	435
+Sutherland - Menai - Heathcote	0	0	1	1	220
+Sutherland - Menai - Heathcote	0	1	0	0	1246
+Sutherland - Menai - Heathcote	0	1	0	1	113
+Sutherland - Menai - Heathcote	0	1	1	0	290
+Sutherland - Menai - Heathcote	0	1	1	1	43
+Sutherland - Menai - Heathcote	1	0	0	1	3413
+Sutherland - Menai - Heathcote	1	0	1	0	1419
+Sutherland - Menai - Heathcote	1	0	1	1	1121
+Sutherland - Menai - Heathcote	1	1	0	0	8423
+Sutherland - Menai - Heathcote	1	1	0	1	296
+Sutherland - Menai - Heathcote	1	1	1	0	1632
+Sutherland - Menai - Heathcote	1	1	1	1	251
+Ballarat					454
+Ballarat	0	0	0	1	1928
+Ballarat	0	0	1	0	548
+Ballarat	0	0	1	1	202
+Ballarat	0	1	0	0	2375
+Ballarat	0	1	0	1	219
+Ballarat	0	1	1	0	427
+Ballarat	0	1	1	1	96
+Ballarat	1	0	0	1	1984
+Ballarat	1	0	1	0	980
+Ballarat	1	0	1	1	510
+Ballarat	1	1	0	0	6932
+Ballarat	1	1	0	1	338
+Ballarat	1	1	1	0	1245
+Ballarat	1	1	1	1	188
+Creswick - Daylesford - Ballan					86
+Creswick - Daylesford - Ballan	0	0	0	1	471
+Creswick - Daylesford - Ballan	0	0	1	0	94
+Creswick - Daylesford - Ballan	0	0	1	1	29
+Creswick - Daylesford - Ballan	0	1	0	0	387
+Creswick - Daylesford - Ballan	0	1	0	1	35
+Creswick - Daylesford - Ballan	0	1	1	0	74
+Creswick - Daylesford - Ballan	0	1	1	1	6
+Creswick - Daylesford - Ballan	1	0	0	1	664
+Creswick - Daylesford - Ballan	1	0	1	0	259
+Creswick - Daylesford - Ballan	1	0	1	1	145
+Creswick - Daylesford - Ballan	1	1	0	0	1629
+Creswick - Daylesford - Ballan	1	1	0	1	88
+Creswick - Daylesford - Ballan	1	1	1	0	327
+Creswick - Daylesford - Ballan	1	1	1	1	58
+Maryborough - Pyrenees					100
+Maryborough - Pyrenees	0	0	0	1	506
+Maryborough - Pyrenees	0	0	1	0	57
+Maryborough - Pyrenees	0	0	1	1	29
+Maryborough - Pyrenees	0	1	0	0	449
+Maryborough - Pyrenees	0	1	0	1	55
+Maryborough - Pyrenees	0	1	1	0	65
+Maryborough - Pyrenees	0	1	1	1	18
+Maryborough - Pyrenees	1	0	0	1	543
+Maryborough - Pyrenees	1	0	1	0	162
+Maryborough - Pyrenees	1	0	1	1	109
+Maryborough - Pyrenees	1	1	0	0	1126
+Maryborough - Pyrenees	1	1	0	1	72
+Maryborough - Pyrenees	1	1	1	0	253
+Maryborough - Pyrenees	1	1	1	1	47
+Bendigo					453
+Bendigo	0	0	0	1	1776
+Bendigo	0	0	1	0	424
+Bendigo	0	0	1	1	163
+Bendigo	0	1	0	0	2177
+Bendigo	0	1	0	1	201
+Bendigo	0	1	1	0	427
+Bendigo	0	1	1	1	99
+Bendigo	1	0	0	1	1770
+Bendigo	1	0	1	0	798
+Bendigo	1	0	1	1	516
+Bendigo	1	1	0	0	6045
+Bendigo	1	1	0	1	276
+Bendigo	1	1	1	0	1057
+Bendigo	1	1	1	1	212
+Heathcote - Castlemaine - Kyneton					159
+Heathcote - Castlemaine - Kyneton	0	0	0	1	730
+Heathcote - Castlemaine - Kyneton	0	0	1	0	208
+Heathcote - Castlemaine - Kyneton	0	0	1	1	73
+Heathcote - Castlemaine - Kyneton	0	1	0	0	696
+Heathcote - Castlemaine - Kyneton	0	1	0	1	42
+Heathcote - Castlemaine - Kyneton	0	1	1	0	140
+Heathcote - Castlemaine - Kyneton	0	1	1	1	25
+Heathcote - Castlemaine - Kyneton	1	0	0	1	1048
+Heathcote - Castlemaine - Kyneton	1	0	1	0	486
+Heathcote - Castlemaine - Kyneton	1	0	1	1	244
+Heathcote - Castlemaine - Kyneton	1	1	0	0	3042
+Heathcote - Castlemaine - Kyneton	1	1	0	1	133
+Heathcote - Castlemaine - Kyneton	1	1	1	0	571
+Heathcote - Castlemaine - Kyneton	1	1	1	1	82
+Loddon - Elmore					55
+Loddon - Elmore	0	0	0	1	180
+Loddon - Elmore	0	0	1	0	27
+Loddon - Elmore	0	0	1	1	10
+Loddon - Elmore	0	1	0	0	148
+Loddon - Elmore	0	1	0	1	4
+Loddon - Elmore	0	1	1	0	20
+Loddon - Elmore	0	1	1	1	5
+Loddon - Elmore	1	0	0	1	249
+Loddon - Elmore	1	0	1	0	107
+Loddon - Elmore	1	0	1	1	52
+Loddon - Elmore	1	1	0	0	606
+Loddon - Elmore	1	1	0	1	32
+Loddon - Elmore	1	1	1	0	132
+Loddon - Elmore	1	1	1	1	19
+Barwon - West					34
+Barwon - West	0	0	0	1	262
+Barwon - West	0	0	1	0	57
+Barwon - West	0	0	1	1	34
+Barwon - West	0	1	0	0	246
+Barwon - West	0	1	0	1	19
+Barwon - West	0	1	1	0	52
+Barwon - West	0	1	1	1	15
+Barwon - West	1	0	0	1	551
+Barwon - West	1	0	1	0	246
+Barwon - West	1	0	1	1	173
+Barwon - West	1	1	0	0	1729
+Barwon - West	1	1	0	1	78
+Barwon - West	1	1	1	0	335
+Barwon - West	1	1	1	1	63
+Geelong					913
+Geelong	0	0	0	1	3577
+Geelong	0	0	1	0	941
+Geelong	0	0	1	1	424
+Geelong	0	1	0	0	3445
+Geelong	0	1	0	1	326
+Geelong	0	1	1	0	711
+Geelong	0	1	1	1	128
+Geelong	1	0	0	1	4154
+Geelong	1	0	1	0	1948
+Geelong	1	0	1	1	1138
+Geelong	1	1	0	0	13070
+Geelong	1	1	0	1	492
+Geelong	1	1	1	0	2063
+Geelong	1	1	1	1	344
+Surf Coast - Bellarine Peninsula					254
+Surf Coast - Bellarine Peninsula	0	0	0	1	1085
+Surf Coast - Bellarine Peninsula	0	0	1	0	348
+Surf Coast - Bellarine Peninsula	0	0	1	1	128
+Surf Coast - Bellarine Peninsula	0	1	0	0	1168
+Surf Coast - Bellarine Peninsula	0	1	0	1	72
+Surf Coast - Bellarine Peninsula	0	1	1	0	286
+Surf Coast - Bellarine Peninsula	0	1	1	1	39
+Surf Coast - Bellarine Peninsula	1	0	0	1	1598
+Surf Coast - Bellarine Peninsula	1	0	1	0	914
+Surf Coast - Bellarine Peninsula	1	0	1	1	441
+Surf Coast - Bellarine Peninsula	1	1	0	0	6231
+Surf Coast - Bellarine Peninsula	1	1	0	1	203
+Surf Coast - Bellarine Peninsula	1	1	1	0	1105
+Surf Coast - Bellarine Peninsula	1	1	1	1	131
+Upper Goulburn Valley					190
+Upper Goulburn Valley	0	0	0	1	1065
+Upper Goulburn Valley	0	0	1	0	206
+Upper Goulburn Valley	0	0	1	1	86
+Upper Goulburn Valley	0	1	0	0	852
+Upper Goulburn Valley	0	1	0	1	74
+Upper Goulburn Valley	0	1	1	0	169
+Upper Goulburn Valley	0	1	1	1	28
+Upper Goulburn Valley	1	0	0	1	1166
+Upper Goulburn Valley	1	0	1	0	409
+Upper Goulburn Valley	1	0	1	1	279
+Upper Goulburn Valley	1	1	0	0	3006
+Upper Goulburn Valley	1	1	0	1	149
+Upper Goulburn Valley	1	1	1	0	509
+Upper Goulburn Valley	1	1	1	1	117
+Wangaratta - Benalla					167
+Wangaratta - Benalla	0	0	0	1	780
+Wangaratta - Benalla	0	0	1	0	182
+Wangaratta - Benalla	0	0	1	1	47
+Wangaratta - Benalla	0	1	0	0	781
+Wangaratta - Benalla	0	1	0	1	93
+Wangaratta - Benalla	0	1	1	0	154
+Wangaratta - Benalla	0	1	1	1	38
+Wangaratta - Benalla	1	0	0	1	942
+Wangaratta - Benalla	1	0	1	0	350
+Wangaratta - Benalla	1	0	1	1	226
+Wangaratta - Benalla	1	1	0	0	2437
+Wangaratta - Benalla	1	1	0	1	109
+Wangaratta - Benalla	1	1	1	0	492
+Wangaratta - Benalla	1	1	1	1	67
+Wodonga - Alpine					239
+Wodonga - Alpine	0	0	0	1	1054
+Wodonga - Alpine	0	0	1	0	296
+Wodonga - Alpine	0	0	1	1	111
+Wodonga - Alpine	0	1	0	0	1363
+Wodonga - Alpine	0	1	0	1	110
+Wodonga - Alpine	0	1	1	0	242
+Wodonga - Alpine	0	1	1	1	45
+Wodonga - Alpine	1	0	0	1	1333
+Wodonga - Alpine	1	0	1	0	573
+Wodonga - Alpine	1	0	1	1	340
+Wodonga - Alpine	1	1	0	0	4544
+Wodonga - Alpine	1	1	0	1	198
+Wodonga - Alpine	1	1	1	0	801
+Wodonga - Alpine	1	1	1	1	135
+Baw Baw					184
+Baw Baw	0	0	0	1	794
+Baw Baw	0	0	1	0	233
+Baw Baw	0	0	1	1	89
+Baw Baw	0	1	0	0	934
+Baw Baw	0	1	0	1	77
+Baw Baw	0	1	1	0	181
+Baw Baw	0	1	1	1	52
+Baw Baw	1	0	0	1	1235
+Baw Baw	1	0	1	0	473
+Baw Baw	1	0	1	1	299
+Baw Baw	1	1	0	0	3484
+Baw Baw	1	1	0	1	172
+Baw Baw	1	1	1	0	619
+Baw Baw	1	1	1	1	141
+Gippsland - East					151
+Gippsland - East	0	0	0	1	727
+Gippsland - East	0	0	1	0	161
+Gippsland - East	0	0	1	1	53
+Gippsland - East	0	1	0	0	758
+Gippsland - East	0	1	0	1	83
+Gippsland - East	0	1	1	0	124
+Gippsland - East	0	1	1	1	21
+Gippsland - East	1	0	0	1	922
+Gippsland - East	1	0	1	0	273
+Gippsland - East	1	0	1	1	161
+Gippsland - East	1	1	0	0	2178
+Gippsland - East	1	1	0	1	144
+Gippsland - East	1	1	1	0	360
+Gippsland - East	1	1	1	1	85
+Gippsland - South West					193
+Gippsland - South West	0	0	0	1	1042
+Gippsland - South West	0	0	1	0	219
+Gippsland - South West	0	0	1	1	95
+Gippsland - South West	0	1	0	0	1056
+Gippsland - South West	0	1	0	1	84
+Gippsland - South West	0	1	1	0	182
+Gippsland - South West	0	1	1	1	38
+Gippsland - South West	1	0	0	1	1325
+Gippsland - South West	1	0	1	0	522
+Gippsland - South West	1	0	1	1	260
+Gippsland - South West	1	1	0	0	3513
+Gippsland - South West	1	1	0	1	175
+Gippsland - South West	1	1	1	0	697
+Gippsland - South West	1	1	1	1	113
+Latrobe Valley					284
+Latrobe Valley	0	0	0	1	1459
+Latrobe Valley	0	0	1	0	308
+Latrobe Valley	0	0	1	1	130
+Latrobe Valley	0	1	0	0	1682
+Latrobe Valley	0	1	0	1	161
+Latrobe Valley	0	1	1	0	235
+Latrobe Valley	0	1	1	1	59
+Latrobe Valley	1	0	0	1	1594
+Latrobe Valley	1	0	1	0	493
+Latrobe Valley	1	0	1	1	357
+Latrobe Valley	1	1	0	0	3956
+Latrobe Valley	1	1	0	1	220
+Latrobe Valley	1	1	1	0	683
+Latrobe Valley	1	1	1	1	151
+Wellington					163
+Wellington	0	0	0	1	644
+Wellington	0	0	1	0	137
+Wellington	0	0	1	1	66
+Wellington	0	1	0	0	692
+Wellington	0	1	0	1	76
+Wellington	0	1	1	0	126
+Wellington	0	1	1	1	20
+Wellington	1	0	0	1	815
+Wellington	1	0	1	0	348
+Wellington	1	0	1	1	202
+Wellington	1	1	0	0	2345
+Wellington	1	1	0	1	149
+Wellington	1	1	1	0	409
+Wellington	1	1	1	1	85
+Brunswick - Coburg					608
+Brunswick - Coburg	0	0	0	1	1249
+Brunswick - Coburg	0	0	1	0	379
+Brunswick - Coburg	0	0	1	1	116
+Brunswick - Coburg	0	1	0	0	891
+Brunswick - Coburg	0	1	0	1	27
+Brunswick - Coburg	0	1	1	0	139
+Brunswick - Coburg	0	1	1	1	15
+Brunswick - Coburg	1	0	0	1	1364
+Brunswick - Coburg	1	0	1	0	861
+Brunswick - Coburg	1	0	1	1	415
+Brunswick - Coburg	1	1	0	0	5230
+Brunswick - Coburg	1	1	0	1	60
+Brunswick - Coburg	1	1	1	0	713
+Brunswick - Coburg	1	1	1	1	86
+Darebin - South					236
+Darebin - South	0	0	0	1	707
+Darebin - South	0	0	1	0	253
+Darebin - South	0	0	1	1	63
+Darebin - South	0	1	0	0	560
+Darebin - South	0	1	0	1	17
+Darebin - South	0	1	1	0	130
+Darebin - South	0	1	1	1	10
+Darebin - South	1	0	0	1	799
+Darebin - South	1	0	1	0	727
+Darebin - South	1	0	1	1	278
+Darebin - South	1	1	0	0	3441
+Darebin - South	1	1	0	1	45
+Darebin - South	1	1	1	0	565
+Darebin - South	1	1	1	1	43
+Essendon					422
+Essendon	0	0	0	1	923
+Essendon	0	0	1	0	326
+Essendon	0	0	1	1	108
+Essendon	0	1	0	0	763
+Essendon	0	1	0	1	33
+Essendon	0	1	1	0	175
+Essendon	0	1	1	1	24
+Essendon	1	0	0	1	1271
+Essendon	1	0	1	0	951
+Essendon	1	0	1	1	510
+Essendon	1	1	0	0	4241
+Essendon	1	1	0	1	55
+Essendon	1	1	1	0	715
+Essendon	1	1	1	1	72
+Melbourne City					1749
+Melbourne City	0	0	0	1	950
+Melbourne City	0	0	1	0	645
+Melbourne City	0	0	1	1	103
+Melbourne City	0	1	0	0	1145
+Melbourne City	0	1	0	1	40
+Melbourne City	0	1	1	0	169
+Melbourne City	0	1	1	1	12
+Melbourne City	1	0	0	1	610
+Melbourne City	1	0	1	0	593
+Melbourne City	1	0	1	1	158
+Melbourne City	1	1	0	0	4781
+Melbourne City	1	1	0	1	34
+Melbourne City	1	1	1	0	381
+Melbourne City	1	1	1	1	39
+Port Phillip					544
+Port Phillip	0	0	0	1	966
+Port Phillip	0	0	1	0	544
+Port Phillip	0	0	1	1	97
+Port Phillip	0	1	0	0	1178
+Port Phillip	0	1	0	1	44
+Port Phillip	0	1	1	0	165
+Port Phillip	0	1	1	1	14
+Port Phillip	1	0	0	1	796
+Port Phillip	1	0	1	0	949
+Port Phillip	1	0	1	1	237
+Port Phillip	1	1	0	0	5036
+Port Phillip	1	1	0	1	54
+Port Phillip	1	1	1	0	631
+Port Phillip	1	1	1	1	43
+Stonnington - West					451
+Stonnington - West	0	0	0	1	606
+Stonnington - West	0	0	1	0	308
+Stonnington - West	0	0	1	1	65
+Stonnington - West	0	1	0	0	526
+Stonnington - West	0	1	0	1	15
+Stonnington - West	0	1	1	0	110
+Stonnington - West	0	1	1	1	4
+Stonnington - West	1	0	0	1	545
+Stonnington - West	1	0	1	0	549
+Stonnington - West	1	0	1	1	202
+Stonnington - West	1	1	0	0	2366
+Stonnington - West	1	1	0	1	25
+Stonnington - West	1	1	1	0	343
+Stonnington - West	1	1	1	1	19
+Yarra					625
+Yarra	0	0	0	1	975
+Yarra	0	0	1	0	370
+Yarra	0	0	1	1	84
+Yarra	0	1	0	0	957
+Yarra	0	1	0	1	40
+Yarra	0	1	1	0	164
+Yarra	0	1	1	1	15
+Yarra	1	0	0	1	749
+Yarra	1	0	1	0	725
+Yarra	1	0	1	1	232
+Yarra	1	1	0	0	4111
+Yarra	1	1	0	1	48
+Yarra	1	1	1	0	478
+Yarra	1	1	1	1	19
+Boroondara					748
+Boroondara	0	0	0	1	1740
+Boroondara	0	0	1	0	1189
+Boroondara	0	0	1	1	291
+Boroondara	0	1	0	0	1685
+Boroondara	0	1	0	1	51
+Boroondara	0	1	1	0	558
+Boroondara	0	1	1	1	27
+Boroondara	1	0	0	1	3285
+Boroondara	1	0	1	0	3750
+Boroondara	1	0	1	1	1477
+Boroondara	1	1	0	0	10362
+Boroondara	1	1	0	1	159
+Boroondara	1	1	1	0	2912
+Boroondara	1	1	1	1	136
+Manningham - West					433
+Manningham - West	0	0	0	1	1669
+Manningham - West	0	0	1	0	625
+Manningham - West	0	0	1	1	239
+Manningham - West	0	1	0	0	1091
+Manningham - West	0	1	0	1	58
+Manningham - West	0	1	1	0	274
+Manningham - West	0	1	1	1	22
+Manningham - West	1	0	0	1	2973
+Manningham - West	1	0	1	0	1622
+Manningham - West	1	0	1	1	836
+Manningham - West	1	1	0	0	6599
+Manningham - West	1	1	0	1	134
+Manningham - West	1	1	1	0	1219
+Manningham - West	1	1	1	1	98
+Whitehorse - West					620
+Whitehorse - West	0	0	0	1	1571
+Whitehorse - West	0	0	1	0	797
+Whitehorse - West	0	0	1	1	215
+Whitehorse - West	0	1	0	0	1121
+Whitehorse - West	0	1	0	1	57
+Whitehorse - West	0	1	1	0	295
+Whitehorse - West	0	1	1	1	23
+Whitehorse - West	1	0	0	1	2031
+Whitehorse - West	1	0	1	0	1884
+Whitehorse - West	1	0	1	1	793
+Whitehorse - West	1	1	0	0	6783
+Whitehorse - West	1	1	0	1	124
+Whitehorse - West	1	1	1	0	1370
+Whitehorse - West	1	1	1	1	113
+Bayside					250
+Bayside	0	0	0	1	1201
+Bayside	0	0	1	0	717
+Bayside	0	0	1	1	172
+Bayside	0	1	0	0	1039
+Bayside	0	1	0	1	36
+Bayside	0	1	1	0	306
+Bayside	0	1	1	1	22
+Bayside	1	0	0	1	1989
+Bayside	1	0	1	0	2221
+Bayside	1	0	1	1	867
+Bayside	1	1	0	0	6808
+Bayside	1	1	0	1	103
+Bayside	1	1	1	0	1698
+Bayside	1	1	1	1	119
+Glen Eira					715
+Glen Eira	0	0	0	1	1966
+Glen Eira	0	0	1	0	957
+Glen Eira	0	0	1	1	259
+Glen Eira	0	1	0	0	1718
+Glen Eira	0	1	0	1	66
+Glen Eira	0	1	1	0	404
+Glen Eira	0	1	1	1	32
+Glen Eira	1	0	0	1	2703
+Glen Eira	1	0	1	0	2527
+Glen Eira	1	0	1	1	1055
+Glen Eira	1	1	0	0	11169
+Glen Eira	1	1	0	1	171
+Glen Eira	1	1	1	0	2255
+Glen Eira	1	1	1	1	155
+Kingston					436
+Kingston	0	0	0	1	2107
+Kingston	0	0	1	0	750
+Kingston	0	0	1	1	265
+Kingston	0	1	0	0	1651
+Kingston	0	1	0	1	92
+Kingston	0	1	1	0	334
+Kingston	0	1	1	1	36
+Kingston	1	0	0	1	2579
+Kingston	1	0	1	0	1691
+Kingston	1	0	1	1	888
+Kingston	1	1	0	0	8944
+Kingston	1	1	0	1	188
+Kingston	1	1	1	0	1536
+Kingston	1	1	1	1	161
+Stonnington - East					220
+Stonnington - East	0	0	0	1	479
+Stonnington - East	0	0	1	0	248
+Stonnington - East	0	0	1	1	66
+Stonnington - East	0	1	0	0	400
+Stonnington - East	0	1	0	1	9
+Stonnington - East	0	1	1	0	89
+Stonnington - East	0	1	1	1	5
+Stonnington - East	1	0	0	1	676
+Stonnington - East	1	0	1	0	879
+Stonnington - East	1	0	1	1	313
+Stonnington - East	1	1	0	0	2604
+Stonnington - East	1	1	0	1	17
+Stonnington - East	1	1	1	0	605
+Stonnington - East	1	1	1	1	30
+Banyule					503
+Banyule	0	0	0	1	2159
+Banyule	0	0	1	0	664
+Banyule	0	0	1	1	251
+Banyule	0	1	0	0	1592
+Banyule	0	1	0	1	69
+Banyule	0	1	1	0	333
+Banyule	0	1	1	1	48
+Banyule	1	0	0	1	2919
+Banyule	1	0	1	0	1646
+Banyule	1	0	1	1	959
+Banyule	1	1	0	0	9075
+Banyule	1	1	0	1	205
+Banyule	1	1	1	0	1505
+Banyule	1	1	1	1	163
+Darebin - North					709
+Darebin - North	0	0	0	1	1903
+Darebin - North	0	0	1	0	424
+Darebin - North	0	0	1	1	164
+Darebin - North	0	1	0	0	1213
+Darebin - North	0	1	0	1	69
+Darebin - North	0	1	1	0	206
+Darebin - North	0	1	1	1	28
+Darebin - North	1	0	0	1	1864
+Darebin - North	1	0	1	0	876
+Darebin - North	1	0	1	1	566
+Darebin - North	1	1	0	0	5946
+Darebin - North	1	1	0	1	132
+Darebin - North	1	1	1	0	856
+Darebin - North	1	1	1	1	108
+Nillumbik - Kinglake					141
+Nillumbik - Kinglake	0	0	0	1	881
+Nillumbik - Kinglake	0	0	1	0	296
+Nillumbik - Kinglake	0	0	1	1	174
+Nillumbik - Kinglake	0	1	0	0	636
+Nillumbik - Kinglake	0	1	0	1	55
+Nillumbik - Kinglake	0	1	1	0	154
+Nillumbik - Kinglake	0	1	1	1	26
+Nillumbik - Kinglake	1	0	0	1	2273
+Nillumbik - Kinglake	1	0	1	0	1091
+Nillumbik - Kinglake	1	0	1	1	800
+Nillumbik - Kinglake	1	1	0	0	4717
+Nillumbik - Kinglake	1	1	0	1	161
+Nillumbik - Kinglake	1	1	1	0	1042
+Nillumbik - Kinglake	1	1	1	1	161
+Whittlesea - Wallan					1026
+Whittlesea - Wallan	0	0	0	1	4571
+Whittlesea - Wallan	0	0	1	0	1072
+Whittlesea - Wallan	0	0	1	1	619
+Whittlesea - Wallan	0	1	0	0	3692
+Whittlesea - Wallan	0	1	0	1	370
+Whittlesea - Wallan	0	1	1	0	802
+Whittlesea - Wallan	0	1	1	1	160
+Whittlesea - Wallan	1	0	0	1	6499
+Whittlesea - Wallan	1	0	1	0	2384
+Whittlesea - Wallan	1	0	1	1	1980
+Whittlesea - Wallan	1	1	0	0	20616
+Whittlesea - Wallan	1	1	0	1	773
+Whittlesea - Wallan	1	1	1	0	3378
+Whittlesea - Wallan	1	1	1	1	567
+Keilor					282
+Keilor	0	0	0	1	1273
+Keilor	0	0	1	0	290
+Keilor	0	0	1	1	158
+Keilor	0	1	0	0	678
+Keilor	0	1	0	1	55
+Keilor	0	1	1	0	161
+Keilor	0	1	1	1	24
+Keilor	1	0	0	1	1838
+Keilor	1	0	1	0	836
+Keilor	1	0	1	1	564
+Keilor	1	1	0	0	4168
+Keilor	1	1	0	1	98
+Keilor	1	1	1	0	863
+Keilor	1	1	1	1	76
+Macedon Ranges					62
+Macedon Ranges	0	0	0	1	367
+Macedon Ranges	0	0	1	0	116
+Macedon Ranges	0	0	1	1	56
+Macedon Ranges	0	1	0	0	377
+Macedon Ranges	0	1	0	1	35
+Macedon Ranges	0	1	1	0	96
+Macedon Ranges	0	1	1	1	14
+Macedon Ranges	1	0	0	1	764
+Macedon Ranges	1	0	1	0	445
+Macedon Ranges	1	0	1	1	270
+Macedon Ranges	1	1	0	0	2450
+Macedon Ranges	1	1	0	1	92
+Macedon Ranges	1	1	1	0	493
+Macedon Ranges	1	1	1	1	57
+Moreland - North					476
+Moreland - North	0	0	0	1	1534
+Moreland - North	0	0	1	0	319
+Moreland - North	0	0	1	1	184
+Moreland - North	0	1	0	0	1008
+Moreland - North	0	1	0	1	74
+Moreland - North	0	1	1	0	204
+Moreland - North	0	1	1	1	32
+Moreland - North	1	0	0	1	1500
+Moreland - North	1	0	1	0	638
+Moreland - North	1	0	1	1	502
+Moreland - North	1	1	0	0	5807
+Moreland - North	1	1	0	1	148
+Moreland - North	1	1	1	0	861
+Moreland - North	1	1	1	1	165
+Sunbury					167
+Sunbury	0	0	0	1	826
+Sunbury	0	0	1	0	201
+Sunbury	0	0	1	1	114
+Sunbury	0	1	0	0	742
+Sunbury	0	1	0	1	60
+Sunbury	0	1	1	0	126
+Sunbury	0	1	1	1	36
+Sunbury	1	0	0	1	1203
+Sunbury	1	0	1	0	449
+Sunbury	1	0	1	1	363
+Sunbury	1	1	0	0	3206
+Sunbury	1	1	0	1	154
+Sunbury	1	1	1	0	532
+Sunbury	1	1	1	1	100
+Tullamarine - Broadmeadows					826
+Tullamarine - Broadmeadows	0	0	0	1	3725
+Tullamarine - Broadmeadows	0	0	1	0	731
+Tullamarine - Broadmeadows	0	0	1	1	548
+Tullamarine - Broadmeadows	0	1	0	0	2733
+Tullamarine - Broadmeadows	0	1	0	1	300
+Tullamarine - Broadmeadows	0	1	1	0	632
+Tullamarine - Broadmeadows	0	1	1	1	206
+Tullamarine - Broadmeadows	1	0	0	1	5362
+Tullamarine - Broadmeadows	1	0	1	0	1740
+Tullamarine - Broadmeadows	1	0	1	1	1864
+Tullamarine - Broadmeadows	1	1	0	0	16309
+Tullamarine - Broadmeadows	1	1	0	1	724
+Tullamarine - Broadmeadows	1	1	1	0	3013
+Tullamarine - Broadmeadows	1	1	1	1	827
+Knox					605
+Knox	0	0	0	1	2954
+Knox	0	0	1	0	843
+Knox	0	0	1	1	370
+Knox	0	1	0	0	1937
+Knox	0	1	0	1	162
+Knox	0	1	1	0	455
+Knox	0	1	1	1	73
+Knox	1	0	0	1	4898
+Knox	1	0	1	0	2236
+Knox	1	0	1	1	1497
+Knox	1	1	0	0	10816
+Knox	1	1	0	1	353
+Knox	1	1	1	0	1966
+Knox	1	1	1	1	253
+Manningham - East					38
+Manningham - East	0	0	0	1	299
+Manningham - East	0	0	1	0	107
+Manningham - East	0	0	1	1	53
+Manningham - East	0	1	0	0	185
+Manningham - East	0	1	0	1	22
+Manningham - East	0	1	1	0	82
+Manningham - East	0	1	1	1	4
+Manningham - East	1	0	0	1	871
+Manningham - East	1	0	1	0	592
+Manningham - East	1	0	1	1	345
+Manningham - East	1	1	0	0	1593
+Manningham - East	1	1	0	1	56
+Manningham - East	1	1	1	0	487
+Manningham - East	1	1	1	1	57
+Maroondah					407
+Maroondah	0	0	0	1	1988
+Maroondah	0	0	1	0	622
+Maroondah	0	0	1	1	292
+Maroondah	0	1	0	0	1509
+Maroondah	0	1	0	1	117
+Maroondah	0	1	1	0	335
+Maroondah	0	1	1	1	44
+Maroondah	1	0	0	1	2713
+Maroondah	1	0	1	0	1277
+Maroondah	1	0	1	1	916
+Maroondah	1	1	0	0	8369
+Maroondah	1	1	0	1	225
+Maroondah	1	1	1	0	1394
+Maroondah	1	1	1	1	183
+Whitehorse - East					277
+Whitehorse - East	0	0	0	1	1012
+Whitehorse - East	0	0	1	0	359
+Whitehorse - East	0	0	1	1	137
+Whitehorse - East	0	1	0	0	599
+Whitehorse - East	0	1	0	1	41
+Whitehorse - East	0	1	1	0	167
+Whitehorse - East	0	1	1	1	15
+Whitehorse - East	1	0	0	1	1393
+Whitehorse - East	1	0	1	0	1000
+Whitehorse - East	1	0	1	1	518
+Whitehorse - East	1	1	0	0	4743
+Whitehorse - East	1	1	0	1	82
+Whitehorse - East	1	1	1	0	831
+Whitehorse - East	1	1	1	1	73
+Yarra Ranges					447
+Yarra Ranges	0	0	0	1	2647
+Yarra Ranges	0	0	1	0	632
+Yarra Ranges	0	0	1	1	380
+Yarra Ranges	0	1	0	0	2061
+Yarra Ranges	0	1	0	1	200
+Yarra Ranges	0	1	1	0	451
+Yarra Ranges	0	1	1	1	72
+Yarra Ranges	1	0	0	1	4338
+Yarra Ranges	1	0	1	0	1505
+Yarra Ranges	1	0	1	1	1295
+Yarra Ranges	1	1	0	0	10615
+Yarra Ranges	1	1	0	1	500
+Yarra Ranges	1	1	1	0	1882
+Yarra Ranges	1	1	1	1	339
+Cardinia					386
+Cardinia	0	0	0	1	1664
+Cardinia	0	0	1	0	444
+Cardinia	0	0	1	1	283
+Cardinia	0	1	0	0	1988
+Cardinia	0	1	0	1	157
+Cardinia	0	1	1	0	365
+Cardinia	0	1	1	1	90
+Cardinia	1	0	0	1	2402
+Cardinia	1	0	1	0	1048
+Cardinia	1	0	1	1	825
+Cardinia	1	1	0	0	9519
+Cardinia	1	1	0	1	407
+Cardinia	1	1	1	0	1579
+Cardinia	1	1	1	1	316
+Casey - North					480
+Casey - North	0	0	0	1	2312
+Casey - North	0	0	1	0	552
+Casey - North	0	0	1	1	307
+Casey - North	0	1	0	0	1803
+Casey - North	0	1	0	1	167
+Casey - North	0	1	1	0	373
+Casey - North	0	1	1	1	93
+Casey - North	1	0	0	1	3981
+Casey - North	1	0	1	0	1798
+Casey - North	1	0	1	1	1324
+Casey - North	1	1	0	0	9311
+Casey - North	1	1	0	1	460
+Casey - North	1	1	1	0	2144
+Casey - North	1	1	1	1	422
+Casey - South					826
+Casey - South	0	0	0	1	3045
+Casey - South	0	0	1	0	760
+Casey - South	0	0	1	1	477
+Casey - South	0	1	0	0	3379
+Casey - South	0	1	0	1	334
+Casey - South	0	1	1	0	624
+Casey - South	0	1	1	1	218
+Casey - South	1	0	0	1	4831
+Casey - South	1	0	1	0	2304
+Casey - South	1	0	1	1	1718
+Casey - South	1	1	0	0	20897
+Casey - South	1	1	0	1	822
+Casey - South	1	1	1	0	3674
+Casey - South	1	1	1	1	855
+Dandenong					1229
+Dandenong	0	0	0	1	4118
+Dandenong	0	0	1	0	1000
+Dandenong	0	0	1	1	514
+Dandenong	0	1	0	0	2517
+Dandenong	0	1	0	1	234
+Dandenong	0	1	1	0	570
+Dandenong	0	1	1	1	135
+Dandenong	1	0	0	1	5051
+Dandenong	1	0	1	0	2110
+Dandenong	1	0	1	1	1382
+Dandenong	1	1	0	0	12052
+Dandenong	1	1	0	1	495
+Dandenong	1	1	1	0	2260
+Dandenong	1	1	1	1	454
+Monash					1031
+Monash	0	0	0	1	2793
+Monash	0	0	1	0	1157
+Monash	0	0	1	1	357
+Monash	0	1	0	0	1765
+Monash	0	1	0	1	96
+Monash	0	1	1	0	487
+Monash	0	1	1	1	42
+Monash	1	0	0	1	4382
+Monash	1	0	1	0	3045
+Monash	1	0	1	1	1370
+Monash	1	1	0	0	11995
+Monash	1	1	0	1	226
+Monash	1	1	1	0	2416
+Monash	1	1	1	1	170
+Brimbank					1147
+Brimbank	0	0	0	1	4334
+Brimbank	0	0	1	0	995
+Brimbank	0	0	1	1	585
+Brimbank	0	1	0	0	2968
+Brimbank	0	1	0	1	310
+Brimbank	0	1	1	0	704
+Brimbank	0	1	1	1	187
+Brimbank	1	0	0	1	5630
+Brimbank	1	0	1	0	1944
+Brimbank	1	0	1	1	1480
+Brimbank	1	1	0	0	10603
+Brimbank	1	1	0	1	550
+Brimbank	1	1	1	0	2107
+Brimbank	1	1	1	1	440
+Hobsons Bay					415
+Hobsons Bay	0	0	0	1	1557
+Hobsons Bay	0	0	1	0	421
+Hobsons Bay	0	0	1	1	165
+Hobsons Bay	0	1	0	0	1221
+Hobsons Bay	0	1	0	1	82
+Hobsons Bay	0	1	1	0	247
+Hobsons Bay	0	1	1	1	34
+Hobsons Bay	1	0	0	1	1898
+Hobsons Bay	1	0	1	0	1006
+Hobsons Bay	1	0	1	1	532
+Hobsons Bay	1	1	0	0	6496
+Hobsons Bay	1	1	0	1	160
+Hobsons Bay	1	1	1	0	962
+Hobsons Bay	1	1	1	1	137
+Maribyrnong					661
+Maribyrnong	0	0	0	1	1378
+Maribyrnong	0	0	1	0	388
+Maribyrnong	0	0	1	1	148
+Maribyrnong	0	1	0	0	1091
+Maribyrnong	0	1	0	1	89
+Maribyrnong	0	1	1	0	210
+Maribyrnong	0	1	1	1	28
+Maribyrnong	1	0	0	1	1244
+Maribyrnong	1	0	1	0	810
+Maribyrnong	1	0	1	1	384
+Maribyrnong	1	1	0	0	5747
+Maribyrnong	1	1	0	1	80
+Maribyrnong	1	1	1	0	713
+Maribyrnong	1	1	1	1	58
+Melton - Bacchus Marsh					662
+Melton - Bacchus Marsh	0	0	0	1	2855
+Melton - Bacchus Marsh	0	0	1	0	753
+Melton - Bacchus Marsh	0	0	1	1	458
+Melton - Bacchus Marsh	0	1	0	0	3427
+Melton - Bacchus Marsh	0	1	0	1	328
+Melton - Bacchus Marsh	0	1	1	0	753
+Melton - Bacchus Marsh	0	1	1	1	210
+Melton - Bacchus Marsh	1	0	0	1	4307
+Melton - Bacchus Marsh	1	0	1	0	1956
+Melton - Bacchus Marsh	1	0	1	1	1498
+Melton - Bacchus Marsh	1	1	0	0	16594
+Melton - Bacchus Marsh	1	1	0	1	683
+Melton - Bacchus Marsh	1	1	1	0	3017
+Melton - Bacchus Marsh	1	1	1	1	574
+Wyndham					1277
+Wyndham	0	0	0	1	3536
+Wyndham	0	0	1	0	1077
+Wyndham	0	0	1	1	574
+Wyndham	0	1	0	0	4483
+Wyndham	0	1	0	1	366
+Wyndham	0	1	1	0	880
+Wyndham	0	1	1	1	233
+Wyndham	1	0	0	1	4753
+Wyndham	1	0	1	0	2802
+Wyndham	1	0	1	1	1653
+Wyndham	1	1	0	0	30040
+Wyndham	1	1	0	1	747
+Wyndham	1	1	1	0	3977
+Wyndham	1	1	1	1	742
+Frankston					570
+Frankston	0	0	0	1	2911
+Frankston	0	0	1	0	709
+Frankston	0	0	1	1	351
+Frankston	0	1	0	0	2736
+Frankston	0	1	0	1	251
+Frankston	0	1	1	0	532
+Frankston	0	1	1	1	94
+Frankston	1	0	0	1	3121
+Frankston	1	0	1	0	1216
+Frankston	1	0	1	1	804
+Frankston	1	1	0	0	9024
+Frankston	1	1	0	1	377
+Frankston	1	1	1	0	1464
+Frankston	1	1	1	1	238
+Mornington Peninsula					473
+Mornington Peninsula	0	0	0	1	2726
+Mornington Peninsula	0	0	1	0	749
+Mornington Peninsula	0	0	1	1	288
+Mornington Peninsula	0	1	0	0	2348
+Mornington Peninsula	0	1	0	1	209
+Mornington Peninsula	0	1	1	0	524
+Mornington Peninsula	0	1	1	1	84
+Mornington Peninsula	1	0	0	1	3546
+Mornington Peninsula	1	0	1	0	1672
+Mornington Peninsula	1	0	1	1	1022
+Mornington Peninsula	1	1	0	0	9401
+Mornington Peninsula	1	1	0	1	420
+Mornington Peninsula	1	1	1	0	1841
+Mornington Peninsula	1	1	1	1	268
+Grampians					240
+Grampians	0	0	0	1	868
+Grampians	0	0	1	0	173
+Grampians	0	0	1	1	74
+Grampians	0	1	0	0	927
+Grampians	0	1	0	1	94
+Grampians	0	1	1	0	161
+Grampians	0	1	1	1	24
+Grampians	1	0	0	1	1134
+Grampians	1	0	1	0	394
+Grampians	1	0	1	1	226
+Grampians	1	1	0	0	3030
+Grampians	1	1	0	1	145
+Grampians	1	1	1	0	576
+Grampians	1	1	1	1	88
+Mildura					239
+Mildura	0	0	0	1	929
+Mildura	0	0	1	0	196
+Mildura	0	0	1	1	88
+Mildura	0	1	0	0	1115
+Mildura	0	1	0	1	126
+Mildura	0	1	1	0	201
+Mildura	0	1	1	1	33
+Mildura	1	0	0	1	1133
+Mildura	1	0	1	0	350
+Mildura	1	0	1	1	246
+Mildura	1	1	0	0	3046
+Mildura	1	1	0	1	190
+Mildura	1	1	1	0	585
+Mildura	1	1	1	1	117
+Murray River - Swan Hill					178
+Murray River - Swan Hill	0	0	0	1	514
+Murray River - Swan Hill	0	0	1	0	85
+Murray River - Swan Hill	0	0	1	1	19
+Murray River - Swan Hill	0	1	0	0	578
+Murray River - Swan Hill	0	1	0	1	47
+Murray River - Swan Hill	0	1	1	0	102
+Murray River - Swan Hill	0	1	1	1	21
+Murray River - Swan Hill	1	0	0	1	703
+Murray River - Swan Hill	1	0	1	0	281
+Murray River - Swan Hill	1	0	1	1	142
+Murray River - Swan Hill	1	1	0	0	1941
+Murray River - Swan Hill	1	1	0	1	87
+Murray River - Swan Hill	1	1	1	0	362
+Murray River - Swan Hill	1	1	1	1	73
+Campaspe					131
+Campaspe	0	0	0	1	618
+Campaspe	0	0	1	0	121
+Campaspe	0	0	1	1	57
+Campaspe	0	1	0	0	652
+Campaspe	0	1	0	1	69
+Campaspe	0	1	1	0	127
+Campaspe	0	1	1	1	18
+Campaspe	1	0	0	1	836
+Campaspe	1	0	1	0	264
+Campaspe	1	0	1	1	191
+Campaspe	1	1	0	0	1914
+Campaspe	1	1	0	1	117
+Campaspe	1	1	1	0	402
+Campaspe	1	1	1	1	75
+Moira					76
+Moira	0	0	0	1	474
+Moira	0	0	1	0	86
+Moira	0	0	1	1	41
+Moira	0	1	0	0	516
+Moira	0	1	0	1	46
+Moira	0	1	1	0	76
+Moira	0	1	1	1	18
+Moira	1	0	0	1	574
+Moira	1	0	1	0	182
+Moira	1	0	1	1	147
+Moira	1	1	0	0	1425
+Moira	1	1	0	1	99
+Moira	1	1	1	0	284
+Moira	1	1	1	1	70
+Shepparton					247
+Shepparton	0	0	0	1	1032
+Shepparton	0	0	1	0	208
+Shepparton	0	0	1	1	117
+Shepparton	0	1	0	0	1250
+Shepparton	0	1	0	1	141
+Shepparton	0	1	1	0	256
+Shepparton	0	1	1	1	59
+Shepparton	1	0	0	1	1380
+Shepparton	1	0	1	0	483
+Shepparton	1	0	1	1	361
+Shepparton	1	1	0	0	3860
+Shepparton	1	1	0	1	221
+Shepparton	1	1	1	0	748
+Shepparton	1	1	1	1	164
+Glenelg - Southern Grampians					128
+Glenelg - Southern Grampians	0	0	0	1	533
+Glenelg - Southern Grampians	0	0	1	0	125
+Glenelg - Southern Grampians	0	0	1	1	40
+Glenelg - Southern Grampians	0	1	0	0	549
+Glenelg - Southern Grampians	0	1	0	1	58
+Glenelg - Southern Grampians	0	1	1	0	116
+Glenelg - Southern Grampians	0	1	1	1	22
+Glenelg - Southern Grampians	1	0	0	1	764
+Glenelg - Southern Grampians	1	0	1	0	281
+Glenelg - Southern Grampians	1	0	1	1	133
+Glenelg - Southern Grampians	1	1	0	0	1840
+Glenelg - Southern Grampians	1	1	0	1	89
+Glenelg - Southern Grampians	1	1	1	0	330
+Glenelg - Southern Grampians	1	1	1	1	56
+Colac - Corangamite					159
+Colac - Corangamite	0	0	0	1	592
+Colac - Corangamite	0	0	1	0	103
+Colac - Corangamite	0	0	1	1	55
+Colac - Corangamite	0	1	0	0	527
+Colac - Corangamite	0	1	0	1	42
+Colac - Corangamite	0	1	1	0	84
+Colac - Corangamite	0	1	1	1	26
+Colac - Corangamite	1	0	0	1	738
+Colac - Corangamite	1	0	1	0	275
+Colac - Corangamite	1	0	1	1	196
+Colac - Corangamite	1	1	0	0	1902
+Colac - Corangamite	1	1	0	1	94
+Colac - Corangamite	1	1	1	0	413
+Colac - Corangamite	1	1	1	1	98
+Warrnambool					220
+Warrnambool	0	0	0	1	828
+Warrnambool	0	0	1	0	172
+Warrnambool	0	0	1	1	87
+Warrnambool	0	1	0	0	885
+Warrnambool	0	1	0	1	83
+Warrnambool	0	1	1	0	152
+Warrnambool	0	1	1	1	29
+Warrnambool	1	0	0	1	1070
+Warrnambool	1	0	1	0	443
+Warrnambool	1	0	1	1	270
+Warrnambool	1	1	0	0	2992
+Warrnambool	1	1	0	1	157
+Warrnambool	1	1	1	0	555
+Warrnambool	1	1	1	1	125
+Capalaba					276
+Capalaba	0	0	0	1	1333
+Capalaba	0	0	1	0	358
+Capalaba	0	0	1	1	146
+Capalaba	0	1	0	0	1221
+Capalaba	0	1	0	1	119
+Capalaba	0	1	1	0	245
+Capalaba	0	1	1	1	41
+Capalaba	1	0	0	1	1903
+Capalaba	1	0	1	0	842
+Capalaba	1	0	1	1	513
+Capalaba	1	1	0	0	4791
+Capalaba	1	1	0	1	246
+Capalaba	1	1	1	0	924
+Capalaba	1	1	1	1	138
+Cleveland - Stradbroke					272
+Cleveland - Stradbroke	0	0	0	1	1425
+Cleveland - Stradbroke	0	0	1	0	381
+Cleveland - Stradbroke	0	0	1	1	169
+Cleveland - Stradbroke	0	1	0	0	1412
+Cleveland - Stradbroke	0	1	0	1	132
+Cleveland - Stradbroke	0	1	1	0	282
+Cleveland - Stradbroke	0	1	1	1	59
+Cleveland - Stradbroke	1	0	0	1	2249
+Cleveland - Stradbroke	1	0	1	0	1085
+Cleveland - Stradbroke	1	0	1	1	631
+Cleveland - Stradbroke	1	1	0	0	5591
+Cleveland - Stradbroke	1	1	0	1	303
+Cleveland - Stradbroke	1	1	1	0	1125
+Cleveland - Stradbroke	1	1	1	1	217
+Wynnum - Manly					320
+Wynnum - Manly	0	0	0	1	1204
+Wynnum - Manly	0	0	1	0	336
+Wynnum - Manly	0	0	1	1	124
+Wynnum - Manly	0	1	0	0	1338
+Wynnum - Manly	0	1	0	1	72
+Wynnum - Manly	0	1	1	0	259
+Wynnum - Manly	0	1	1	1	30
+Wynnum - Manly	1	0	0	1	1483
+Wynnum - Manly	1	0	1	0	905
+Wynnum - Manly	1	0	1	1	394
+Wynnum - Manly	1	1	0	0	5625
+Wynnum - Manly	1	1	0	1	189
+Wynnum - Manly	1	1	1	0	943
+Wynnum - Manly	1	1	1	1	117
+Bald Hills - Everton Park					207
+Bald Hills - Everton Park	0	0	0	1	652
+Bald Hills - Everton Park	0	0	1	0	209
+Bald Hills - Everton Park	0	0	1	1	80
+Bald Hills - Everton Park	0	1	0	0	671
+Bald Hills - Everton Park	0	1	0	1	43
+Bald Hills - Everton Park	0	1	1	0	124
+Bald Hills - Everton Park	0	1	1	1	16
+Bald Hills - Everton Park	1	0	0	1	993
+Bald Hills - Everton Park	1	0	1	0	622
+Bald Hills - Everton Park	1	0	1	1	336
+Bald Hills - Everton Park	1	1	0	0	3547
+Bald Hills - Everton Park	1	1	0	1	111
+Bald Hills - Everton Park	1	1	1	0	664
+Bald Hills - Everton Park	1	1	1	1	84
+Chermside					512
+Chermside	0	0	0	1	1165
+Chermside	0	0	1	0	383
+Chermside	0	0	1	1	118
+Chermside	0	1	0	0	1111
+Chermside	0	1	0	1	93
+Chermside	0	1	1	0	191
+Chermside	0	1	1	1	35
+Chermside	1	0	0	1	1117
+Chermside	1	0	1	0	848
+Chermside	1	0	1	1	393
+Chermside	1	1	0	0	5183
+Chermside	1	1	0	1	117
+Chermside	1	1	1	0	811
+Chermside	1	1	1	1	99
+Nundah					306
+Nundah	0	0	0	1	608
+Nundah	0	0	1	0	197
+Nundah	0	0	1	1	65
+Nundah	0	1	0	0	643
+Nundah	0	1	0	1	31
+Nundah	0	1	1	0	101
+Nundah	0	1	1	1	14
+Nundah	1	0	0	1	681
+Nundah	1	0	1	0	349
+Nundah	1	0	1	1	190
+Nundah	1	1	0	0	2891
+Nundah	1	1	0	1	66
+Nundah	1	1	1	0	352
+Nundah	1	1	1	1	39
+Sandgate					326
+Sandgate	0	0	0	1	1103
+Sandgate	0	0	1	0	295
+Sandgate	0	0	1	1	109
+Sandgate	0	1	0	0	1129
+Sandgate	0	1	0	1	83
+Sandgate	0	1	1	0	219
+Sandgate	0	1	1	1	42
+Sandgate	1	0	0	1	1126
+Sandgate	1	0	1	0	629
+Sandgate	1	0	1	1	303
+Sandgate	1	1	0	0	4433
+Sandgate	1	1	0	1	137
+Sandgate	1	1	1	0	665
+Sandgate	1	1	1	1	105
+Carindale					287
+Carindale	0	0	0	1	740
+Carindale	0	0	1	0	277
+Carindale	0	0	1	1	90
+Carindale	0	1	0	0	760
+Carindale	0	1	0	1	44
+Carindale	0	1	1	0	110
+Carindale	0	1	1	1	20
+Carindale	1	0	0	1	1085
+Carindale	1	0	1	0	797
+Carindale	1	0	1	1	380
+Carindale	1	1	0	0	4132
+Carindale	1	1	0	1	111
+Carindale	1	1	1	0	684
+Carindale	1	1	1	1	69
+Holland Park - Yeronga					656
+Holland Park - Yeronga	0	0	0	1	873
+Holland Park - Yeronga	0	0	1	0	357
+Holland Park - Yeronga	0	0	1	1	97
+Holland Park - Yeronga	0	1	0	0	944
+Holland Park - Yeronga	0	1	0	1	40
+Holland Park - Yeronga	0	1	1	0	146
+Holland Park - Yeronga	0	1	1	1	21
+Holland Park - Yeronga	1	0	0	1	851
+Holland Park - Yeronga	1	0	1	0	888
+Holland Park - Yeronga	1	0	1	1	358
+Holland Park - Yeronga	1	1	0	0	4804
+Holland Park - Yeronga	1	1	0	1	90
+Holland Park - Yeronga	1	1	1	0	725
+Holland Park - Yeronga	1	1	1	1	58
+Mt Gravatt					443
+Mt Gravatt	0	0	0	1	1138
+Mt Gravatt	0	0	1	0	396
+Mt Gravatt	0	0	1	1	157
+Mt Gravatt	0	1	0	0	1086
+Mt Gravatt	0	1	0	1	70
+Mt Gravatt	0	1	1	0	249
+Mt Gravatt	0	1	1	1	30
+Mt Gravatt	1	0	0	1	1547
+Mt Gravatt	1	0	1	0	1058
+Mt Gravatt	1	0	1	1	496
+Mt Gravatt	1	1	0	0	5916
+Mt Gravatt	1	1	0	1	159
+Mt Gravatt	1	1	1	0	1153
+Mt Gravatt	1	1	1	1	133
+Nathan					292
+Nathan	0	0	0	1	560
+Nathan	0	0	1	0	169
+Nathan	0	0	1	1	61
+Nathan	0	1	0	0	555
+Nathan	0	1	0	1	31
+Nathan	0	1	1	0	101
+Nathan	0	1	1	1	17
+Nathan	1	0	0	1	646
+Nathan	1	0	1	0	427
+Nathan	1	0	1	1	210
+Nathan	1	1	0	0	2993
+Nathan	1	1	0	1	63
+Nathan	1	1	1	0	453
+Nathan	1	1	1	1	50
+Rocklea - Acacia Ridge					271
+Rocklea - Acacia Ridge	0	0	0	1	1001
+Rocklea - Acacia Ridge	0	0	1	0	299
+Rocklea - Acacia Ridge	0	0	1	1	131
+Rocklea - Acacia Ridge	0	1	0	0	1119
+Rocklea - Acacia Ridge	0	1	0	1	106
+Rocklea - Acacia Ridge	0	1	1	0	219
+Rocklea - Acacia Ridge	0	1	1	1	63
+Rocklea - Acacia Ridge	1	0	0	1	1594
+Rocklea - Acacia Ridge	1	0	1	0	713
+Rocklea - Acacia Ridge	1	0	1	1	414
+Rocklea - Acacia Ridge	1	1	0	0	5748
+Rocklea - Acacia Ridge	1	1	0	1	195
+Rocklea - Acacia Ridge	1	1	1	0	933
+Rocklea - Acacia Ridge	1	1	1	1	169
+Sunnybank					277
+Sunnybank	0	0	0	1	762
+Sunnybank	0	0	1	0	229
+Sunnybank	0	0	1	1	103
+Sunnybank	0	1	0	0	677
+Sunnybank	0	1	0	1	65
+Sunnybank	0	1	1	0	143
+Sunnybank	0	1	1	1	43
+Sunnybank	1	0	0	1	1203
+Sunnybank	1	0	1	0	551
+Sunnybank	1	0	1	1	340
+Sunnybank	1	1	0	0	3475
+Sunnybank	1	1	0	1	117
+Sunnybank	1	1	1	0	565
+Sunnybank	1	1	1	1	121
+Centenary					98
+Centenary	0	0	0	1	447
+Centenary	0	0	1	0	178
+Centenary	0	0	1	1	57
+Centenary	0	1	0	0	396
+Centenary	0	1	0	1	27
+Centenary	0	1	1	0	92
+Centenary	0	1	1	1	13
+Centenary	1	0	0	1	854
+Centenary	1	0	1	0	595
+Centenary	1	0	1	1	250
+Centenary	1	1	0	0	2460
+Centenary	1	1	0	1	67
+Centenary	1	1	1	0	517
+Centenary	1	1	1	1	53
+Kenmore - Brookfield - Moggill					115
+Kenmore - Brookfield - Moggill	0	0	0	1	428
+Kenmore - Brookfield - Moggill	0	0	1	0	253
+Kenmore - Brookfield - Moggill	0	0	1	1	77
+Kenmore - Brookfield - Moggill	0	1	0	0	489
+Kenmore - Brookfield - Moggill	0	1	0	1	38
+Kenmore - Brookfield - Moggill	0	1	1	0	161
+Kenmore - Brookfield - Moggill	0	1	1	1	20
+Kenmore - Brookfield - Moggill	1	0	0	1	1066
+Kenmore - Brookfield - Moggill	1	0	1	0	999
+Kenmore - Brookfield - Moggill	1	0	1	1	411
+Kenmore - Brookfield - Moggill	1	1	0	0	3860
+Kenmore - Brookfield - Moggill	1	1	0	1	92
+Kenmore - Brookfield - Moggill	1	1	1	0	983
+Kenmore - Brookfield - Moggill	1	1	1	1	65
+Sherwood - Indooroopilly					405
+Sherwood - Indooroopilly	0	0	0	1	475
+Sherwood - Indooroopilly	0	0	1	0	322
+Sherwood - Indooroopilly	0	0	1	1	66
+Sherwood - Indooroopilly	0	1	0	0	621
+Sherwood - Indooroopilly	0	1	0	1	34
+Sherwood - Indooroopilly	0	1	1	0	163
+Sherwood - Indooroopilly	0	1	1	1	4
+Sherwood - Indooroopilly	1	0	0	1	627
+Sherwood - Indooroopilly	1	0	1	0	759
+Sherwood - Indooroopilly	1	0	1	1	281
+Sherwood - Indooroopilly	1	1	0	0	3558
+Sherwood - Indooroopilly	1	1	0	1	50
+Sherwood - Indooroopilly	1	1	1	0	695
+Sherwood - Indooroopilly	1	1	1	1	38
+The Gap - Enoggera					203
+The Gap - Enoggera	0	0	0	1	705
+The Gap - Enoggera	0	0	1	0	293
+The Gap - Enoggera	0	0	1	1	117
+The Gap - Enoggera	0	1	0	0	850
+The Gap - Enoggera	0	1	0	1	50
+The Gap - Enoggera	0	1	1	0	210
+The Gap - Enoggera	0	1	1	1	31
+The Gap - Enoggera	1	0	0	1	952
+The Gap - Enoggera	1	0	1	0	733
+The Gap - Enoggera	1	0	1	1	342
+The Gap - Enoggera	1	1	0	0	4280
+The Gap - Enoggera	1	1	0	1	112
+The Gap - Enoggera	1	1	1	0	805
+The Gap - Enoggera	1	1	1	1	94
+Brisbane Inner					611
+Brisbane Inner	0	0	0	1	627
+Brisbane Inner	0	0	1	0	425
+Brisbane Inner	0	0	1	1	62
+Brisbane Inner	0	1	0	0	863
+Brisbane Inner	0	1	0	1	18
+Brisbane Inner	0	1	1	0	160
+Brisbane Inner	0	1	1	1	4
+Brisbane Inner	1	0	0	1	561
+Brisbane Inner	1	0	1	0	637
+Brisbane Inner	1	0	1	1	156
+Brisbane Inner	1	1	0	0	3099
+Brisbane Inner	1	1	0	1	48
+Brisbane Inner	1	1	1	0	459
+Brisbane Inner	1	1	1	1	25
+Brisbane Inner - East					249
+Brisbane Inner - East	0	0	0	1	464
+Brisbane Inner - East	0	0	1	0	215
+Brisbane Inner - East	0	0	1	1	62
+Brisbane Inner - East	0	1	0	0	683
+Brisbane Inner - East	0	1	0	1	25
+Brisbane Inner - East	0	1	1	0	138
+Brisbane Inner - East	0	1	1	1	10
+Brisbane Inner - East	1	0	0	1	522
+Brisbane Inner - East	1	0	1	0	633
+Brisbane Inner - East	1	0	1	1	207
+Brisbane Inner - East	1	1	0	0	3234
+Brisbane Inner - East	1	1	0	1	38
+Brisbane Inner - East	1	1	1	0	495
+Brisbane Inner - East	1	1	1	1	37
+Brisbane Inner - North					718
+Brisbane Inner - North	0	0	0	1	901
+Brisbane Inner - North	0	0	1	0	511
+Brisbane Inner - North	0	0	1	1	129
+Brisbane Inner - North	0	1	0	0	1154
+Brisbane Inner - North	0	1	0	1	45
+Brisbane Inner - North	0	1	1	0	199
+Brisbane Inner - North	0	1	1	1	11
+Brisbane Inner - North	1	0	0	1	1007
+Brisbane Inner - North	1	0	1	0	1153
+Brisbane Inner - North	1	0	1	1	384
+Brisbane Inner - North	1	1	0	0	5596
+Brisbane Inner - North	1	1	0	1	74
+Brisbane Inner - North	1	1	1	0	929
+Brisbane Inner - North	1	1	1	1	63
+Brisbane Inner - West					416
+Brisbane Inner - West	0	0	0	1	467
+Brisbane Inner - West	0	0	1	0	329
+Brisbane Inner - West	0	0	1	1	78
+Brisbane Inner - West	0	1	0	0	643
+Brisbane Inner - West	0	1	0	1	23
+Brisbane Inner - West	0	1	1	0	135
+Brisbane Inner - West	0	1	1	1	9
+Brisbane Inner - West	1	0	0	1	740
+Brisbane Inner - West	1	0	1	0	908
+Brisbane Inner - West	1	0	1	1	312
+Brisbane Inner - West	1	1	0	0	3959
+Brisbane Inner - West	1	1	0	1	45
+Brisbane Inner - West	1	1	1	0	835
+Brisbane Inner - West	1	1	1	1	41
+Cairns - North					178
+Cairns - North	0	0	0	1	759
+Cairns - North	0	0	1	0	257
+Cairns - North	0	0	1	1	82
+Cairns - North	0	1	0	0	1146
+Cairns - North	0	1	0	1	91
+Cairns - North	0	1	1	0	243
+Cairns - North	0	1	1	1	31
+Cairns - North	1	0	0	1	908
+Cairns - North	1	0	1	0	543
+Cairns - North	1	0	1	1	255
+Cairns - North	1	1	0	0	3880
+Cairns - North	1	1	0	1	181
+Cairns - North	1	1	1	0	702
+Cairns - North	1	1	1	1	103
+Cairns - South					502
+Cairns - South	0	0	0	1	1675
+Cairns - South	0	0	1	0	484
+Cairns - South	0	0	1	1	156
+Cairns - South	0	1	0	0	2580
+Cairns - South	0	1	0	1	249
+Cairns - South	0	1	1	0	419
+Cairns - South	0	1	1	1	112
+Cairns - South	1	0	0	1	1472
+Cairns - South	1	0	1	0	726
+Cairns - South	1	0	1	1	334
+Cairns - South	1	1	0	0	5550
+Cairns - South	1	1	0	1	347
+Cairns - South	1	1	1	0	958
+Cairns - South	1	1	1	1	189
+Innisfail - Cassowary Coast					163
+Innisfail - Cassowary Coast	0	0	0	1	554
+Innisfail - Cassowary Coast	0	0	1	0	97
+Innisfail - Cassowary Coast	0	0	1	1	34
+Innisfail - Cassowary Coast	0	1	0	0	663
+Innisfail - Cassowary Coast	0	1	0	1	112
+Innisfail - Cassowary Coast	0	1	1	0	114
+Innisfail - Cassowary Coast	0	1	1	1	29
+Innisfail - Cassowary Coast	1	0	0	1	651
+Innisfail - Cassowary Coast	1	0	1	0	196
+Innisfail - Cassowary Coast	1	0	1	1	92
+Innisfail - Cassowary Coast	1	1	0	0	1685
+Innisfail - Cassowary Coast	1	1	0	1	142
+Innisfail - Cassowary Coast	1	1	1	0	293
+Innisfail - Cassowary Coast	1	1	1	1	72
+Port Douglas - Daintree					51
+Port Douglas - Daintree	0	0	0	1	139
+Port Douglas - Daintree	0	0	1	0	27
+Port Douglas - Daintree	0	0	1	1	7
+Port Douglas - Daintree	0	1	0	0	180
+Port Douglas - Daintree	0	1	0	1	26
+Port Douglas - Daintree	0	1	1	0	32
+Port Douglas - Daintree	0	1	1	1	3
+Port Douglas - Daintree	1	0	0	1	170
+Port Douglas - Daintree	1	0	1	0	58
+Port Douglas - Daintree	1	0	1	1	39
+Port Douglas - Daintree	1	1	0	0	566
+Port Douglas - Daintree	1	1	0	1	29
+Port Douglas - Daintree	1	1	1	0	87
+Port Douglas - Daintree	1	1	1	1	9
+Tablelands (East) - Kuranda					175
+Tablelands (East) - Kuranda	0	0	0	1	700
+Tablelands (East) - Kuranda	0	0	1	0	130
+Tablelands (East) - Kuranda	0	0	1	1	41
+Tablelands (East) - Kuranda	0	1	0	0	775
+Tablelands (East) - Kuranda	0	1	0	1	100
+Tablelands (East) - Kuranda	0	1	1	0	151
+Tablelands (East) - Kuranda	0	1	1	1	37
+Tablelands (East) - Kuranda	1	0	0	1	752
+Tablelands (East) - Kuranda	1	0	1	0	250
+Tablelands (East) - Kuranda	1	0	1	1	123
+Tablelands (East) - Kuranda	1	1	0	0	1934
+Tablelands (East) - Kuranda	1	1	0	1	128
+Tablelands (East) - Kuranda	1	1	1	0	403
+Tablelands (East) - Kuranda	1	1	1	1	91
+Darling Downs (West) - Maranoa					165
+Darling Downs (West) - Maranoa	0	0	0	1	508
+Darling Downs (West) - Maranoa	0	0	1	0	91
+Darling Downs (West) - Maranoa	0	0	1	1	33
+Darling Downs (West) - Maranoa	0	1	0	0	807
+Darling Downs (West) - Maranoa	0	1	0	1	89
+Darling Downs (West) - Maranoa	0	1	1	0	106
+Darling Downs (West) - Maranoa	0	1	1	1	20
+Darling Downs (West) - Maranoa	1	0	0	1	657
+Darling Downs (West) - Maranoa	1	0	1	0	275
+Darling Downs (West) - Maranoa	1	0	1	1	129
+Darling Downs (West) - Maranoa	1	1	0	0	2646
+Darling Downs (West) - Maranoa	1	1	0	1	151
+Darling Downs (West) - Maranoa	1	1	1	0	465
+Darling Downs (West) - Maranoa	1	1	1	1	84
+Darling Downs - East					177
+Darling Downs - East	0	0	0	1	585
+Darling Downs - East	0	0	1	0	104
+Darling Downs - East	0	0	1	1	45
+Darling Downs - East	0	1	0	0	818
+Darling Downs - East	0	1	0	1	90
+Darling Downs - East	0	1	1	0	117
+Darling Downs - East	0	1	1	1	24
+Darling Downs - East	1	0	0	1	805
+Darling Downs - East	1	0	1	0	293
+Darling Downs - East	1	0	1	1	154
+Darling Downs - East	1	1	0	0	2294
+Darling Downs - East	1	1	0	1	148
+Darling Downs - East	1	1	1	0	477
+Darling Downs - East	1	1	1	1	125
+Granite Belt					138
+Granite Belt	0	0	0	1	625
+Granite Belt	0	0	1	0	120
+Granite Belt	0	0	1	1	41
+Granite Belt	0	1	0	0	761
+Granite Belt	0	1	0	1	88
+Granite Belt	0	1	1	0	122
+Granite Belt	0	1	1	1	20
+Granite Belt	1	0	0	1	831
+Granite Belt	1	0	1	0	243
+Granite Belt	1	0	1	1	163
+Granite Belt	1	1	0	0	1922
+Granite Belt	1	1	0	1	125
+Granite Belt	1	1	1	0	400
+Granite Belt	1	1	1	1	71
+Central Highlands (Qld)					102
+Central Highlands (Qld)	0	0	0	1	268
+Central Highlands (Qld)	0	0	1	0	61
+Central Highlands (Qld)	0	0	1	1	23
+Central Highlands (Qld)	0	1	0	0	546
+Central Highlands (Qld)	0	1	0	1	55
+Central Highlands (Qld)	0	1	1	0	77
+Central Highlands (Qld)	0	1	1	1	14
+Central Highlands (Qld)	1	0	0	1	395
+Central Highlands (Qld)	1	0	1	0	185
+Central Highlands (Qld)	1	0	1	1	86
+Central Highlands (Qld)	1	1	0	0	2037
+Central Highlands (Qld)	1	1	0	1	115
+Central Highlands (Qld)	1	1	1	0	358
+Central Highlands (Qld)	1	1	1	1	44
+Rockhampton					513
+Rockhampton	0	0	0	1	1925
+Rockhampton	0	0	1	0	392
+Rockhampton	0	0	1	1	157
+Rockhampton	0	1	0	0	2559
+Rockhampton	0	1	0	1	277
+Rockhampton	0	1	1	0	413
+Rockhampton	0	1	1	1	103
+Rockhampton	1	0	0	1	2234
+Rockhampton	1	0	1	0	801
+Rockhampton	1	0	1	1	504
+Rockhampton	1	1	0	0	6914
+Rockhampton	1	1	0	1	491
+Rockhampton	1	1	1	0	1251
+Rockhampton	1	1	1	1	230
+Biloela					48
+Biloela	0	0	0	1	145
+Biloela	0	0	1	0	18
+Biloela	0	0	1	1	9
+Biloela	0	1	0	0	195
+Biloela	0	1	0	1	17
+Biloela	0	1	1	0	37
+Biloela	0	1	1	1	10
+Biloela	1	0	0	1	251
+Biloela	1	0	1	0	91
+Biloela	1	0	1	1	48
+Biloela	1	1	0	0	939
+Biloela	1	1	0	1	49
+Biloela	1	1	1	0	155
+Biloela	1	1	1	1	30
+Gladstone					202
+Gladstone	0	0	0	1	749
+Gladstone	0	0	1	0	208
+Gladstone	0	0	1	1	62
+Gladstone	0	1	0	0	1385
+Gladstone	0	1	0	1	120
+Gladstone	0	1	1	0	233
+Gladstone	0	1	1	1	41
+Gladstone	1	0	0	1	997
+Gladstone	1	0	1	0	529
+Gladstone	1	0	1	1	245
+Gladstone	1	1	0	0	4113
+Gladstone	1	1	0	1	238
+Gladstone	1	1	1	0	766
+Gladstone	1	1	1	1	130
+Broadbeach - Burleigh					301
+Broadbeach - Burleigh	0	0	0	1	1057
+Broadbeach - Burleigh	0	0	1	0	336
+Broadbeach - Burleigh	0	0	1	1	90
+Broadbeach - Burleigh	0	1	0	0	958
+Broadbeach - Burleigh	0	1	0	1	60
+Broadbeach - Burleigh	0	1	1	0	158
+Broadbeach - Burleigh	0	1	1	1	17
+Broadbeach - Burleigh	1	0	0	1	1042
+Broadbeach - Burleigh	1	0	1	0	575
+Broadbeach - Burleigh	1	0	1	1	288
+Broadbeach - Burleigh	1	1	0	0	3691
+Broadbeach - Burleigh	1	1	0	1	123
+Broadbeach - Burleigh	1	1	1	0	566
+Broadbeach - Burleigh	1	1	1	1	61
+Coolangatta					227
+Coolangatta	0	0	0	1	999
+Coolangatta	0	0	1	0	279
+Coolangatta	0	0	1	1	102
+Coolangatta	0	1	0	0	938
+Coolangatta	0	1	0	1	87
+Coolangatta	0	1	1	0	151
+Coolangatta	0	1	1	1	29
+Coolangatta	1	0	0	1	1072
+Coolangatta	1	0	1	0	474
+Coolangatta	1	0	1	1	267
+Coolangatta	1	1	0	0	3444
+Coolangatta	1	1	0	1	166
+Coolangatta	1	1	1	0	546
+Coolangatta	1	1	1	1	74
+Gold Coast - North					346
+Gold Coast - North	0	0	0	1	1415
+Gold Coast - North	0	0	1	0	366
+Gold Coast - North	0	0	1	1	111
+Gold Coast - North	0	1	0	0	1267
+Gold Coast - North	0	1	0	1	116
+Gold Coast - North	0	1	1	0	192
+Gold Coast - North	0	1	1	1	34
+Gold Coast - North	1	0	0	1	1213
+Gold Coast - North	1	0	1	0	556
+Gold Coast - North	1	0	1	1	277
+Gold Coast - North	1	1	0	0	3265
+Gold Coast - North	1	1	0	1	135
+Gold Coast - North	1	1	1	0	488
+Gold Coast - North	1	1	1	1	77
+Gold Coast Hinterland					47
+Gold Coast Hinterland	0	0	0	1	299
+Gold Coast Hinterland	0	0	1	0	67
+Gold Coast Hinterland	0	0	1	1	21
+Gold Coast Hinterland	0	1	0	0	254
+Gold Coast Hinterland	0	1	0	1	20
+Gold Coast Hinterland	0	1	1	0	57
+Gold Coast Hinterland	0	1	1	1	6
+Gold Coast Hinterland	1	0	0	1	514
+Gold Coast Hinterland	1	0	1	0	220
+Gold Coast Hinterland	1	0	1	1	99
+Gold Coast Hinterland	1	1	0	0	1173
+Gold Coast Hinterland	1	1	0	1	88
+Gold Coast Hinterland	1	1	1	0	237
+Gold Coast Hinterland	1	1	1	1	50
+Mudgeeraba - Tallebudgera					88
+Mudgeeraba - Tallebudgera	0	0	0	1	473
+Mudgeeraba - Tallebudgera	0	0	1	0	159
+Mudgeeraba - Tallebudgera	0	0	1	1	72
+Mudgeeraba - Tallebudgera	0	1	0	0	591
+Mudgeeraba - Tallebudgera	0	1	0	1	45
+Mudgeeraba - Tallebudgera	0	1	1	0	145
+Mudgeeraba - Tallebudgera	0	1	1	1	16
+Mudgeeraba - Tallebudgera	1	0	0	1	883
+Mudgeeraba - Tallebudgera	1	0	1	0	469
+Mudgeeraba - Tallebudgera	1	0	1	1	264
+Mudgeeraba - Tallebudgera	1	1	0	0	2749
+Mudgeeraba - Tallebudgera	1	1	0	1	129
+Mudgeeraba - Tallebudgera	1	1	1	0	582
+Mudgeeraba - Tallebudgera	1	1	1	1	86
+Nerang					260
+Nerang	0	0	0	1	1299
+Nerang	0	0	1	0	277
+Nerang	0	0	1	1	163
+Nerang	0	1	0	0	1270
+Nerang	0	1	0	1	146
+Nerang	0	1	1	0	260
+Nerang	0	1	1	1	52
+Nerang	1	0	0	1	1733
+Nerang	1	0	1	0	732
+Nerang	1	0	1	1	395
+Nerang	1	1	0	0	4661
+Nerang	1	1	0	1	262
+Nerang	1	1	1	0	894
+Nerang	1	1	1	1	145
+Ormeau - Oxenford					484
+Ormeau - Oxenford	0	0	0	1	2090
+Ormeau - Oxenford	0	0	1	0	632
+Ormeau - Oxenford	0	0	1	1	293
+Ormeau - Oxenford	0	1	0	0	3399
+Ormeau - Oxenford	0	1	0	1	317
+Ormeau - Oxenford	0	1	1	0	577
+Ormeau - Oxenford	0	1	1	1	148
+Ormeau - Oxenford	1	0	0	1	3216
+Ormeau - Oxenford	1	0	1	0	1590
+Ormeau - Oxenford	1	0	1	1	949
+Ormeau - Oxenford	1	1	0	0	11967
+Ormeau - Oxenford	1	1	0	1	767
+Ormeau - Oxenford	1	1	1	0	2149
+Ormeau - Oxenford	1	1	1	1	380
+Robina					215
+Robina	0	0	0	1	981
+Robina	0	0	1	0	348
+Robina	0	0	1	1	117
+Robina	0	1	0	0	1054
+Robina	0	1	0	1	65
+Robina	0	1	1	0	221
+Robina	0	1	1	1	27
+Robina	1	0	0	1	1085
+Robina	1	0	1	0	601
+Robina	1	0	1	1	271
+Robina	1	1	0	0	3363
+Robina	1	1	0	1	133
+Robina	1	1	1	0	601
+Robina	1	1	1	1	61
+Southport					381
+Southport	0	0	0	1	1245
+Southport	0	0	1	0	369
+Southport	0	0	1	1	127
+Southport	0	1	0	0	1132
+Southport	0	1	0	1	100
+Southport	0	1	1	0	193
+Southport	0	1	1	1	28
+Southport	1	0	0	1	1045
+Southport	1	0	1	0	559
+Southport	1	0	1	1	254
+Southport	1	1	0	0	3025
+Southport	1	1	0	1	139
+Southport	1	1	1	0	509
+Southport	1	1	1	1	69
+Surfers Paradise					204
+Surfers Paradise	0	0	0	1	588
+Surfers Paradise	0	0	1	0	204
+Surfers Paradise	0	0	1	1	45
+Surfers Paradise	0	1	0	0	569
+Surfers Paradise	0	1	0	1	32
+Surfers Paradise	0	1	1	0	90
+Surfers Paradise	0	1	1	1	7
+Surfers Paradise	1	0	0	1	567
+Surfers Paradise	1	0	1	0	433
+Surfers Paradise	1	0	1	1	129
+Surfers Paradise	1	1	0	0	1800
+Surfers Paradise	1	1	0	1	62
+Surfers Paradise	1	1	1	0	342
+Surfers Paradise	1	1	1	1	36
+Forest Lake - Oxley					452
+Forest Lake - Oxley	0	0	0	1	1495
+Forest Lake - Oxley	0	0	1	0	382
+Forest Lake - Oxley	0	0	1	1	212
+Forest Lake - Oxley	0	1	0	0	1636
+Forest Lake - Oxley	0	1	0	1	171
+Forest Lake - Oxley	0	1	1	0	330
+Forest Lake - Oxley	0	1	1	1	94
+Forest Lake - Oxley	1	0	0	1	1474
+Forest Lake - Oxley	1	0	1	0	749
+Forest Lake - Oxley	1	0	1	1	465
+Forest Lake - Oxley	1	1	0	0	4940
+Forest Lake - Oxley	1	1	0	1	258
+Forest Lake - Oxley	1	1	1	0	865
+Forest Lake - Oxley	1	1	1	1	236
+Ipswich Hinterland					212
+Ipswich Hinterland	0	0	0	1	1045
+Ipswich Hinterland	0	0	1	0	181
+Ipswich Hinterland	0	0	1	1	100
+Ipswich Hinterland	0	1	0	0	1232
+Ipswich Hinterland	0	1	0	1	167
+Ipswich Hinterland	0	1	1	0	196
+Ipswich Hinterland	0	1	1	1	48
+Ipswich Hinterland	1	0	0	1	1463
+Ipswich Hinterland	1	0	1	0	476
+Ipswich Hinterland	1	0	1	1	307
+Ipswich Hinterland	1	1	0	0	3502
+Ipswich Hinterland	1	1	0	1	321
+Ipswich Hinterland	1	1	1	0	751
+Ipswich Hinterland	1	1	1	1	172
+Ipswich Inner					556
+Ipswich Inner	0	0	0	1	2190
+Ipswich Inner	0	0	1	0	485
+Ipswich Inner	0	0	1	1	174
+Ipswich Inner	0	1	0	0	3019
+Ipswich Inner	0	1	0	1	334
+Ipswich Inner	0	1	1	0	504
+Ipswich Inner	0	1	1	1	101
+Ipswich Inner	1	0	0	1	2321
+Ipswich Inner	1	0	1	0	860
+Ipswich Inner	1	0	1	1	517
+Ipswich Inner	1	1	0	0	7256
+Ipswich Inner	1	1	0	1	445
+Ipswich Inner	1	1	1	0	1189
+Ipswich Inner	1	1	1	1	266
+Springfield - Redbank					407
+Springfield - Redbank	0	0	0	1	1535
+Springfield - Redbank	0	0	1	0	385
+Springfield - Redbank	0	0	1	1	226
+Springfield - Redbank	0	1	0	0	2748
+Springfield - Redbank	0	1	0	1	281
+Springfield - Redbank	0	1	1	0	467
+Springfield - Redbank	0	1	1	1	138
+Springfield - Redbank	1	0	0	1	1735
+Springfield - Redbank	1	0	1	0	836
+Springfield - Redbank	1	0	1	1	509
+Springfield - Redbank	1	1	0	0	8395
+Springfield - Redbank	1	1	0	1	505
+Springfield - Redbank	1	1	1	0	1340
+Springfield - Redbank	1	1	1	1	375
+Beaudesert					70
+Beaudesert	0	0	0	1	274
+Beaudesert	0	0	1	0	54
+Beaudesert	0	0	1	1	21
+Beaudesert	0	1	0	0	330
+Beaudesert	0	1	0	1	37
+Beaudesert	0	1	1	0	60
+Beaudesert	0	1	1	1	16
+Beaudesert	1	0	0	1	289
+Beaudesert	1	0	1	0	92
+Beaudesert	1	0	1	1	53
+Beaudesert	1	1	0	0	677
+Beaudesert	1	1	0	1	59
+Beaudesert	1	1	1	0	143
+Beaudesert	1	1	1	1	26
+Beenleigh					228
+Beenleigh	0	0	0	1	951
+Beenleigh	0	0	1	0	176
+Beenleigh	0	0	1	1	84
+Beenleigh	0	1	0	0	1233
+Beenleigh	0	1	0	1	155
+Beenleigh	0	1	1	0	172
+Beenleigh	0	1	1	1	44
+Beenleigh	1	0	0	1	853
+Beenleigh	1	0	1	0	269
+Beenleigh	1	0	1	1	171
+Beenleigh	1	1	0	0	2652
+Beenleigh	1	1	0	1	163
+Beenleigh	1	1	1	0	399
+Beenleigh	1	1	1	1	112
+Browns Plains					417
+Browns Plains	0	0	0	1	1601
+Browns Plains	0	0	1	0	332
+Browns Plains	0	0	1	1	183
+Browns Plains	0	1	0	0	2293
+Browns Plains	0	1	0	1	269
+Browns Plains	0	1	1	0	401
+Browns Plains	0	1	1	1	155
+Browns Plains	1	0	0	1	2078
+Browns Plains	1	0	1	0	650
+Browns Plains	1	0	1	1	494
+Browns Plains	1	1	0	0	5979
+Browns Plains	1	1	0	1	455
+Browns Plains	1	1	1	0	1073
+Browns Plains	1	1	1	1	348
+Jimboomba					130
+Jimboomba	0	0	0	1	732
+Jimboomba	0	0	1	0	153
+Jimboomba	0	0	1	1	90
+Jimboomba	0	1	0	0	1277
+Jimboomba	0	1	0	1	127
+Jimboomba	0	1	1	0	193
+Jimboomba	0	1	1	1	43
+Jimboomba	1	0	0	1	1538
+Jimboomba	1	0	1	0	528
+Jimboomba	1	0	1	1	409
+Jimboomba	1	1	0	0	4810
+Jimboomba	1	1	0	1	351
+Jimboomba	1	1	1	0	837
+Jimboomba	1	1	1	1	214
+Loganlea - Carbrook					267
+Loganlea - Carbrook	0	0	0	1	1181
+Loganlea - Carbrook	0	0	1	0	254
+Loganlea - Carbrook	0	0	1	1	126
+Loganlea - Carbrook	0	1	0	0	1390
+Loganlea - Carbrook	0	1	0	1	116
+Loganlea - Carbrook	0	1	1	0	231
+Loganlea - Carbrook	0	1	1	1	71
+Loganlea - Carbrook	1	0	0	1	1432
+Loganlea - Carbrook	1	0	1	0	508
+Loganlea - Carbrook	1	0	1	1	342
+Loganlea - Carbrook	1	1	0	0	4036
+Loganlea - Carbrook	1	1	0	1	275
+Loganlea - Carbrook	1	1	1	0	764
+Loganlea - Carbrook	1	1	1	1	194
+Springwood - Kingston					408
+Springwood - Kingston	0	0	0	1	1620
+Springwood - Kingston	0	0	1	0	365
+Springwood - Kingston	0	0	1	1	162
+Springwood - Kingston	0	1	0	0	1876
+Springwood - Kingston	0	1	0	1	231
+Springwood - Kingston	0	1	1	0	350
+Springwood - Kingston	0	1	1	1	126
+Springwood - Kingston	1	0	0	1	1571
+Springwood - Kingston	1	0	1	0	619
+Springwood - Kingston	1	0	1	1	421
+Springwood - Kingston	1	1	0	0	4689
+Springwood - Kingston	1	1	0	1	320
+Springwood - Kingston	1	1	1	0	848
+Springwood - Kingston	1	1	1	1	256
+Bowen Basin - North					108
+Bowen Basin - North	0	0	0	1	290
+Bowen Basin - North	0	0	1	0	56
+Bowen Basin - North	0	0	1	1	19
+Bowen Basin - North	0	1	0	0	562
+Bowen Basin - North	0	1	0	1	49
+Bowen Basin - North	0	1	1	0	65
+Bowen Basin - North	0	1	1	1	15
+Bowen Basin - North	1	0	0	1	445
+Bowen Basin - North	1	0	1	0	184
+Bowen Basin - North	1	0	1	1	99
+Bowen Basin - North	1	1	0	0	2234
+Bowen Basin - North	1	1	0	1	117
+Bowen Basin - North	1	1	1	0	325
+Bowen Basin - North	1	1	1	1	53
+Mackay					447
+Mackay	0	0	0	1	1538
+Mackay	0	0	1	0	352
+Mackay	0	0	1	1	140
+Mackay	0	1	0	0	2235
+Mackay	0	1	0	1	191
+Mackay	0	1	1	0	371
+Mackay	0	1	1	1	59
+Mackay	1	0	0	1	2473
+Mackay	1	0	1	0	858
+Mackay	1	0	1	1	563
+Mackay	1	1	0	0	7610
+Mackay	1	1	0	1	525
+Mackay	1	1	1	0	1327
+Mackay	1	1	1	1	251
+Whitsunday					61
+Whitsunday	0	0	0	1	223
+Whitsunday	0	0	1	0	78
+Whitsunday	0	0	1	1	19
+Whitsunday	0	1	0	0	373
+Whitsunday	0	1	0	1	40
+Whitsunday	0	1	1	0	74
+Whitsunday	0	1	1	1	7
+Whitsunday	1	0	0	1	324
+Whitsunday	1	0	1	0	133
+Whitsunday	1	0	1	1	58
+Whitsunday	1	1	0	0	1255
+Whitsunday	1	1	0	1	84
+Whitsunday	1	1	1	0	202
+Whitsunday	1	1	1	1	19
+Bribie - Beachmere					121
+Bribie - Beachmere	0	0	0	1	654
+Bribie - Beachmere	0	0	1	0	143
+Bribie - Beachmere	0	0	1	1	36
+Bribie - Beachmere	0	1	0	0	531
+Bribie - Beachmere	0	1	0	1	60
+Bribie - Beachmere	0	1	1	0	109
+Bribie - Beachmere	0	1	1	1	17
+Bribie - Beachmere	1	0	0	1	693
+Bribie - Beachmere	1	0	1	0	208
+Bribie - Beachmere	1	0	1	1	102
+Bribie - Beachmere	1	1	0	0	1199
+Bribie - Beachmere	1	1	0	1	131
+Bribie - Beachmere	1	1	1	0	239
+Bribie - Beachmere	1	1	1	1	53
+Caboolture					341
+Caboolture	0	0	0	1	1503
+Caboolture	0	0	1	0	328
+Caboolture	0	0	1	1	147
+Caboolture	0	1	0	0	2161
+Caboolture	0	1	0	1	226
+Caboolture	0	1	1	0	318
+Caboolture	0	1	1	1	103
+Caboolture	1	0	0	1	1613
+Caboolture	1	0	1	0	470
+Caboolture	1	0	1	1	311
+Caboolture	1	1	0	0	4614
+Caboolture	1	1	0	1	370
+Caboolture	1	1	1	0	795
+Caboolture	1	1	1	1	199
+Caboolture Hinterland					38
+Caboolture Hinterland	0	0	0	1	198
+Caboolture Hinterland	0	0	1	0	45
+Caboolture Hinterland	0	0	1	1	11
+Caboolture Hinterland	0	1	0	0	196
+Caboolture Hinterland	0	1	0	1	27
+Caboolture Hinterland	0	1	1	0	28
+Caboolture Hinterland	0	1	1	1	6
+Caboolture Hinterland	1	0	0	1	301
+Caboolture Hinterland	1	0	1	0	102
+Caboolture Hinterland	1	0	1	1	53
+Caboolture Hinterland	1	1	0	0	761
+Caboolture Hinterland	1	1	0	1	64
+Caboolture Hinterland	1	1	1	0	135
+Caboolture Hinterland	1	1	1	1	25
+Narangba - Burpengary					240
+Narangba - Burpengary	0	0	0	1	1154
+Narangba - Burpengary	0	0	1	0	275
+Narangba - Burpengary	0	0	1	1	120
+Narangba - Burpengary	0	1	0	0	1539
+Narangba - Burpengary	0	1	0	1	177
+Narangba - Burpengary	0	1	1	0	274
+Narangba - Burpengary	0	1	1	1	63
+Narangba - Burpengary	1	0	0	1	1721
+Narangba - Burpengary	1	0	1	0	562
+Narangba - Burpengary	1	0	1	1	447
+Narangba - Burpengary	1	1	0	0	4210
+Narangba - Burpengary	1	1	0	1	344
+Narangba - Burpengary	1	1	1	0	892
+Narangba - Burpengary	1	1	1	1	212
+Redcliffe					263
+Redcliffe	0	0	0	1	1373
+Redcliffe	0	0	1	0	321
+Redcliffe	0	0	1	1	111
+Redcliffe	0	1	0	0	1284
+Redcliffe	0	1	0	1	136
+Redcliffe	0	1	1	0	221
+Redcliffe	0	1	1	1	62
+Redcliffe	1	0	0	1	1279
+Redcliffe	1	0	1	0	462
+Redcliffe	1	0	1	1	241
+Redcliffe	1	1	0	0	2952
+Redcliffe	1	1	0	1	175
+Redcliffe	1	1	1	0	563
+Redcliffe	1	1	1	1	122
+The Hills District					231
+The Hills District	0	0	0	1	1017
+The Hills District	0	0	1	0	346
+The Hills District	0	0	1	1	169
+The Hills District	0	1	0	0	1190
+The Hills District	0	1	0	1	82
+The Hills District	0	1	1	0	234
+The Hills District	0	1	1	1	35
+The Hills District	1	0	0	1	2339
+The Hills District	1	0	1	0	1307
+The Hills District	1	0	1	1	802
+The Hills District	1	1	0	0	6916
+The Hills District	1	1	0	1	284
+The Hills District	1	1	1	0	1556
+The Hills District	1	1	1	1	191
+North Lakes					307
+North Lakes	0	0	0	1	1236
+North Lakes	0	0	1	0	441
+North Lakes	0	0	1	1	166
+North Lakes	0	1	0	0	2222
+North Lakes	0	1	0	1	167
+North Lakes	0	1	1	0	405
+North Lakes	0	1	1	1	72
+North Lakes	1	0	0	1	1431
+North Lakes	1	0	1	0	806
+North Lakes	1	0	1	1	460
+North Lakes	1	1	0	0	7272
+North Lakes	1	1	0	1	338
+North Lakes	1	1	1	0	1133
+North Lakes	1	1	1	1	207
+Strathpine					206
+Strathpine	0	0	0	1	808
+Strathpine	0	0	1	0	186
+Strathpine	0	0	1	1	86
+Strathpine	0	1	0	0	902
+Strathpine	0	1	0	1	102
+Strathpine	0	1	1	0	152
+Strathpine	0	1	1	1	27
+Strathpine	1	0	0	1	850
+Strathpine	1	0	1	0	316
+Strathpine	1	0	1	1	224
+Strathpine	1	1	0	0	2613
+Strathpine	1	1	0	1	142
+Strathpine	1	1	1	0	397
+Strathpine	1	1	1	1	103
+Far North					210
+Far North	0	0	0	1	489
+Far North	0	0	1	0	61
+Far North	0	0	1	1	29
+Far North	0	1	0	0	916
+Far North	0	1	0	1	166
+Far North	0	1	1	0	64
+Far North	0	1	1	1	45
+Far North	1	0	0	1	436
+Far North	1	0	1	0	100
+Far North	1	0	1	1	77
+Far North	1	1	0	0	1704
+Far North	1	1	0	1	282
+Far North	1	1	1	0	233
+Far North	1	1	1	1	90
+Outback - North					148
+Outback - North	0	0	0	1	392
+Outback - North	0	0	1	0	56
+Outback - North	0	0	1	1	24
+Outback - North	0	1	0	0	711
+Outback - North	0	1	0	1	108
+Outback - North	0	1	1	0	73
+Outback - North	0	1	1	1	21
+Outback - North	1	0	0	1	355
+Outback - North	1	0	1	0	132
+Outback - North	1	0	1	1	100
+Outback - North	1	1	0	0	1916
+Outback - North	1	1	0	1	151
+Outback - North	1	1	1	0	228
+Outback - North	1	1	1	1	67
+Outback - South					69
+Outback - South	0	0	0	1	202
+Outback - South	0	0	1	0	40
+Outback - South	0	0	1	1	4
+Outback - South	0	1	0	0	294
+Outback - South	0	1	0	1	25
+Outback - South	0	1	1	0	44
+Outback - South	0	1	1	1	6
+Outback - South	1	0	0	1	248
+Outback - South	1	0	1	0	97
+Outback - South	1	0	1	1	33
+Outback - South	1	1	0	0	935
+Outback - South	1	1	0	1	43
+Outback - South	1	1	1	0	136
+Outback - South	1	1	1	1	31
+Buderim					162
+Buderim	0	0	0	1	749
+Buderim	0	0	1	0	272
+Buderim	0	0	1	1	106
+Buderim	0	1	0	0	1011
+Buderim	0	1	0	1	80
+Buderim	0	1	1	0	229
+Buderim	0	1	1	1	29
+Buderim	1	0	0	1	1096
+Buderim	1	0	1	0	670
+Buderim	1	0	1	1	316
+Buderim	1	1	0	0	3743
+Buderim	1	1	0	1	183
+Buderim	1	1	1	0	790
+Buderim	1	1	1	1	96
+Caloundra					309
+Caloundra	0	0	0	1	1512
+Caloundra	0	0	1	0	417
+Caloundra	0	0	1	1	138
+Caloundra	0	1	0	0	1641
+Caloundra	0	1	0	1	150
+Caloundra	0	1	1	0	304
+Caloundra	0	1	1	1	51
+Caloundra	1	0	0	1	1751
+Caloundra	1	0	1	0	885
+Caloundra	1	0	1	1	470
+Caloundra	1	1	0	0	5579
+Caloundra	1	1	0	1	279
+Caloundra	1	1	1	0	1053
+Caloundra	1	1	1	1	172
+Maroochy					225
+Maroochy	0	0	0	1	1024
+Maroochy	0	0	1	0	325
+Maroochy	0	0	1	1	82
+Maroochy	0	1	0	0	1027
+Maroochy	0	1	0	1	63
+Maroochy	0	1	1	0	151
+Maroochy	0	1	1	1	19
+Maroochy	1	0	0	1	945
+Maroochy	1	0	1	0	478
+Maroochy	1	0	1	1	226
+Maroochy	1	1	0	0	3123
+Maroochy	1	1	0	1	132
+Maroochy	1	1	1	0	470
+Maroochy	1	1	1	1	65
+Noosa					99
+Noosa	0	0	0	1	640
+Noosa	0	0	1	0	238
+Noosa	0	0	1	1	72
+Noosa	0	1	0	0	750
+Noosa	0	1	0	1	53
+Noosa	0	1	1	0	168
+Noosa	0	1	1	1	14
+Noosa	1	0	0	1	712
+Noosa	1	0	1	0	447
+Noosa	1	0	1	1	191
+Noosa	1	1	0	0	2697
+Noosa	1	1	0	1	109
+Noosa	1	1	1	0	524
+Noosa	1	1	1	1	64
+Sunshine Coast Hinterland					178
+Sunshine Coast Hinterland	0	0	0	1	880
+Sunshine Coast Hinterland	0	0	1	0	213
+Sunshine Coast Hinterland	0	0	1	1	84
+Sunshine Coast Hinterland	0	1	0	0	911
+Sunshine Coast Hinterland	0	1	0	1	89
+Sunshine Coast Hinterland	0	1	1	0	164
+Sunshine Coast Hinterland	0	1	1	1	22
+Sunshine Coast Hinterland	1	0	0	1	1405
+Sunshine Coast Hinterland	1	0	1	0	500
+Sunshine Coast Hinterland	1	0	1	1	305
+Sunshine Coast Hinterland	1	1	0	0	3500
+Sunshine Coast Hinterland	1	1	0	1	215
+Sunshine Coast Hinterland	1	1	1	0	662
+Sunshine Coast Hinterland	1	1	1	1	114
+Nambour					145
+Nambour	0	0	0	1	830
+Nambour	0	0	1	0	199
+Nambour	0	0	1	1	78
+Nambour	0	1	0	0	882
+Nambour	0	1	0	1	83
+Nambour	0	1	1	0	161
+Nambour	0	1	1	1	14
+Nambour	1	0	0	1	1071
+Nambour	1	0	1	0	398
+Nambour	1	0	1	1	222
+Nambour	1	1	0	0	3319
+Nambour	1	1	0	1	179
+Nambour	1	1	1	0	551
+Nambour	1	1	1	1	95
+Noosa Hinterland					50
+Noosa Hinterland	0	0	0	1	375
+Noosa Hinterland	0	0	1	0	79
+Noosa Hinterland	0	0	1	1	31
+Noosa Hinterland	0	1	0	0	279
+Noosa Hinterland	0	1	0	1	33
+Noosa Hinterland	0	1	1	0	64
+Noosa Hinterland	0	1	1	1	16
+Noosa Hinterland	1	0	0	1	593
+Noosa Hinterland	1	0	1	0	219
+Noosa Hinterland	1	0	1	1	126
+Noosa Hinterland	1	1	0	0	1314
+Noosa Hinterland	1	1	0	1	91
+Noosa Hinterland	1	1	1	0	319
+Noosa Hinterland	1	1	1	1	42
+Toowoomba					685
+Toowoomba	0	0	0	1	2303
+Toowoomba	0	0	1	0	549
+Toowoomba	0	0	1	1	245
+Toowoomba	0	1	0	0	3078
+Toowoomba	0	1	0	1	316
+Toowoomba	0	1	1	0	612
+Toowoomba	0	1	1	1	133
+Toowoomba	1	0	0	1	2687
+Toowoomba	1	0	1	0	1251
+Toowoomba	1	0	1	1	650
+Toowoomba	1	1	0	0	9590
+Toowoomba	1	1	0	1	507
+Toowoomba	1	1	1	0	1861
+Toowoomba	1	1	1	1	401
+Charters Towers - Ayr - Ingham					184
+Charters Towers - Ayr - Ingham	0	0	0	1	616
+Charters Towers - Ayr - Ingham	0	0	1	0	99
+Charters Towers - Ayr - Ingham	0	0	1	1	46
+Charters Towers - Ayr - Ingham	0	1	0	0	749
+Charters Towers - Ayr - Ingham	0	1	0	1	100
+Charters Towers - Ayr - Ingham	0	1	1	0	121
+Charters Towers - Ayr - Ingham	0	1	1	1	22
+Charters Towers - Ayr - Ingham	1	0	0	1	801
+Charters Towers - Ayr - Ingham	1	0	1	0	247
+Charters Towers - Ayr - Ingham	1	0	1	1	143
+Charters Towers - Ayr - Ingham	1	1	0	0	1843
+Charters Towers - Ayr - Ingham	1	1	0	1	143
+Charters Towers - Ayr - Ingham	1	1	1	0	390
+Charters Towers - Ayr - Ingham	1	1	1	1	74
+Townsville					888
+Townsville	0	0	0	1	2773
+Townsville	0	0	1	0	776
+Townsville	0	0	1	1	310
+Townsville	0	1	0	0	4149
+Townsville	0	1	0	1	418
+Townsville	0	1	1	0	712
+Townsville	0	1	1	1	152
+Townsville	1	0	0	1	3151
+Townsville	1	0	1	0	1590
+Townsville	1	0	1	1	747
+Townsville	1	1	0	0	11286
+Townsville	1	1	0	1	634
+Townsville	1	1	1	0	2016
+Townsville	1	1	1	1	350
+Bundaberg					357
+Bundaberg	0	0	0	1	1602
+Bundaberg	0	0	1	0	282
+Bundaberg	0	0	1	1	137
+Bundaberg	0	1	0	0	1880
+Bundaberg	0	1	0	1	252
+Bundaberg	0	1	1	0	304
+Bundaberg	0	1	1	1	68
+Bundaberg	1	0	0	1	1768
+Bundaberg	1	0	1	0	612
+Bundaberg	1	0	1	1	298
+Bundaberg	1	1	0	0	4254
+Bundaberg	1	1	0	1	358
+Bundaberg	1	1	1	0	858
+Bundaberg	1	1	1	1	165
+Burnett					233
+Burnett	0	0	0	1	769
+Burnett	0	0	1	0	153
+Burnett	0	0	1	1	35
+Burnett	0	1	0	0	934
+Burnett	0	1	0	1	122
+Burnett	0	1	1	0	154
+Burnett	0	1	1	1	37
+Burnett	1	0	0	1	893
+Burnett	1	0	1	0	291
+Burnett	1	0	1	1	132
+Burnett	1	1	0	0	2052
+Burnett	1	1	0	1	177
+Burnett	1	1	1	0	409
+Burnett	1	1	1	1	88
+Gympie - Cooloola					170
+Gympie - Cooloola	0	0	0	1	945
+Gympie - Cooloola	0	0	1	0	183
+Gympie - Cooloola	0	0	1	1	59
+Gympie - Cooloola	0	1	0	0	983
+Gympie - Cooloola	0	1	0	1	99
+Gympie - Cooloola	0	1	1	0	183
+Gympie - Cooloola	0	1	1	1	41
+Gympie - Cooloola	1	0	0	1	1084
+Gympie - Cooloola	1	0	1	0	332
+Gympie - Cooloola	1	0	1	1	166
+Gympie - Cooloola	1	1	0	0	2425
+Gympie - Cooloola	1	1	0	1	222
+Gympie - Cooloola	1	1	1	0	477
+Gympie - Cooloola	1	1	1	1	112
+Hervey Bay					226
+Hervey Bay	0	0	0	1	1100
+Hervey Bay	0	0	1	0	229
+Hervey Bay	0	0	1	1	66
+Hervey Bay	0	1	0	0	1331
+Hervey Bay	0	1	0	1	163
+Hervey Bay	0	1	1	0	240
+Hervey Bay	0	1	1	1	57
+Hervey Bay	1	0	0	1	1115
+Hervey Bay	1	0	1	0	346
+Hervey Bay	1	0	1	1	191
+Hervey Bay	1	1	0	0	2710
+Hervey Bay	1	1	0	1	220
+Hervey Bay	1	1	1	0	553
+Hervey Bay	1	1	1	1	103
+Maryborough					180
+Maryborough	0	0	0	1	899
+Maryborough	0	0	1	0	138
+Maryborough	0	0	1	1	50
+Maryborough	0	1	0	0	918
+Maryborough	0	1	0	1	103
+Maryborough	0	1	1	0	124
+Maryborough	0	1	1	1	40
+Maryborough	1	0	0	1	972
+Maryborough	1	0	1	0	239
+Maryborough	1	0	1	1	150
+Maryborough	1	1	0	0	1771
+Maryborough	1	1	0	1	187
+Maryborough	1	1	1	0	379
+Maryborough	1	1	1	1	80
+Adelaide City					191
+Adelaide City	0	0	0	1	154
+Adelaide City	0	0	1	0	122
+Adelaide City	0	0	1	1	7
+Adelaide City	0	1	0	0	223
+Adelaide City	0	1	1	0	33
+Adelaide City	0	1	1	1	4
+Adelaide City	1	0	0	1	137
+Adelaide City	1	0	1	0	118
+Adelaide City	1	0	1	1	27
+Adelaide City	1	1	0	0	611
+Adelaide City	1	1	0	1	3
+Adelaide City	1	1	1	0	65
+Adelaide City	1	1	1	1	10
+Adelaide Hills					186
+Adelaide Hills	0	0	0	1	1017
+Adelaide Hills	0	0	1	0	351
+Adelaide Hills	0	0	1	1	137
+Adelaide Hills	0	1	0	0	1036
+Adelaide Hills	0	1	0	1	78
+Adelaide Hills	0	1	1	0	228
+Adelaide Hills	0	1	1	1	37
+Adelaide Hills	1	0	0	1	1810
+Adelaide Hills	1	0	1	0	1054
+Adelaide Hills	1	0	1	1	588
+Adelaide Hills	1	1	0	0	5435
+Adelaide Hills	1	1	0	1	186
+Adelaide Hills	1	1	1	0	1112
+Adelaide Hills	1	1	1	1	163
+Burnside					141
+Burnside	0	0	0	1	480
+Burnside	0	0	1	0	276
+Burnside	0	0	1	1	77
+Burnside	0	1	0	0	457
+Burnside	0	1	0	1	16
+Burnside	0	1	1	0	129
+Burnside	0	1	1	1	10
+Burnside	1	0	0	1	885
+Burnside	1	0	1	0	971
+Burnside	1	0	1	1	368
+Burnside	1	1	0	0	2999
+Burnside	1	1	0	1	53
+Burnside	1	1	1	0	811
+Burnside	1	1	1	1	42
+Campbelltown (SA)					258
+Campbelltown (SA)	0	0	0	1	955
+Campbelltown (SA)	0	0	1	0	307
+Campbelltown (SA)	0	0	1	1	137
+Campbelltown (SA)	0	1	0	0	719
+Campbelltown (SA)	0	1	0	1	49
+Campbelltown (SA)	0	1	1	0	176
+Campbelltown (SA)	0	1	1	1	19
+Campbelltown (SA)	1	0	0	1	1398
+Campbelltown (SA)	1	0	1	0	731
+Campbelltown (SA)	1	0	1	1	370
+Campbelltown (SA)	1	1	0	0	3690
+Campbelltown (SA)	1	1	0	1	89
+Campbelltown (SA)	1	1	1	0	651
+Campbelltown (SA)	1	1	1	1	60
+Norwood - Payneham - St Peters					191
+Norwood - Payneham - St Peters	0	0	0	1	517
+Norwood - Payneham - St Peters	0	0	1	0	229
+Norwood - Payneham - St Peters	0	0	1	1	59
+Norwood - Payneham - St Peters	0	1	0	0	444
+Norwood - Payneham - St Peters	0	1	0	1	14
+Norwood - Payneham - St Peters	0	1	1	0	93
+Norwood - Payneham - St Peters	0	1	1	1	5
+Norwood - Payneham - St Peters	1	0	0	1	582
+Norwood - Payneham - St Peters	1	0	1	0	509
+Norwood - Payneham - St Peters	1	0	1	1	194
+Norwood - Payneham - St Peters	1	1	0	0	2188
+Norwood - Payneham - St Peters	1	1	0	1	41
+Norwood - Payneham - St Peters	1	1	1	0	402
+Norwood - Payneham - St Peters	1	1	1	1	32
+Prospect - Walkerville					155
+Prospect - Walkerville	0	0	0	1	357
+Prospect - Walkerville	0	0	1	0	136
+Prospect - Walkerville	0	0	1	1	42
+Prospect - Walkerville	0	1	0	0	357
+Prospect - Walkerville	0	1	0	1	11
+Prospect - Walkerville	0	1	1	0	60
+Prospect - Walkerville	0	1	1	1	14
+Prospect - Walkerville	1	0	0	1	548
+Prospect - Walkerville	1	0	1	0	444
+Prospect - Walkerville	1	0	1	1	194
+Prospect - Walkerville	1	1	0	0	2054
+Prospect - Walkerville	1	1	0	1	39
+Prospect - Walkerville	1	1	1	0	379
+Prospect - Walkerville	1	1	1	1	38
+Unley					189
+Unley	0	0	0	1	414
+Unley	0	0	1	0	242
+Unley	0	0	1	1	62
+Unley	0	1	0	0	470
+Unley	0	1	0	1	15
+Unley	0	1	1	0	107
+Unley	0	1	1	1	7
+Unley	1	0	0	1	629
+Unley	1	0	1	0	609
+Unley	1	0	1	1	259
+Unley	1	1	0	0	2422
+Unley	1	1	0	1	42
+Unley	1	1	1	0	469
+Unley	1	1	1	1	35
+Gawler - Two Wells					134
+Gawler - Two Wells	0	0	0	1	687
+Gawler - Two Wells	0	0	1	0	176
+Gawler - Two Wells	0	0	1	1	85
+Gawler - Two Wells	0	1	0	0	742
+Gawler - Two Wells	0	1	0	1	63
+Gawler - Two Wells	0	1	1	0	160
+Gawler - Two Wells	0	1	1	1	26
+Gawler - Two Wells	1	0	0	1	946
+Gawler - Two Wells	1	0	1	0	337
+Gawler - Two Wells	1	0	1	1	250
+Gawler - Two Wells	1	1	0	0	2147
+Gawler - Two Wells	1	1	0	1	153
+Gawler - Two Wells	1	1	1	0	443
+Gawler - Two Wells	1	1	1	1	85
+Playford					496
+Playford	0	0	0	1	2157
+Playford	0	0	1	0	457
+Playford	0	0	1	1	217
+Playford	0	1	0	0	3109
+Playford	0	1	0	1	337
+Playford	0	1	1	0	466
+Playford	0	1	1	1	138
+Playford	1	0	0	1	1941
+Playford	1	0	1	0	559
+Playford	1	0	1	1	460
+Playford	1	1	0	0	5766
+Playford	1	1	0	1	431
+Playford	1	1	1	0	1027
+Playford	1	1	1	1	296
+Port Adelaide - East					474
+Port Adelaide - East	0	0	0	1	1347
+Port Adelaide - East	0	0	1	0	336
+Port Adelaide - East	0	0	1	1	157
+Port Adelaide - East	0	1	0	0	1133
+Port Adelaide - East	0	1	0	1	102
+Port Adelaide - East	0	1	1	0	219
+Port Adelaide - East	0	1	1	1	39
+Port Adelaide - East	1	0	0	1	1212
+Port Adelaide - East	1	0	1	0	744
+Port Adelaide - East	1	0	1	1	336
+Port Adelaide - East	1	1	0	0	5660
+Port Adelaide - East	1	1	0	1	130
+Port Adelaide - East	1	1	1	0	833
+Port Adelaide - East	1	1	1	1	147
+Salisbury					709
+Salisbury	0	0	0	1	2979
+Salisbury	0	0	1	0	697
+Salisbury	0	0	1	1	348
+Salisbury	0	1	0	0	2907
+Salisbury	0	1	0	1	382
+Salisbury	0	1	1	0	553
+Salisbury	0	1	1	1	137
+Salisbury	1	0	0	1	3319
+Salisbury	1	0	1	0	1173
+Salisbury	1	0	1	1	874
+Salisbury	1	1	0	0	8929
+Salisbury	1	1	0	1	491
+Salisbury	1	1	1	0	1720
+Salisbury	1	1	1	1	457
+Tea Tree Gully					319
+Tea Tree Gully	0	0	0	1	1774
+Tea Tree Gully	0	0	1	0	459
+Tea Tree Gully	0	0	1	1	225
+Tea Tree Gully	0	1	0	0	1386
+Tea Tree Gully	0	1	0	1	141
+Tea Tree Gully	0	1	1	0	295
+Tea Tree Gully	0	1	1	1	46
+Tea Tree Gully	1	0	0	1	2511
+Tea Tree Gully	1	0	1	0	1110
+Tea Tree Gully	1	0	1	1	767
+Tea Tree Gully	1	1	0	0	6211
+Tea Tree Gully	1	1	0	1	266
+Tea Tree Gully	1	1	1	0	1155
+Tea Tree Gully	1	1	1	1	184
+Holdfast Bay					126
+Holdfast Bay	0	0	0	1	465
+Holdfast Bay	0	0	1	0	158
+Holdfast Bay	0	0	1	1	55
+Holdfast Bay	0	1	0	0	452
+Holdfast Bay	0	1	0	1	21
+Holdfast Bay	0	1	1	0	89
+Holdfast Bay	1	0	0	1	614
+Holdfast Bay	1	0	1	0	439
+Holdfast Bay	1	0	1	1	227
+Holdfast Bay	1	1	0	0	1800
+Holdfast Bay	1	1	0	1	55
+Holdfast Bay	1	1	1	0	371
+Holdfast Bay	1	1	1	1	36
+Marion					498
+Marion	0	0	0	1	1733
+Marion	0	0	1	0	503
+Marion	0	0	1	1	189
+Marion	0	1	0	0	1504
+Marion	0	1	0	1	105
+Marion	0	1	1	0	276
+Marion	0	1	1	1	39
+Marion	1	0	0	1	1969
+Marion	1	0	1	0	989
+Marion	1	0	1	1	559
+Marion	1	1	0	0	6221
+Marion	1	1	0	1	182
+Marion	1	1	1	0	948
+Marion	1	1	1	1	123
+Mitcham					229
+Mitcham	0	0	0	1	856
+Mitcham	0	0	1	0	356
+Mitcham	0	0	1	1	119
+Mitcham	0	1	0	0	687
+Mitcham	0	1	0	1	40
+Mitcham	0	1	1	0	179
+Mitcham	0	1	1	1	16
+Mitcham	1	0	0	1	1440
+Mitcham	1	0	1	0	1061
+Mitcham	1	0	1	1	556
+Mitcham	1	1	0	0	4559
+Mitcham	1	1	0	1	91
+Mitcham	1	1	1	0	1012
+Mitcham	1	1	1	1	89
+Onkaparinga					650
+Onkaparinga	0	0	0	1	3411
+Onkaparinga	0	0	1	0	825
+Onkaparinga	0	0	1	1	372
+Onkaparinga	0	1	0	0	3632
+Onkaparinga	0	1	0	1	353
+Onkaparinga	0	1	1	0	689
+Onkaparinga	0	1	1	1	138
+Onkaparinga	1	0	0	1	4311
+Onkaparinga	1	0	1	0	1549
+Onkaparinga	1	0	1	1	1105
+Onkaparinga	1	1	0	0	10403
+Onkaparinga	1	1	0	1	551
+Onkaparinga	1	1	1	0	1863
+Onkaparinga	1	1	1	1	347
+Charles Sturt					680
+Charles Sturt	0	0	0	1	2404
+Charles Sturt	0	0	1	0	585
+Charles Sturt	0	0	1	1	239
+Charles Sturt	0	1	0	0	1706
+Charles Sturt	0	1	0	1	148
+Charles Sturt	0	1	1	0	335
+Charles Sturt	0	1	1	1	62
+Charles Sturt	1	0	0	1	2718
+Charles Sturt	1	0	1	0	1200
+Charles Sturt	1	0	1	1	829
+Charles Sturt	1	1	0	0	6958
+Charles Sturt	1	1	0	1	210
+Charles Sturt	1	1	1	0	1087
+Charles Sturt	1	1	1	1	165
+Port Adelaide - West					425
+Port Adelaide - West	0	0	0	1	1476
+Port Adelaide - West	0	0	1	0	311
+Port Adelaide - West	0	0	1	1	129
+Port Adelaide - West	0	1	0	0	1066
+Port Adelaide - West	0	1	0	1	105
+Port Adelaide - West	0	1	1	0	195
+Port Adelaide - West	0	1	1	1	53
+Port Adelaide - West	1	0	0	1	1352
+Port Adelaide - West	1	0	1	0	560
+Port Adelaide - West	1	0	1	1	352
+Port Adelaide - West	1	1	0	0	3282
+Port Adelaide - West	1	1	0	1	144
+Port Adelaide - West	1	1	1	0	566
+Port Adelaide - West	1	1	1	1	92
+West Torrens					444
+West Torrens	0	0	0	1	1112
+West Torrens	0	0	1	0	283
+West Torrens	0	0	1	1	119
+West Torrens	0	1	0	0	765
+West Torrens	0	1	0	1	47
+West Torrens	0	1	1	0	136
+West Torrens	0	1	1	1	15
+West Torrens	1	0	0	1	1180
+West Torrens	1	0	1	0	685
+West Torrens	1	0	1	1	366
+West Torrens	1	1	0	0	4022
+West Torrens	1	1	0	1	93
+West Torrens	1	1	1	0	628
+West Torrens	1	1	1	1	68
+Barossa					83
+Barossa	0	0	0	1	471
+Barossa	0	0	1	0	123
+Barossa	0	0	1	1	61
+Barossa	0	1	0	0	547
+Barossa	0	1	0	1	61
+Barossa	0	1	1	0	120
+Barossa	0	1	1	1	19
+Barossa	1	0	0	1	898
+Barossa	1	0	1	0	333
+Barossa	1	0	1	1	237
+Barossa	1	1	0	0	2239
+Barossa	1	1	0	1	125
+Barossa	1	1	1	0	446
+Barossa	1	1	1	1	97
+Lower North					50
+Lower North	0	0	0	1	283
+Lower North	0	0	1	0	80
+Lower North	0	0	1	1	22
+Lower North	0	1	0	0	343
+Lower North	0	1	0	1	23
+Lower North	0	1	1	0	57
+Lower North	0	1	1	1	10
+Lower North	1	0	0	1	417
+Lower North	1	0	1	0	154
+Lower North	1	0	1	1	74
+Lower North	1	1	0	0	1115
+Lower North	1	1	0	1	81
+Lower North	1	1	1	0	268
+Lower North	1	1	1	1	38
+Mid North					115
+Mid North	0	0	0	1	470
+Mid North	0	0	1	0	94
+Mid North	0	0	1	1	34
+Mid North	0	1	0	0	485
+Mid North	0	1	0	1	67
+Mid North	0	1	1	0	93
+Mid North	0	1	1	1	19
+Mid North	1	0	0	1	523
+Mid North	1	0	1	0	136
+Mid North	1	0	1	1	87
+Mid North	1	1	0	0	1246
+Mid North	1	1	0	1	86
+Mid North	1	1	1	0	242
+Mid North	1	1	1	1	54
+Yorke Peninsula					97
+Yorke Peninsula	0	0	0	1	358
+Yorke Peninsula	0	0	1	0	64
+Yorke Peninsula	0	0	1	1	25
+Yorke Peninsula	0	1	0	0	391
+Yorke Peninsula	0	1	0	1	37
+Yorke Peninsula	0	1	1	0	55
+Yorke Peninsula	0	1	1	1	20
+Yorke Peninsula	1	0	0	1	441
+Yorke Peninsula	1	0	1	0	122
+Yorke Peninsula	1	0	1	1	62
+Yorke Peninsula	1	1	0	0	1042
+Yorke Peninsula	1	1	0	1	58
+Yorke Peninsula	1	1	1	0	210
+Yorke Peninsula	1	1	1	1	37
+Eyre Peninsula and South West					195
+Eyre Peninsula and South West	0	0	0	1	801
+Eyre Peninsula and South West	0	0	1	0	195
+Eyre Peninsula and South West	0	0	1	1	57
+Eyre Peninsula and South West	0	1	0	0	1140
+Eyre Peninsula and South West	0	1	0	1	98
+Eyre Peninsula and South West	0	1	1	0	188
+Eyre Peninsula and South West	0	1	1	1	28
+Eyre Peninsula and South West	1	0	0	1	921
+Eyre Peninsula and South West	1	0	1	0	346
+Eyre Peninsula and South West	1	0	1	1	183
+Eyre Peninsula and South West	1	1	0	0	3099
+Eyre Peninsula and South West	1	1	0	1	178
+Eyre Peninsula and South West	1	1	1	0	577
+Eyre Peninsula and South West	1	1	1	1	94
+Outback - North and East					136
+Outback - North and East	0	0	0	1	370
+Outback - North and East	0	0	1	0	56
+Outback - North and East	0	0	1	1	18
+Outback - North and East	0	1	0	0	556
+Outback - North and East	0	1	0	1	68
+Outback - North and East	0	1	1	0	54
+Outback - North and East	0	1	1	1	22
+Outback - North and East	1	0	0	1	356
+Outback - North and East	1	0	1	0	111
+Outback - North and East	1	0	1	1	44
+Outback - North and East	1	1	0	0	1334
+Outback - North and East	1	1	0	1	92
+Outback - North and East	1	1	1	0	201
+Outback - North and East	1	1	1	1	53
+Fleurieu - Kangaroo Island					162
+Fleurieu - Kangaroo Island	0	0	0	1	751
+Fleurieu - Kangaroo Island	0	0	1	0	169
+Fleurieu - Kangaroo Island	0	0	1	1	68
+Fleurieu - Kangaroo Island	0	1	0	0	742
+Fleurieu - Kangaroo Island	0	1	0	1	84
+Fleurieu - Kangaroo Island	0	1	1	0	144
+Fleurieu - Kangaroo Island	0	1	1	1	16
+Fleurieu - Kangaroo Island	1	0	0	1	1022
+Fleurieu - Kangaroo Island	1	0	1	0	353
+Fleurieu - Kangaroo Island	1	0	1	1	192
+Fleurieu - Kangaroo Island	1	1	0	0	2354
+Fleurieu - Kangaroo Island	1	1	0	1	144
+Fleurieu - Kangaroo Island	1	1	1	0	501
+Fleurieu - Kangaroo Island	1	1	1	1	88
+Limestone Coast					217
+Limestone Coast	0	0	0	1	809
+Limestone Coast	0	0	1	0	213
+Limestone Coast	0	0	1	1	94
+Limestone Coast	0	1	0	0	1119
+Limestone Coast	0	1	0	1	108
+Limestone Coast	0	1	1	0	160
+Limestone Coast	0	1	1	1	37
+Limestone Coast	1	0	0	1	1209
+Limestone Coast	1	0	1	0	431
+Limestone Coast	1	0	1	1	305
+Limestone Coast	1	1	0	0	3605
+Limestone Coast	1	1	0	1	201
+Limestone Coast	1	1	1	0	700
+Limestone Coast	1	1	1	1	134
+Murray and Mallee					273
+Murray and Mallee	0	0	0	1	1190
+Murray and Mallee	0	0	1	0	214
+Murray and Mallee	0	0	1	1	94
+Murray and Mallee	0	1	0	0	1247
+Murray and Mallee	0	1	0	1	120
+Murray and Mallee	0	1	1	0	201
+Murray and Mallee	0	1	1	1	46
+Murray and Mallee	1	0	0	1	1356
+Murray and Mallee	1	0	1	0	428
+Murray and Mallee	1	0	1	1	255
+Murray and Mallee	1	1	0	0	3317
+Murray and Mallee	1	1	0	1	227
+Murray and Mallee	1	1	1	0	644
+Murray and Mallee	1	1	1	1	141
+Augusta - Margaret River - Busselton					115
+Augusta - Margaret River - Busselton	0	0	0	1	627
+Augusta - Margaret River - Busselton	0	0	1	0	166
+Augusta - Margaret River - Busselton	0	0	1	1	58
+Augusta - Margaret River - Busselton	0	1	0	0	925
+Augusta - Margaret River - Busselton	0	1	0	1	86
+Augusta - Margaret River - Busselton	0	1	1	0	196
+Augusta - Margaret River - Busselton	0	1	1	1	26
+Augusta - Margaret River - Busselton	1	0	0	1	851
+Augusta - Margaret River - Busselton	1	0	1	0	411
+Augusta - Margaret River - Busselton	1	0	1	1	201
+Augusta - Margaret River - Busselton	1	1	0	0	3715
+Augusta - Margaret River - Busselton	1	1	0	1	213
+Augusta - Margaret River - Busselton	1	1	1	0	646
+Augusta - Margaret River - Busselton	1	1	1	1	86
+Bunbury					335
+Bunbury	0	0	0	1	1511
+Bunbury	0	0	1	0	351
+Bunbury	0	0	1	1	155
+Bunbury	0	1	0	0	2100
+Bunbury	0	1	0	1	226
+Bunbury	0	1	1	0	347
+Bunbury	0	1	1	1	68
+Bunbury	1	0	0	1	2062
+Bunbury	1	0	1	0	771
+Bunbury	1	0	1	1	514
+Bunbury	1	1	0	0	6459
+Bunbury	1	1	0	1	462
+Bunbury	1	1	1	0	1212
+Bunbury	1	1	1	1	226
+Manjimup					71
+Manjimup	0	0	0	1	286
+Manjimup	0	0	1	0	71
+Manjimup	0	0	1	1	21
+Manjimup	0	1	0	0	275
+Manjimup	0	1	0	1	33
+Manjimup	0	1	1	0	56
+Manjimup	0	1	1	1	10
+Manjimup	1	0	0	1	391
+Manjimup	1	0	1	0	129
+Manjimup	1	0	1	1	100
+Manjimup	1	1	0	0	1246
+Manjimup	1	1	0	1	90
+Manjimup	1	1	1	0	210
+Manjimup	1	1	1	1	34
+Mandurah					349
+Mandurah	0	0	0	1	1660
+Mandurah	0	0	1	0	387
+Mandurah	0	0	1	1	165
+Mandurah	0	1	0	0	2185
+Mandurah	0	1	0	1	238
+Mandurah	0	1	1	0	346
+Mandurah	0	1	1	1	83
+Mandurah	1	0	0	1	2077
+Mandurah	1	0	1	0	847
+Mandurah	1	0	1	1	481
+Mandurah	1	1	0	0	5617
+Mandurah	1	1	0	1	417
+Mandurah	1	1	1	0	1028
+Mandurah	1	1	1	1	188
+Cottesloe - Claremont					221
+Cottesloe - Claremont	0	0	0	1	599
+Cottesloe - Claremont	0	0	1	0	408
+Cottesloe - Claremont	0	0	1	1	108
+Cottesloe - Claremont	0	1	0	0	600
+Cottesloe - Claremont	0	1	0	1	25
+Cottesloe - Claremont	0	1	1	0	180
+Cottesloe - Claremont	0	1	1	1	18
+Cottesloe - Claremont	1	0	0	1	1173
+Cottesloe - Claremont	1	0	1	0	1532
+Cottesloe - Claremont	1	0	1	1	589
+Cottesloe - Claremont	1	1	0	0	4448
+Cottesloe - Claremont	1	1	0	1	63
+Cottesloe - Claremont	1	1	1	0	1286
+Cottesloe - Claremont	1	1	1	1	85
+Perth City					573
+Perth City	0	0	0	1	972
+Perth City	0	0	1	0	481
+Perth City	0	0	1	1	91
+Perth City	0	1	0	0	1161
+Perth City	0	1	0	1	41
+Perth City	0	1	1	0	213
+Perth City	0	1	1	1	14
+Perth City	1	0	0	1	1053
+Perth City	1	0	1	0	1061
+Perth City	1	0	1	1	367
+Perth City	1	1	0	0	6644
+Perth City	1	1	0	1	72
+Perth City	1	1	1	0	865
+Perth City	1	1	1	1	62
+Bayswater - Bassendean					487
+Bayswater - Bassendean	0	0	0	1	1411
+Bayswater - Bassendean	0	0	1	0	353
+Bayswater - Bassendean	0	0	1	1	140
+Bayswater - Bassendean	0	1	0	0	1274
+Bayswater - Bassendean	0	1	0	1	98
+Bayswater - Bassendean	0	1	1	0	213
+Bayswater - Bassendean	0	1	1	1	36
+Bayswater - Bassendean	1	0	0	1	1638
+Bayswater - Bassendean	1	0	1	0	795
+Bayswater - Bassendean	1	0	1	1	452
+Bayswater - Bassendean	1	1	0	0	5529
+Bayswater - Bassendean	1	1	0	1	147
+Bayswater - Bassendean	1	1	1	0	790
+Bayswater - Bassendean	1	1	1	1	109
+Mundaring					135
+Mundaring	0	0	0	1	707
+Mundaring	0	0	1	0	156
+Mundaring	0	0	1	1	73
+Mundaring	0	1	0	0	572
+Mundaring	0	1	0	1	58
+Mundaring	0	1	1	0	115
+Mundaring	0	1	1	1	29
+Mundaring	1	0	0	1	1110
+Mundaring	1	0	1	0	419
+Mundaring	1	0	1	1	310
+Mundaring	1	1	0	0	2553
+Mundaring	1	1	0	1	146
+Mundaring	1	1	1	0	489
+Mundaring	1	1	1	1	95
+Swan					629
+Swan	0	0	0	1	2294
+Swan	0	0	1	0	574
+Swan	0	0	1	1	313
+Swan	0	1	0	0	2807
+Swan	0	1	0	1	310
+Swan	0	1	1	0	481
+Swan	0	1	1	1	128
+Swan	1	0	0	1	3243
+Swan	1	0	1	0	1376
+Swan	1	0	1	1	966
+Swan	1	1	0	0	11213
+Swan	1	1	0	1	602
+Swan	1	1	1	0	1818
+Swan	1	1	1	1	443
+Joondalup					453
+Joondalup	0	0	0	1	2177
+Joondalup	0	0	1	0	679
+Joondalup	0	0	1	1	327
+Joondalup	0	1	0	0	1996
+Joondalup	0	1	0	1	149
+Joondalup	0	1	1	0	478
+Joondalup	0	1	1	1	64
+Joondalup	1	0	0	1	4385
+Joondalup	1	0	1	0	2260
+Joondalup	1	0	1	1	1385
+Joondalup	1	1	0	0	11391
+Joondalup	1	1	0	1	472
+Joondalup	1	1	1	0	2210
+Joondalup	1	1	1	1	329
+Stirling					1044
+Stirling	0	0	0	1	3110
+Stirling	0	0	1	0	1024
+Stirling	0	0	1	1	336
+Stirling	0	1	0	0	3054
+Stirling	0	1	0	1	191
+Stirling	0	1	1	0	535
+Stirling	0	1	1	1	92
+Stirling	1	0	0	1	3669
+Stirling	1	0	1	0	2257
+Stirling	1	0	1	1	1156
+Stirling	1	1	0	0	14098
+Stirling	1	1	0	1	329
+Stirling	1	1	1	0	2187
+Stirling	1	1	1	1	264
+Wanneroo					763
+Wanneroo	0	0	0	1	3185
+Wanneroo	0	0	1	0	852
+Wanneroo	0	0	1	1	490
+Wanneroo	0	1	0	0	4037
+Wanneroo	0	1	0	1	405
+Wanneroo	0	1	1	0	711
+Wanneroo	0	1	1	1	223
+Wanneroo	1	0	0	1	4981
+Wanneroo	1	0	1	0	2155
+Wanneroo	1	0	1	1	1630
+Wanneroo	1	1	0	0	15806
+Wanneroo	1	1	0	1	960
+Wanneroo	1	1	1	0	2734
+Wanneroo	1	1	1	1	652
+Armadale					405
+Armadale	0	0	0	1	1453
+Armadale	0	0	1	0	328
+Armadale	0	0	1	1	174
+Armadale	0	1	0	0	1849
+Armadale	0	1	0	1	164
+Armadale	0	1	1	0	285
+Armadale	0	1	1	1	66
+Armadale	1	0	0	1	1768
+Armadale	1	0	1	0	739
+Armadale	1	0	1	1	485
+Armadale	1	1	0	0	7727
+Armadale	1	1	0	1	392
+Armadale	1	1	1	0	1158
+Armadale	1	1	1	1	234
+Belmont - Victoria Park					618
+Belmont - Victoria Park	0	0	0	1	1095
+Belmont - Victoria Park	0	0	1	0	276
+Belmont - Victoria Park	0	0	1	1	118
+Belmont - Victoria Park	0	1	0	0	1004
+Belmont - Victoria Park	0	1	0	1	75
+Belmont - Victoria Park	0	1	1	0	150
+Belmont - Victoria Park	0	1	1	1	26
+Belmont - Victoria Park	1	0	0	1	898
+Belmont - Victoria Park	1	0	1	0	531
+Belmont - Victoria Park	1	0	1	1	280
+Belmont - Victoria Park	1	1	0	0	4767
+Belmont - Victoria Park	1	1	0	1	129
+Belmont - Victoria Park	1	1	1	0	536
+Belmont - Victoria Park	1	1	1	1	83
+Canning					581
+Canning	0	0	0	1	1240
+Canning	0	0	1	0	408
+Canning	0	0	1	1	193
+Canning	0	1	0	0	1089
+Canning	0	1	0	1	91
+Canning	0	1	1	0	292
+Canning	0	1	1	1	44
+Canning	1	0	0	1	2021
+Canning	1	0	1	0	1322
+Canning	1	0	1	1	689
+Canning	1	1	0	0	6772
+Canning	1	1	0	1	236
+Canning	1	1	1	0	1540
+Canning	1	1	1	1	160
+Gosnells					599
+Gosnells	0	0	0	1	2008
+Gosnells	0	0	1	0	452
+Gosnells	0	0	1	1	265
+Gosnells	0	1	0	0	2022
+Gosnells	0	1	0	1	222
+Gosnells	0	1	1	0	375
+Gosnells	0	1	1	1	87
+Gosnells	1	0	0	1	2886
+Gosnells	1	0	1	0	1251
+Gosnells	1	0	1	1	953
+Gosnells	1	1	0	0	9028
+Gosnells	1	1	0	1	521
+Gosnells	1	1	1	0	1713
+Gosnells	1	1	1	1	390
+Kalamunda					213
+Kalamunda	0	0	0	1	917
+Kalamunda	0	0	1	0	202
+Kalamunda	0	0	1	1	93
+Kalamunda	0	1	0	0	888
+Kalamunda	0	1	0	1	103
+Kalamunda	0	1	1	0	176
+Kalamunda	0	1	1	1	35
+Kalamunda	1	0	0	1	1424
+Kalamunda	1	0	1	0	559
+Kalamunda	1	0	1	1	392
+Kalamunda	1	1	0	0	3950
+Kalamunda	1	1	0	1	190
+Kalamunda	1	1	1	0	736
+Kalamunda	1	1	1	1	148
+Serpentine - Jarrahdale					81
+Serpentine - Jarrahdale	0	0	0	1	330
+Serpentine - Jarrahdale	0	0	1	0	74
+Serpentine - Jarrahdale	0	0	1	1	39
+Serpentine - Jarrahdale	0	1	0	0	574
+Serpentine - Jarrahdale	0	1	0	1	66
+Serpentine - Jarrahdale	0	1	1	0	73
+Serpentine - Jarrahdale	0	1	1	1	22
+Serpentine - Jarrahdale	1	0	0	1	721
+Serpentine - Jarrahdale	1	0	1	0	235
+Serpentine - Jarrahdale	1	0	1	1	200
+Serpentine - Jarrahdale	1	1	0	0	2744
+Serpentine - Jarrahdale	1	1	0	1	166
+Serpentine - Jarrahdale	1	1	1	0	390
+Serpentine - Jarrahdale	1	1	1	1	103
+South Perth					365
+South Perth	0	0	0	1	497
+South Perth	0	0	1	0	203
+South Perth	0	0	1	1	55
+South Perth	0	1	0	0	461
+South Perth	0	1	0	1	24
+South Perth	0	1	1	0	78
+South Perth	0	1	1	1	7
+South Perth	1	0	0	1	671
+South Perth	1	0	1	0	580
+South Perth	1	0	1	1	216
+South Perth	1	1	0	0	2521
+South Perth	1	1	0	1	33
+South Perth	1	1	1	0	420
+South Perth	1	1	1	1	47
+Cockburn					480
+Cockburn	0	0	0	1	1703
+Cockburn	0	0	1	0	441
+Cockburn	0	0	1	1	258
+Cockburn	0	1	0	0	1990
+Cockburn	0	1	0	1	178
+Cockburn	0	1	1	0	350
+Cockburn	0	1	1	1	43
+Cockburn	1	0	0	1	2546
+Cockburn	1	0	1	0	1203
+Cockburn	1	0	1	1	775
+Cockburn	1	1	0	0	8706
+Cockburn	1	1	0	1	376
+Cockburn	1	1	1	0	1301
+Cockburn	1	1	1	1	212
+Fremantle					131
+Fremantle	0	0	0	1	583
+Fremantle	0	0	1	0	207
+Fremantle	0	0	1	1	55
+Fremantle	0	1	0	0	535
+Fremantle	0	1	0	1	39
+Fremantle	0	1	1	0	105
+Fremantle	0	1	1	1	11
+Fremantle	1	0	0	1	615
+Fremantle	1	0	1	0	441
+Fremantle	1	0	1	1	198
+Fremantle	1	1	0	0	2339
+Fremantle	1	1	0	1	58
+Fremantle	1	1	1	0	378
+Fremantle	1	1	1	1	41
+Kwinana					196
+Kwinana	0	0	0	1	766
+Kwinana	0	0	1	0	156
+Kwinana	0	0	1	1	84
+Kwinana	0	1	0	0	1008
+Kwinana	0	1	0	1	101
+Kwinana	0	1	1	0	128
+Kwinana	0	1	1	1	38
+Kwinana	1	0	0	1	800
+Kwinana	1	0	1	0	289
+Kwinana	1	0	1	1	234
+Kwinana	1	1	0	0	3620
+Kwinana	1	1	0	1	213
+Kwinana	1	1	1	0	507
+Kwinana	1	1	1	1	114
+Melville					430
+Melville	0	0	0	1	1446
+Melville	0	0	1	0	490
+Melville	0	0	1	1	206
+Melville	0	1	0	0	1169
+Melville	0	1	0	1	88
+Melville	0	1	1	0	302
+Melville	0	1	1	1	37
+Melville	1	0	0	1	2533
+Melville	1	0	1	0	1642
+Melville	1	0	1	1	851
+Melville	1	1	0	0	7043
+Melville	1	1	0	1	215
+Melville	1	1	1	0	1514
+Melville	1	1	1	1	147
+Rockingham					441
+Rockingham	0	0	0	1	1949
+Rockingham	0	0	1	0	495
+Rockingham	0	0	1	1	249
+Rockingham	0	1	0	0	2918
+Rockingham	0	1	0	1	311
+Rockingham	0	1	1	0	515
+Rockingham	0	1	1	1	105
+Rockingham	1	0	0	1	2829
+Rockingham	1	0	1	0	1097
+Rockingham	1	0	1	1	779
+Rockingham	1	1	0	0	9242
+Rockingham	1	1	0	1	659
+Rockingham	1	1	1	0	1673
+Rockingham	1	1	1	1	368
+Albany					178
+Albany	0	0	0	1	765
+Albany	0	0	1	0	187
+Albany	0	0	1	1	72
+Albany	0	1	0	0	951
+Albany	0	1	0	1	107
+Albany	0	1	1	0	187
+Albany	0	1	1	1	26
+Albany	1	0	0	1	1039
+Albany	1	0	1	0	417
+Albany	1	0	1	1	212
+Albany	1	1	0	0	3371
+Albany	1	1	0	1	226
+Albany	1	1	1	0	589
+Albany	1	1	1	1	145
+Wheat Belt - North					161
+Wheat Belt - North	0	0	0	1	701
+Wheat Belt - North	0	0	1	0	113
+Wheat Belt - North	0	0	1	1	43
+Wheat Belt - North	0	1	0	0	724
+Wheat Belt - North	0	1	0	1	80
+Wheat Belt - North	0	1	1	0	129
+Wheat Belt - North	0	1	1	1	35
+Wheat Belt - North	1	0	0	1	1052
+Wheat Belt - North	1	0	1	0	314
+Wheat Belt - North	1	0	1	1	201
+Wheat Belt - North	1	1	0	0	2737
+Wheat Belt - North	1	1	0	1	169
+Wheat Belt - North	1	1	1	0	502
+Wheat Belt - North	1	1	1	1	116
+Wheat Belt - South					59
+Wheat Belt - South	0	0	0	1	226
+Wheat Belt - South	0	0	1	0	42
+Wheat Belt - South	0	0	1	1	13
+Wheat Belt - South	0	1	0	0	228
+Wheat Belt - South	0	1	0	1	24
+Wheat Belt - South	0	1	1	0	43
+Wheat Belt - South	0	1	1	1	8
+Wheat Belt - South	1	0	0	1	305
+Wheat Belt - South	1	0	1	0	95
+Wheat Belt - South	1	0	1	1	50
+Wheat Belt - South	1	1	0	0	1069
+Wheat Belt - South	1	1	0	1	51
+Wheat Belt - South	1	1	1	0	195
+Wheat Belt - South	1	1	1	1	24
+Kimberley					231
+Kimberley	0	0	0	1	478
+Kimberley	0	0	1	0	82
+Kimberley	0	0	1	1	26
+Kimberley	0	1	0	0	930
+Kimberley	0	1	0	1	167
+Kimberley	0	1	1	0	106
+Kimberley	0	1	1	1	38
+Kimberley	1	0	0	1	355
+Kimberley	1	0	1	0	99
+Kimberley	1	0	1	1	62
+Kimberley	1	1	0	0	2056
+Kimberley	1	1	0	1	198
+Kimberley	1	1	1	0	240
+Kimberley	1	1	1	1	57
+East Pilbara					90
+East Pilbara	0	0	0	1	172
+East Pilbara	0	0	1	0	44
+East Pilbara	0	0	1	1	13
+East Pilbara	0	1	0	0	359
+East Pilbara	0	1	0	1	50
+East Pilbara	0	1	1	0	41
+East Pilbara	0	1	1	1	10
+East Pilbara	1	0	0	1	220
+East Pilbara	1	0	1	0	69
+East Pilbara	1	0	1	1	37
+East Pilbara	1	1	0	0	1760
+East Pilbara	1	1	0	1	89
+East Pilbara	1	1	1	0	167
+East Pilbara	1	1	1	1	48
+West Pilbara					64
+West Pilbara	0	0	0	1	151
+West Pilbara	0	0	1	0	39
+West Pilbara	0	0	1	1	15
+West Pilbara	0	1	0	0	302
+West Pilbara	0	1	0	1	41
+West Pilbara	0	1	1	0	48
+West Pilbara	0	1	1	1	10
+West Pilbara	1	0	0	1	278
+West Pilbara	1	0	1	0	159
+West Pilbara	1	0	1	1	50
+West Pilbara	1	1	0	0	2384
+West Pilbara	1	1	0	1	97
+West Pilbara	1	1	1	0	306
+West Pilbara	1	1	1	1	45
+Esperance					55
+Esperance	0	0	0	1	197
+Esperance	0	0	1	0	34
+Esperance	0	0	1	1	14
+Esperance	0	1	0	0	219
+Esperance	0	1	0	1	26
+Esperance	0	1	1	0	46
+Esperance	0	1	1	1	8
+Esperance	1	0	0	1	241
+Esperance	1	0	1	0	85
+Esperance	1	0	1	1	47
+Esperance	1	1	0	0	909
+Esperance	1	1	0	1	46
+Esperance	1	1	1	0	187
+Esperance	1	1	1	1	34
+Gascoyne					33
+Gascoyne	0	0	0	1	113
+Gascoyne	0	0	1	0	21
+Gascoyne	0	0	1	1	4
+Gascoyne	0	1	0	0	142
+Gascoyne	0	1	0	1	14
+Gascoyne	0	1	1	0	13
+Gascoyne	1	0	0	1	118
+Gascoyne	1	0	1	0	42
+Gascoyne	1	0	1	1	23
+Gascoyne	1	1	0	0	523
+Gascoyne	1	1	0	1	25
+Gascoyne	1	1	1	0	60
+Gascoyne	1	1	1	1	12
+Goldfields					163
+Goldfields	0	0	0	1	433
+Goldfields	0	0	1	0	70
+Goldfields	0	0	1	1	28
+Goldfields	0	1	0	0	671
+Goldfields	0	1	0	1	82
+Goldfields	0	1	1	0	79
+Goldfields	0	1	1	1	23
+Goldfields	1	0	0	1	568
+Goldfields	1	0	1	0	175
+Goldfields	1	0	1	1	118
+Goldfields	1	1	0	0	2463
+Goldfields	1	1	0	1	197
+Goldfields	1	1	1	0	285
+Goldfields	1	1	1	1	71
+Mid West					203
+Mid West	0	0	0	1	715
+Mid West	0	0	1	0	158
+Mid West	0	0	1	1	75
+Mid West	0	1	0	0	983
+Mid West	0	1	0	1	146
+Mid West	0	1	1	0	168
+Mid West	0	1	1	1	29
+Mid West	1	0	0	1	902
+Mid West	1	0	1	0	308
+Mid West	1	0	1	1	177
+Mid West	1	1	0	0	2899
+Mid West	1	1	0	1	177
+Mid West	1	1	1	0	495
+Mid West	1	1	1	1	84
+Brighton					76
+Brighton	0	0	0	1	382
+Brighton	0	0	1	0	84
+Brighton	0	0	1	1	38
+Brighton	0	1	0	0	717
+Brighton	0	1	0	1	73
+Brighton	0	1	1	0	108
+Brighton	0	1	1	1	8
+Brighton	1	0	0	1	455
+Brighton	1	0	1	0	104
+Brighton	1	0	1	1	125
+Brighton	1	1	0	0	1179
+Brighton	1	1	0	1	89
+Brighton	1	1	1	0	166
+Brighton	1	1	1	1	38
+Hobart - North East					249
+Hobart - North East	0	0	0	1	1036
+Hobart - North East	0	0	1	0	241
+Hobart - North East	0	0	1	1	106
+Hobart - North East	0	1	0	0	1133
+Hobart - North East	0	1	0	1	103
+Hobart - North East	0	1	1	0	218
+Hobart - North East	0	1	1	1	41
+Hobart - North East	1	0	0	1	1201
+Hobart - North East	1	0	1	0	516
+Hobart - North East	1	0	1	1	266
+Hobart - North East	1	1	0	0	3595
+Hobart - North East	1	1	0	1	161
+Hobart - North East	1	1	1	0	579
+Hobart - North East	1	1	1	1	109
+Hobart - North West					315
+Hobart - North West	0	0	0	1	1240
+Hobart - North West	0	0	1	0	312
+Hobart - North West	0	0	1	1	110
+Hobart - North West	0	1	0	0	1385
+Hobart - North West	0	1	0	1	155
+Hobart - North West	0	1	1	0	235
+Hobart - North West	0	1	1	1	54
+Hobart - North West	1	0	0	1	1134
+Hobart - North West	1	0	1	0	349
+Hobart - North West	1	0	1	1	229
+Hobart - North West	1	1	0	0	3073
+Hobart - North West	1	1	0	1	207
+Hobart - North West	1	1	1	0	487
+Hobart - North West	1	1	1	1	111
+Hobart - South and West					112
+Hobart - South and West	0	0	0	1	521
+Hobart - South and West	0	0	1	0	188
+Hobart - South and West	0	0	1	1	60
+Hobart - South and West	0	1	0	0	601
+Hobart - South and West	0	1	0	1	41
+Hobart - South and West	0	1	1	0	131
+Hobart - South and West	0	1	1	1	28
+Hobart - South and West	1	0	0	1	700
+Hobart - South and West	1	0	1	0	404
+Hobart - South and West	1	0	1	1	239
+Hobart - South and West	1	1	0	0	2461
+Hobart - South and West	1	1	0	1	96
+Hobart - South and West	1	1	1	0	473
+Hobart - South and West	1	1	1	1	77
+Hobart Inner					241
+Hobart Inner	0	0	0	1	586
+Hobart Inner	0	0	1	0	277
+Hobart Inner	0	0	1	1	80
+Hobart Inner	0	1	0	0	582
+Hobart Inner	0	1	0	1	25
+Hobart Inner	0	1	1	0	136
+Hobart Inner	0	1	1	1	16
+Hobart Inner	1	0	0	1	683
+Hobart Inner	1	0	1	0	583
+Hobart Inner	1	0	1	1	218
+Hobart Inner	1	1	0	0	2981
+Hobart Inner	1	1	0	1	51
+Hobart Inner	1	1	1	0	563
+Hobart Inner	1	1	1	1	41
+Sorell - Dodges Ferry					62
+Sorell - Dodges Ferry	0	0	0	1	310
+Sorell - Dodges Ferry	0	0	1	0	66
+Sorell - Dodges Ferry	0	0	1	1	41
+Sorell - Dodges Ferry	0	1	0	0	362
+Sorell - Dodges Ferry	0	1	0	1	31
+Sorell - Dodges Ferry	0	1	1	0	74
+Sorell - Dodges Ferry	0	1	1	1	9
+Sorell - Dodges Ferry	1	0	0	1	421
+Sorell - Dodges Ferry	1	0	1	0	112
+Sorell - Dodges Ferry	1	0	1	1	75
+Sorell - Dodges Ferry	1	1	0	0	1051
+Sorell - Dodges Ferry	1	1	0	1	77
+Sorell - Dodges Ferry	1	1	1	0	171
+Sorell - Dodges Ferry	1	1	1	1	35
+Launceston					381
+Launceston	0	0	0	1	1480
+Launceston	0	0	1	0	413
+Launceston	0	0	1	1	139
+Launceston	0	1	0	0	1886
+Launceston	0	1	0	1	145
+Launceston	0	1	1	0	331
+Launceston	0	1	1	1	43
+Launceston	1	0	0	1	1517
+Launceston	1	0	1	0	691
+Launceston	1	0	1	1	356
+Launceston	1	1	0	0	4792
+Launceston	1	1	0	1	247
+Launceston	1	1	1	0	885
+Launceston	1	1	1	1	164
+Meander Valley - West Tamar					64
+Meander Valley - West Tamar	0	0	0	1	331
+Meander Valley - West Tamar	0	0	1	0	67
+Meander Valley - West Tamar	0	0	1	1	36
+Meander Valley - West Tamar	0	1	0	0	343
+Meander Valley - West Tamar	0	1	0	1	40
+Meander Valley - West Tamar	0	1	1	0	80
+Meander Valley - West Tamar	0	1	1	1	16
+Meander Valley - West Tamar	1	0	0	1	577
+Meander Valley - West Tamar	1	0	1	0	184
+Meander Valley - West Tamar	1	0	1	1	102
+Meander Valley - West Tamar	1	1	0	0	1222
+Meander Valley - West Tamar	1	1	0	1	77
+Meander Valley - West Tamar	1	1	1	0	245
+Meander Valley - West Tamar	1	1	1	1	47
+North East					111
+North East	0	0	0	1	611
+North East	0	0	1	0	119
+North East	0	0	1	1	39
+North East	0	1	0	0	675
+North East	0	1	0	1	62
+North East	0	1	1	0	117
+North East	0	1	1	1	21
+North East	1	0	0	1	831
+North East	1	0	1	0	245
+North East	1	0	1	1	141
+North East	1	1	0	0	1897
+North East	1	1	0	1	122
+North East	1	1	1	0	331
+North East	1	1	1	1	71
+Central Highlands (Tas.)					37
+Central Highlands (Tas.)	0	0	0	1	181
+Central Highlands (Tas.)	0	0	1	0	33
+Central Highlands (Tas.)	0	0	1	1	15
+Central Highlands (Tas.)	0	1	0	0	173
+Central Highlands (Tas.)	0	1	0	1	17
+Central Highlands (Tas.)	0	1	1	0	32
+Central Highlands (Tas.)	0	1	1	1	17
+Central Highlands (Tas.)	1	0	0	1	336
+Central Highlands (Tas.)	1	0	1	0	87
+Central Highlands (Tas.)	1	0	1	1	62
+Central Highlands (Tas.)	1	1	0	0	612
+Central Highlands (Tas.)	1	1	0	1	69
+Central Highlands (Tas.)	1	1	1	0	116
+Central Highlands (Tas.)	1	1	1	1	33
+Huon - Bruny Island					66
+Huon - Bruny Island	0	0	0	1	302
+Huon - Bruny Island	0	0	1	0	84
+Huon - Bruny Island	0	0	1	1	17
+Huon - Bruny Island	0	1	0	0	341
+Huon - Bruny Island	0	1	0	1	42
+Huon - Bruny Island	0	1	1	0	49
+Huon - Bruny Island	0	1	1	1	11
+Huon - Bruny Island	1	0	0	1	443
+Huon - Bruny Island	1	0	1	0	133
+Huon - Bruny Island	1	0	1	1	96
+Huon - Bruny Island	1	1	0	0	1171
+Huon - Bruny Island	1	1	0	1	72
+Huon - Bruny Island	1	1	1	0	197
+Huon - Bruny Island	1	1	1	1	50
+South East Coast					20
+South East Coast	0	0	0	1	104
+South East Coast	0	0	1	0	16
+South East Coast	0	0	1	1	5
+South East Coast	0	1	0	0	79
+South East Coast	0	1	0	1	10
+South East Coast	0	1	1	0	13
+South East Coast	0	1	1	1	4
+South East Coast	1	0	0	1	124
+South East Coast	1	0	1	0	47
+South East Coast	1	0	1	1	21
+South East Coast	1	1	0	0	248
+South East Coast	1	1	0	1	21
+South East Coast	1	1	1	0	34
+South East Coast	1	1	1	1	7
+Burnie - Ulverstone					172
+Burnie - Ulverstone	0	0	0	1	868
+Burnie - Ulverstone	0	0	1	0	207
+Burnie - Ulverstone	0	0	1	1	76
+Burnie - Ulverstone	0	1	0	0	1046
+Burnie - Ulverstone	0	1	0	1	100
+Burnie - Ulverstone	0	1	1	0	167
+Burnie - Ulverstone	0	1	1	1	43
+Burnie - Ulverstone	1	0	0	1	980
+Burnie - Ulverstone	1	0	1	0	370
+Burnie - Ulverstone	1	0	1	1	205
+Burnie - Ulverstone	1	1	0	0	2523
+Burnie - Ulverstone	1	1	0	1	161
+Burnie - Ulverstone	1	1	1	0	472
+Burnie - Ulverstone	1	1	1	1	84
+Devonport					173
+Devonport	0	0	0	1	769
+Devonport	0	0	1	0	194
+Devonport	0	0	1	1	80
+Devonport	0	1	0	0	979
+Devonport	0	1	0	1	94
+Devonport	0	1	1	0	180
+Devonport	0	1	1	1	22
+Devonport	1	0	0	1	955
+Devonport	1	0	1	0	336
+Devonport	1	0	1	1	208
+Devonport	1	1	0	0	2437
+Devonport	1	1	0	1	180
+Devonport	1	1	1	0	408
+Devonport	1	1	1	1	73
+West Coast					50
+West Coast	0	0	0	1	258
+West Coast	0	0	1	0	38
+West Coast	0	0	1	1	16
+West Coast	0	1	0	0	278
+West Coast	0	1	0	1	21
+West Coast	0	1	1	0	53
+West Coast	0	1	1	1	7
+West Coast	1	0	0	1	303
+West Coast	1	0	1	0	88
+West Coast	1	0	1	1	57
+West Coast	1	1	0	0	914
+West Coast	1	1	0	1	57
+West Coast	1	1	1	0	183
+West Coast	1	1	1	1	41
+Darwin City					130
+Darwin City	0	0	0	1	238
+Darwin City	0	0	1	0	76
+Darwin City	0	0	1	1	34
+Darwin City	0	1	0	0	347
+Darwin City	0	1	0	1	23
+Darwin City	0	1	1	0	42
+Darwin City	0	1	1	1	5
+Darwin City	1	0	0	1	256
+Darwin City	1	0	1	0	189
+Darwin City	1	0	1	1	60
+Darwin City	1	1	0	0	1579
+Darwin City	1	1	0	1	40
+Darwin City	1	1	1	0	198
+Darwin City	1	1	1	1	19
+Darwin Suburbs					279
+Darwin Suburbs	0	0	0	1	769
+Darwin Suburbs	0	0	1	0	206
+Darwin Suburbs	0	0	1	1	81
+Darwin Suburbs	0	1	0	0	1007
+Darwin Suburbs	0	1	0	1	104
+Darwin Suburbs	0	1	1	0	150
+Darwin Suburbs	0	1	1	1	35
+Darwin Suburbs	1	0	0	1	958
+Darwin Suburbs	1	0	1	0	420
+Darwin Suburbs	1	0	1	1	207
+Darwin Suburbs	1	1	0	0	3898
+Darwin Suburbs	1	1	0	1	198
+Darwin Suburbs	1	1	1	0	611
+Darwin Suburbs	1	1	1	1	123
+Litchfield					46
+Litchfield	0	0	0	1	240
+Litchfield	0	0	1	0	39
+Litchfield	0	0	1	1	25
+Litchfield	0	1	0	0	256
+Litchfield	0	1	0	1	36
+Litchfield	0	1	1	0	36
+Litchfield	0	1	1	1	8
+Litchfield	1	0	0	1	486
+Litchfield	1	0	1	0	121
+Litchfield	1	0	1	1	89
+Litchfield	1	1	0	0	1261
+Litchfield	1	1	0	1	101
+Litchfield	1	1	1	0	212
+Litchfield	1	1	1	1	54
+Palmerston					124
+Palmerston	0	0	0	1	478
+Palmerston	0	0	1	0	114
+Palmerston	0	0	1	1	45
+Palmerston	0	1	0	0	972
+Palmerston	0	1	0	1	86
+Palmerston	0	1	1	0	139
+Palmerston	0	1	1	1	29
+Palmerston	1	0	0	1	518
+Palmerston	1	0	1	0	247
+Palmerston	1	0	1	1	143
+Palmerston	1	1	0	0	3025
+Palmerston	1	1	0	1	163
+Palmerston	1	1	1	0	412
+Palmerston	1	1	1	1	86
+Alice Springs					211
+Alice Springs	0	0	0	1	502
+Alice Springs	0	0	1	0	80
+Alice Springs	0	0	1	1	25
+Alice Springs	0	1	0	0	838
+Alice Springs	0	1	0	1	162
+Alice Springs	0	1	1	0	96
+Alice Springs	0	1	1	1	36
+Alice Springs	1	0	0	1	446
+Alice Springs	1	0	1	0	171
+Alice Springs	1	0	1	1	68
+Alice Springs	1	1	0	0	2293
+Alice Springs	1	1	0	1	253
+Alice Springs	1	1	1	0	268
+Alice Springs	1	1	1	1	77
+Barkly					34
+Barkly	0	0	0	1	78
+Barkly	0	0	1	0	6
+Barkly	0	0	1	1	3
+Barkly	0	1	0	0	176
+Barkly	0	1	0	1	29
+Barkly	0	1	1	0	21
+Barkly	0	1	1	1	3
+Barkly	1	0	0	1	58
+Barkly	1	0	1	0	12
+Barkly	1	0	1	1	6
+Barkly	1	1	0	0	300
+Barkly	1	1	0	1	53
+Barkly	1	1	1	0	36
+Barkly	1	1	1	1	12
+Daly - Tiwi - West Arnhem					115
+Daly - Tiwi - West Arnhem	0	0	0	1	274
+Daly - Tiwi - West Arnhem	0	0	1	0	20
+Daly - Tiwi - West Arnhem	0	0	1	1	6
+Daly - Tiwi - West Arnhem	0	1	0	0	401
+Daly - Tiwi - West Arnhem	0	1	0	1	89
+Daly - Tiwi - West Arnhem	0	1	1	0	22
+Daly - Tiwi - West Arnhem	0	1	1	1	13
+Daly - Tiwi - West Arnhem	1	0	0	1	202
+Daly - Tiwi - West Arnhem	1	0	1	0	32
+Daly - Tiwi - West Arnhem	1	0	1	1	19
+Daly - Tiwi - West Arnhem	1	1	0	0	888
+Daly - Tiwi - West Arnhem	1	1	0	1	226
+Daly - Tiwi - West Arnhem	1	1	1	0	102
+Daly - Tiwi - West Arnhem	1	1	1	1	58
+East Arnhem					82
+East Arnhem	0	0	0	1	209
+East Arnhem	0	0	1	0	22
+East Arnhem	0	0	1	1	11
+East Arnhem	0	1	0	0	278
+East Arnhem	0	1	0	1	115
+East Arnhem	0	1	1	0	36
+East Arnhem	0	1	1	1	16
+East Arnhem	1	0	0	1	193
+East Arnhem	1	0	1	0	37
+East Arnhem	1	0	1	1	26
+East Arnhem	1	1	0	0	821
+East Arnhem	1	1	0	1	157
+East Arnhem	1	1	1	0	98
+East Arnhem	1	1	1	1	47
+Katherine					95
+Katherine	0	0	0	1	235
+Katherine	0	0	1	0	31
+Katherine	0	0	1	1	14
+Katherine	0	1	0	0	443
+Katherine	0	1	0	1	107
+Katherine	0	1	1	0	48
+Katherine	0	1	1	1	7
+Katherine	1	0	0	1	207
+Katherine	1	0	1	0	48
+Katherine	1	0	1	1	28
+Katherine	1	1	0	0	1128
+Katherine	1	1	0	1	174
+Katherine	1	1	1	0	98
+Katherine	1	1	1	1	50
+Belconnen					473
+Belconnen	0	0	0	1	1476
+Belconnen	0	0	1	0	426
+Belconnen	0	0	1	1	180
+Belconnen	0	1	0	0	1585
+Belconnen	0	1	0	1	111
+Belconnen	0	1	1	0	310
+Belconnen	0	1	1	1	72
+Belconnen	1	0	0	1	1806
+Belconnen	1	0	1	0	946
+Belconnen	1	0	1	1	539
+Belconnen	1	1	0	0	7503
+Belconnen	1	1	0	1	250
+Belconnen	1	1	1	0	1116
+Belconnen	1	1	1	1	159
+Canberra East					8
+Canberra East	0	0	0	1	19
+Canberra East	0	0	1	0	5
+Canberra East	0	1	0	0	20
+Canberra East	0	1	1	0	4
+Canberra East	1	0	0	1	19
+Canberra East	1	0	1	0	10
+Canberra East	1	1	0	0	41
+Canberra East	1	1	0	1	3
+Canberra East	1	1	1	0	10
+Gungahlin					322
+Gungahlin	0	0	0	1	824
+Gungahlin	0	0	1	0	312
+Gungahlin	0	0	1	1	142
+Gungahlin	0	1	0	0	1367
+Gungahlin	0	1	0	1	55
+Gungahlin	0	1	1	0	247
+Gungahlin	0	1	1	1	46
+Gungahlin	1	0	0	1	1292
+Gungahlin	1	0	1	0	1068
+Gungahlin	1	0	1	1	539
+Gungahlin	1	1	0	0	8407
+Gungahlin	1	1	0	1	204
+Gungahlin	1	1	1	0	1270
+Gungahlin	1	1	1	1	161
+North Canberra					266
+North Canberra	0	0	0	1	501
+North Canberra	0	0	1	0	232
+North Canberra	0	0	1	1	51
+North Canberra	0	1	0	0	655
+North Canberra	0	1	0	1	19
+North Canberra	0	1	1	0	116
+North Canberra	0	1	1	1	11
+North Canberra	1	0	0	1	511
+North Canberra	1	0	1	0	528
+North Canberra	1	0	1	1	173
+North Canberra	1	1	0	0	3047
+North Canberra	1	1	0	1	51
+North Canberra	1	1	1	0	483
+North Canberra	1	1	1	1	42
+South Canberra					94
+South Canberra	0	0	0	1	285
+South Canberra	0	0	1	0	170
+South Canberra	0	0	1	1	40
+South Canberra	0	1	0	0	360
+South Canberra	0	1	0	1	18
+South Canberra	0	1	1	0	74
+South Canberra	0	1	1	1	9
+South Canberra	1	0	0	1	379
+South Canberra	1	0	1	0	448
+South Canberra	1	0	1	1	147
+South Canberra	1	1	0	0	1698
+South Canberra	1	1	0	1	28
+South Canberra	1	1	1	0	368
+South Canberra	1	1	1	1	23
+Tuggeranong					321
+Tuggeranong	0	0	0	1	1561
+Tuggeranong	0	0	1	0	409
+Tuggeranong	0	0	1	1	195
+Tuggeranong	0	1	0	0	1519
+Tuggeranong	0	1	0	1	136
+Tuggeranong	0	1	1	0	336
+Tuggeranong	0	1	1	1	59
+Tuggeranong	1	0	0	1	2276
+Tuggeranong	1	0	1	0	917
+Tuggeranong	1	0	1	1	594
+Tuggeranong	1	1	0	0	6172
+Tuggeranong	1	1	0	1	293
+Tuggeranong	1	1	1	0	1085
+Tuggeranong	1	1	1	1	173
+Weston Creek					81
+Weston Creek	0	0	0	1	377
+Weston Creek	0	0	1	0	118
+Weston Creek	0	0	1	1	40
+Weston Creek	0	1	0	0	338
+Weston Creek	0	1	0	1	27
+Weston Creek	0	1	1	0	72
+Weston Creek	0	1	1	1	13
+Weston Creek	1	0	0	1	423
+Weston Creek	1	0	1	0	297
+Weston Creek	1	0	1	1	140
+Weston Creek	1	1	0	0	1842
+Weston Creek	1	1	0	1	39
+Weston Creek	1	1	1	0	351
+Weston Creek	1	1	1	1	45
+Woden Valley					164
+Woden Valley	0	0	0	1	448
+Woden Valley	0	0	1	0	165
+Woden Valley	0	0	1	1	62
+Woden Valley	0	1	0	0	468
+Woden Valley	0	1	0	1	29
+Woden Valley	0	1	1	0	109
+Woden Valley	0	1	1	1	13
+Woden Valley	1	0	0	1	649
+Woden Valley	1	0	1	0	506
+Woden Valley	1	0	1	1	208
+Woden Valley	1	1	0	0	2745
+Woden Valley	1	1	0	1	57
+Woden Valley	1	1	1	0	458
+Woden Valley	1	1	1	1	50
+Molonglo					46
+Molonglo	0	0	0	1	88
+Molonglo	0	0	1	0	54
+Molonglo	0	0	1	1	17
+Molonglo	0	1	0	0	203
+Molonglo	0	1	0	1	10
+Molonglo	0	1	1	0	21
+Molonglo	0	1	1	1	4
+Molonglo	1	0	0	1	80
+Molonglo	1	0	1	0	94
+Molonglo	1	0	1	1	31
+Molonglo	1	1	0	0	1235
+Molonglo	1	1	0	1	15
+Molonglo	1	1	1	0	134
+Molonglo	1	1	1	1	4
+Uriarra - Namadgi					4
+Uriarra - Namadgi	0	0	0	1	4
+Uriarra - Namadgi	0	1	0	0	15
+Uriarra - Namadgi	1	0	0	1	8
+Uriarra - Namadgi	1	0	1	0	3
+Uriarra - Namadgi	1	0	1	1	7
+Uriarra - Namadgi	1	1	0	0	51
+Uriarra - Namadgi	1	1	1	0	11
+Christmas Island	0	0	0	1	11
+Christmas Island	0	0	1	0	6
+Christmas Island	0	0	1	1	5
+Christmas Island	0	1	0	0	9
+Christmas Island	0	1	1	0	4
+Christmas Island	1	0	0	1	22
+Christmas Island	1	0	1	1	6
+Christmas Island	1	1	0	0	102
+Christmas Island	1	1	1	0	15
+Christmas Island	1	1	1	1	3
+Cocos (Keeling) Islands	0	0	0	1	3
+Cocos (Keeling) Islands	0	1	0	0	6
+Cocos (Keeling) Islands	1	0	0	1	17
+Cocos (Keeling) Islands	1	0	1	0	4
+Cocos (Keeling) Islands	1	1	0	0	40
+Cocos (Keeling) Islands	1	1	0	1	3
+Cocos (Keeling) Islands	1	1	1	0	8
+Cocos (Keeling) Islands	1	1	1	1	4
+Jervis Bay					10
+Jervis Bay	0	0	0	1	12
+Jervis Bay	0	1	0	0	7
+Jervis Bay	0	1	0	1	3
+Jervis Bay	1	0	0	1	4
+Jervis Bay	1	1	0	0	11
+Jervis Bay	1	1	0	1	3
+Norfolk Island					6
+Norfolk Island	0	0	0	1	18
+Norfolk Island	0	0	1	0	3
+Norfolk Island	0	1	0	0	36
+Norfolk Island	0	1	0	1	3
+Norfolk Island	0	1	1	0	8
+Norfolk Island	1	0	0	1	29
+Norfolk Island	1	0	1	0	14
+Norfolk Island	1	0	1	1	4
+Norfolk Island	1	1	0	0	100
+Norfolk Island	1	1	0	1	12
+Norfolk Island	1	1	1	0	9

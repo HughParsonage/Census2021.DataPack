@@ -1,0 +1,356 @@
+SA3_NAME16	persons
+Queanbeyan	64793
+Snowy Mountains	20717
+South Coast	76736
+Goulburn - Mulwaree	38403
+Young - Yass	38159
+Gosford	178427
+Wyong	168171
+Bathurst	49146
+Lachlan Valley	54684
+Lithgow - Mudgee	47870
+Orange	61266
+Clarence Valley	53665
+Coffs Harbour	92462
+Bourke - Cobar - Coonamble	21607
+Broken Hill and Far West	19876
+Dubbo	74084
+Lower Hunter	97927
+Maitland	87019
+Port Stephens	76414
+Upper Hunter	30584
+Dapto - Port Kembla	79819
+Illawarra Catchment Reserve	9
+Kiama - Shellharbour	99254
+Wollongong	134762
+Great Lakes	33311
+Kempsey - Nambucca	51154
+Lord Howe Island	445
+Port Macquarie	86780
+Taree - Gloucester	57345
+Albury	67044
+Lower Murray	13056
+Upper Murray exc. Albury	43453
+Armidale	37537
+Inverell - Tenterfield	38731
+Moree - Narrabri	24713
+Tamworth - Gunnedah	84579
+Lake Macquarie - East	126496
+Lake Macquarie - West	85022
+Newcastle	179000
+Richmond Valley - Coastal	87772
+Richmond Valley - Hinterland	71896
+Tweed Valley	97392
+Griffith - Murrumbidgee (West)	49559
+Tumut - Tumbarumba	14931
+Wagga Wagga	99169
+Shoalhaven	108328
+Southern Highlands	52678
+Baulkham Hills	154767
+Dural - Wisemans Ferry	27914
+Hawkesbury	25006
+Rouse Hill - McGraths Hill	56682
+Blacktown	142602
+Blacktown - North	142771
+Mount Druitt	115629
+Botany	58771
+Marrickville - Sydenham - Petersham	54771
+Sydney Inner City	217795
+Eastern Suburbs - North	127167
+Eastern Suburbs - South	134243
+Bankstown	186245
+Canterbury	141091
+Hurstville	131869
+Kogarah - Rockdale	145918
+Canada Bay	86706
+Leichhardt	56398
+Strathfield - Burwood - Ashfield	161666
+Chatswood - Lane Cove	117456
+Hornsby	87455
+Ku-ring-gai	124357
+North Sydney - Mosman	94778
+Manly	43173
+Pittwater	63482
+Warringah	156903
+Camden	73578
+Campbelltown (NSW)	177879
+Wollondilly	45837
+Blue Mountains	77950
+Blue Mountains - South	8
+Penrith	159310
+Richmond - Windsor	38002
+St Marys	56790
+Auburn	103544
+Carlingford	74024
+Merrylands - Guildford	163816
+Parramatta	152128
+Pennant Hills - Epping	54832
+Ryde - Hunters Hill	147202
+Bringelly - Green Valley	143080
+Fairfield	195172
+Liverpool	136178
+Cronulla - Miranda - Caringbah	117865
+Sutherland - Menai - Heathcote	111740
+No usual address (NSW)	11371
+Ballarat	116201
+Creswick - Daylesford - Ballan	30975
+Maryborough - Pyrenees	26759
+Bendigo	103034
+Heathcote - Castlemaine - Kyneton	52500
+Loddon - Elmore	12224
+Barwon - West	22483
+Geelong	211986
+Surf Coast - Bellarine Peninsula	93417
+Upper Goulburn Valley	60002
+Wangaratta - Benalla	48454
+Wodonga - Alpine	76475
+Baw Baw	57775
+Gippsland - East	48830
+Gippsland - South West	71548
+Latrobe Valley	77168
+Wellington	45525
+Brunswick - Coburg	89874
+Darebin - South	53270
+Essendon	68712
+Melbourne City	149601
+Port Phillip	101956
+Stonnington - West	62539
+Yarra	91060
+Boroondara	167900
+Manningham - West	98386
+Whitehorse - West	107187
+Bayside	101306
+Glen Eira	156469
+Kingston	122693
+Stonnington - East	42162
+Banyule	126236
+Darebin - North	95299
+Nillumbik - Kinglake	67105
+Whittlesea - Wallan	252026
+Keilor	61687
+Macedon Ranges	32969
+Moreland - North	80537
+Sunbury	45064
+Tullamarine - Broadmeadows	204071
+Knox	159148
+Manningham - East	26386
+Maroondah	114579
+Whitehorse - East	62935
+Yarra Ranges	155256
+Cardinia	118342
+Casey - North	137287
+Casey - South	227950
+Dandenong	193644
+Monash	182833
+Brimbank	186067
+Hobsons Bay	86589
+Maribyrnong	85209
+Melton - Bacchus Marsh	198439
+Wyndham	296748
+Frankston	139281
+Mornington Peninsula	168948
+Grampians	60340
+Mildura	56972
+Murray River - Swan Hill	38264
+Campaspe	38889
+Moira	30522
+Shepparton	68206
+Glenelg - Southern Grampians	36792
+Colac - Corangamite	38497
+Warrnambool	52777
+Migratory - Offshore - Shipping (Vic.)	38
+No usual address (Vic.)	9089
+Capalaba	73384
+Cleveland - Stradbroke	93394
+Wynnum - Manly	73041
+Bald Hills - Everton Park	46125
+Chermside	74330
+Nundah	42971
+Sandgate	61171
+Carindale	54274
+Holland Park - Yeronga	79394
+Mt Gravatt	79365
+Nathan	39907
+Rocklea - Acacia Ridge	67890
+Sunnybank	50190
+Centenary	33016
+Kenmore - Brookfield - Moggill	47733
+Sherwood - Indooroopilly	54285
+The Gap - Enoggera	54179
+Brisbane Inner	87467
+Brisbane Inner - East	44376
+Brisbane Inner - North	100063
+Brisbane Inner - West	60333
+Cairns - North	57774
+Cairns - South	105489
+Innisfail - Cassowary Coast	35333
+Port Douglas - Daintree	12252
+Tablelands (East) - Kuranda	42900
+Darling Downs (West) - Maranoa	44244
+Darling Downs - East	42862
+Granite Belt	41520
+Central Highlands (Qld)	28849
+Rockhampton	121360
+Biloela	14513
+Gladstone	63515
+Broadbeach - Burleigh	66400
+Coolangatta	57511
+Gold Coast - North	69387
+Gold Coast Hinterland	20113
+Mudgeeraba - Tallebudgera	36033
+Nerang	69688
+Ormeau - Oxenford	158062
+Robina	53903
+Southport	64482
+Surfers Paradise	45197
+Forest Lake - Oxley	78711
+Ipswich Hinterland	67292
+Ipswich Inner	115913
+Springfield - Redbank	105202
+Beaudesert	14674
+Beenleigh	46316
+Browns Plains	93622
+Jimboomba	61638
+Loganlea - Carbrook	64457
+Springwood - Kingston	79066
+Bowen Basin - North	35821
+Mackay	121691
+Whitsunday	23382
+Bribie - Beachmere	37081
+Caboolture	79787
+Caboolture Hinterland	14897
+Narangba - Burpengary	69207
+Redcliffe	63771
+The Hills District	89786
+North Lakes	88063
+Strathpine	39846
+Far North	32207
+Outback - North	30377
+Outback - South	17238
+Buderim	58956
+Caloundra	96305
+Maroochy	63673
+Noosa	46660
+Sunshine Coast Hinterland	59039
+Nambour	49996
+Noosa Hinterland	24207
+Toowoomba	162059
+Charters Towers - Ayr - Ingham	41467
+Townsville	192820
+Bundaberg	93797
+Burnett	49678
+Gympie - Cooloola	53141
+Hervey Bay	63492
+Maryborough	47629
+Migratory - Offshore - Shipping (Qld)	183
+No usual address (Qld)	14670
+Adelaide City	25026
+Adelaide Hills	79723
+Burnside	46030
+Campbelltown (SA)	55173
+Norwood - Payneham - St Peters	37487
+Prospect - Walkerville	30289
+Unley	38641
+Gawler - Two Wells	37709
+Playford	99932
+Port Adelaide - East	76855
+Salisbury	144550
+Tea Tree Gully	96660
+Holdfast Bay	35711
+Marion	96326
+Mitcham	66290
+Onkaparinga	176533
+Charles Sturt	118442
+Port Adelaide - West	60848
+West Torrens	65057
+Barossa	37975
+Lower North	22691
+Mid North	27164
+Yorke Peninsula	26652
+Eyre Peninsula and South West	57092
+Outback - North and East	25560
+Fleurieu - Kangaroo Island	55593
+Limestone Coast	66851
+Murray and Mallee	71259
+Migratory - Offshore - Shipping (SA)	12
+No usual address (SA)	3377
+Augusta - Margaret River - Busselton	57332
+Bunbury	107549
+Manjimup	23863
+Mandurah	107641
+Cottesloe - Claremont	71735
+Perth City	110530
+Bayswater - Bassendean	84462
+Mundaring	43792
+Swan	148324
+Joondalup	160641
+Stirling	208149
+Wanneroo	208506
+Armadale	94184
+Belmont - Victoria Park	75312
+Canning	99139
+Gosnells	126376
+Kalamunda	58762
+Serpentine - Jarrahdale	32242
+South Perth	43448
+Cockburn	115824
+Fremantle	39910
+Kwinana	45867
+Melville	106127
+Rockingham	135678
+Albany	61880
+Wheat Belt - North	55937
+Wheat Belt - South	19357
+Kimberley	35092
+East Pilbara	25443
+West Pilbara	29594
+Esperance	15970
+Gascoyne	9537
+Goldfields	38267
+Mid West	54981
+Migratory - Offshore - Shipping (WA)	514
+No usual address (WA)	8055
+Brighton	19589
+Hobart - North East	59161
+Hobart - North West	58008
+Hobart - South and West	36641
+Hobart Inner	55163
+Sorell - Dodges Ferry	18515
+Launceston	87345
+Meander Valley - West Tamar	24254
+North East	39600
+Central Highlands (Tas.)	12440
+Huon - Bruny Island	21707
+South East Coast	7582
+Burnie - Ulverstone	50028
+Devonport	48293
+West Coast	17841
+Migratory - Offshore - Shipping (Tas.)	19
+No usual address (Tas.)	1377
+Darwin City	27044
+Darwin Suburbs	54701
+Litchfield	20983
+Palmerston	37176
+Alice Springs	36471
+Barkly	5287
+Daly - Tiwi - West Arnhem	15805
+East Arnhem	12798
+Katherine	18739
+Migratory - Offshore - Shipping (NT)	99
+No usual address (NT)	3500
+Belconnen	106061
+Canberra East	1934
+Gungahlin	87682
+North Canberra	61188
+South Canberra	31592
+Tuggeranong	89461
+Weston Creek	24630
+Woden Valley	39279
+Molonglo	11435
+Uriarra - Namadgi	625
+No usual address (ACT)	605
+Christmas Island	1692
+Cocos (Keeling) Islands	593
+Jervis Bay	310
+Norfolk Island	2188
+No usual address (OT)	11
