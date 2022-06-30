@@ -6,3 +6,5 @@
 !*.R
 !*.Rmd
 !*.rda
+!*.tsv
+!*.man
