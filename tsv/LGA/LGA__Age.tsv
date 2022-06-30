@@ -1,0 +1,6100 @@
+LGA_NAME16	Age	persons
+Albury	0-4	3568
+Albury	5-14	7003
+Albury	15-19	3350
+Albury	20-24	3463
+Albury	25-34	7316
+Albury	35-44	6881
+Albury	45-54	6711
+Albury	55-64	6839
+Albury	65-74	6036
+Albury	75-84	3539
+Albury	85+	1385
+Armidale Regional	0-4	1571
+Armidale Regional	5-14	3671
+Armidale Regional	15-19	2335
+Armidale Regional	20-24	2325
+Armidale Regional	25-34	3750
+Armidale Regional	35-44	3182
+Armidale Regional	45-54	3208
+Armidale Regional	55-64	3574
+Armidale Regional	65-74	2885
+Armidale Regional	75-84	1918
+Armidale Regional	85+	713
+Ballina	0-4	2205
+Ballina	5-14	5336
+Ballina	15-19	2423
+Ballina	20-24	1882
+Ballina	25-34	4262
+Ballina	35-44	5248
+Ballina	45-54	5901
+Ballina	55-64	6505
+Ballina	65-74	6722
+Ballina	75-84	3968
+Ballina	85+	1834
+Balranald	0-4	135
+Balranald	5-14	302
+Balranald	15-19	117
+Balranald	20-24	102
+Balranald	25-34	274
+Balranald	35-44	212
+Balranald	45-54	289
+Balranald	55-64	333
+Balranald	65-74	289
+Balranald	75-84	117
+Balranald	85+	47
+Bathurst Regional	0-4	2479
+Bathurst Regional	5-14	5692
+Bathurst Regional	15-19	2898
+Bathurst Regional	20-24	2880
+Bathurst Regional	25-34	5680
+Bathurst Regional	35-44	5124
+Bathurst Regional	45-54	5383
+Bathurst Regional	55-64	5338
+Bathurst Regional	65-74	4497
+Bathurst Regional	75-84	2528
+Bathurst Regional	85+	1052
+Bayside (NSW)	0-4	9986
+Bayside (NSW)	5-14	16501
+Bayside (NSW)	15-19	7773
+Bayside (NSW)	20-24	13717
+Bayside (NSW)	25-34	36536
+Bayside (NSW)	35-44	26551
+Bayside (NSW)	45-54	20624
+Bayside (NSW)	55-64	17495
+Bayside (NSW)	65-74	13485
+Bayside (NSW)	75-84	8707
+Bayside (NSW)	85+	3802
+Bega Valley	0-4	1507
+Bega Valley	5-14	3916
+Bega Valley	15-19	1760
+Bega Valley	20-24	1284
+Bega Valley	25-34	3033
+Bega Valley	35-44	3344
+Bega Valley	45-54	4348
+Bega Valley	55-64	6337
+Bega Valley	65-74	6219
+Bega Valley	75-84	3104
+Bega Valley	85+	1089
+Bellingen	0-4	542
+Bellingen	5-14	1672
+Bellingen	15-19	708
+Bellingen	20-24	400
+Bellingen	25-34	1044
+Bellingen	35-44	1300
+Bellingen	45-54	1770
+Bellingen	55-64	2263
+Bellingen	65-74	2110
+Bellingen	75-84	1054
+Bellingen	85+	395
+Berrigan	0-4	378
+Berrigan	5-14	958
+Berrigan	15-19	444
+Berrigan	20-24	286
+Berrigan	25-34	732
+Berrigan	35-44	793
+Berrigan	45-54	968
+Berrigan	55-64	1277
+Berrigan	65-74	1595
+Berrigan	75-84	899
+Berrigan	85+	334
+Blacktown	0-4	29907
+Blacktown	5-14	60217
+Blacktown	15-19	24375
+Blacktown	20-24	26427
+Blacktown	25-34	59261
+Blacktown	35-44	67391
+Blacktown	45-54	47563
+Blacktown	55-64	37873
+Blacktown	65-74	27022
+Blacktown	75-84	12432
+Blacktown	85+	4304
+Bland	0-4	349
+Bland	5-14	737
+Bland	15-19	291
+Bland	20-24	251
+Bland	25-34	582
+Bland	35-44	627
+Bland	45-54	642
+Bland	55-64	791
+Bland	65-74	681
+Bland	75-84	411
+Bland	85+	176
+Blayney	0-4	448
+Blayney	5-14	1073
+Blayney	15-19	462
+Blayney	20-24	314
+Blayney	25-34	794
+Blayney	35-44	777
+Blayney	45-54	1009
+Blayney	55-64	1106
+Blayney	65-74	877
+Blayney	75-84	477
+Blayney	85+	165
+Blue Mountains	0-4	3889
+Blue Mountains	5-14	9744
+Blue Mountains	15-19	4665
+Blue Mountains	20-24	3421
+Blue Mountains	25-34	7126
+Blue Mountains	35-44	9583
+Blue Mountains	45-54	10957
+Blue Mountains	55-64	11205
+Blue Mountains	65-74	10517
+Blue Mountains	75-84	5258
+Blue Mountains	85+	1763
+Bogan	0-4	156
+Bogan	5-14	317
+Bogan	15-19	147
+Bogan	20-24	140
+Bogan	25-34	320
+Bogan	35-44	224
+Bogan	45-54	336
+Bogan	55-64	321
+Bogan	65-74	225
+Bogan	75-84	208
+Bogan	85+	71
+Bourke	0-4	178
+Bourke	5-14	342
+Bourke	15-19	134
+Bourke	20-24	134
+Bourke	25-34	311
+Bourke	35-44	273
+Bourke	45-54	303
+Bourke	55-64	315
+Bourke	65-74	211
+Bourke	75-84	106
+Bourke	85+	34
+Brewarrina	0-4	88
+Brewarrina	5-14	186
+Brewarrina	15-19	80
+Brewarrina	20-24	76
+Brewarrina	25-34	205
+Brewarrina	35-44	127
+Brewarrina	45-54	169
+Brewarrina	55-64	209
+Brewarrina	65-74	132
+Brewarrina	75-84	51
+Brewarrina	85+	17
+Broken Hill	0-4	972
+Broken Hill	5-14	2030
+Broken Hill	15-19	971
+Broken Hill	20-24	896
+Broken Hill	25-34	2182
+Broken Hill	35-44	1883
+Broken Hill	45-54	2010
+Broken Hill	55-64	2570
+Broken Hill	65-74	2214
+Broken Hill	75-84	1272
+Broken Hill	85+	590
+Burwood	0-4	1532
+Burwood	5-14	3271
+Burwood	15-19	1829
+Burwood	20-24	5006
+Burwood	25-34	8805
+Burwood	35-44	5002
+Burwood	45-54	4503
+Burwood	55-64	4109
+Burwood	65-74	3028
+Burwood	75-84	1960
+Burwood	85+	1177
+Byron	0-4	1733
+Byron	5-14	4079
+Byron	15-19	1695
+Byron	20-24	1483
+Byron	25-34	4871
+Byron	35-44	5150
+Byron	45-54	5197
+Byron	55-64	5197
+Byron	65-74	4488
+Byron	75-84	1634
+Byron	85+	584
+Cabonne	0-4	751
+Cabonne	5-14	2043
+Cabonne	15-19	876
+Cabonne	20-24	628
+Cabonne	25-34	1139
+Cabonne	35-44	1539
+Cabonne	45-54	1832
+Cabonne	55-64	1987
+Cabonne	65-74	1677
+Cabonne	75-84	960
+Cabonne	85+	331
+Camden	0-4	11190
+Camden	5-14	18901
+Camden	15-19	7498
+Camden	20-24	6987
+Camden	25-34	19454
+Camden	35-44	18834
+Camden	45-54	14279
+Camden	55-64	10328
+Camden	65-74	7203
+Camden	75-84	3432
+Camden	85+	1220
+Campbelltown (NSW)	0-4	13106
+Campbelltown (NSW)	5-14	25759
+Campbelltown (NSW)	15-19	10930
+Campbelltown (NSW)	20-24	11285
+Campbelltown (NSW)	25-34	25608
+Campbelltown (NSW)	35-44	26597
+Campbelltown (NSW)	45-54	20283
+Campbelltown (NSW)	55-64	19501
+Campbelltown (NSW)	65-74	14817
+Campbelltown (NSW)	75-84	6689
+Campbelltown (NSW)	85+	1953
+Canada Bay	0-4	4851
+Canada Bay	5-14	9248
+Canada Bay	15-19	4102
+Canada Bay	20-24	5395
+Canada Bay	25-34	14886
+Canada Bay	35-44	13677
+Canada Bay	45-54	11738
+Canada Bay	55-64	10252
+Canada Bay	65-74	8074
+Canada Bay	75-84	4743
+Canada Bay	85+	2219
+Canterbury-Bankstown	0-4	24664
+Canterbury-Bankstown	5-14	48817
+Canterbury-Bankstown	15-19	22662
+Canterbury-Bankstown	20-24	25124
+Canterbury-Bankstown	25-34	55449
+Canterbury-Bankstown	35-44	51070
+Canterbury-Bankstown	45-54	45671
+Canterbury-Bankstown	55-64	41923
+Canterbury-Bankstown	65-74	29760
+Canterbury-Bankstown	75-84	17504
+Canterbury-Bankstown	85+	8374
+Carrathool	0-4	210
+Carrathool	5-14	354
+Carrathool	15-19	141
+Carrathool	20-24	160
+Carrathool	25-34	472
+Carrathool	35-44	337
+Carrathool	45-54	371
+Carrathool	55-64	390
+Carrathool	65-74	251
+Carrathool	75-84	126
+Carrathool	85+	56
+Central Coast (NSW)	0-4	19421
+Central Coast (NSW)	5-14	42931
+Central Coast (NSW)	15-19	20276
+Central Coast (NSW)	20-24	18486
+Central Coast (NSW)	25-34	38119
+Central Coast (NSW)	35-44	41358
+Central Coast (NSW)	45-54	44183
+Central Coast (NSW)	55-64	44882
+Central Coast (NSW)	65-74	40693
+Central Coast (NSW)	75-84	25702
+Central Coast (NSW)	85+	10545
+Central Darling	0-4	88
+Central Darling	5-14	212
+Central Darling	15-19	107
+Central Darling	20-24	106
+Central Darling	25-34	217
+Central Darling	35-44	182
+Central Darling	45-54	225
+Central Darling	55-64	240
+Central Darling	65-74	222
+Central Darling	75-84	105
+Central Darling	85+	22
+Cessnock	0-4	4283
+Cessnock	5-14	8551
+Cessnock	15-19	3736
+Cessnock	20-24	3846
+Cessnock	25-34	9106
+Cessnock	35-44	7898
+Cessnock	45-54	7749
+Cessnock	55-64	7635
+Cessnock	65-74	6577
+Cessnock	75-84	3083
+Cessnock	85+	1167
+Clarence Valley	0-4	2578
+Clarence Valley	5-14	6082
+Clarence Valley	15-19	2731
+Clarence Valley	20-24	2369
+Clarence Valley	25-34	5203
+Clarence Valley	35-44	5404
+Clarence Valley	45-54	6516
+Clarence Valley	55-64	8407
+Clarence Valley	65-74	8356
+Clarence Valley	75-84	4719
+Clarence Valley	85+	1757
+Cobar	0-4	279
+Cobar	5-14	552
+Cobar	15-19	231
+Cobar	20-24	228
+Cobar	25-34	592
+Cobar	35-44	508
+Cobar	45-54	444
+Cobar	55-64	552
+Cobar	65-74	390
+Cobar	75-84	211
+Cobar	85+	75
+Coffs Harbour	0-4	4060
+Coffs Harbour	5-14	9907
+Coffs Harbour	15-19	4505
+Coffs Harbour	20-24	3601
+Coffs Harbour	25-34	8788
+Coffs Harbour	35-44	9273
+Coffs Harbour	45-54	9821
+Coffs Harbour	55-64	10579
+Coffs Harbour	65-74	10183
+Coffs Harbour	75-84	5726
+Coffs Harbour	85+	2320
+Coolamon	0-4	240
+Coolamon	5-14	624
+Coolamon	15-19	293
+Coolamon	20-24	179
+Coolamon	25-34	439
+Coolamon	35-44	438
+Coolamon	45-54	533
+Coolamon	55-64	599
+Coolamon	65-74	565
+Coolamon	75-84	335
+Coolamon	85+	135
+Coonamble	0-4	309
+Coonamble	5-14	503
+Coonamble	15-19	207
+Coonamble	20-24	184
+Coonamble	25-34	460
+Coonamble	35-44	395
+Coonamble	45-54	435
+Coonamble	55-64	511
+Coonamble	65-74	404
+Coonamble	75-84	240
+Coonamble	85+	85
+Cootamundra-Gundagai Regional	0-4	607
+Cootamundra-Gundagai Regional	5-14	1378
+Cootamundra-Gundagai Regional	15-19	636
+Cootamundra-Gundagai Regional	20-24	490
+Cootamundra-Gundagai Regional	25-34	999
+Cootamundra-Gundagai Regional	35-44	1096
+Cootamundra-Gundagai Regional	45-54	1303
+Cootamundra-Gundagai Regional	55-64	1674
+Cootamundra-Gundagai Regional	65-74	1763
+Cootamundra-Gundagai Regional	75-84	1086
+Cootamundra-Gundagai Regional	85+	382
+Cowra	0-4	684
+Cowra	5-14	1474
+Cowra	15-19	719
+Cowra	20-24	647
+Cowra	25-34	1285
+Cowra	35-44	1203
+Cowra	45-54	1560
+Cowra	55-64	1763
+Cowra	65-74	1869
+Cowra	75-84	1105
+Cowra	85+	411
+Cumberland	0-4	16450
+Cumberland	5-14	30434
+Cumberland	15-19	12646
+Cumberland	20-24	18657
+Cumberland	25-34	43631
+Cumberland	35-44	36083
+Cumberland	45-54	25996
+Cumberland	55-64	23165
+Cumberland	65-74	16129
+Cumberland	75-84	8806
+Cumberland	85+	3442
+Dubbo Regional	0-4	3888
+Dubbo Regional	5-14	7620
+Dubbo Regional	15-19	3148
+Dubbo Regional	20-24	3086
+Dubbo Regional	25-34	8321
+Dubbo Regional	35-44	6671
+Dubbo Regional	45-54	6273
+Dubbo Regional	55-64	6424
+Dubbo Regional	65-74	5169
+Dubbo Regional	75-84	3131
+Dubbo Regional	85+	1186
+Dungog	0-4	509
+Dungog	5-14	1257
+Dungog	15-19	525
+Dungog	20-24	394
+Dungog	25-34	864
+Dungog	35-44	1120
+Dungog	45-54	1242
+Dungog	55-64	1529
+Dungog	65-74	1254
+Dungog	75-84	658
+Dungog	85+	184
+Edward River	0-4	444
+Edward River	5-14	1037
+Edward River	15-19	480
+Edward River	20-24	398
+Edward River	25-34	868
+Edward River	35-44	846
+Edward River	45-54	1022
+Edward River	55-64	1262
+Edward River	65-74	1136
+Edward River	75-84	676
+Edward River	85+	286
+Eurobodalla	0-4	1648
+Eurobodalla	5-14	3971
+Eurobodalla	15-19	1898
+Eurobodalla	20-24	1342
+Eurobodalla	25-34	3172
+Eurobodalla	35-44	3547
+Eurobodalla	45-54	4767
+Eurobodalla	55-64	6929
+Eurobodalla	65-74	7823
+Eurobodalla	75-84	4000
+Eurobodalla	85+	1498
+Fairfield	0-4	10848
+Fairfield	5-14	26395
+Fairfield	15-19	14439
+Fairfield	20-24	14686
+Fairfield	25-34	27047
+Fairfield	35-44	24959
+Fairfield	45-54	27188
+Fairfield	55-64	27942
+Fairfield	65-74	20373
+Fairfield	75-84	10159
+Fairfield	85+	4440
+Federation	0-4	599
+Federation	5-14	1423
+Federation	15-19	659
+Federation	20-24	534
+Federation	25-34	1135
+Federation	35-44	1153
+Federation	45-54	1525
+Federation	55-64	1956
+Federation	65-74	2169
+Federation	75-84	1284
+Federation	85+	468
+Forbes	0-4	548
+Forbes	5-14	1302
+Forbes	15-19	539
+Forbes	20-24	482
+Forbes	25-34	1003
+Forbes	35-44	1003
+Forbes	45-54	1074
+Forbes	55-64	1217
+Forbes	65-74	1126
+Forbes	75-84	748
+Forbes	85+	284
+Georges River	0-4	7632
+Georges River	5-14	16631
+Georges River	15-19	8009
+Georges River	20-24	11587
+Georges River	25-34	23667
+Georges River	35-44	20681
+Georges River	45-54	19057
+Georges River	55-64	18651
+Georges River	65-74	13895
+Georges River	75-84	8224
+Georges River	85+	4229
+Gilgandra	0-4	258
+Gilgandra	5-14	563
+Gilgandra	15-19	219
+Gilgandra	20-24	160
+Gilgandra	25-34	444
+Gilgandra	35-44	435
+Gilgandra	45-54	531
+Gilgandra	55-64	650
+Gilgandra	65-74	555
+Gilgandra	75-84	353
+Gilgandra	85+	129
+Glen Innes Severn	0-4	385
+Glen Innes Severn	5-14	976
+Glen Innes Severn	15-19	493
+Glen Innes Severn	20-24	355
+Glen Innes Severn	25-34	849
+Glen Innes Severn	35-44	840
+Glen Innes Severn	45-54	1074
+Glen Innes Severn	55-64	1416
+Glen Innes Severn	65-74	1375
+Glen Innes Severn	75-84	855
+Glen Innes Severn	85+	303
+Goulburn Mulwaree	0-4	1829
+Goulburn Mulwaree	5-14	3953
+Goulburn Mulwaree	15-19	1775
+Goulburn Mulwaree	20-24	1698
+Goulburn Mulwaree	25-34	4097
+Goulburn Mulwaree	35-44	3740
+Goulburn Mulwaree	45-54	3987
+Goulburn Mulwaree	55-64	4284
+Goulburn Mulwaree	65-74	3744
+Goulburn Mulwaree	75-84	2121
+Goulburn Mulwaree	85+	825
+Greater Hume Shire	0-4	653
+Greater Hume Shire	5-14	1591
+Greater Hume Shire	15-19	797
+Greater Hume Shire	20-24	433
+Greater Hume Shire	25-34	934
+Greater Hume Shire	35-44	1253
+Greater Hume Shire	45-54	1376
+Greater Hume Shire	55-64	1669
+Greater Hume Shire	65-74	1486
+Greater Hume Shire	75-84	743
+Greater Hume Shire	85+	229
+Griffith	0-4	1746
+Griffith	5-14	3514
+Griffith	15-19	1709
+Griffith	20-24	1560
+Griffith	25-34	4019
+Griffith	35-44	3396
+Griffith	45-54	3433
+Griffith	55-64	3221
+Griffith	65-74	2369
+Griffith	75-84	1431
+Griffith	85+	689
+Gunnedah	0-4	949
+Gunnedah	5-14	1943
+Gunnedah	15-19	681
+Gunnedah	20-24	689
+Gunnedah	25-34	1747
+Gunnedah	35-44	1509
+Gunnedah	45-54	1394
+Gunnedah	55-64	1575
+Gunnedah	65-74	1264
+Gunnedah	75-84	851
+Gunnedah	85+	332
+Gwydir	0-4	225
+Gwydir	5-14	638
+Gwydir	15-19	211
+Gwydir	20-24	169
+Gwydir	25-34	393
+Gwydir	35-44	501
+Gwydir	45-54	616
+Gwydir	55-64	758
+Gwydir	65-74	742
+Gwydir	75-84	477
+Gwydir	85+	173
+Hawkesbury	0-4	4152
+Hawkesbury	5-14	8699
+Hawkesbury	15-19	4391
+Hawkesbury	20-24	4245
+Hawkesbury	25-34	8834
+Hawkesbury	35-44	7916
+Hawkesbury	45-54	9184
+Hawkesbury	55-64	8650
+Hawkesbury	65-74	6361
+Hawkesbury	75-84	3560
+Hawkesbury	85+	1215
+Hay	0-4	167
+Hay	5-14	298
+Hay	15-19	139
+Hay	20-24	168
+Hay	25-34	314
+Hay	35-44	259
+Hay	45-54	333
+Hay	55-64	522
+Hay	65-74	331
+Hay	75-84	255
+Hay	85+	90
+Hilltops	0-4	1128
+Hilltops	5-14	2512
+Hilltops	15-19	1123
+Hilltops	20-24	882
+Hilltops	25-34	1969
+Hilltops	35-44	1979
+Hilltops	45-54	2293
+Hilltops	55-64	2747
+Hilltops	65-74	2587
+Hilltops	75-84	1504
+Hilltops	85+	541
+Hornsby	0-4	7607
+Hornsby	5-14	21251
+Hornsby	15-19	9774
+Hornsby	20-24	8346
+Hornsby	25-34	14405
+Hornsby	35-44	22239
+Hornsby	45-54	22004
+Hornsby	55-64	18731
+Hornsby	65-74	14233
+Hornsby	75-84	8902
+Hornsby	85+	4327
+Hunters Hill	0-4	582
+Hunters Hill	5-14	1738
+Hunters Hill	15-19	1027
+Hunters Hill	20-24	704
+Hunters Hill	25-34	996
+Hunters Hill	35-44	1537
+Hunters Hill	45-54	2017
+Hunters Hill	55-64	1714
+Hunters Hill	65-74	1498
+Hunters Hill	75-84	1009
+Hunters Hill	85+	734
+Inner West	0-4	9148
+Inner West	5-14	17556
+Inner West	15-19	7422
+Inner West	20-24	11284
+Inner West	25-34	35238
+Inner West	35-44	30530
+Inner West	45-54	26101
+Inner West	55-64	19845
+Inner West	65-74	14219
+Inner West	75-84	7906
+Inner West	85+	3569
+Inverell	0-4	1026
+Inverell	5-14	2399
+Inverell	15-19	1116
+Inverell	20-24	909
+Inverell	25-34	1971
+Inverell	35-44	1832
+Inverell	45-54	2171
+Inverell	55-64	2366
+Inverell	65-74	2170
+Inverell	75-84	1424
+Inverell	85+	471
+Junee	0-4	331
+Junee	5-14	721
+Junee	15-19	322
+Junee	20-24	371
+Junee	25-34	890
+Junee	35-44	840
+Junee	45-54	844
+Junee	55-64	868
+Junee	65-74	719
+Junee	75-84	391
+Junee	85+	125
+Kempsey	0-4	1548
+Kempsey	5-14	3528
+Kempsey	15-19	1694
+Kempsey	20-24	1447
+Kempsey	25-34	3062
+Kempsey	35-44	3017
+Kempsey	45-54	3570
+Kempsey	55-64	4773
+Kempsey	65-74	4743
+Kempsey	75-84	2444
+Kempsey	85+	863
+Kiama	0-4	1149
+Kiama	5-14	2647
+Kiama	15-19	1281
+Kiama	20-24	954
+Kiama	25-34	1992
+Kiama	35-44	2485
+Kiama	45-54	2763
+Kiama	55-64	3436
+Kiama	65-74	3597
+Kiama	75-84	1988
+Kiama	85+	777
+Ku-ring-gai	0-4	5602
+Ku-ring-gai	5-14	18548
+Ku-ring-gai	15-19	9124
+Ku-ring-gai	20-24	6968
+Ku-ring-gai	25-34	9330
+Ku-ring-gai	35-44	16439
+Ku-ring-gai	45-54	18833
+Ku-ring-gai	55-64	15230
+Ku-ring-gai	65-74	11713
+Ku-ring-gai	75-84	8150
+Ku-ring-gai	85+	4138
+Kyogle	0-4	402
+Kyogle	5-14	1084
+Kyogle	15-19	480
+Kyogle	20-24	314
+Kyogle	25-34	710
+Kyogle	35-44	907
+Kyogle	45-54	1167
+Kyogle	55-64	1811
+Kyogle	65-74	1588
+Kyogle	75-84	675
+Kyogle	85+	228
+Lachlan	0-4	398
+Lachlan	5-14	898
+Lachlan	15-19	316
+Lachlan	20-24	267
+Lachlan	25-34	710
+Lachlan	35-44	678
+Lachlan	45-54	706
+Lachlan	55-64	818
+Lachlan	65-74	687
+Lachlan	75-84	412
+Lachlan	85+	199
+Lake Macquarie	0-4	11966
+Lake Macquarie	5-14	26797
+Lake Macquarie	15-19	12340
+Lake Macquarie	20-24	11654
+Lake Macquarie	25-34	24165
+Lake Macquarie	35-44	25799
+Lake Macquarie	45-54	26769
+Lake Macquarie	55-64	27279
+Lake Macquarie	65-74	25149
+Lake Macquarie	75-84	15618
+Lake Macquarie	85+	6305
+Lane Cove	0-4	2403
+Lane Cove	5-14	4777
+Lane Cove	15-19	2017
+Lane Cove	20-24	1963
+Lane Cove	25-34	6440
+Lane Cove	35-44	6953
+Lane Cove	45-54	5239
+Lane Cove	55-64	3990
+Lane Cove	65-74	3110
+Lane Cove	75-84	1824
+Lane Cove	85+	725
+Leeton	0-4	703
+Leeton	5-14	1715
+Leeton	15-19	909
+Leeton	20-24	618
+Leeton	25-34	1366
+Leeton	35-44	1258
+Leeton	45-54	1385
+Leeton	55-64	1447
+Leeton	65-74	1065
+Leeton	75-84	710
+Leeton	85+	284
+Lismore	0-4	2106
+Lismore	5-14	5479
+Lismore	15-19	2657
+Lismore	20-24	2285
+Lismore	25-34	4751
+Lismore	35-44	5196
+Lismore	45-54	5986
+Lismore	55-64	6638
+Lismore	65-74	5537
+Lismore	75-84	2620
+Lismore	85+	1081
+Lithgow	0-4	958
+Lithgow	5-14	2461
+Lithgow	15-19	1104
+Lithgow	20-24	1010
+Lithgow	25-34	2273
+Lithgow	35-44	2144
+Lithgow	45-54	2613
+Lithgow	55-64	3171
+Lithgow	65-74	2910
+Lithgow	75-84	1666
+Lithgow	85+	534
+Liverpool	0-4	16664
+Liverpool	5-14	34907
+Liverpool	15-19	16212
+Liverpool	20-24	16481
+Liverpool	25-34	33456
+Liverpool	35-44	33975
+Liverpool	45-54	29602
+Liverpool	55-64	25169
+Liverpool	65-74	15987
+Liverpool	75-84	8048
+Liverpool	85+	2943
+Liverpool Plains	0-4	385
+Liverpool Plains	5-14	949
+Liverpool Plains	15-19	446
+Liverpool Plains	20-24	330
+Liverpool Plains	25-34	703
+Liverpool Plains	35-44	786
+Liverpool Plains	45-54	961
+Liverpool Plains	55-64	1136
+Liverpool Plains	65-74	1073
+Liverpool Plains	75-84	600
+Liverpool Plains	85+	189
+Lockhart	0-4	204
+Lockhart	5-14	482
+Lockhart	15-19	199
+Lockhart	20-24	136
+Lockhart	25-34	265
+Lockhart	35-44	309
+Lockhart	45-54	389
+Lockhart	55-64	527
+Lockhart	65-74	433
+Lockhart	75-84	248
+Lockhart	85+	125
+Maitland	0-4	6220
+Maitland	5-14	13049
+Maitland	15-19	5568
+Maitland	20-24	5471
+Maitland	25-34	12943
+Maitland	35-44	12042
+Maitland	45-54	10990
+Maitland	55-64	9936
+Maitland	65-74	8181
+Maitland	75-84	4334
+Maitland	85+	1494
+Mid-Coast	0-4	3907
+Mid-Coast	5-14	10165
+Mid-Coast	15-19	4668
+Mid-Coast	20-24	3453
+Mid-Coast	25-34	7601
+Mid-Coast	35-44	8382
+Mid-Coast	45-54	10914
+Mid-Coast	55-64	15414
+Mid-Coast	65-74	17646
+Mid-Coast	75-84	10533
+Mid-Coast	85+	3884
+Mid-Western Regional	0-4	1528
+Mid-Western Regional	5-14	3588
+Mid-Western Regional	15-19	1438
+Mid-Western Regional	20-24	1092
+Mid-Western Regional	25-34	2945
+Mid-Western Regional	35-44	2981
+Mid-Western Regional	45-54	3329
+Mid-Western Regional	55-64	3497
+Mid-Western Regional	65-74	2935
+Mid-Western Regional	75-84	1782
+Mid-Western Regional	85+	598
+Moree Plains	0-4	815
+Moree Plains	5-14	1806
+Moree Plains	15-19	678
+Moree Plains	20-24	795
+Moree Plains	25-34	1699
+Moree Plains	35-44	1508
+Moree Plains	45-54	1607
+Moree Plains	55-64	1723
+Moree Plains	65-74	1238
+Moree Plains	75-84	690
+Moree Plains	85+	199
+Mosman	0-4	1220
+Mosman	5-14	3391
+Mosman	15-19	1619
+Mosman	20-24	1346
+Mosman	25-34	2935
+Mosman	35-44	3649
+Mosman	45-54	4238
+Mosman	55-64	3727
+Mosman	65-74	3073
+Mosman	75-84	2216
+Mosman	85+	916
+Murray River	0-4	664
+Murray River	5-14	1504
+Murray River	15-19	643
+Murray River	20-24	449
+Murray River	25-34	1194
+Murray River	35-44	1277
+Murray River	45-54	1533
+Murray River	55-64	1926
+Murray River	65-74	2034
+Murray River	75-84	1223
+Murray River	85+	401
+Murrumbidgee	0-4	186
+Murrumbidgee	5-14	383
+Murrumbidgee	15-19	168
+Murrumbidgee	20-24	171
+Murrumbidgee	25-34	406
+Murrumbidgee	35-44	353
+Murrumbidgee	45-54	418
+Murrumbidgee	55-64	545
+Murrumbidgee	65-74	436
+Murrumbidgee	75-84	214
+Murrumbidgee	85+	76
+Muswellbrook	0-4	1028
+Muswellbrook	5-14	2430
+Muswellbrook	15-19	1053
+Muswellbrook	20-24	870
+Muswellbrook	25-34	2309
+Muswellbrook	35-44	2112
+Muswellbrook	45-54	2116
+Muswellbrook	55-64	1977
+Muswellbrook	65-74	1451
+Muswellbrook	75-84	746
+Muswellbrook	85+	256
+Nambucca Valley	0-4	978
+Nambucca Valley	5-14	2234
+Nambucca Valley	15-19	1071
+Nambucca Valley	20-24	705
+Nambucca Valley	25-34	1675
+Nambucca Valley	35-44	1828
+Nambucca Valley	45-54	2313
+Nambucca Valley	55-64	3461
+Nambucca Valley	65-74	3471
+Nambucca Valley	75-84	1953
+Nambucca Valley	85+	713
+Narrabri	0-4	764
+Narrabri	5-14	1783
+Narrabri	15-19	690
+Narrabri	20-24	714
+Narrabri	25-34	1564
+Narrabri	35-44	1388
+Narrabri	45-54	1552
+Narrabri	55-64	1822
+Narrabri	65-74	1345
+Narrabri	75-84	787
+Narrabri	85+	303
+Narrandera	0-4	324
+Narrandera	5-14	820
+Narrandera	15-19	317
+Narrandera	20-24	252
+Narrandera	25-34	549
+Narrandera	35-44	616
+Narrandera	45-54	667
+Narrandera	55-64	822
+Narrandera	65-74	687
+Narrandera	75-84	437
+Narrandera	85+	203
+Narromine	0-4	405
+Narromine	5-14	944
+Narromine	15-19	370
+Narromine	20-24	301
+Narromine	25-34	712
+Narromine	35-44	687
+Narromine	45-54	703
+Narromine	55-64	854
+Narromine	65-74	749
+Narromine	75-84	473
+Narromine	85+	173
+Newcastle	0-4	8792
+Newcastle	5-14	18563
+Newcastle	15-19	9722
+Newcastle	20-24	14428
+Newcastle	25-34	26941
+Newcastle	35-44	21852
+Newcastle	45-54	20660
+Newcastle	55-64	19267
+Newcastle	65-74	15262
+Newcastle	75-84	8967
+Newcastle	85+	4421
+North Sydney	0-4	3435
+North Sydney	5-14	5293
+North Sydney	15-19	2145
+North Sydney	20-24	3361
+North Sydney	25-34	14656
+North Sydney	35-44	12343
+North Sydney	45-54	8800
+North Sydney	55-64	7436
+North Sydney	65-74	6417
+North Sydney	75-84	3848
+North Sydney	85+	1226
+Northern Beaches	0-4	14169
+Northern Beaches	5-14	34559
+Northern Beaches	15-19	16263
+Northern Beaches	20-24	13740
+Northern Beaches	25-34	28875
+Northern Beaches	35-44	35504
+Northern Beaches	45-54	40004
+Northern Beaches	55-64	32479
+Northern Beaches	65-74	24219
+Northern Beaches	75-84	16501
+Northern Beaches	85+	7243
+Oberon	0-4	264
+Oberon	5-14	692
+Oberon	15-19	270
+Oberon	20-24	254
+Oberon	25-34	539
+Oberon	35-44	609
+Oberon	45-54	742
+Oberon	55-64	828
+Oberon	65-74	846
+Oberon	75-84	429
+Oberon	85+	107
+Orange	0-4	3052
+Orange	5-14	6325
+Orange	15-19	2662
+Orange	20-24	2407
+Orange	25-34	5893
+Orange	35-44	5464
+Orange	45-54	5108
+Orange	55-64	4776
+Orange	65-74	4256
+Orange	75-84	2511
+Orange	85+	1049
+Parkes	0-4	910
+Parkes	5-14	2025
+Parkes	15-19	875
+Parkes	20-24	788
+Parkes	25-34	1631
+Parkes	35-44	1562
+Parkes	45-54	1672
+Parkes	55-64	1915
+Parkes	65-74	1551
+Parkes	75-84	995
+Parkes	85+	438
+Parramatta	0-4	16047
+Parramatta	5-14	30593
+Parramatta	15-19	11542
+Parramatta	20-24	16999
+Parramatta	25-34	49933
+Parramatta	35-44	45531
+Parramatta	45-54	29102
+Parramatta	55-64	24787
+Parramatta	65-74	18185
+Parramatta	75-84	9948
+Parramatta	85+	4067
+Penrith	0-4	15640
+Penrith	5-14	30474
+Penrith	15-19	13523
+Penrith	20-24	14793
+Penrith	25-34	32976
+Penrith	35-44	31767
+Penrith	45-54	26855
+Penrith	55-64	23332
+Penrith	65-74	17418
+Penrith	75-84	8164
+Penrith	85+	2713
+Port Macquarie-Hastings	0-4	3849
+Port Macquarie-Hastings	5-14	10013
+Port Macquarie-Hastings	15-19	4938
+Port Macquarie-Hastings	20-24	3865
+Port Macquarie-Hastings	25-34	7637
+Port Macquarie-Hastings	35-44	8655
+Port Macquarie-Hastings	45-54	10452
+Port Macquarie-Hastings	55-64	12073
+Port Macquarie-Hastings	65-74	13187
+Port Macquarie-Hastings	75-84	8690
+Port Macquarie-Hastings	85+	3417
+Port Stephens	0-4	3630
+Port Stephens	5-14	9258
+Port Stephens	15-19	4347
+Port Stephens	20-24	3589
+Port Stephens	25-34	7049
+Port Stephens	35-44	7877
+Port Stephens	45-54	9271
+Port Stephens	55-64	10759
+Port Stephens	65-74	11058
+Port Stephens	75-84	6564
+Port Stephens	85+	1860
+Queanbeyan-Palerang Regional	0-4	4225
+Queanbeyan-Palerang Regional	5-14	8131
+Queanbeyan-Palerang Regional	15-19	3427
+Queanbeyan-Palerang Regional	20-24	3400
+Queanbeyan-Palerang Regional	25-34	9347
+Queanbeyan-Palerang Regional	35-44	9004
+Queanbeyan-Palerang Regional	45-54	9200
+Queanbeyan-Palerang Regional	55-64	8022
+Queanbeyan-Palerang Regional	65-74	5281
+Queanbeyan-Palerang Regional	75-84	2475
+Queanbeyan-Palerang Regional	85+	777
+Randwick	0-4	6832
+Randwick	5-14	13834
+Randwick	15-19	6677
+Randwick	20-24	9497
+Randwick	25-34	24573
+Randwick	35-44	20345
+Randwick	45-54	17468
+Randwick	55-64	14085
+Randwick	65-74	10665
+Randwick	75-84	6904
+Randwick	85+	3371
+Richmond Valley	0-4	1188
+Richmond Valley	5-14	3128
+Richmond Valley	15-19	1363
+Richmond Valley	20-24	1209
+Richmond Valley	25-34	2296
+Richmond Valley	35-44	2336
+Richmond Valley	45-54	2811
+Richmond Valley	55-64	3330
+Richmond Valley	65-74	3296
+Richmond Valley	75-84	1857
+Richmond Valley	85+	765
+Ryde	0-4	7267
+Ryde	5-14	13700
+Ryde	15-19	5895
+Ryde	20-24	8607
+Ryde	25-34	23722
+Ryde	35-44	21266
+Ryde	45-54	15232
+Ryde	55-64	13994
+Ryde	65-74	10500
+Ryde	75-84	5836
+Ryde	85+	3111
+Shellharbour	0-4	4591
+Shellharbour	5-14	10028
+Shellharbour	15-19	4813
+Shellharbour	20-24	4593
+Shellharbour	25-34	9585
+Shellharbour	35-44	9343
+Shellharbour	45-54	9674
+Shellharbour	55-64	9667
+Shellharbour	65-74	7827
+Shellharbour	75-84	4452
+Shellharbour	85+	1695
+Shoalhaven	0-4	5448
+Shoalhaven	5-14	11889
+Shoalhaven	15-19	5461
+Shoalhaven	20-24	4756
+Shoalhaven	25-34	11029
+Shoalhaven	35-44	11131
+Shoalhaven	45-54	12301
+Shoalhaven	55-64	16093
+Shoalhaven	65-74	17085
+Shoalhaven	75-84	9829
+Shoalhaven	85+	3504
+Singleton	0-4	1518
+Singleton	5-14	3559
+Singleton	15-19	1746
+Singleton	20-24	1545
+Singleton	25-34	3219
+Singleton	35-44	3030
+Singleton	45-54	3337
+Singleton	55-64	3079
+Singleton	65-74	2153
+Singleton	75-84	1033
+Singleton	85+	353
+Snowy Monaro Regional	0-4	1005
+Snowy Monaro Regional	5-14	2549
+Snowy Monaro Regional	15-19	1200
+Snowy Monaro Regional	20-24	1152
+Snowy Monaro Regional	25-34	2807
+Snowy Monaro Regional	35-44	2473
+Snowy Monaro Regional	45-54	3013
+Snowy Monaro Regional	55-64	3182
+Snowy Monaro Regional	65-74	2449
+Snowy Monaro Regional	75-84	1349
+Snowy Monaro Regional	85+	483
+Snowy Valleys	0-4	827
+Snowy Valleys	5-14	1919
+Snowy Valleys	15-19	824
+Snowy Valleys	20-24	659
+Snowy Valleys	25-34	1465
+Snowy Valleys	35-44	1693
+Snowy Valleys	45-54	1837
+Snowy Valleys	55-64	2210
+Snowy Valleys	65-74	1915
+Snowy Valleys	75-84	1141
+Snowy Valleys	85+	398
+Strathfield	0-4	2350
+Strathfield	5-14	4419
+Strathfield	15-19	2062
+Strathfield	20-24	4601
+Strathfield	25-34	11081
+Strathfield	35-44	6639
+Strathfield	45-54	4535
+Strathfield	55-64	4388
+Strathfield	65-74	2971
+Strathfield	75-84	1717
+Strathfield	85+	826
+Sutherland Shire	0-4	13312
+Sutherland Shire	5-14	29217
+Sutherland Shire	15-19	14027
+Sutherland Shire	20-24	12947
+Sutherland Shire	25-34	26420
+Sutherland Shire	35-44	30575
+Sutherland Shire	45-54	31902
+Sutherland Shire	55-64	28567
+Sutherland Shire	65-74	22941
+Sutherland Shire	75-84	13859
+Sutherland Shire	85+	6435
+Sydney	0-4	7460
+Sydney	5-14	8569
+Sydney	15-19	5287
+Sydney	20-24	21572
+Sydney	25-34	68112
+Sydney	35-44	39461
+Sydney	45-54	22838
+Sydney	55-64	17940
+Sydney	65-74	12378
+Sydney	75-84	5972
+Sydney	85+	2037
+Tamworth Regional	0-4	3829
+Tamworth Regional	5-14	8877
+Tamworth Regional	15-19	4102
+Tamworth Regional	20-24	3316
+Tamworth Regional	25-34	7984
+Tamworth Regional	35-44	7352
+Tamworth Regional	45-54	7452
+Tamworth Regional	55-64	7638
+Tamworth Regional	65-74	6768
+Tamworth Regional	75-84	4178
+Tamworth Regional	85+	1579
+Temora	0-4	321
+Temora	5-14	778
+Temora	15-19	361
+Temora	20-24	286
+Temora	25-34	520
+Temora	35-44	562
+Temora	45-54	710
+Temora	55-64	862
+Temora	65-74	866
+Temora	75-84	530
+Temora	85+	236
+Tenterfield	0-4	265
+Tenterfield	5-14	685
+Tenterfield	15-19	312
+Tenterfield	20-24	243
+Tenterfield	25-34	479
+Tenterfield	35-44	569
+Tenterfield	45-54	825
+Tenterfield	55-64	1194
+Tenterfield	65-74	1392
+Tenterfield	75-84	633
+Tenterfield	85+	211
+The Hills Shire	0-4	11078
+The Hills Shire	5-14	29586
+The Hills Shire	15-19	13071
+The Hills Shire	20-24	11436
+The Hills Shire	25-34	19325
+The Hills Shire	35-44	30834
+The Hills Shire	45-54	27125
+The Hills Shire	55-64	21006
+The Hills Shire	65-74	16849
+The Hills Shire	75-84	8724
+The Hills Shire	85+	2845
+Tweed	0-4	4623
+Tweed	5-14	11460
+Tweed	15-19	5118
+Tweed	20-24	4096
+Tweed	25-34	8868
+Tweed	35-44	11161
+Tweed	45-54	12115
+Tweed	55-64	14018
+Tweed	65-74	13616
+Tweed	75-84	8467
+Tweed	85+	3844
+Upper Hunter Shire	0-4	757
+Upper Hunter Shire	5-14	1892
+Upper Hunter Shire	15-19	822
+Upper Hunter Shire	20-24	671
+Upper Hunter Shire	25-34	1659
+Upper Hunter Shire	35-44	1707
+Upper Hunter Shire	45-54	1789
+Upper Hunter Shire	55-64	1934
+Upper Hunter Shire	65-74	1651
+Upper Hunter Shire	75-84	942
+Upper Hunter Shire	85+	406
+Upper Lachlan Shire	0-4	470
+Upper Lachlan Shire	5-14	943
+Upper Lachlan Shire	15-19	452
+Upper Lachlan Shire	20-24	330
+Upper Lachlan Shire	25-34	723
+Upper Lachlan Shire	35-44	837
+Upper Lachlan Shire	45-54	1123
+Upper Lachlan Shire	55-64	1510
+Upper Lachlan Shire	65-74	1229
+Upper Lachlan Shire	75-84	667
+Upper Lachlan Shire	85+	229
+Uralla	0-4	299
+Uralla	5-14	756
+Uralla	15-19	360
+Uralla	20-24	242
+Uralla	25-34	547
+Uralla	35-44	602
+Uralla	45-54	821
+Uralla	55-64	952
+Uralla	65-74	845
+Uralla	75-84	422
+Uralla	85+	118
+Wagga Wagga	0-4	4578
+Wagga Wagga	5-14	9178
+Wagga Wagga	15-19	4627
+Wagga Wagga	20-24	5171
+Wagga Wagga	25-34	9689
+Wagga Wagga	35-44	8230
+Wagga Wagga	45-54	7554
+Wagga Wagga	55-64	7394
+Wagga Wagga	65-74	6105
+Wagga Wagga	75-84	3524
+Wagga Wagga	85+	1567
+Walcha	0-4	166
+Walcha	5-14	344
+Walcha	15-19	147
+Walcha	20-24	117
+Walcha	25-34	271
+Walcha	35-44	265
+Walcha	45-54	361
+Walcha	55-64	461
+Walcha	65-74	486
+Walcha	75-84	324
+Walcha	85+	81
+Walgett	0-4	327
+Walgett	5-14	643
+Walgett	15-19	278
+Walgett	20-24	228
+Walgett	25-34	633
+Walgett	35-44	520
+Walgett	45-54	644
+Walgett	55-64	834
+Walgett	65-74	711
+Walgett	75-84	353
+Walgett	85+	83
+Warren	0-4	166
+Warren	5-14	329
+Warren	15-19	132
+Warren	20-24	121
+Warren	25-34	271
+Warren	35-44	244
+Warren	45-54	303
+Warren	55-64	387
+Warren	65-74	303
+Warren	75-84	212
+Warren	85+	87
+Warrumbungle Shire	0-4	473
+Warrumbungle Shire	5-14	1081
+Warrumbungle Shire	15-19	523
+Warrumbungle Shire	20-24	325
+Warrumbungle Shire	25-34	858
+Warrumbungle Shire	35-44	824
+Warrumbungle Shire	45-54	1099
+Warrumbungle Shire	55-64	1408
+Warrumbungle Shire	65-74	1425
+Warrumbungle Shire	75-84	873
+Warrumbungle Shire	85+	345
+Waverley	0-4	3774
+Waverley	5-14	7039
+Waverley	15-19	2899
+Waverley	20-24	3322
+Waverley	25-34	16114
+Waverley	35-44	11614
+Waverley	45-54	8858
+Waverley	55-64	6127
+Waverley	65-74	4621
+Waverley	75-84	2849
+Waverley	85+	1381
+Weddin	0-4	165
+Weddin	5-14	399
+Weddin	15-19	197
+Weddin	20-24	119
+Weddin	25-34	290
+Weddin	35-44	340
+Weddin	45-54	439
+Weddin	55-64	587
+Weddin	65-74	588
+Weddin	75-84	354
+Weddin	85+	143
+Wentworth	0-4	482
+Wentworth	5-14	949
+Wentworth	15-19	422
+Wentworth	20-24	353
+Wentworth	25-34	804
+Wentworth	35-44	828
+Wentworth	45-54	963
+Wentworth	55-64	1098
+Wentworth	65-74	942
+Wentworth	75-84	464
+Wentworth	85+	136
+Willoughby	0-4	3946
+Willoughby	5-14	10338
+Willoughby	15-19	4193
+Willoughby	20-24	3951
+Willoughby	25-34	9375
+Willoughby	35-44	12731
+Willoughby	45-54	10832
+Willoughby	55-64	8161
+Willoughby	65-74	6527
+Willoughby	75-84	3611
+Willoughby	85+	1954
+Wingecarribee	0-4	2567
+Wingecarribee	5-14	6235
+Wingecarribee	15-19	2976
+Wingecarribee	20-24	2155
+Wingecarribee	25-34	4747
+Wingecarribee	35-44	5332
+Wingecarribee	45-54	6753
+Wingecarribee	55-64	7235
+Wingecarribee	65-74	7778
+Wingecarribee	75-84	5167
+Wingecarribee	85+	1764
+Wollondilly	0-4	3765
+Wollondilly	5-14	7956
+Wollondilly	15-19	3712
+Wollondilly	20-24	3188
+Wollondilly	25-34	6537
+Wollondilly	35-44	6900
+Wollondilly	45-54	7346
+Wollondilly	55-64	6311
+Wollondilly	65-74	5005
+Wollondilly	75-84	2462
+Wollondilly	85+	766
+Wollongong	0-4	12083
+Wollongong	5-14	25625
+Wollongong	15-19	13032
+Wollongong	20-24	15784
+Wollongong	25-34	28419
+Wollongong	35-44	26758
+Wollongong	45-54	26838
+Wollongong	55-64	26064
+Wollongong	65-74	20904
+Wollongong	75-84	13310
+Wollongong	85+	5754
+Woollahra	0-4	2437
+Woollahra	5-14	5523
+Woollahra	15-19	2670
+Woollahra	20-24	2918
+Woollahra	25-34	8405
+Woollahra	35-44	7215
+Woollahra	45-54	6990
+Woollahra	55-64	6173
+Woollahra	65-74	5573
+Woollahra	75-84	3876
+Woollahra	85+	1724
+Yass Valley	0-4	928
+Yass Valley	5-14	2494
+Yass Valley	15-19	1133
+Yass Valley	20-24	780
+Yass Valley	25-34	1591
+Yass Valley	35-44	2181
+Yass Valley	45-54	2709
+Yass Valley	55-64	2300
+Yass Valley	65-74	1897
+Yass Valley	75-84	935
+Yass Valley	85+	338
+Unincorporated NSW	0-4	58
+Unincorporated NSW	5-14	127
+Unincorporated NSW	15-19	34
+Unincorporated NSW	20-24	24
+Unincorporated NSW	25-34	119
+Unincorporated NSW	35-44	150
+Unincorporated NSW	45-54	136
+Unincorporated NSW	55-64	164
+Unincorporated NSW	65-74	135
+Unincorporated NSW	75-84	55
+Unincorporated NSW	85+	20
+No usual address (NSW)	0-4	460
+No usual address (NSW)	5-14	798
+No usual address (NSW)	15-19	532
+No usual address (NSW)	20-24	829
+No usual address (NSW)	25-34	2187
+No usual address (NSW)	35-44	1859
+No usual address (NSW)	45-54	1678
+No usual address (NSW)	55-64	1648
+No usual address (NSW)	65-74	1055
+No usual address (NSW)	75-84	277
+No usual address (NSW)	85+	49
+Alpine	0-4	539
+Alpine	5-14	1488
+Alpine	15-19	666
+Alpine	20-24	516
+Alpine	25-34	1194
+Alpine	35-44	1459
+Alpine	45-54	1760
+Alpine	55-64	2151
+Alpine	65-74	1982
+Alpine	75-84	1080
+Alpine	85+	396
+Ararat	0-4	578
+Ararat	5-14	1225
+Ararat	15-19	557
+Ararat	20-24	560
+Ararat	25-34	1438
+Ararat	35-44	1312
+Ararat	45-54	1520
+Ararat	55-64	1745
+Ararat	65-74	1644
+Ararat	75-84	915
+Ararat	85+	371
+Ballarat	0-4	6608
+Ballarat	5-14	14719
+Ballarat	15-19	6927
+Ballarat	20-24	7198
+Ballarat	25-34	15533
+Ballarat	35-44	14072
+Ballarat	45-54	13845
+Ballarat	55-64	13314
+Ballarat	65-74	11927
+Ballarat	75-84	6743
+Ballarat	85+	2877
+Banyule	0-4	7052
+Banyule	5-14	15381
+Banyule	15-19	6832
+Banyule	20-24	7008
+Banyule	25-34	16254
+Banyule	35-44	18164
+Banyule	45-54	16921
+Banyule	55-64	14862
+Banyule	65-74	12694
+Banyule	75-84	7678
+Banyule	85+	3400
+Bass Coast	0-4	1841
+Bass Coast	5-14	4328
+Bass Coast	15-19	1842
+Bass Coast	20-24	1427
+Bass Coast	25-34	3585
+Bass Coast	35-44	4242
+Bass Coast	45-54	4815
+Bass Coast	55-64	6672
+Bass Coast	65-74	7185
+Bass Coast	75-84	3641
+Bass Coast	85+	1218
+Baw Baw	0-4	3507
+Baw Baw	5-14	7454
+Baw Baw	15-19	3208
+Baw Baw	20-24	2884
+Baw Baw	25-34	7130
+Baw Baw	35-44	6567
+Baw Baw	45-54	6921
+Baw Baw	55-64	7577
+Baw Baw	65-74	7078
+Baw Baw	75-84	3940
+Baw Baw	85+	1359
+Bayside (Vic.)	0-4	4450
+Bayside (Vic.)	5-14	13225
+Bayside (Vic.)	15-19	6965
+Bayside (Vic.)	20-24	5212
+Bayside (Vic.)	25-34	7912
+Bayside (Vic.)	35-44	11814
+Bayside (Vic.)	45-54	16260
+Bayside (Vic.)	55-64	14041
+Bayside (Vic.)	65-74	11081
+Bayside (Vic.)	75-84	6937
+Bayside (Vic.)	85+	3422
+Benalla	0-4	649
+Benalla	5-14	1418
+Benalla	15-19	739
+Benalla	20-24	608
+Benalla	25-34	1389
+Benalla	35-44	1350
+Benalla	45-54	1725
+Benalla	55-64	2350
+Benalla	65-74	2342
+Benalla	75-84	1392
+Benalla	85+	566
+Boroondara	0-4	6653
+Boroondara	5-14	20281
+Boroondara	15-19	11950
+Boroondara	20-24	12306
+Boroondara	25-34	21044
+Boroondara	35-44	20408
+Boroondara	45-54	23812
+Boroondara	55-64	20747
+Boroondara	65-74	15917
+Boroondara	75-84	9829
+Boroondara	85+	4961
+Brimbank	0-4	10994
+Brimbank	5-14	22773
+Brimbank	15-19	11131
+Brimbank	20-24	13406
+Brimbank	25-34	30553
+Brimbank	35-44	26419
+Brimbank	45-54	24555
+Brimbank	55-64	23114
+Brimbank	65-74	18308
+Brimbank	75-84	9714
+Brimbank	85+	3664
+Buloke	0-4	289
+Buloke	5-14	643
+Buloke	15-19	328
+Buloke	20-24	246
+Buloke	25-34	550
+Buloke	35-44	490
+Buloke	45-54	805
+Buloke	55-64	1051
+Buloke	65-74	945
+Buloke	75-84	547
+Buloke	85+	286
+Campaspe	0-4	1939
+Campaspe	5-14	4674
+Campaspe	15-19	2215
+Campaspe	20-24	1876
+Campaspe	25-34	3902
+Campaspe	35-44	3885
+Campaspe	45-54	4918
+Campaspe	55-64	5716
+Campaspe	65-74	5143
+Campaspe	75-84	3201
+Campaspe	85+	1273
+Cardinia	0-4	9096
+Cardinia	5-14	17675
+Cardinia	15-19	7280
+Cardinia	20-24	7063
+Cardinia	25-34	18597
+Cardinia	35-44	17514
+Cardinia	45-54	14459
+Cardinia	55-64	11663
+Cardinia	65-74	8701
+Cardinia	75-84	4640
+Cardinia	85+	1494
+Casey	0-4	27841
+Casey	5-14	55208
+Casey	15-19	23162
+Casey	20-24	24309
+Casey	25-34	55683
+Casey	35-44	58004
+Casey	45-54	45253
+Casey	55-64	36204
+Casey	65-74	23658
+Casey	75-84	11711
+Casey	85+	4207
+Central Goldfields	0-4	521
+Central Goldfields	5-14	1440
+Central Goldfields	15-19	686
+Central Goldfields	20-24	553
+Central Goldfields	25-34	1185
+Central Goldfields	35-44	1108
+Central Goldfields	45-54	1678
+Central Goldfields	55-64	2111
+Central Goldfields	65-74	2260
+Central Goldfields	75-84	1433
+Central Goldfields	85+	501
+Colac Otway	0-4	1123
+Colac Otway	5-14	2611
+Colac Otway	15-19	1214
+Colac Otway	20-24	1025
+Colac Otway	25-34	2573
+Colac Otway	35-44	2463
+Colac Otway	45-54	2814
+Colac Otway	55-64	3223
+Colac Otway	65-74	3071
+Colac Otway	75-84	1651
+Colac Otway	85+	651
+Corangamite	0-4	748
+Corangamite	5-14	1929
+Corangamite	15-19	935
+Corangamite	20-24	743
+Corangamite	25-34	1571
+Corangamite	35-44	1591
+Corangamite	45-54	2065
+Corangamite	55-64	2536
+Corangamite	65-74	2154
+Corangamite	75-84	1322
+Corangamite	85+	517
+Darebin	0-4	7896
+Darebin	5-14	14465
+Darebin	15-19	6729
+Darebin	20-24	9424
+Darebin	25-34	28587
+Darebin	35-44	23888
+Darebin	45-54	20391
+Darebin	55-64	15323
+Darebin	65-74	10566
+Darebin	75-84	7356
+Darebin	85+	3949
+East Gippsland	0-4	2173
+East Gippsland	5-14	5126
+East Gippsland	15-19	2307
+East Gippsland	20-24	1816
+East Gippsland	25-34	4378
+East Gippsland	35-44	4496
+East Gippsland	45-54	5618
+East Gippsland	55-64	7752
+East Gippsland	65-74	8664
+East Gippsland	75-84	4873
+East Gippsland	85+	1516
+Frankston	0-4	8599
+Frankston	5-14	17235
+Frankston	15-19	7827
+Frankston	20-24	7760
+Frankston	25-34	19076
+Frankston	35-44	19695
+Frankston	45-54	18983
+Frankston	55-64	16928
+Frankston	65-74	12919
+Frankston	75-84	7236
+Frankston	85+	3017
+Gannawarra	0-4	486
+Gannawarra	5-14	1187
+Gannawarra	15-19	494
+Gannawarra	20-24	438
+Gannawarra	25-34	884
+Gannawarra	35-44	1013
+Gannawarra	45-54	1293
+Gannawarra	55-64	1670
+Gannawarra	65-74	1744
+Gannawarra	75-84	1068
+Gannawarra	85+	409
+Glen Eira	0-4	7772
+Glen Eira	5-14	18302
+Glen Eira	15-19	8338
+Glen Eira	20-24	9462
+Glen Eira	25-34	22436
+Glen Eira	35-44	21899
+Glen Eira	45-54	20378
+Glen Eira	55-64	16099
+Glen Eira	65-74	13025
+Glen Eira	75-84	7220
+Glen Eira	85+	3979
+Glenelg	0-4	904
+Glenelg	5-14	2181
+Glenelg	15-19	1091
+Glenelg	20-24	852
+Glenelg	25-34	1865
+Glenelg	35-44	2050
+Glenelg	45-54	2667
+Glenelg	55-64	3330
+Glenelg	65-74	3059
+Glenelg	75-84	1545
+Glenelg	85+	594
+Golden Plains	0-4	1541
+Golden Plains	5-14	3967
+Golden Plains	15-19	1681
+Golden Plains	20-24	1129
+Golden Plains	25-34	2547
+Golden Plains	35-44	3348
+Golden Plains	45-54	3693
+Golden Plains	55-64	3234
+Golden Plains	65-74	2568
+Golden Plains	75-84	1007
+Golden Plains	85+	258
+Greater Bendigo	0-4	7147
+Greater Bendigo	5-14	15590
+Greater Bendigo	15-19	7017
+Greater Bendigo	20-24	7245
+Greater Bendigo	25-34	15687
+Greater Bendigo	35-44	14674
+Greater Bendigo	45-54	14673
+Greater Bendigo	55-64	15299
+Greater Bendigo	65-74	13545
+Greater Bendigo	75-84	7499
+Greater Bendigo	85+	3097
+Greater Dandenong	0-4	9620
+Greater Dandenong	5-14	17788
+Greater Dandenong	15-19	8601
+Greater Dandenong	20-24	11392
+Greater Dandenong	25-34	27782
+Greater Dandenong	35-44	23041
+Greater Dandenong	45-54	18472
+Greater Dandenong	55-64	16646
+Greater Dandenong	65-74	13369
+Greater Dandenong	75-84	8102
+Greater Dandenong	85+	3400
+Greater Geelong	0-4	15470
+Greater Geelong	5-14	32304
+Greater Geelong	15-19	15088
+Greater Geelong	20-24	17203
+Greater Geelong	25-34	38200
+Greater Geelong	35-44	34409
+Greater Geelong	45-54	32985
+Greater Geelong	55-64	32161
+Greater Geelong	65-74	29684
+Greater Geelong	75-84	16706
+Greater Geelong	85+	6844
+Greater Shepparton	0-4	4084
+Greater Shepparton	5-14	9136
+Greater Shepparton	15-19	4124
+Greater Shepparton	20-24	3838
+Greater Shepparton	25-34	8899
+Greater Shepparton	35-44	8176
+Greater Shepparton	45-54	8527
+Greater Shepparton	55-64	8503
+Greater Shepparton	65-74	7214
+Greater Shepparton	75-84	4255
+Greater Shepparton	85+	1649
+Hepburn	0-4	677
+Hepburn	5-14	1677
+Hepburn	15-19	724
+Hepburn	20-24	462
+Hepburn	25-34	1297
+Hepburn	35-44	1748
+Hepburn	45-54	2432
+Hepburn	55-64	2927
+Hepburn	65-74	2881
+Hepburn	75-84	1311
+Hepburn	85+	467
+Hindmarsh	0-4	285
+Hindmarsh	5-14	560
+Hindmarsh	15-19	303
+Hindmarsh	20-24	214
+Hindmarsh	25-34	610
+Hindmarsh	35-44	533
+Hindmarsh	45-54	664
+Hindmarsh	55-64	918
+Hindmarsh	65-74	784
+Hindmarsh	75-84	537
+Hindmarsh	85+	282
+Hobsons Bay	0-4	5775
+Hobsons Bay	5-14	11159
+Hobsons Bay	15-19	4474
+Hobsons Bay	20-24	4555
+Hobsons Bay	25-34	12426
+Hobsons Bay	35-44	14248
+Hobsons Bay	45-54	12897
+Hobsons Bay	55-64	11063
+Hobsons Bay	65-74	8051
+Hobsons Bay	75-84	4548
+Hobsons Bay	85+	2115
+Horsham	0-4	1166
+Horsham	5-14	2572
+Horsham	15-19	1196
+Horsham	20-24	1149
+Horsham	25-34	2557
+Horsham	35-44	2267
+Horsham	45-54	2421
+Horsham	55-64	2759
+Horsham	65-74	2266
+Horsham	75-84	1425
+Horsham	85+	656
+Hume	0-4	18851
+Hume	5-14	35900
+Hume	15-19	15225
+Hume	20-24	16584
+Hume	25-34	40097
+Hume	35-44	37187
+Hume	45-54	28715
+Hume	55-64	24719
+Hume	65-74	16262
+Hume	75-84	7891
+Hume	85+	2473
+Indigo	0-4	849
+Indigo	5-14	2192
+Indigo	15-19	985
+Indigo	20-24	592
+Indigo	25-34	1463
+Indigo	35-44	1945
+Indigo	45-54	2453
+Indigo	55-64	2796
+Indigo	65-74	2468
+Indigo	75-84	1232
+Indigo	85+	394
+Kingston (Vic.)	0-4	8611
+Kingston (Vic.)	5-14	18597
+Kingston (Vic.)	15-19	8594
+Kingston (Vic.)	20-24	8339
+Kingston (Vic.)	25-34	19848
+Kingston (Vic.)	35-44	22756
+Kingston (Vic.)	45-54	22848
+Kingston (Vic.)	55-64	19205
+Kingston (Vic.)	65-74	15387
+Kingston (Vic.)	75-84	9541
+Kingston (Vic.)	85+	4401
+Knox	0-4	8428
+Knox	5-14	18684
+Knox	15-19	9314
+Knox	20-24	9661
+Knox	25-34	20219
+Knox	35-44	22280
+Knox	45-54	21548
+Knox	55-64	20530
+Knox	65-74	15998
+Knox	75-84	8898
+Knox	85+	3540
+Latrobe (Vic.)	0-4	4295
+Latrobe (Vic.)	5-14	9404
+Latrobe (Vic.)	15-19	4347
+Latrobe (Vic.)	20-24	4299
+Latrobe (Vic.)	25-34	9809
+Latrobe (Vic.)	35-44	8868
+Latrobe (Vic.)	45-54	9314
+Latrobe (Vic.)	55-64	10657
+Latrobe (Vic.)	65-74	9321
+Latrobe (Vic.)	75-84	5066
+Latrobe (Vic.)	85+	1947
+Loddon	0-4	317
+Loddon	5-14	842
+Loddon	15-19	387
+Loddon	20-24	264
+Loddon	25-34	618
+Loddon	35-44	694
+Loddon	45-54	988
+Loddon	55-64	1388
+Loddon	65-74	1299
+Loddon	75-84	651
+Loddon	85+	308
+Macedon Ranges	0-4	2854
+Macedon Ranges	5-14	7371
+Macedon Ranges	15-19	3268
+Macedon Ranges	20-24	2138
+Macedon Ranges	25-34	4469
+Macedon Ranges	35-44	6672
+Macedon Ranges	45-54	7838
+Macedon Ranges	55-64	7007
+Macedon Ranges	65-74	5937
+Macedon Ranges	75-84	2999
+Macedon Ranges	85+	893
+Manningham	0-4	5556
+Manningham	5-14	14586
+Manningham	15-19	7356
+Manningham	20-24	7339
+Manningham	25-34	13388
+Manningham	35-44	16055
+Manningham	45-54	16718
+Manningham	55-64	15921
+Manningham	65-74	13063
+Manningham	75-84	10148
+Manningham	85+	4558
+Mansfield	0-4	397
+Mansfield	5-14	1344
+Mansfield	15-19	557
+Mansfield	20-24	304
+Mansfield	25-34	870
+Mansfield	35-44	1127
+Mansfield	45-54	1229
+Mansfield	55-64	1703
+Mansfield	65-74	1645
+Mansfield	75-84	762
+Mansfield	85+	239
+Maribyrnong	0-4	4942
+Maribyrnong	5-14	8321
+Maribyrnong	15-19	3426
+Maribyrnong	20-24	5577
+Maribyrnong	25-34	19257
+Maribyrnong	35-44	15258
+Maribyrnong	45-54	10931
+Maribyrnong	55-64	8225
+Maribyrnong	65-74	5253
+Maribyrnong	75-84	2669
+Maribyrnong	85+	1348
+Maroondah	0-4	6862
+Maroondah	5-14	14162
+Maroondah	15-19	6483
+Maroondah	20-24	6438
+Maroondah	25-34	15033
+Maroondah	35-44	16863
+Maroondah	45-54	15364
+Maroondah	55-64	13610
+Maroondah	65-74	10760
+Maroondah	75-84	6580
+Maroondah	85+	2883
+Melbourne	0-4	4354
+Melbourne	5-14	5742
+Melbourne	15-19	6310
+Melbourne	20-24	25180
+Melbourne	25-34	52962
+Melbourne	35-44	23170
+Melbourne	45-54	11740
+Melbourne	55-64	9236
+Melbourne	65-74	6589
+Melbourne	75-84	3141
+Melbourne	85+	1188
+Melton	0-4	14460
+Melton	5-14	29126
+Melton	15-19	11568
+Melton	20-24	11121
+Melton	25-34	28329
+Melton	35-44	30533
+Melton	45-54	22490
+Melton	55-64	15104
+Melton	65-74	10748
+Melton	75-84	4321
+Melton	85+	1154
+Mildura	0-4	3260
+Mildura	5-14	7288
+Mildura	15-19	3279
+Mildura	20-24	3176
+Mildura	25-34	7619
+Mildura	35-44	6720
+Mildura	45-54	7076
+Mildura	55-64	7383
+Mildura	65-74	6137
+Mildura	75-84	3505
+Mildura	85+	1526
+Mitchell	0-4	3505
+Mitchell	5-14	6821
+Mitchell	15-19	3002
+Mitchell	20-24	2886
+Mitchell	25-34	7015
+Mitchell	35-44	6535
+Mitchell	45-54	6369
+Mitchell	55-64	5923
+Mitchell	65-74	4491
+Mitchell	75-84	2186
+Mitchell	85+	730
+Moira	0-4	1478
+Moira	5-14	3570
+Moira	15-19	1644
+Moira	20-24	1307
+Moira	25-34	3055
+Moira	35-44	3039
+Moira	45-54	3661
+Moira	55-64	4402
+Moira	65-74	4581
+Moira	75-84	2735
+Moira	85+	1050
+Monash	0-4	8458
+Monash	5-14	21130
+Monash	15-19	11078
+Monash	20-24	16188
+Monash	25-34	29254
+Monash	35-44	25886
+Monash	45-54	23735
+Monash	55-64	19929
+Monash	65-74	16273
+Monash	75-84	12266
+Monash	85+	6204
+Moonee Valley	0-4	6133
+Moonee Valley	5-14	13433
+Moonee Valley	15-19	6483
+Moonee Valley	20-24	7732
+Moonee Valley	25-34	18488
+Moonee Valley	35-44	17538
+Moonee Valley	45-54	16887
+Moonee Valley	55-64	14095
+Moonee Valley	65-74	10867
+Moonee Valley	75-84	6913
+Moonee Valley	85+	3274
+Moorabool	0-4	2370
+Moorabool	5-14	5215
+Moorabool	15-19	2165
+Moorabool	20-24	1905
+Moorabool	25-34	4763
+Moorabool	35-44	5124
+Moorabool	45-54	5068
+Moorabool	55-64	4642
+Moorabool	65-74	3898
+Moorabool	75-84	1861
+Moorabool	85+	628
+Moreland	0-4	9731
+Moreland	5-14	16772
+Moreland	15-19	7137
+Moreland	20-24	12501
+Moreland	25-34	37163
+Moreland	35-44	28624
+Moreland	45-54	20756
+Moreland	55-64	15806
+Moreland	65-74	10596
+Moreland	75-84	7581
+Moreland	85+	4682
+Mornington Peninsula	0-4	7922
+Mornington Peninsula	5-14	19591
+Mornington Peninsula	15-19	9616
+Mornington Peninsula	20-24	7640
+Mornington Peninsula	25-34	14555
+Mornington Peninsula	35-44	17834
+Mornington Peninsula	45-54	22616
+Mornington Peninsula	55-64	23203
+Mornington Peninsula	65-74	24115
+Mornington Peninsula	75-84	15833
+Mornington Peninsula	85+	6029
+Mount Alexander	0-4	808
+Mount Alexander	5-14	2046
+Mount Alexander	15-19	935
+Mount Alexander	20-24	617
+Mount Alexander	25-34	1730
+Mount Alexander	35-44	2258
+Mount Alexander	45-54	2808
+Mount Alexander	55-64	3292
+Mount Alexander	65-74	3353
+Mount Alexander	75-84	1755
+Mount Alexander	85+	644
+Moyne	0-4	963
+Moyne	5-14	2333
+Moyne	15-19	1048
+Moyne	20-24	721
+Moyne	25-34	1729
+Moyne	35-44	1879
+Moyne	45-54	2273
+Moyne	55-64	2606
+Moyne	65-74	2377
+Moyne	75-84	1062
+Moyne	85+	381
+Murrindindi	0-4	651
+Murrindindi	5-14	1555
+Murrindindi	15-19	783
+Murrindindi	20-24	599
+Murrindindi	25-34	1291
+Murrindindi	35-44	1579
+Murrindindi	45-54	2145
+Murrindindi	55-64	2650
+Murrindindi	65-74	2410
+Murrindindi	75-84	1204
+Murrindindi	85+	346
+Nillumbik	0-4	3221
+Nillumbik	5-14	8447
+Nillumbik	15-19	4572
+Nillumbik	20-24	3823
+Nillumbik	25-34	5573
+Nillumbik	35-44	7660
+Nillumbik	45-54	9874
+Nillumbik	55-64	9297
+Nillumbik	65-74	6646
+Nillumbik	75-84	2909
+Nillumbik	85+	880
+Northern Grampians	0-4	582
+Northern Grampians	5-14	1214
+Northern Grampians	15-19	559
+Northern Grampians	20-24	566
+Northern Grampians	25-34	1348
+Northern Grampians	35-44	1117
+Northern Grampians	45-54	1458
+Northern Grampians	55-64	1891
+Northern Grampians	65-74	1804
+Northern Grampians	75-84	1022
+Northern Grampians	85+	384
+Port Phillip	0-4	4177
+Port Phillip	5-14	7452
+Port Phillip	15-19	3289
+Port Phillip	20-24	5551
+Port Phillip	25-34	23118
+Port Phillip	35-44	18287
+Port Phillip	45-54	14681
+Port Phillip	55-64	11604
+Port Phillip	65-74	8050
+Port Phillip	75-84	4268
+Port Phillip	85+	1468
+Pyrenees	0-4	311
+Pyrenees	5-14	810
+Pyrenees	15-19	387
+Pyrenees	20-24	295
+Pyrenees	25-34	645
+Pyrenees	35-44	778
+Pyrenees	45-54	1123
+Pyrenees	55-64	1228
+Pyrenees	65-74	1302
+Pyrenees	75-84	602
+Pyrenees	85+	195
+Queenscliffe	0-4	86
+Queenscliffe	5-14	226
+Queenscliffe	15-19	129
+Queenscliffe	20-24	96
+Queenscliffe	25-34	153
+Queenscliffe	35-44	226
+Queenscliffe	45-54	311
+Queenscliffe	55-64	574
+Queenscliffe	65-74	798
+Queenscliffe	75-84	512
+Queenscliffe	85+	175
+South Gippsland	0-4	1437
+South Gippsland	5-14	3697
+South Gippsland	15-19	1690
+South Gippsland	20-24	1127
+South Gippsland	25-34	2628
+South Gippsland	35-44	3123
+South Gippsland	45-54	3917
+South Gippsland	55-64	4840
+South Gippsland	65-74	4817
+South Gippsland	75-84	2454
+South Gippsland	85+	857
+Southern Grampians	0-4	868
+Southern Grampians	5-14	1953
+Southern Grampians	15-19	956
+Southern Grampians	20-24	763
+Southern Grampians	25-34	1660
+Southern Grampians	35-44	1700
+Southern Grampians	45-54	2006
+Southern Grampians	55-64	2398
+Southern Grampians	65-74	2342
+Southern Grampians	75-84	1349
+Southern Grampians	85+	585
+Stonnington	0-4	3950
+Stonnington	5-14	8061
+Stonnington	15-19	4609
+Stonnington	20-24	8189
+Stonnington	25-34	23743
+Stonnington	35-44	15042
+Stonnington	45-54	12626
+Stonnington	55-64	10682
+Stonnington	65-74	8975
+Stonnington	75-84	6073
+Stonnington	85+	2749
+Strathbogie	0-4	532
+Strathbogie	5-14	1088
+Strathbogie	15-19	520
+Strathbogie	20-24	404
+Strathbogie	25-34	911
+Strathbogie	35-44	1137
+Strathbogie	45-54	1337
+Strathbogie	55-64	1947
+Strathbogie	65-74	2090
+Strathbogie	75-84	1068
+Strathbogie	85+	433
+Surf Coast	0-4	2301
+Surf Coast	5-14	5133
+Surf Coast	15-19	2093
+Surf Coast	20-24	1556
+Surf Coast	25-34	3662
+Surf Coast	35-44	5371
+Surf Coast	45-54	5178
+Surf Coast	55-64	4936
+Surf Coast	65-74	4628
+Surf Coast	75-84	2099
+Surf Coast	85+	738
+Swan Hill	0-4	1298
+Swan Hill	5-14	2704
+Swan Hill	15-19	1120
+Swan Hill	20-24	1180
+Swan Hill	25-34	3074
+Swan Hill	35-44	2672
+Swan Hill	45-54	2335
+Swan Hill	55-64	2852
+Swan Hill	65-74	2250
+Swan Hill	75-84	1321
+Swan Hill	85+	597
+Towong	0-4	278
+Towong	5-14	684
+Towong	15-19	294
+Towong	20-24	199
+Towong	25-34	484
+Towong	35-44	625
+Towong	45-54	772
+Towong	55-64	1116
+Towong	65-74	1031
+Towong	75-84	533
+Towong	85+	217
+Wangaratta	0-4	1535
+Wangaratta	5-14	3670
+Wangaratta	15-19	1775
+Wangaratta	20-24	1291
+Wangaratta	25-34	3051
+Wangaratta	35-44	3303
+Wangaratta	45-54	3859
+Wangaratta	55-64	4135
+Wangaratta	65-74	3858
+Wangaratta	75-84	2379
+Wangaratta	85+	952
+Warrnambool	0-4	1828
+Warrnambool	5-14	4352
+Warrnambool	15-19	2107
+Warrnambool	20-24	1835
+Warrnambool	25-34	4509
+Warrnambool	35-44	4233
+Warrnambool	45-54	4444
+Warrnambool	55-64	4592
+Warrnambool	65-74	4080
+Warrnambool	75-84	2362
+Warrnambool	85+	1065
+Wellington	0-4	2397
+Wellington	5-14	5358
+Wellington	15-19	2514
+Wellington	20-24	2180
+Wellington	25-34	5166
+Wellington	35-44	5206
+Wellington	45-54	5565
+Wellington	55-64	6671
+Wellington	65-74	6433
+Wellington	75-84	3105
+Wellington	85+	1038
+West Wimmera	0-4	238
+West Wimmera	5-14	428
+West Wimmera	15-19	162
+West Wimmera	20-24	139
+West Wimmera	25-34	358
+West Wimmera	35-44	393
+West Wimmera	45-54	513
+West Wimmera	55-64	693
+West Wimmera	65-74	621
+West Wimmera	75-84	319
+West Wimmera	85+	141
+Whitehorse	0-4	7787
+Whitehorse	5-14	19164
+Whitehorse	15-19	9984
+Whitehorse	20-24	12736
+Whitehorse	25-34	23627
+Whitehorse	35-44	23300
+Whitehorse	45-54	22674
+Whitehorse	55-64	18721
+Whitehorse	65-74	15256
+Whitehorse	75-84	10629
+Whitehorse	85+	5471
+Whittlesea	0-4	16508
+Whittlesea	5-14	32198
+Whittlesea	15-19	13122
+Whittlesea	20-24	14445
+Whittlesea	25-34	35876
+Whittlesea	35-44	37234
+Whittlesea	45-54	27849
+Whittlesea	55-64	22630
+Whittlesea	65-74	17191
+Whittlesea	75-84	9006
+Whittlesea	85+	3332
+Wodonga	0-4	2702
+Wodonga	5-14	5982
+Wodonga	15-19	2797
+Wodonga	20-24	2574
+Wodonga	25-34	5849
+Wodonga	35-44	5438
+Wodonga	45-54	5198
+Wodonga	55-64	5034
+Wodonga	65-74	4491
+Wodonga	75-84	2334
+Wodonga	85+	846
+Wyndham	0-4	26099
+Wyndham	5-14	48025
+Wyndham	15-19	16018
+Wyndham	20-24	18034
+Wyndham	25-34	51014
+Wyndham	35-44	57085
+Wyndham	45-54	31385
+Wyndham	55-64	22013
+Wyndham	65-74	14415
+Wyndham	75-84	6061
+Wyndham	85+	1852
+Yarra	0-4	3636
+Yarra	5-14	5894
+Yarra	15-19	2557
+Yarra	20-24	6582
+Yarra	25-34	26917
+Yarra	35-44	15204
+Yarra	45-54	10219
+Yarra	55-64	8427
+Yarra	65-74	6200
+Yarra	75-84	3199
+Yarra	85+	1268
+Yarra Ranges	0-4	9298
+Yarra Ranges	5-14	19732
+Yarra Ranges	15-19	9465
+Yarra Ranges	20-24	8692
+Yarra Ranges	25-34	19122
+Yarra Ranges	35-44	20374
+Yarra Ranges	45-54	21524
+Yarra Ranges	55-64	20271
+Yarra Ranges	65-74	16358
+Yarra Ranges	75-84	8550
+Yarra Ranges	85+	2677
+Yarriambiack	0-4	284
+Yarriambiack	5-14	736
+Yarriambiack	15-19	347
+Yarriambiack	20-24	241
+Yarriambiack	25-34	589
+Yarriambiack	35-44	580
+Yarriambiack	45-54	740
+Yarriambiack	55-64	1127
+Yarriambiack	65-74	1001
+Yarriambiack	75-84	616
+Yarriambiack	85+	297
+Unincorporated Vic	0-4	21
+Unincorporated Vic	5-14	62
+Unincorporated Vic	15-19	61
+Unincorporated Vic	20-24	168
+Unincorporated Vic	25-34	258
+Unincorporated Vic	35-44	121
+Unincorporated Vic	45-54	105
+Unincorporated Vic	55-64	77
+Unincorporated Vic	65-74	56
+Unincorporated Vic	75-84	16
+Unincorporated Vic	85+	3
+No usual address (Vic.)	0-4	414
+No usual address (Vic.)	5-14	730
+No usual address (Vic.)	15-19	459
+No usual address (Vic.)	20-24	671
+No usual address (Vic.)	25-34	1819
+No usual address (Vic.)	35-44	1736
+No usual address (Vic.)	45-54	1393
+No usual address (Vic.)	55-64	1074
+No usual address (Vic.)	65-74	613
+No usual address (Vic.)	75-84	152
+No usual address (Vic.)	85+	29
+Migratory - Offshore - Shipping (Vic.)	25-34	6
+Migratory - Offshore - Shipping (Vic.)	35-44	16
+Migratory - Offshore - Shipping (Vic.)	45-54	3
+Migratory - Offshore - Shipping (Vic.)	55-64	14
+Migratory - Offshore - Shipping (Vic.)	65-74	4
+Aurukun	0-4	87
+Aurukun	5-14	175
+Aurukun	15-19	101
+Aurukun	20-24	90
+Aurukun	25-34	192
+Aurukun	35-44	142
+Aurukun	45-54	156
+Aurukun	55-64	105
+Aurukun	65-74	44
+Aurukun	75-84	5
+Balonne	0-4	297
+Balonne	5-14	566
+Balonne	15-19	252
+Balonne	20-24	262
+Balonne	25-34	551
+Balonne	35-44	468
+Balonne	45-54	598
+Balonne	55-64	604
+Balonne	65-74	435
+Balonne	75-84	214
+Balonne	85+	74
+Banana	0-4	950
+Banana	5-14	2100
+Banana	15-19	811
+Banana	20-24	815
+Banana	25-34	1846
+Banana	35-44	1941
+Banana	45-54	1825
+Banana	55-64	1880
+Banana	65-74	1276
+Banana	75-84	802
+Banana	85+	266
+Barcaldine	0-4	153
+Barcaldine	5-14	390
+Barcaldine	15-19	144
+Barcaldine	20-24	130
+Barcaldine	25-34	332
+Barcaldine	35-44	325
+Barcaldine	45-54	397
+Barcaldine	55-64	405
+Barcaldine	65-74	295
+Barcaldine	75-84	214
+Barcaldine	85+	60
+Barcoo	0-4	13
+Barcoo	5-14	35
+Barcoo	15-19	24
+Barcoo	20-24	36
+Barcoo	25-34	34
+Barcoo	35-44	34
+Barcoo	45-54	46
+Barcoo	55-64	48
+Barcoo	65-74	26
+Barcoo	75-84	17
+Blackall Tambo	0-4	105
+Blackall Tambo	5-14	209
+Blackall Tambo	15-19	83
+Blackall Tambo	20-24	103
+Blackall Tambo	25-34	201
+Blackall Tambo	35-44	196
+Blackall Tambo	45-54	220
+Blackall Tambo	55-64	302
+Blackall Tambo	65-74	271
+Blackall Tambo	75-84	161
+Blackall Tambo	85+	56
+Boulia	0-4	42
+Boulia	5-14	65
+Boulia	15-19	20
+Boulia	20-24	32
+Boulia	25-34	73
+Boulia	35-44	51
+Boulia	45-54	49
+Boulia	55-64	59
+Boulia	65-74	50
+Boulia	75-84	14
+Brisbane	0-4	67996
+Brisbane	5-14	148610
+Brisbane	15-19	74274
+Brisbane	20-24	97456
+Brisbane	25-34	206806
+Brisbane	35-44	189563
+Brisbane	45-54	163389
+Brisbane	55-64	126972
+Brisbane	65-74	92972
+Brisbane	75-84	52286
+Brisbane	85+	22497
+Bulloo	0-4	19
+Bulloo	5-14	36
+Bulloo	15-19	20
+Bulloo	20-24	25
+Bulloo	25-34	52
+Bulloo	35-44	54
+Bulloo	45-54	31
+Bulloo	55-64	54
+Bulloo	65-74	26
+Bulloo	75-84	10
+Bundaberg	0-4	4492
+Bundaberg	5-14	11746
+Bundaberg	15-19	5585
+Bundaberg	20-24	4755
+Bundaberg	25-34	10151
+Bundaberg	35-44	10083
+Bundaberg	45-54	12132
+Bundaberg	55-64	14524
+Bundaberg	65-74	14379
+Bundaberg	75-84	8662
+Bundaberg	85+	2720
+Burdekin	0-4	820
+Burdekin	5-14	1944
+Burdekin	15-19	958
+Burdekin	20-24	867
+Burdekin	25-34	1814
+Burdekin	35-44	1758
+Burdekin	45-54	2155
+Burdekin	55-64	2417
+Burdekin	65-74	2176
+Burdekin	75-84	1288
+Burdekin	85+	497
+Burke	0-4	27
+Burke	5-14	36
+Burke	15-19	29
+Burke	20-24	43
+Burke	25-34	63
+Burke	35-44	53
+Burke	45-54	46
+Burke	55-64	62
+Burke	65-74	42
+Burke	75-84	9
+Burke	85+	3
+Cairns	0-4	9215
+Cairns	5-14	22626
+Cairns	15-19	10303
+Cairns	20-24	9182
+Cairns	25-34	22037
+Cairns	35-44	22856
+Cairns	45-54	23805
+Cairns	55-64	21092
+Cairns	65-74	15888
+Cairns	75-84	7477
+Cairns	85+	2457
+Carpentaria	0-4	144
+Carpentaria	5-14	300
+Carpentaria	15-19	107
+Carpentaria	20-24	173
+Carpentaria	25-34	293
+Carpentaria	35-44	233
+Carpentaria	45-54	270
+Carpentaria	55-64	299
+Carpentaria	65-74	179
+Carpentaria	75-84	85
+Carpentaria	85+	11
+Cassowary Coast	0-4	1536
+Cassowary Coast	5-14	3548
+Cassowary Coast	15-19	1512
+Cassowary Coast	20-24	1235
+Cassowary Coast	25-34	3202
+Cassowary Coast	35-44	3124
+Cassowary Coast	45-54	3675
+Cassowary Coast	55-64	4636
+Cassowary Coast	65-74	3927
+Cassowary Coast	75-84	2009
+Cassowary Coast	85+	738
+Central Highlands (Qld)	0-4	2024
+Central Highlands (Qld)	5-14	4465
+Central Highlands (Qld)	15-19	1656
+Central Highlands (Qld)	20-24	1770
+Central Highlands (Qld)	25-34	4196
+Central Highlands (Qld)	35-44	4151
+Central Highlands (Qld)	45-54	3612
+Central Highlands (Qld)	55-64	3272
+Central Highlands (Qld)	65-74	1734
+Central Highlands (Qld)	75-84	772
+Central Highlands (Qld)	85+	190
+Charters Towers	0-4	539
+Charters Towers	5-14	1772
+Charters Towers	15-19	886
+Charters Towers	20-24	537
+Charters Towers	25-34	1174
+Charters Towers	35-44	1306
+Charters Towers	45-54	1520
+Charters Towers	55-64	1544
+Charters Towers	65-74	1473
+Charters Towers	75-84	793
+Charters Towers	85+	258
+Cherbourg	0-4	114
+Cherbourg	5-14	305
+Cherbourg	15-19	115
+Cherbourg	20-24	91
+Cherbourg	25-34	161
+Cherbourg	35-44	126
+Cherbourg	45-54	120
+Cherbourg	55-64	106
+Cherbourg	65-74	33
+Cherbourg	75-84	16
+Cherbourg	85+	5
+Cloncurry	0-4	262
+Cloncurry	5-14	447
+Cloncurry	15-19	201
+Cloncurry	20-24	291
+Cloncurry	25-34	623
+Cloncurry	35-44	553
+Cloncurry	45-54	459
+Cloncurry	55-64	440
+Cloncurry	65-74	241
+Cloncurry	75-84	99
+Cloncurry	85+	25
+Cook	0-4	240
+Cook	5-14	544
+Cook	15-19	202
+Cook	20-24	212
+Cook	25-34	619
+Cook	35-44	560
+Cook	45-54	603
+Cook	55-64	728
+Cook	65-74	555
+Cook	75-84	229
+Cook	85+	24
+Croydon	0-4	17
+Croydon	5-14	32
+Croydon	15-19	12
+Croydon	20-24	11
+Croydon	25-34	53
+Croydon	35-44	34
+Croydon	45-54	39
+Croydon	55-64	31
+Croydon	65-74	19
+Croydon	75-84	9
+Diamantina	0-4	10
+Diamantina	5-14	24
+Diamantina	15-19	14
+Diamantina	20-24	24
+Diamantina	25-34	46
+Diamantina	35-44	38
+Diamantina	45-54	38
+Diamantina	55-64	45
+Diamantina	65-74	24
+Diamantina	75-84	4
+Doomadgee	0-4	150
+Doomadgee	5-14	283
+Doomadgee	15-19	132
+Doomadgee	20-24	129
+Doomadgee	25-34	244
+Doomadgee	35-44	159
+Doomadgee	45-54	137
+Doomadgee	55-64	109
+Doomadgee	65-74	34
+Doomadgee	75-84	6
+Doomadgee	85+	4
+Douglas	0-4	531
+Douglas	5-14	1309
+Douglas	15-19	548
+Douglas	20-24	503
+Douglas	25-34	1551
+Douglas	35-44	1489
+Douglas	45-54	1777
+Douglas	55-64	2040
+Douglas	65-74	1649
+Douglas	75-84	744
+Douglas	85+	184
+Etheridge	0-4	42
+Etheridge	5-14	71
+Etheridge	15-19	30
+Etheridge	20-24	38
+Etheridge	25-34	83
+Etheridge	35-44	74
+Etheridge	45-54	102
+Etheridge	55-64	105
+Etheridge	65-74	102
+Etheridge	75-84	55
+Etheridge	85+	7
+Flinders (Qld)	0-4	115
+Flinders (Qld)	5-14	168
+Flinders (Qld)	15-19	63
+Flinders (Qld)	20-24	89
+Flinders (Qld)	25-34	213
+Flinders (Qld)	35-44	131
+Flinders (Qld)	45-54	205
+Flinders (Qld)	55-64	200
+Flinders (Qld)	65-74	177
+Flinders (Qld)	75-84	113
+Flinders (Qld)	85+	31
+Fraser Coast	0-4	4411
+Fraser Coast	5-14	12390
+Fraser Coast	15-19	5752
+Fraser Coast	20-24	4498
+Fraser Coast	25-34	9408
+Fraser Coast	35-44	10591
+Fraser Coast	45-54	13238
+Fraser Coast	55-64	17277
+Fraser Coast	65-74	19470
+Fraser Coast	75-84	10778
+Fraser Coast	85+	3229
+Gladstone	0-4	4049
+Gladstone	5-14	9596
+Gladstone	15-19	4001
+Gladstone	20-24	3159
+Gladstone	25-34	7833
+Gladstone	35-44	8345
+Gladstone	45-54	9062
+Gladstone	55-64	8678
+Gladstone	65-74	5715
+Gladstone	75-84	2390
+Gladstone	85+	679
+Gold Coast	0-4	33491
+Gold Coast	5-14	76443
+Gold Coast	15-19	36369
+Gold Coast	20-24	39338
+Gold Coast	25-34	86422
+Gold Coast	35-44	84945
+Gold Coast	45-54	83918
+Gold Coast	55-64	73182
+Gold Coast	65-74	62219
+Gold Coast	75-84	35953
+Gold Coast	85+	12805
+Goondiwindi	0-4	699
+Goondiwindi	5-14	1459
+Goondiwindi	15-19	551
+Goondiwindi	20-24	537
+Goondiwindi	25-34	1209
+Goondiwindi	35-44	1220
+Goondiwindi	45-54	1253
+Goondiwindi	55-64	1374
+Goondiwindi	65-74	1105
+Goondiwindi	75-84	666
+Goondiwindi	85+	241
+Gympie	0-4	2455
+Gympie	5-14	6362
+Gympie	15-19	3078
+Gympie	20-24	2151
+Gympie	25-34	4924
+Gympie	35-44	5471
+Gympie	45-54	6886
+Gympie	55-64	8458
+Gympie	65-74	8105
+Gympie	75-84	4151
+Gympie	85+	1204
+Hinchinbrook	0-4	441
+Hinchinbrook	5-14	1197
+Hinchinbrook	15-19	546
+Hinchinbrook	20-24	469
+Hinchinbrook	25-34	956
+Hinchinbrook	35-44	970
+Hinchinbrook	45-54	1336
+Hinchinbrook	55-64	1822
+Hinchinbrook	65-74	1680
+Hinchinbrook	75-84	1043
+Hinchinbrook	85+	454
+Hope Vale	0-4	103
+Hope Vale	5-14	189
+Hope Vale	15-19	69
+Hope Vale	20-24	79
+Hope Vale	25-34	162
+Hope Vale	35-44	121
+Hope Vale	45-54	123
+Hope Vale	55-64	69
+Hope Vale	65-74	41
+Hope Vale	75-84	13
+Hope Vale	85+	6
+Ipswich	0-4	17265
+Ipswich	5-14	36381
+Ipswich	15-19	15085
+Ipswich	20-24	15512
+Ipswich	25-34	35410
+Ipswich	35-44	32952
+Ipswich	45-54	27656
+Ipswich	55-64	22741
+Ipswich	65-74	15637
+Ipswich	75-84	7982
+Ipswich	85+	2575
+Isaac	0-4	1585
+Isaac	5-14	3106
+Isaac	15-19	1074
+Isaac	20-24	1506
+Isaac	25-34	4142
+Isaac	35-44	3617
+Isaac	45-54	3101
+Isaac	55-64	2413
+Isaac	65-74	1017
+Isaac	75-84	379
+Isaac	85+	100
+Kowanyama	0-4	90
+Kowanyama	5-14	190
+Kowanyama	15-19	97
+Kowanyama	20-24	90
+Kowanyama	25-34	184
+Kowanyama	35-44	103
+Kowanyama	45-54	169
+Kowanyama	55-64	85
+Kowanyama	65-74	49
+Kowanyama	75-84	12
+Livingstone	0-4	1976
+Livingstone	5-14	5161
+Livingstone	15-19	2416
+Livingstone	20-24	1785
+Livingstone	25-34	4162
+Livingstone	35-44	4802
+Livingstone	45-54	5213
+Livingstone	55-64	5945
+Livingstone	65-74	4751
+Livingstone	75-84	2434
+Livingstone	85+	753
+Lockhart River	0-4	50
+Lockhart River	5-14	119
+Lockhart River	15-19	67
+Lockhart River	20-24	47
+Lockhart River	25-34	98
+Lockhart River	35-44	71
+Lockhart River	45-54	82
+Lockhart River	55-64	52
+Lockhart River	65-74	31
+Lockhart River	75-84	12
+Lockhart River	85+	6
+Lockyer Valley	0-4	2298
+Lockyer Valley	5-14	5529
+Lockyer Valley	15-19	2699
+Lockyer Valley	20-24	2450
+Lockyer Valley	25-34	5150
+Lockyer Valley	35-44	4979
+Lockyer Valley	45-54	5371
+Lockyer Valley	55-64	5430
+Lockyer Valley	65-74	4305
+Lockyer Valley	75-84	2239
+Lockyer Valley	85+	660
+Logan	0-4	24941
+Logan	5-14	52604
+Logan	15-19	23169
+Logan	20-24	22856
+Logan	25-34	49902
+Logan	35-44	47099
+Logan	45-54	42596
+Logan	55-64	36024
+Logan	65-74	28018
+Logan	75-84	13776
+Logan	85+	4118
+Longreach	0-4	195
+Longreach	5-14	490
+Longreach	15-19	183
+Longreach	20-24	221
+Longreach	25-34	466
+Longreach	35-44	464
+Longreach	45-54	437
+Longreach	55-64	545
+Longreach	65-74	385
+Longreach	75-84	163
+Longreach	85+	88
+Mackay	0-4	7499
+Mackay	5-14	16996
+Mackay	15-19	7413
+Mackay	20-24	6950
+Mackay	25-34	15641
+Mackay	35-44	16204
+Mackay	45-54	16395
+Mackay	55-64	16026
+Mackay	65-74	11007
+Mackay	75-84	5576
+Mackay	85+	1979
+McKinlay	0-4	65
+McKinlay	5-14	78
+McKinlay	15-19	42
+McKinlay	20-24	72
+McKinlay	25-34	150
+McKinlay	35-44	125
+McKinlay	45-54	83
+McKinlay	55-64	124
+McKinlay	65-74	60
+McKinlay	75-84	26
+McKinlay	85+	5
+Mapoon	0-4	48
+Mapoon	5-14	76
+Mapoon	15-19	31
+Mapoon	20-24	41
+Mapoon	25-34	73
+Mapoon	35-44	48
+Mapoon	45-54	33
+Mapoon	55-64	41
+Mapoon	65-74	29
+Mapoon	75-84	7
+Maranoa	0-4	849
+Maranoa	5-14	1868
+Maranoa	15-19	712
+Maranoa	20-24	785
+Maranoa	25-34	1619
+Maranoa	35-44	1601
+Maranoa	45-54	1653
+Maranoa	55-64	1660
+Maranoa	65-74	1191
+Maranoa	75-84	654
+Maranoa	85+	229
+Mareeba	0-4	1116
+Mareeba	5-14	2725
+Mareeba	15-19	1256
+Mareeba	20-24	1106
+Mareeba	25-34	2853
+Mareeba	35-44	2685
+Mareeba	45-54	3139
+Mareeba	55-64	3268
+Mareeba	65-74	2655
+Mareeba	75-84	1596
+Mareeba	85+	470
+Moreton Bay	0-4	28365
+Moreton Bay	5-14	66084
+Moreton Bay	15-19	30026
+Moreton Bay	20-24	27256
+Moreton Bay	25-34	58511
+Moreton Bay	35-44	62658
+Moreton Bay	45-54	63615
+Moreton Bay	55-64	55529
+Moreton Bay	65-74	49072
+Moreton Bay	75-84	26718
+Moreton Bay	85+	8506
+Mornington	0-4	62
+Mornington	5-14	183
+Mornington	15-19	105
+Mornington	20-24	86
+Mornington	25-34	145
+Mornington	35-44	155
+Mornington	45-54	128
+Mornington	55-64	96
+Mornington	65-74	36
+Mornington	75-84	24
+Mount Isa	0-4	1542
+Mount Isa	5-14	2844
+Mount Isa	15-19	1202
+Mount Isa	20-24	1371
+Mount Isa	25-34	3348
+Mount Isa	35-44	2663
+Mount Isa	45-54	2277
+Mount Isa	55-64	1955
+Mount Isa	65-74	939
+Mount Isa	75-84	473
+Mount Isa	85+	114
+Murweh	0-4	225
+Murweh	5-14	469
+Murweh	15-19	188
+Murweh	20-24	203
+Murweh	25-34	534
+Murweh	35-44	400
+Murweh	45-54	496
+Murweh	55-64	679
+Murweh	65-74	451
+Murweh	75-84	209
+Murweh	85+	111
+Napranum	0-4	73
+Napranum	5-14	174
+Napranum	15-19	91
+Napranum	20-24	70
+Napranum	25-34	118
+Napranum	35-44	114
+Napranum	45-54	104
+Napranum	55-64	86
+Napranum	65-74	40
+Napranum	75-84	7
+Noosa	0-4	2010
+Noosa	5-14	6338
+Noosa	15-19	3039
+Noosa	20-24	1939
+Noosa	25-34	4121
+Noosa	35-44	5983
+Noosa	45-54	8163
+Noosa	55-64	9091
+Noosa	65-74	8980
+Noosa	75-84	5032
+Noosa	85+	1611
+North Burnett	0-4	466
+North Burnett	5-14	1125
+North Burnett	15-19	523
+North Burnett	20-24	458
+North Burnett	25-34	965
+North Burnett	35-44	981
+North Burnett	45-54	1305
+North Burnett	55-64	1533
+North Burnett	65-74	1510
+North Burnett	75-84	915
+North Burnett	85+	291
+Northern Peninsula Area	0-4	316
+Northern Peninsula Area	5-14	653
+Northern Peninsula Area	15-19	227
+Northern Peninsula Area	20-24	245
+Northern Peninsula Area	25-34	422
+Northern Peninsula Area	35-44	294
+Northern Peninsula Area	45-54	258
+Northern Peninsula Area	55-64	232
+Northern Peninsula Area	65-74	102
+Northern Peninsula Area	75-84	23
+Northern Peninsula Area	85+	3
+Palm Island	0-4	212
+Palm Island	5-14	444
+Palm Island	15-19	158
+Palm Island	20-24	176
+Palm Island	25-34	318
+Palm Island	35-44	226
+Palm Island	45-54	243
+Palm Island	55-64	203
+Palm Island	65-74	91
+Palm Island	75-84	19
+Paroo	0-4	133
+Paroo	5-14	228
+Paroo	15-19	70
+Paroo	20-24	72
+Paroo	25-34	196
+Paroo	35-44	160
+Paroo	45-54	214
+Paroo	55-64	270
+Paroo	65-74	197
+Paroo	75-84	110
+Paroo	85+	33
+Pormpuraaw	0-4	45
+Pormpuraaw	5-14	90
+Pormpuraaw	15-19	50
+Pormpuraaw	20-24	39
+Pormpuraaw	25-34	81
+Pormpuraaw	35-44	98
+Pormpuraaw	45-54	104
+Pormpuraaw	55-64	59
+Pormpuraaw	65-74	32
+Pormpuraaw	75-84	9
+Quilpie	0-4	53
+Quilpie	5-14	86
+Quilpie	15-19	24
+Quilpie	20-24	31
+Quilpie	25-34	103
+Quilpie	35-44	70
+Quilpie	45-54	105
+Quilpie	55-64	125
+Quilpie	65-74	64
+Quilpie	75-84	28
+Quilpie	85+	13
+Redland	0-4	8182
+Redland	5-14	20201
+Redland	15-19	10104
+Redland	20-24	8185
+Redland	25-34	16086
+Redland	35-44	19550
+Redland	45-54	21779
+Redland	55-64	21854
+Redland	65-74	19053
+Redland	75-84	10448
+Redland	85+	3799
+Richmond	0-4	53
+Richmond	5-14	102
+Richmond	15-19	21
+Richmond	20-24	43
+Richmond	25-34	126
+Richmond	35-44	83
+Richmond	45-54	85
+Richmond	55-64	117
+Richmond	65-74	75
+Richmond	75-84	34
+Richmond	85+	6
+Rockhampton	0-4	5048
+Rockhampton	5-14	11590
+Rockhampton	15-19	5360
+Rockhampton	20-24	5207
+Rockhampton	25-34	11142
+Rockhampton	35-44	10406
+Rockhampton	45-54	9715
+Rockhampton	55-64	9863
+Rockhampton	65-74	7504
+Rockhampton	75-84	4352
+Rockhampton	85+	1776
+Scenic Rim	0-4	2072
+Scenic Rim	5-14	5480
+Scenic Rim	15-19	2617
+Scenic Rim	20-24	1714
+Scenic Rim	25-34	3864
+Scenic Rim	35-44	4968
+Scenic Rim	45-54	6120
+Scenic Rim	55-64	6429
+Scenic Rim	65-74	5718
+Scenic Rim	75-84	3029
+Scenic Rim	85+	971
+Somerset	0-4	1207
+Somerset	5-14	3391
+Somerset	15-19	1507
+Somerset	20-24	1047
+Somerset	25-34	2442
+Somerset	35-44	2897
+Somerset	45-54	3418
+Somerset	55-64	3767
+Somerset	65-74	3387
+Somerset	75-84	1639
+Somerset	85+	351
+South Burnett	0-4	1604
+South Burnett	5-14	4019
+South Burnett	15-19	1851
+South Burnett	20-24	1534
+South Burnett	25-34	3187
+South Burnett	35-44	3137
+South Burnett	45-54	4038
+South Burnett	55-64	4915
+South Burnett	65-74	5156
+South Burnett	75-84	2732
+South Burnett	85+	820
+Southern Downs	0-4	1668
+Southern Downs	5-14	4566
+Southern Downs	15-19	2051
+Southern Downs	20-24	1603
+Southern Downs	25-34	3462
+Southern Downs	35-44	3492
+Southern Downs	45-54	4476
+Southern Downs	55-64	5415
+Southern Downs	65-74	5478
+Southern Downs	75-84	3068
+Southern Downs	85+	1004
+Sunshine Coast	0-4	16934
+Sunshine Coast	5-14	42558
+Sunshine Coast	15-19	20081
+Sunshine Coast	20-24	17308
+Sunshine Coast	25-34	37804
+Sunshine Coast	35-44	42382
+Sunshine Coast	45-54	45977
+Sunshine Coast	55-64	45184
+Sunshine Coast	65-74	41086
+Sunshine Coast	75-84	24171
+Sunshine Coast	85+	9058
+Tablelands	0-4	1067
+Tablelands	5-14	3381
+Tablelands	15-19	1533
+Tablelands	20-24	926
+Tablelands	25-34	2335
+Tablelands	35-44	2576
+Tablelands	45-54	3369
+Tablelands	55-64	4132
+Tablelands	65-74	4063
+Tablelands	75-84	2153
+Tablelands	85+	715
+Toowoomba	0-4	10200
+Toowoomba	5-14	23703
+Toowoomba	15-19	11405
+Toowoomba	20-24	10493
+Toowoomba	25-34	21846
+Toowoomba	35-44	20352
+Toowoomba	45-54	20894
+Toowoomba	55-64	20570
+Toowoomba	65-74	18096
+Toowoomba	75-84	11264
+Toowoomba	85+	4381
+Torres	0-4	263
+Torres	5-14	640
+Torres	15-19	275
+Torres	20-24	254
+Torres	25-34	518
+Torres	35-44	459
+Torres	45-54	402
+Torres	55-64	358
+Torres	65-74	187
+Torres	75-84	62
+Torres	85+	10
+Torres Strait Island	0-4	450
+Torres Strait Island	5-14	879
+Torres Strait Island	15-19	273
+Torres Strait Island	20-24	288
+Torres Strait Island	25-34	644
+Torres Strait Island	35-44	525
+Torres Strait Island	45-54	417
+Torres Strait Island	55-64	360
+Torres Strait Island	65-74	205
+Torres Strait Island	75-84	65
+Torres Strait Island	85+	9
+Townsville	0-4	11196
+Townsville	5-14	25779
+Townsville	15-19	12858
+Townsville	20-24	15003
+Townsville	25-34	27901
+Townsville	35-44	25201
+Townsville	45-54	24814
+Townsville	55-64	22520
+Townsville	65-74	16591
+Townsville	75-84	8268
+Townsville	85+	2647
+Weipa	0-4	381
+Weipa	5-14	674
+Weipa	15-19	240
+Weipa	20-24	312
+Weipa	25-34	797
+Weipa	35-44	636
+Weipa	45-54	572
+Weipa	55-64	364
+Weipa	65-74	91
+Weipa	75-84	31
+Weipa	85+	10
+Western Downs	0-4	2219
+Western Downs	5-14	5029
+Western Downs	15-19	2045
+Western Downs	20-24	1918
+Western Downs	25-34	4404
+Western Downs	35-44	3963
+Western Downs	45-54	4304
+Western Downs	55-64	4175
+Western Downs	65-74	3338
+Western Downs	75-84	1827
+Western Downs	85+	625
+Whitsunday	0-4	1893
+Whitsunday	5-14	4484
+Whitsunday	15-19	1917
+Whitsunday	20-24	2087
+Whitsunday	25-34	5457
+Whitsunday	35-44	4803
+Whitsunday	45-54	5081
+Whitsunday	55-64	5170
+Whitsunday	65-74	3967
+Whitsunday	75-84	1789
+Whitsunday	85+	503
+Winton	0-4	65
+Winton	5-14	122
+Winton	15-19	39
+Winton	20-24	53
+Winton	25-34	122
+Winton	35-44	143
+Winton	45-54	157
+Winton	55-64	177
+Winton	65-74	146
+Winton	75-84	87
+Winton	85+	19
+Woorabinda	0-4	123
+Woorabinda	5-14	234
+Woorabinda	15-19	103
+Woorabinda	20-24	71
+Woorabinda	25-34	172
+Woorabinda	35-44	98
+Woorabinda	45-54	108
+Woorabinda	55-64	69
+Woorabinda	65-74	36
+Woorabinda	75-84	8
+Wujal Wujal	0-4	24
+Wujal Wujal	5-14	52
+Wujal Wujal	15-19	13
+Wujal Wujal	20-24	14
+Wujal Wujal	25-34	53
+Wujal Wujal	35-44	29
+Wujal Wujal	45-54	35
+Wujal Wujal	55-64	36
+Wujal Wujal	65-74	10
+Wujal Wujal	75-84	8
+Yarrabah	0-4	232
+Yarrabah	5-14	515
+Yarrabah	15-19	267
+Yarrabah	20-24	212
+Yarrabah	25-34	393
+Yarrabah	35-44	277
+Yarrabah	45-54	253
+Yarrabah	55-64	213
+Yarrabah	65-74	92
+Yarrabah	75-84	31
+Yarrabah	85+	5
+No usual address (Qld)	0-4	504
+No usual address (Qld)	5-14	932
+No usual address (Qld)	15-19	566
+No usual address (Qld)	20-24	934
+No usual address (Qld)	25-34	2649
+No usual address (Qld)	35-44	2077
+No usual address (Qld)	45-54	1929
+No usual address (Qld)	55-64	2468
+No usual address (Qld)	65-74	2124
+No usual address (Qld)	75-84	444
+No usual address (Qld)	85+	44
+Migratory - Offshore - Shipping (Qld)	20-24	16
+Migratory - Offshore - Shipping (Qld)	25-34	49
+Migratory - Offshore - Shipping (Qld)	35-44	64
+Migratory - Offshore - Shipping (Qld)	45-54	45
+Migratory - Offshore - Shipping (Qld)	55-64	5
+Migratory - Offshore - Shipping (Qld)	65-74	3
+Adelaide	0-4	503
+Adelaide	5-14	954
+Adelaide	15-19	1410
+Adelaide	20-24	4551
+Adelaide	25-34	6094
+Adelaide	35-44	3161
+Adelaide	45-54	2282
+Adelaide	55-64	2284
+Adelaide	65-74	2239
+Adelaide	75-84	1140
+Adelaide	85+	425
+Adelaide Hills	0-4	1978
+Adelaide Hills	5-14	5370
+Adelaide Hills	15-19	2743
+Adelaide Hills	20-24	2051
+Adelaide Hills	25-34	3461
+Adelaide Hills	35-44	4858
+Adelaide Hills	45-54	6128
+Adelaide Hills	55-64	6085
+Adelaide Hills	65-74	5053
+Adelaide Hills	75-84	2391
+Adelaide Hills	85+	768
+Adelaide Plains	0-4	564
+Adelaide Plains	5-14	1284
+Adelaide Plains	15-19	637
+Adelaide Plains	20-24	521
+Adelaide Plains	25-34	1253
+Adelaide Plains	35-44	1203
+Adelaide Plains	45-54	1474
+Adelaide Plains	55-64	1488
+Adelaide Plains	65-74	912
+Adelaide Plains	75-84	405
+Adelaide Plains	85+	98
+Alexandrina	0-4	1120
+Alexandrina	5-14	2939
+Alexandrina	15-19	1428
+Alexandrina	20-24	1043
+Alexandrina	25-34	2224
+Alexandrina	35-44	2624
+Alexandrina	45-54	3470
+Alexandrina	55-64	4470
+Alexandrina	65-74	5343
+Alexandrina	75-84	3130
+Alexandrina	85+	941
+Anangu Pitjantjatjara Yunkunytjatjara	0-4	197
+Anangu Pitjantjatjara Yunkunytjatjara	5-14	362
+Anangu Pitjantjatjara Yunkunytjatjara	15-19	213
+Anangu Pitjantjatjara Yunkunytjatjara	20-24	225
+Anangu Pitjantjatjara Yunkunytjatjara	25-34	477
+Anangu Pitjantjatjara Yunkunytjatjara	35-44	302
+Anangu Pitjantjatjara Yunkunytjatjara	45-54	269
+Anangu Pitjantjatjara Yunkunytjatjara	55-64	187
+Anangu Pitjantjatjara Yunkunytjatjara	65-74	62
+Anangu Pitjantjatjara Yunkunytjatjara	75-84	24
+Anangu Pitjantjatjara Yunkunytjatjara	85+	17
+Barossa	0-4	1182
+Barossa	5-14	3210
+Barossa	15-19	1468
+Barossa	20-24	1116
+Barossa	25-34	2332
+Barossa	35-44	3007
+Barossa	45-54	3455
+Barossa	55-64	3609
+Barossa	65-74	3258
+Barossa	75-84	1760
+Barossa	85+	671
+Barunga West	0-4	115
+Barunga West	5-14	257
+Barunga West	15-19	89
+Barunga West	20-24	77
+Barunga West	25-34	182
+Barunga West	35-44	184
+Barunga West	45-54	296
+Barunga West	55-64	474
+Barunga West	65-74	529
+Barunga West	75-84	309
+Barunga West	85+	107
+Berri Barmera	0-4	444
+Berri Barmera	5-14	1219
+Berri Barmera	15-19	619
+Berri Barmera	20-24	550
+Berri Barmera	25-34	1136
+Berri Barmera	35-44	1116
+Berri Barmera	45-54	1334
+Berri Barmera	55-64	1497
+Berri Barmera	65-74	1463
+Berri Barmera	75-84	748
+Berri Barmera	85+	358
+Burnside	0-4	1830
+Burnside	5-14	5920
+Burnside	15-19	3175
+Burnside	20-24	2550
+Burnside	25-34	4192
+Burnside	35-44	5638
+Burnside	45-54	6223
+Burnside	55-64	5725
+Burnside	65-74	5543
+Burnside	75-84	3628
+Burnside	85+	1609
+Campbelltown (SA)	0-4	2736
+Campbelltown (SA)	5-14	6163
+Campbelltown (SA)	15-19	2903
+Campbelltown (SA)	20-24	3559
+Campbelltown (SA)	25-34	7522
+Campbelltown (SA)	35-44	7439
+Campbelltown (SA)	45-54	6988
+Campbelltown (SA)	55-64	6305
+Campbelltown (SA)	65-74	5151
+Campbelltown (SA)	75-84	4101
+Campbelltown (SA)	85+	1929
+Ceduna	0-4	234
+Ceduna	5-14	480
+Ceduna	15-19	178
+Ceduna	20-24	180
+Ceduna	25-34	470
+Ceduna	35-44	378
+Ceduna	45-54	472
+Ceduna	55-64	471
+Ceduna	65-74	406
+Ceduna	75-84	192
+Ceduna	85+	53
+Charles Sturt	0-4	6264
+Charles Sturt	5-14	12188
+Charles Sturt	15-19	5994
+Charles Sturt	20-24	7891
+Charles Sturt	25-34	18414
+Charles Sturt	35-44	15820
+Charles Sturt	45-54	15751
+Charles Sturt	55-64	15528
+Charles Sturt	65-74	12512
+Charles Sturt	75-84	7749
+Charles Sturt	85+	3732
+Clare and Gilbert Valleys	0-4	444
+Clare and Gilbert Valleys	5-14	1082
+Clare and Gilbert Valleys	15-19	457
+Clare and Gilbert Valleys	20-24	381
+Clare and Gilbert Valleys	25-34	888
+Clare and Gilbert Valleys	35-44	947
+Clare and Gilbert Valleys	45-54	1189
+Clare and Gilbert Valleys	55-64	1444
+Clare and Gilbert Valleys	65-74	1354
+Clare and Gilbert Valleys	75-84	741
+Clare and Gilbert Valleys	85+	260
+Cleve	0-4	106
+Cleve	5-14	235
+Cleve	15-19	75
+Cleve	20-24	62
+Cleve	25-34	188
+Cleve	35-44	172
+Cleve	45-54	211
+Cleve	55-64	285
+Cleve	65-74	222
+Cleve	75-84	127
+Cleve	85+	58
+Coober Pedy	0-4	67
+Coober Pedy	5-14	122
+Coober Pedy	15-19	73
+Coober Pedy	20-24	48
+Coober Pedy	25-34	216
+Coober Pedy	35-44	168
+Coober Pedy	45-54	194
+Coober Pedy	55-64	232
+Coober Pedy	65-74	246
+Coober Pedy	75-84	171
+Coober Pedy	85+	29
+Copper Coast	0-4	626
+Copper Coast	5-14	1494
+Copper Coast	15-19	659
+Copper Coast	20-24	556
+Copper Coast	25-34	1264
+Copper Coast	35-44	1353
+Copper Coast	45-54	1708
+Copper Coast	55-64	2468
+Copper Coast	65-74	2787
+Copper Coast	75-84	1599
+Copper Coast	85+	527
+Elliston	0-4	63
+Elliston	5-14	145
+Elliston	15-19	47
+Elliston	20-24	33
+Elliston	25-34	112
+Elliston	35-44	118
+Elliston	45-54	109
+Elliston	55-64	192
+Elliston	65-74	127
+Elliston	75-84	56
+Elliston	85+	20
+Flinders Ranges	0-4	95
+Flinders Ranges	5-14	143
+Flinders Ranges	15-19	66
+Flinders Ranges	20-24	65
+Flinders Ranges	25-34	165
+Flinders Ranges	35-44	144
+Flinders Ranges	45-54	191
+Flinders Ranges	55-64	276
+Flinders Ranges	65-74	308
+Flinders Ranges	75-84	149
+Flinders Ranges	85+	52
+Franklin Harbour	0-4	48
+Franklin Harbour	5-14	156
+Franklin Harbour	15-19	50
+Franklin Harbour	20-24	40
+Franklin Harbour	25-34	122
+Franklin Harbour	35-44	123
+Franklin Harbour	45-54	166
+Franklin Harbour	55-64	212
+Franklin Harbour	65-74	243
+Franklin Harbour	75-84	103
+Franklin Harbour	85+	35
+Gawler	0-4	1347
+Gawler	5-14	3026
+Gawler	15-19	1414
+Gawler	20-24	1503
+Gawler	25-34	3129
+Gawler	35-44	2845
+Gawler	45-54	3010
+Gawler	55-64	3368
+Gawler	65-74	2667
+Gawler	75-84	1852
+Gawler	85+	831
+Goyder	0-4	170
+Goyder	5-14	466
+Goyder	15-19	219
+Goyder	20-24	141
+Goyder	25-34	347
+Goyder	35-44	374
+Goyder	45-54	494
+Goyder	55-64	745
+Goyder	65-74	664
+Goyder	75-84	334
+Goyder	85+	107
+Grant	0-4	386
+Grant	5-14	1075
+Grant	15-19	513
+Grant	20-24	394
+Grant	25-34	780
+Grant	35-44	1131
+Grant	45-54	1318
+Grant	55-64	1373
+Grant	65-74	1093
+Grant	75-84	438
+Grant	85+	133
+Holdfast Bay	0-4	1412
+Holdfast Bay	5-14	3521
+Holdfast Bay	15-19	1954
+Holdfast Bay	20-24	1933
+Holdfast Bay	25-34	3979
+Holdfast Bay	35-44	4400
+Holdfast Bay	45-54	4769
+Holdfast Bay	55-64	5466
+Holdfast Bay	65-74	5444
+Holdfast Bay	75-84	3105
+Holdfast Bay	85+	1548
+Kangaroo Island	0-4	255
+Kangaroo Island	5-14	526
+Kangaroo Island	15-19	191
+Kangaroo Island	20-24	169
+Kangaroo Island	25-34	480
+Kangaroo Island	35-44	488
+Kangaroo Island	45-54	603
+Kangaroo Island	55-64	851
+Kangaroo Island	65-74	804
+Kangaroo Island	75-84	403
+Kangaroo Island	85+	119
+Karoonda East Murray	0-4	42
+Karoonda East Murray	5-14	115
+Karoonda East Murray	15-19	50
+Karoonda East Murray	20-24	43
+Karoonda East Murray	25-34	95
+Karoonda East Murray	35-44	90
+Karoonda East Murray	45-54	134
+Karoonda East Murray	55-64	177
+Karoonda East Murray	65-74	151
+Karoonda East Murray	75-84	75
+Karoonda East Murray	85+	41
+Kimba	0-4	46
+Kimba	5-14	173
+Kimba	15-19	37
+Kimba	20-24	43
+Kimba	25-34	111
+Kimba	35-44	135
+Kimba	45-54	113
+Kimba	55-64	152
+Kimba	65-74	116
+Kimba	75-84	82
+Kimba	85+	39
+Kingston (SA)	0-4	102
+Kingston (SA)	5-14	221
+Kingston (SA)	15-19	99
+Kingston (SA)	20-24	100
+Kingston (SA)	25-34	202
+Kingston (SA)	35-44	225
+Kingston (SA)	45-54	251
+Kingston (SA)	55-64	369
+Kingston (SA)	65-74	444
+Kingston (SA)	75-84	236
+Kingston (SA)	85+	86
+Light	0-4	834
+Light	5-14	2344
+Light	15-19	1149
+Light	20-24	924
+Light	25-34	1584
+Light	35-44	1907
+Light	45-54	2297
+Light	55-64	2292
+Light	65-74	1550
+Light	75-84	697
+Light	85+	211
+Lower Eyre Peninsula	0-4	337
+Lower Eyre Peninsula	5-14	844
+Lower Eyre Peninsula	15-19	321
+Lower Eyre Peninsula	20-24	167
+Lower Eyre Peninsula	25-34	542
+Lower Eyre Peninsula	35-44	772
+Lower Eyre Peninsula	45-54	872
+Lower Eyre Peninsula	55-64	913
+Lower Eyre Peninsula	65-74	735
+Lower Eyre Peninsula	75-84	315
+Lower Eyre Peninsula	85+	83
+Loxton Waikerie	0-4	611
+Loxton Waikerie	5-14	1403
+Loxton Waikerie	15-19	622
+Loxton Waikerie	20-24	477
+Loxton Waikerie	25-34	1177
+Loxton Waikerie	35-44	1157
+Loxton Waikerie	45-54	1481
+Loxton Waikerie	55-64	1625
+Loxton Waikerie	65-74	1739
+Loxton Waikerie	75-84	992
+Loxton Waikerie	85+	392
+Maralinga Tjarutja	0-4	3
+Maralinga Tjarutja	5-14	16
+Maralinga Tjarutja	15-19	9
+Maralinga Tjarutja	20-24	5
+Maralinga Tjarutja	25-34	12
+Maralinga Tjarutja	35-44	14
+Maralinga Tjarutja	45-54	20
+Maralinga Tjarutja	55-64	11
+Maralinga Tjarutja	65-74	7
+Maralinga Tjarutja	75-84	4
+Marion	0-4	5089
+Marion	5-14	10185
+Marion	15-19	4839
+Marion	20-24	6340
+Marion	25-34	14278
+Marion	35-44	13378
+Marion	45-54	11337
+Marion	55-64	11310
+Marion	65-74	9935
+Marion	75-84	5294
+Marion	85+	2729
+Mid Murray	0-4	340
+Mid Murray	5-14	839
+Mid Murray	15-19	403
+Mid Murray	20-24	305
+Mid Murray	25-34	734
+Mid Murray	35-44	825
+Mid Murray	45-54	1228
+Mid Murray	55-64	1736
+Mid Murray	65-74	1748
+Mid Murray	75-84	799
+Mid Murray	85+	214
+Mitcham	0-4	3277
+Mitcham	5-14	8370
+Mitcham	15-19	4299
+Mitcham	20-24	4086
+Mitcham	25-34	7125
+Mitcham	35-44	8664
+Mitcham	45-54	9313
+Mitcham	55-64	8335
+Mitcham	65-74	7283
+Mitcham	75-84	4648
+Mitcham	85+	2220
+Mount Barker	0-4	2494
+Mount Barker	5-14	5158
+Mount Barker	15-19	2339
+Mount Barker	20-24	2277
+Mount Barker	25-34	4916
+Mount Barker	35-44	5055
+Mount Barker	45-54	5297
+Mount Barker	55-64	4737
+Mount Barker	65-74	4156
+Mount Barker	75-84	2042
+Mount Barker	85+	740
+Mount Gambier	0-4	1506
+Mount Gambier	5-14	3390
+Mount Gambier	15-19	1666
+Mount Gambier	20-24	1483
+Mount Gambier	25-34	3399
+Mount Gambier	35-44	3035
+Mount Gambier	45-54	3287
+Mount Gambier	55-64	3384
+Mount Gambier	65-74	3058
+Mount Gambier	75-84	1874
+Mount Gambier	85+	802
+Mount Remarkable	0-4	116
+Mount Remarkable	5-14	277
+Mount Remarkable	15-19	138
+Mount Remarkable	20-24	75
+Mount Remarkable	25-34	202
+Mount Remarkable	35-44	235
+Mount Remarkable	45-54	347
+Mount Remarkable	55-64	615
+Mount Remarkable	65-74	511
+Mount Remarkable	75-84	271
+Mount Remarkable	85+	83
+Murray Bridge	0-4	1146
+Murray Bridge	5-14	2515
+Murray Bridge	15-19	1212
+Murray Bridge	20-24	1217
+Murray Bridge	25-34	2642
+Murray Bridge	35-44	2388
+Murray Bridge	45-54	2707
+Murray Bridge	55-64	2969
+Murray Bridge	65-74	2566
+Murray Bridge	75-84	1664
+Murray Bridge	85+	615
+Naracoorte Lucindale	0-4	500
+Naracoorte Lucindale	5-14	1129
+Naracoorte Lucindale	15-19	441
+Naracoorte Lucindale	20-24	434
+Naracoorte Lucindale	25-34	1041
+Naracoorte Lucindale	35-44	1142
+Naracoorte Lucindale	45-54	1070
+Naracoorte Lucindale	55-64	1139
+Naracoorte Lucindale	65-74	978
+Naracoorte Lucindale	75-84	587
+Naracoorte Lucindale	85+	220
+Northern Areas	0-4	249
+Northern Areas	5-14	570
+Northern Areas	15-19	204
+Northern Areas	20-24	194
+Northern Areas	25-34	389
+Northern Areas	35-44	473
+Northern Areas	45-54	534
+Northern Areas	55-64	747
+Northern Areas	65-74	681
+Northern Areas	75-84	379
+Northern Areas	85+	130
+Norwood Payneham and St Peters	0-4	1602
+Norwood Payneham and St Peters	5-14	3745
+Norwood Payneham and St Peters	15-19	2007
+Norwood Payneham and St Peters	20-24	2480
+Norwood Payneham and St Peters	25-34	5758
+Norwood Payneham and St Peters	35-44	4924
+Norwood Payneham and St Peters	45-54	4568
+Norwood Payneham and St Peters	55-64	4528
+Norwood Payneham and St Peters	65-74	3885
+Norwood Payneham and St Peters	75-84	2611
+Norwood Payneham and St Peters	85+	1377
+Onkaparinga	0-4	9400
+Onkaparinga	5-14	21651
+Onkaparinga	15-19	10218
+Onkaparinga	20-24	9881
+Onkaparinga	25-34	21451
+Onkaparinga	35-44	22544
+Onkaparinga	45-54	22741
+Onkaparinga	55-64	22395
+Onkaparinga	65-74	20330
+Onkaparinga	75-84	10711
+Onkaparinga	85+	3887
+Orroroo Carrieton	0-4	55
+Orroroo Carrieton	5-14	90
+Orroroo Carrieton	15-19	47
+Orroroo Carrieton	20-24	21
+Orroroo Carrieton	25-34	78
+Orroroo Carrieton	35-44	77
+Orroroo Carrieton	45-54	94
+Orroroo Carrieton	55-64	155
+Orroroo Carrieton	65-74	149
+Orroroo Carrieton	75-84	68
+Orroroo Carrieton	85+	49
+Peterborough	0-4	57
+Peterborough	5-14	150
+Peterborough	15-19	71
+Peterborough	20-24	60
+Peterborough	25-34	122
+Peterborough	35-44	156
+Peterborough	45-54	209
+Peterborough	55-64	312
+Peterborough	65-74	300
+Peterborough	75-84	157
+Peterborough	85+	49
+Playford	0-4	7480
+Playford	5-14	15202
+Playford	15-19	6151
+Playford	20-24	6970
+Playford	25-34	15770
+Playford	35-44	12715
+Playford	45-54	11319
+Playford	55-64	10878
+Playford	65-74	7214
+Playford	75-84	3912
+Playford	85+	1574
+Port Adelaide Enfield	0-4	8015
+Port Adelaide Enfield	5-14	14285
+Port Adelaide Enfield	15-19	6526
+Port Adelaide Enfield	20-24	8939
+Port Adelaide Enfield	25-34	22399
+Port Adelaide Enfield	35-44	19793
+Port Adelaide Enfield	45-54	16214
+Port Adelaide Enfield	55-64	15389
+Port Adelaide Enfield	65-74	11653
+Port Adelaide Enfield	75-84	6188
+Port Adelaide Enfield	85+	2988
+Port Augusta	0-4	797
+Port Augusta	5-14	1746
+Port Augusta	15-19	773
+Port Augusta	20-24	762
+Port Augusta	25-34	2096
+Port Augusta	35-44	1653
+Port Augusta	45-54	1682
+Port Augusta	55-64	1870
+Port Augusta	65-74	1406
+Port Augusta	75-84	799
+Port Augusta	85+	250
+Port Lincoln	0-4	826
+Port Lincoln	5-14	1772
+Port Lincoln	15-19	841
+Port Lincoln	20-24	798
+Port Lincoln	25-34	1806
+Port Lincoln	35-44	1626
+Port Lincoln	45-54	1783
+Port Lincoln	55-64	1907
+Port Lincoln	65-74	1656
+Port Lincoln	75-84	959
+Port Lincoln	85+	432
+Port Pirie	0-4	921
+Port Pirie	5-14	2128
+Port Pirie	15-19	1017
+Port Pirie	20-24	1002
+Port Pirie	25-34	1904
+Port Pirie	35-44	1743
+Port Pirie	45-54	2198
+Port Pirie	55-64	2380
+Port Pirie	65-74	2093
+Port Pirie	75-84	1371
+Port Pirie	85+	521
+Prospect	0-4	1155
+Prospect	5-14	2701
+Prospect	15-19	1143
+Prospect	20-24	1614
+Prospect	25-34	3572
+Prospect	35-44	3265
+Prospect	45-54	2763
+Prospect	55-64	2748
+Prospect	65-74	1953
+Prospect	75-84	883
+Prospect	85+	474
+Renmark Paringa	0-4	517
+Renmark Paringa	5-14	1075
+Renmark Paringa	15-19	552
+Renmark Paringa	20-24	536
+Renmark Paringa	25-34	1226
+Renmark Paringa	35-44	1063
+Renmark Paringa	45-54	1232
+Renmark Paringa	55-64	1343
+Renmark Paringa	65-74	1287
+Renmark Paringa	75-84	682
+Renmark Paringa	85+	275
+Robe	0-4	66
+Robe	5-14	149
+Robe	15-19	62
+Robe	20-24	58
+Robe	25-34	142
+Robe	35-44	145
+Robe	45-54	192
+Robe	55-64	291
+Robe	65-74	270
+Robe	75-84	141
+Robe	85+	30
+Roxby Downs	0-4	365
+Roxby Downs	5-14	657
+Roxby Downs	15-19	195
+Roxby Downs	20-24	242
+Roxby Downs	25-34	856
+Roxby Downs	35-44	746
+Roxby Downs	45-54	510
+Roxby Downs	55-64	346
+Roxby Downs	65-74	53
+Roxby Downs	75-84	14
+Roxby Downs	85+	3
+Salisbury	0-4	9166
+Salisbury	5-14	19202
+Salisbury	15-19	8820
+Salisbury	20-24	10107
+Salisbury	25-34	21328
+Salisbury	35-44	20462
+Salisbury	45-54	17641
+Salisbury	55-64	16489
+Salisbury	65-74	12831
+Salisbury	75-84	7146
+Salisbury	85+	2607
+Southern Mallee	0-4	92
+Southern Mallee	5-14	240
+Southern Mallee	15-19	116
+Southern Mallee	20-24	73
+Southern Mallee	25-34	236
+Southern Mallee	35-44	234
+Southern Mallee	45-54	241
+Southern Mallee	55-64	288
+Southern Mallee	65-74	254
+Southern Mallee	75-84	146
+Southern Mallee	85+	69
+Streaky Bay	0-4	126
+Streaky Bay	5-14	291
+Streaky Bay	15-19	82
+Streaky Bay	20-24	64
+Streaky Bay	25-34	224
+Streaky Bay	35-44	231
+Streaky Bay	45-54	281
+Streaky Bay	55-64	334
+Streaky Bay	65-74	354
+Streaky Bay	75-84	134
+Streaky Bay	85+	59
+Tatiara	0-4	372
+Tatiara	5-14	870
+Tatiara	15-19	363
+Tatiara	20-24	394
+Tatiara	25-34	861
+Tatiara	35-44	824
+Tatiara	45-54	944
+Tatiara	55-64	921
+Tatiara	65-74	745
+Tatiara	75-84	431
+Tatiara	85+	172
+Tea Tree Gully	0-4	5265
+Tea Tree Gully	5-14	12203
+Tea Tree Gully	15-19	5846
+Tea Tree Gully	20-24	5898
+Tea Tree Gully	25-34	12098
+Tea Tree Gully	35-44	13462
+Tea Tree Gully	45-54	13156
+Tea Tree Gully	55-64	12550
+Tea Tree Gully	65-74	11374
+Tea Tree Gully	75-84	6842
+Tea Tree Gully	85+	2482
+Coorong	0-4	245
+Coorong	5-14	637
+Coorong	15-19	267
+Coorong	20-24	242
+Coorong	25-34	596
+Coorong	35-44	554
+Coorong	45-54	640
+Coorong	55-64	915
+Coorong	65-74	744
+Coorong	75-84	486
+Coorong	85+	142
+Tumby Bay	0-4	163
+Tumby Bay	5-14	312
+Tumby Bay	15-19	111
+Tumby Bay	20-24	73
+Tumby Bay	25-34	236
+Tumby Bay	35-44	277
+Tumby Bay	45-54	324
+Tumby Bay	55-64	449
+Tumby Bay	65-74	461
+Tumby Bay	75-84	289
+Tumby Bay	85+	117
+Unley	0-4	1681
+Unley	5-14	4315
+Unley	15-19	2090
+Unley	20-24	2386
+Unley	25-34	4792
+Unley	35-44	5040
+Unley	45-54	5084
+Unley	55-64	4688
+Unley	65-74	4401
+Unley	75-84	2599
+Unley	85+	1572
+Victor Harbor	0-4	525
+Victor Harbor	5-14	1469
+Victor Harbor	15-19	653
+Victor Harbor	20-24	478
+Victor Harbor	25-34	998
+Victor Harbor	35-44	1290
+Victor Harbor	45-54	1572
+Victor Harbor	55-64	2337
+Victor Harbor	65-74	3537
+Victor Harbor	75-84	2363
+Victor Harbor	85+	909
+Wakefield	0-4	375
+Wakefield	5-14	908
+Wakefield	15-19	410
+Wakefield	20-24	308
+Wakefield	25-34	666
+Wakefield	35-44	714
+Wakefield	45-54	869
+Wakefield	55-64	1014
+Wakefield	65-74	874
+Wakefield	75-84	453
+Wakefield	85+	184
+Walkerville	0-4	325
+Walkerville	5-14	865
+Walkerville	15-19	491
+Walkerville	20-24	493
+Walkerville	25-34	886
+Walkerville	35-44	946
+Walkerville	45-54	1056
+Walkerville	55-64	993
+Walkerville	65-74	980
+Walkerville	75-84	647
+Walkerville	85+	339
+Wattle Range	0-4	527
+Wattle Range	5-14	1392
+Wattle Range	15-19	733
+Wattle Range	20-24	475
+Wattle Range	25-34	1032
+Wattle Range	35-44	1242
+Wattle Range	45-54	1625
+Wattle Range	55-64	1901
+Wattle Range	65-74	1778
+Wattle Range	75-84	874
+Wattle Range	85+	305
+West Torrens	0-4	3027
+West Torrens	5-14	5924
+West Torrens	15-19	2923
+West Torrens	20-24	4808
+West Torrens	25-34	11172
+West Torrens	35-44	8656
+West Torrens	45-54	7332
+West Torrens	55-64	6793
+West Torrens	65-74	5118
+West Torrens	75-84	3626
+West Torrens	85+	2317
+Whyalla	0-4	1149
+Whyalla	5-14	2645
+Whyalla	15-19	1221
+Whyalla	20-24	1221
+Whyalla	25-34	2714
+Whyalla	35-44	2359
+Whyalla	45-54	2943
+Whyalla	55-64	2981
+Whyalla	65-74	2132
+Whyalla	75-84	1433
+Whyalla	85+	451
+Wudinna	0-4	60
+Wudinna	5-14	181
+Wudinna	15-19	59
+Wudinna	20-24	40
+Wudinna	25-34	116
+Wudinna	35-44	128
+Wudinna	45-54	146
+Wudinna	55-64	170
+Wudinna	65-74	124
+Wudinna	75-84	61
+Wudinna	85+	48
+Yankalilla	0-4	234
+Yankalilla	5-14	567
+Yankalilla	15-19	243
+Yankalilla	20-24	181
+Yankalilla	25-34	375
+Yankalilla	35-44	490
+Yankalilla	45-54	693
+Yankalilla	55-64	1080
+Yankalilla	65-74	1227
+Yankalilla	75-84	575
+Yankalilla	85+	174
+Yorke Peninsula	0-4	476
+Yorke Peninsula	5-14	1086
+Yorke Peninsula	15-19	400
+Yorke Peninsula	20-24	375
+Yorke Peninsula	25-34	838
+Yorke Peninsula	35-44	947
+Yorke Peninsula	45-54	1221
+Yorke Peninsula	55-64	2112
+Yorke Peninsula	65-74	2412
+Yorke Peninsula	75-84	1306
+Yorke Peninsula	85+	427
+Unincorporated SA	0-4	134
+Unincorporated SA	5-14	292
+Unincorporated SA	15-19	153
+Unincorporated SA	20-24	213
+Unincorporated SA	25-34	433
+Unincorporated SA	35-44	345
+Unincorporated SA	45-54	499
+Unincorporated SA	55-64	518
+Unincorporated SA	65-74	306
+Unincorporated SA	75-84	88
+Unincorporated SA	85+	25
+No usual address (SA)	0-4	140
+No usual address (SA)	5-14	262
+No usual address (SA)	15-19	186
+No usual address (SA)	20-24	206
+No usual address (SA)	25-34	627
+No usual address (SA)	35-44	534
+No usual address (SA)	45-54	478
+No usual address (SA)	55-64	513
+No usual address (SA)	65-74	359
+No usual address (SA)	75-84	64
+No usual address (SA)	85+	11
+Migratory - Offshore - Shipping (SA)	35-44	3
+Migratory - Offshore - Shipping (SA)	45-54	5
+Albany	0-4	1932
+Albany	5-14	4864
+Albany	15-19	2404
+Albany	20-24	1726
+Albany	25-34	4150
+Albany	35-44	4231
+Albany	45-54	4976
+Albany	55-64	5440
+Albany	65-74	4990
+Albany	75-84	2890
+Albany	85+	1164
+Armadale	0-4	7505
+Armadale	5-14	14584
+Armadale	15-19	5404
+Armadale	20-24	5350
+Armadale	25-34	14140
+Armadale	35-44	15526
+Armadale	45-54	11039
+Armadale	55-64	9336
+Armadale	65-74	7019
+Armadale	75-84	3289
+Armadale	85+	1006
+Ashburton	0-4	651
+Ashburton	5-14	1073
+Ashburton	15-19	258
+Ashburton	20-24	381
+Ashburton	25-34	1511
+Ashburton	35-44	1494
+Ashburton	45-54	1021
+Ashburton	55-64	744
+Ashburton	65-74	200
+Ashburton	75-84	54
+Ashburton	85+	10
+Augusta Margaret River	0-4	985
+Augusta Margaret River	5-14	2439
+Augusta Margaret River	15-19	806
+Augusta Margaret River	20-24	467
+Augusta Margaret River	25-34	1734
+Augusta Margaret River	35-44	2673
+Augusta Margaret River	45-54	2511
+Augusta Margaret River	55-64	2214
+Augusta Margaret River	65-74	1925
+Augusta Margaret River	75-84	746
+Augusta Margaret River	85+	286
+Bassendean	0-4	1002
+Bassendean	5-14	1799
+Bassendean	15-19	736
+Bassendean	20-24	867
+Bassendean	25-34	2231
+Bassendean	35-44	2389
+Bassendean	45-54	2165
+Bassendean	55-64	1971
+Bassendean	65-74	1574
+Bassendean	75-84	839
+Bassendean	85+	360
+Bayswater	0-4	4052
+Bayswater	5-14	6976
+Bayswater	15-19	3159
+Bayswater	20-24	4175
+Bayswater	25-34	11640
+Bayswater	35-44	10678
+Bayswater	45-54	8739
+Bayswater	55-64	7799
+Bayswater	65-74	6607
+Bayswater	75-84	3832
+Bayswater	85+	1634
+Belmont	0-4	2487
+Belmont	5-14	4239
+Belmont	15-19	1827
+Belmont	20-24	3044
+Belmont	25-34	8528
+Belmont	35-44	6610
+Belmont	45-54	5019
+Belmont	55-64	4498
+Belmont	65-74	3282
+Belmont	75-84	1827
+Belmont	85+	902
+Beverley	0-4	73
+Beverley	5-14	132
+Beverley	15-19	75
+Beverley	20-24	47
+Beverley	25-34	124
+Beverley	35-44	161
+Beverley	45-54	220
+Beverley	55-64	292
+Beverley	65-74	349
+Beverley	75-84	165
+Beverley	85+	58
+Boddington	0-4	121
+Boddington	5-14	256
+Boddington	15-19	70
+Boddington	20-24	54
+Boddington	25-34	183
+Boddington	35-44	208
+Boddington	45-54	242
+Boddington	55-64	266
+Boddington	65-74	197
+Boddington	75-84	86
+Boddington	85+	20
+Boyup Brook	0-4	110
+Boyup Brook	5-14	250
+Boyup Brook	15-19	72
+Boyup Brook	20-24	75
+Boyup Brook	25-34	129
+Boyup Brook	35-44	220
+Boyup Brook	45-54	243
+Boyup Brook	55-64	295
+Boyup Brook	65-74	245
+Boyup Brook	75-84	158
+Boyup Brook	85+	35
+Bridgetown-Greenbushes	0-4	223
+Bridgetown-Greenbushes	5-14	646
+Bridgetown-Greenbushes	15-19	250
+Bridgetown-Greenbushes	20-24	160
+Bridgetown-Greenbushes	25-34	381
+Bridgetown-Greenbushes	35-44	537
+Bridgetown-Greenbushes	45-54	699
+Bridgetown-Greenbushes	55-64	896
+Bridgetown-Greenbushes	65-74	922
+Bridgetown-Greenbushes	75-84	426
+Bridgetown-Greenbushes	85+	104
+Brookton	0-4	57
+Brookton	5-14	103
+Brookton	15-19	29
+Brookton	20-24	35
+Brookton	25-34	67
+Brookton	35-44	102
+Brookton	45-54	137
+Brookton	55-64	134
+Brookton	65-74	133
+Brookton	75-84	90
+Brookton	85+	41
+Broome	0-4	1233
+Broome	5-14	2762
+Broome	15-19	961
+Broome	20-24	917
+Broome	25-34	2890
+Broome	35-44	2707
+Broome	45-54	2353
+Broome	55-64	1828
+Broome	65-74	953
+Broome	75-84	289
+Broome	85+	75
+Broomehill-Tambellup	0-4	63
+Broomehill-Tambellup	5-14	168
+Broomehill-Tambellup	15-19	55
+Broomehill-Tambellup	20-24	44
+Broomehill-Tambellup	25-34	114
+Broomehill-Tambellup	35-44	125
+Broomehill-Tambellup	45-54	129
+Broomehill-Tambellup	55-64	179
+Broomehill-Tambellup	65-74	104
+Broomehill-Tambellup	75-84	52
+Broomehill-Tambellup	85+	13
+Bruce Rock	0-4	54
+Bruce Rock	5-14	127
+Bruce Rock	15-19	40
+Bruce Rock	20-24	45
+Bruce Rock	25-34	88
+Bruce Rock	35-44	111
+Bruce Rock	45-54	123
+Bruce Rock	55-64	143
+Bruce Rock	65-74	155
+Bruce Rock	75-84	72
+Bruce Rock	85+	26
+Bunbury	0-4	1693
+Bunbury	5-14	3752
+Bunbury	15-19	1764
+Bunbury	20-24	1785
+Bunbury	25-34	4214
+Bunbury	35-44	4053
+Bunbury	45-54	4290
+Bunbury	55-64	4440
+Bunbury	65-74	3875
+Bunbury	75-84	2158
+Bunbury	85+	968
+Busselton	0-4	2035
+Busselton	5-14	5587
+Busselton	15-19	2269
+Busselton	20-24	1394
+Busselton	25-34	3812
+Busselton	35-44	5162
+Busselton	45-54	5504
+Busselton	55-64	5355
+Busselton	65-74	5509
+Busselton	75-84	2960
+Busselton	85+	1045
+Cambridge	0-4	1400
+Cambridge	5-14	4260
+Cambridge	15-19	1984
+Cambridge	20-24	1472
+Cambridge	25-34	2837
+Cambridge	35-44	3743
+Cambridge	45-54	4391
+Cambridge	55-64	3602
+Cambridge	65-74	2616
+Cambridge	75-84	1608
+Cambridge	85+	969
+Canning	0-4	5286
+Canning	5-14	12114
+Canning	15-19	5932
+Canning	20-24	7768
+Canning	25-34	14885
+Canning	35-44	14030
+Canning	45-54	11751
+Canning	55-64	10116
+Canning	65-74	8086
+Canning	75-84	4299
+Canning	85+	1591
+Capel	0-4	1052
+Capel	5-14	2973
+Capel	15-19	1385
+Capel	20-24	903
+Capel	25-34	1842
+Capel	35-44	2425
+Capel	45-54	2727
+Capel	55-64	2332
+Capel	65-74	1692
+Capel	75-84	701
+Capel	85+	136
+Carnamah	0-4	27
+Carnamah	5-14	48
+Carnamah	15-19	15
+Carnamah	20-24	29
+Carnamah	25-34	62
+Carnamah	35-44	95
+Carnamah	45-54	64
+Carnamah	55-64	82
+Carnamah	65-74	86
+Carnamah	75-84	33
+Carnamah	85+	11
+Carnarvon	0-4	352
+Carnarvon	5-14	623
+Carnarvon	15-19	257
+Carnarvon	20-24	307
+Carnarvon	25-34	715
+Carnarvon	35-44	617
+Carnarvon	45-54	767
+Carnarvon	55-64	753
+Carnarvon	65-74	556
+Carnarvon	75-84	241
+Carnarvon	85+	70
+Chapman Valley	0-4	69
+Chapman Valley	5-14	255
+Chapman Valley	15-19	94
+Chapman Valley	20-24	47
+Chapman Valley	25-34	127
+Chapman Valley	35-44	194
+Chapman Valley	45-54	274
+Chapman Valley	55-64	254
+Chapman Valley	65-74	169
+Chapman Valley	75-84	53
+Chapman Valley	85+	9
+Chittering	0-4	301
+Chittering	5-14	812
+Chittering	15-19	415
+Chittering	20-24	255
+Chittering	25-34	516
+Chittering	35-44	682
+Chittering	45-54	942
+Chittering	55-64	988
+Chittering	65-74	642
+Chittering	75-84	309
+Chittering	85+	77
+Christmas Island	0-4	83
+Christmas Island	5-14	200
+Christmas Island	15-19	54
+Christmas Island	20-24	73
+Christmas Island	25-34	319
+Christmas Island	35-44	271
+Christmas Island	45-54	263
+Christmas Island	55-64	210
+Christmas Island	65-74	178
+Christmas Island	75-84	32
+Christmas Island	85+	4
+Claremont	0-4	426
+Claremont	5-14	1343
+Claremont	15-19	859
+Claremont	20-24	725
+Claremont	25-34	1244
+Claremont	35-44	1175
+Claremont	45-54	1475
+Claremont	55-64	1286
+Claremont	65-74	1196
+Claremont	75-84	1030
+Claremont	85+	529
+Cockburn	0-4	7881
+Cockburn	5-14	15090
+Cockburn	15-19	6500
+Cockburn	20-24	7474
+Cockburn	25-34	17894
+Cockburn	35-44	18564
+Cockburn	45-54	15830
+Cockburn	55-64	12939
+Cockburn	65-74	9368
+Cockburn	75-84	4740
+Cockburn	85+	1811
+Cocos Islands	0-4	37
+Cocos Islands	5-14	88
+Cocos Islands	15-19	17
+Cocos Islands	20-24	36
+Cocos Islands	25-34	65
+Cocos Islands	35-44	85
+Cocos Islands	45-54	53
+Cocos Islands	55-64	111
+Cocos Islands	65-74	63
+Cocos Islands	75-84	33
+Cocos Islands	85+	11
+Collie	0-4	472
+Collie	5-14	1098
+Collie	15-19	528
+Collie	20-24	423
+Collie	25-34	920
+Collie	35-44	976
+Collie	45-54	1120
+Collie	55-64	1301
+Collie	65-74	1220
+Collie	75-84	568
+Collie	85+	183
+Coolgardie	0-4	243
+Coolgardie	5-14	451
+Coolgardie	15-19	204
+Coolgardie	20-24	208
+Coolgardie	25-34	461
+Coolgardie	35-44	471
+Coolgardie	45-54	533
+Coolgardie	55-64	513
+Coolgardie	65-74	297
+Coolgardie	75-84	86
+Coolgardie	85+	14
+Coorow	0-4	61
+Coorow	5-14	71
+Coorow	15-19	27
+Coorow	20-24	32
+Coorow	25-34	98
+Coorow	35-44	89
+Coorow	45-54	107
+Coorow	55-64	220
+Coorow	65-74	215
+Coorow	75-84	103
+Coorow	85+	23
+Corrigin	0-4	60
+Corrigin	5-14	111
+Corrigin	15-19	35
+Corrigin	20-24	52
+Corrigin	25-34	105
+Corrigin	35-44	118
+Corrigin	45-54	110
+Corrigin	55-64	147
+Corrigin	65-74	156
+Corrigin	75-84	75
+Corrigin	85+	42
+Cottesloe	0-4	352
+Cottesloe	5-14	891
+Cottesloe	15-19	556
+Cottesloe	20-24	451
+Cottesloe	25-34	908
+Cottesloe	35-44	841
+Cottesloe	45-54	1094
+Cottesloe	55-64	1113
+Cottesloe	65-74	959
+Cottesloe	75-84	577
+Cottesloe	85+	219
+Cranbrook	0-4	66
+Cranbrook	5-14	151
+Cranbrook	15-19	43
+Cranbrook	20-24	45
+Cranbrook	25-34	90
+Cranbrook	35-44	132
+Cranbrook	45-54	159
+Cranbrook	55-64	178
+Cranbrook	65-74	134
+Cranbrook	75-84	85
+Cranbrook	85+	15
+Cuballing	0-4	29
+Cuballing	5-14	111
+Cuballing	15-19	28
+Cuballing	20-24	41
+Cuballing	25-34	74
+Cuballing	35-44	75
+Cuballing	45-54	142
+Cuballing	55-64	166
+Cuballing	65-74	151
+Cuballing	75-84	61
+Cuballing	85+	12
+Cue	0-4	3
+Cue	5-14	4
+Cue	15-19	4
+Cue	20-24	14
+Cue	25-34	35
+Cue	35-44	20
+Cue	45-54	31
+Cue	55-64	35
+Cue	65-74	58
+Cue	75-84	11
+Cunderdin	0-4	84
+Cunderdin	5-14	179
+Cunderdin	15-19	144
+Cunderdin	20-24	56
+Cunderdin	25-34	152
+Cunderdin	35-44	155
+Cunderdin	45-54	136
+Cunderdin	55-64	154
+Cunderdin	65-74	151
+Cunderdin	75-84	64
+Cunderdin	85+	27
+Dalwallinu	0-4	108
+Dalwallinu	5-14	192
+Dalwallinu	15-19	46
+Dalwallinu	20-24	69
+Dalwallinu	25-34	176
+Dalwallinu	35-44	211
+Dalwallinu	45-54	155
+Dalwallinu	55-64	204
+Dalwallinu	65-74	118
+Dalwallinu	75-84	63
+Dalwallinu	85+	36
+Dandaragan	0-4	162
+Dandaragan	5-14	309
+Dandaragan	15-19	117
+Dandaragan	20-24	108
+Dandaragan	25-34	368
+Dandaragan	35-44	364
+Dandaragan	45-54	413
+Dandaragan	55-64	589
+Dandaragan	65-74	599
+Dandaragan	75-84	265
+Dandaragan	85+	65
+Dardanup	0-4	954
+Dardanup	5-14	2041
+Dardanup	15-19	842
+Dardanup	20-24	688
+Dardanup	25-34	1843
+Dardanup	35-44	1927
+Dardanup	45-54	1851
+Dardanup	55-64	1805
+Dardanup	65-74	1489
+Dardanup	75-84	900
+Dardanup	85+	347
+Denmark	0-4	306
+Denmark	5-14	779
+Denmark	15-19	395
+Denmark	20-24	126
+Denmark	25-34	393
+Denmark	35-44	691
+Denmark	45-54	833
+Denmark	55-64	1055
+Denmark	65-74	1042
+Denmark	75-84	542
+Denmark	85+	155
+Derby-West Kimberley	0-4	544
+Derby-West Kimberley	5-14	1069
+Derby-West Kimberley	15-19	483
+Derby-West Kimberley	20-24	550
+Derby-West Kimberley	25-34	1270
+Derby-West Kimberley	35-44	958
+Derby-West Kimberley	45-54	858
+Derby-West Kimberley	55-64	781
+Derby-West Kimberley	65-74	421
+Derby-West Kimberley	75-84	119
+Derby-West Kimberley	85+	29
+Donnybrook-Balingup	0-4	308
+Donnybrook-Balingup	5-14	718
+Donnybrook-Balingup	15-19	319
+Donnybrook-Balingup	20-24	216
+Donnybrook-Balingup	25-34	502
+Donnybrook-Balingup	35-44	684
+Donnybrook-Balingup	45-54	847
+Donnybrook-Balingup	55-64	1009
+Donnybrook-Balingup	65-74	978
+Donnybrook-Balingup	75-84	460
+Donnybrook-Balingup	85+	127
+Dowerin	0-4	46
+Dowerin	5-14	103
+Dowerin	15-19	23
+Dowerin	20-24	36
+Dowerin	25-34	55
+Dowerin	35-44	86
+Dowerin	45-54	90
+Dowerin	55-64	84
+Dowerin	65-74	126
+Dowerin	75-84	45
+Dowerin	85+	10
+Dumbleyung	0-4	48
+Dumbleyung	5-14	91
+Dumbleyung	15-19	21
+Dumbleyung	20-24	21
+Dumbleyung	25-34	74
+Dumbleyung	35-44	93
+Dumbleyung	45-54	89
+Dumbleyung	55-64	102
+Dumbleyung	65-74	96
+Dumbleyung	75-84	44
+Dundas	0-4	34
+Dundas	5-14	46
+Dundas	15-19	23
+Dundas	20-24	36
+Dundas	25-34	96
+Dundas	35-44	53
+Dundas	45-54	109
+Dundas	55-64	133
+Dundas	65-74	95
+Dundas	75-84	49
+Dundas	85+	3
+East Fremantle	0-4	368
+East Fremantle	5-14	1006
+East Fremantle	15-19	534
+East Fremantle	20-24	378
+East Fremantle	25-34	717
+East Fremantle	35-44	925
+East Fremantle	45-54	1198
+East Fremantle	55-64	1081
+East Fremantle	65-74	876
+East Fremantle	75-84	471
+East Fremantle	85+	254
+East Pilbara	0-4	560
+East Pilbara	5-14	1017
+East Pilbara	15-19	376
+East Pilbara	20-24	647
+East Pilbara	25-34	2324
+East Pilbara	35-44	2020
+East Pilbara	45-54	1476
+East Pilbara	55-64	1035
+East Pilbara	65-74	251
+East Pilbara	75-84	44
+East Pilbara	85+	13
+Esperance	0-4	811
+Esperance	5-14	1907
+Esperance	15-19	825
+Esperance	20-24	664
+Esperance	25-34	1548
+Esperance	35-44	1642
+Esperance	45-54	1899
+Esperance	55-64	1894
+Esperance	65-74	1486
+Esperance	75-84	918
+Esperance	85+	284
+Exmouth	0-4	188
+Exmouth	5-14	372
+Exmouth	15-19	151
+Exmouth	20-24	175
+Exmouth	25-34	544
+Exmouth	35-44	498
+Exmouth	45-54	425
+Exmouth	55-64	379
+Exmouth	65-74	244
+Exmouth	75-84	101
+Exmouth	85+	16
+Fremantle	0-4	1691
+Fremantle	5-14	2890
+Fremantle	15-19	1440
+Fremantle	20-24	1760
+Fremantle	25-34	4531
+Fremantle	35-44	4498
+Fremantle	45-54	4338
+Fremantle	55-64	4423
+Fremantle	65-74	3573
+Fremantle	75-84	1936
+Fremantle	85+	849
+Gingin	0-4	245
+Gingin	5-14	551
+Gingin	15-19	247
+Gingin	20-24	217
+Gingin	25-34	574
+Gingin	35-44	577
+Gingin	45-54	782
+Gingin	55-64	898
+Gingin	65-74	928
+Gingin	75-84	462
+Gingin	85+	88
+Gnowangerup	0-4	103
+Gnowangerup	5-14	158
+Gnowangerup	15-19	48
+Gnowangerup	20-24	54
+Gnowangerup	25-34	175
+Gnowangerup	35-44	155
+Gnowangerup	45-54	150
+Gnowangerup	55-64	181
+Gnowangerup	65-74	143
+Gnowangerup	75-84	34
+Gnowangerup	85+	8
+Goomalling	0-4	46
+Goomalling	5-14	120
+Goomalling	15-19	34
+Goomalling	20-24	43
+Goomalling	25-34	65
+Goomalling	35-44	117
+Goomalling	45-54	122
+Goomalling	55-64	153
+Goomalling	65-74	158
+Goomalling	75-84	68
+Goomalling	85+	24
+Gosnells	0-4	8513
+Gosnells	5-14	17753
+Gosnells	15-19	7795
+Gosnells	20-24	8452
+Gosnells	25-34	17620
+Gosnells	35-44	19859
+Gosnells	45-54	16225
+Gosnells	55-64	12945
+Gosnells	65-74	10175
+Gosnells	75-84	5162
+Gosnells	85+	1869
+Greater Geraldton	0-4	2355
+Greater Geraldton	5-14	5506
+Greater Geraldton	15-19	2504
+Greater Geraldton	20-24	2076
+Greater Geraldton	25-34	4684
+Greater Geraldton	35-44	4866
+Greater Geraldton	45-54	5377
+Greater Geraldton	55-64	5164
+Greater Geraldton	65-74	3981
+Greater Geraldton	75-84	2149
+Greater Geraldton	85+	839
+Halls Creek	0-4	306
+Halls Creek	5-14	583
+Halls Creek	15-19	334
+Halls Creek	20-24	313
+Halls Creek	25-34	605
+Halls Creek	35-44	505
+Halls Creek	45-54	421
+Halls Creek	55-64	277
+Halls Creek	65-74	158
+Halls Creek	75-84	62
+Halls Creek	85+	11
+Harvey	0-4	1723
+Harvey	5-14	4247
+Harvey	15-19	1869
+Harvey	20-24	1277
+Harvey	25-34	3228
+Harvey	35-44	3762
+Harvey	45-54	3741
+Harvey	55-64	3784
+Harvey	65-74	3061
+Harvey	75-84	1466
+Harvey	85+	400
+Irwin	0-4	127
+Irwin	5-14	424
+Irwin	15-19	181
+Irwin	20-24	122
+Irwin	25-34	222
+Irwin	35-44	359
+Irwin	45-54	479
+Irwin	55-64	644
+Irwin	65-74	673
+Irwin	75-84	362
+Irwin	85+	78
+Jerramungup	0-4	92
+Jerramungup	5-14	160
+Jerramungup	15-19	39
+Jerramungup	20-24	51
+Jerramungup	25-34	137
+Jerramungup	35-44	158
+Jerramungup	45-54	148
+Jerramungup	55-64	191
+Jerramungup	65-74	133
+Jerramungup	75-84	46
+Jerramungup	85+	12
+Joondalup	0-4	8538
+Joondalup	5-14	21309
+Joondalup	15-19	10279
+Joondalup	20-24	9012
+Joondalup	25-34	16285
+Joondalup	35-44	21336
+Joondalup	45-54	22768
+Joondalup	55-64	21744
+Joondalup	65-74	18096
+Joondalup	75-84	7853
+Joondalup	85+	2782
+Kalamunda	0-4	3318
+Kalamunda	5-14	8038
+Kalamunda	15-19	3608
+Kalamunda	20-24	3163
+Kalamunda	25-34	6450
+Kalamunda	35-44	7970
+Kalamunda	45-54	7889
+Kalamunda	55-64	7218
+Kalamunda	65-74	6227
+Kalamunda	75-84	3593
+Kalamunda	85+	1292
+Kalgoorlie-Boulder	0-4	2233
+Kalgoorlie-Boulder	5-14	4259
+Kalgoorlie-Boulder	15-19	1629
+Kalgoorlie-Boulder	20-24	1984
+Kalgoorlie-Boulder	25-34	4812
+Kalgoorlie-Boulder	35-44	4401
+Kalgoorlie-Boulder	45-54	3915
+Kalgoorlie-Boulder	55-64	3416
+Kalgoorlie-Boulder	65-74	1782
+Kalgoorlie-Boulder	75-84	678
+Kalgoorlie-Boulder	85+	202
+Karratha	0-4	1873
+Karratha	5-14	3765
+Karratha	15-19	1205
+Karratha	20-24	1161
+Karratha	25-34	4115
+Karratha	35-44	4351
+Karratha	45-54	3142
+Karratha	55-64	1864
+Karratha	65-74	574
+Karratha	75-84	135
+Karratha	85+	12
+Katanning	0-4	276
+Katanning	5-14	508
+Katanning	15-19	263
+Katanning	20-24	244
+Katanning	25-34	531
+Katanning	35-44	486
+Katanning	45-54	489
+Katanning	55-64	518
+Katanning	65-74	427
+Katanning	75-84	232
+Katanning	85+	100
+Kellerberrin	0-4	51
+Kellerberrin	5-14	97
+Kellerberrin	15-19	74
+Kellerberrin	20-24	42
+Kellerberrin	25-34	93
+Kellerberrin	35-44	119
+Kellerberrin	45-54	154
+Kellerberrin	55-64	206
+Kellerberrin	65-74	153
+Kellerberrin	75-84	114
+Kellerberrin	85+	46
+Kent	0-4	44
+Kent	5-14	78
+Kent	15-19	20
+Kent	20-24	22
+Kent	25-34	59
+Kent	35-44	84
+Kent	45-54	84
+Kent	55-64	47
+Kent	65-74	32
+Kent	75-84	19
+Kojonup	0-4	111
+Kojonup	5-14	260
+Kojonup	15-19	63
+Kojonup	20-24	72
+Kojonup	25-34	179
+Kojonup	35-44	249
+Kojonup	45-54	236
+Kojonup	55-64	305
+Kojonup	65-74	222
+Kojonup	75-84	150
+Kojonup	85+	54
+Kondinin	0-4	50
+Kondinin	5-14	98
+Kondinin	15-19	27
+Kondinin	20-24	43
+Kondinin	25-34	82
+Kondinin	35-44	114
+Kondinin	45-54	125
+Kondinin	55-64	130
+Kondinin	65-74	110
+Kondinin	75-84	51
+Kondinin	85+	18
+Koorda	0-4	18
+Koorda	5-14	48
+Koorda	15-19	12
+Koorda	20-24	5
+Koorda	25-34	28
+Koorda	35-44	41
+Koorda	45-54	56
+Koorda	55-64	69
+Koorda	65-74	60
+Koorda	75-84	27
+Koorda	85+	6
+Kulin	0-4	44
+Kulin	5-14	117
+Kulin	15-19	20
+Kulin	20-24	22
+Kulin	25-34	78
+Kulin	35-44	107
+Kulin	45-54	117
+Kulin	55-64	114
+Kulin	65-74	94
+Kulin	75-84	43
+Kulin	85+	11
+Kwinana	0-4	3809
+Kwinana	5-14	6600
+Kwinana	15-19	2620
+Kwinana	20-24	3020
+Kwinana	25-34	7857
+Kwinana	35-44	7718
+Kwinana	45-54	5670
+Kwinana	55-64	4134
+Kwinana	65-74	2717
+Kwinana	75-84	1314
+Kwinana	85+	416
+Lake Grace	0-4	98
+Lake Grace	5-14	149
+Lake Grace	15-19	57
+Lake Grace	20-24	57
+Lake Grace	25-34	144
+Lake Grace	35-44	178
+Lake Grace	45-54	173
+Lake Grace	55-64	200
+Lake Grace	65-74	128
+Lake Grace	75-84	67
+Lake Grace	85+	13
+Laverton	0-4	47
+Laverton	5-14	90
+Laverton	15-19	46
+Laverton	20-24	94
+Laverton	25-34	323
+Laverton	35-44	236
+Laverton	45-54	223
+Laverton	55-64	207
+Laverton	65-74	56
+Laverton	75-84	11
+Laverton	85+	5
+Leonora	0-4	98
+Leonora	5-14	170
+Leonora	15-19	52
+Leonora	20-24	157
+Leonora	25-34	351
+Leonora	35-44	265
+Leonora	45-54	216
+Leonora	55-64	180
+Leonora	65-74	81
+Leonora	75-84	26
+Leonora	85+	3
+Mandurah	0-4	4773
+Mandurah	5-14	10905
+Mandurah	15-19	4962
+Mandurah	20-24	4506
+Mandurah	25-34	9182
+Mandurah	35-44	9972
+Mandurah	45-54	10978
+Mandurah	55-64	11960
+Mandurah	65-74	12513
+Mandurah	75-84	7848
+Mandurah	85+	2707
+Manjimup	0-4	429
+Manjimup	5-14	1052
+Manjimup	15-19	544
+Manjimup	20-24	385
+Manjimup	25-34	907
+Manjimup	35-44	944
+Manjimup	45-54	1246
+Manjimup	55-64	1510
+Manjimup	65-74	1213
+Manjimup	75-84	647
+Manjimup	85+	221
+Meekatharra	0-4	72
+Meekatharra	5-14	100
+Meekatharra	15-19	60
+Meekatharra	20-24	105
+Meekatharra	25-34	270
+Meekatharra	35-44	166
+Meekatharra	45-54	154
+Meekatharra	55-64	155
+Meekatharra	65-74	81
+Meekatharra	75-84	31
+Melville	0-4	4959
+Melville	5-14	12949
+Melville	15-19	6536
+Melville	20-24	6205
+Melville	25-34	10955
+Melville	35-44	13403
+Melville	45-54	13754
+Melville	55-64	12993
+Melville	65-74	11756
+Melville	75-84	6676
+Melville	85+	3336
+Menzies	0-4	7
+Menzies	5-14	20
+Menzies	15-19	12
+Menzies	20-24	60
+Menzies	25-34	115
+Menzies	35-44	108
+Menzies	45-54	82
+Menzies	55-64	70
+Menzies	65-74	40
+Menzies	75-84	11
+Merredin	0-4	185
+Merredin	5-14	403
+Merredin	15-19	183
+Merredin	20-24	164
+Merredin	25-34	373
+Merredin	35-44	370
+Merredin	45-54	398
+Merredin	55-64	449
+Merredin	65-74	368
+Merredin	75-84	160
+Merredin	85+	65
+Mingenew	0-4	38
+Mingenew	5-14	47
+Mingenew	15-19	3
+Mingenew	20-24	16
+Mingenew	25-34	38
+Mingenew	35-44	48
+Mingenew	45-54	55
+Mingenew	55-64	75
+Mingenew	65-74	52
+Mingenew	75-84	34
+Mingenew	85+	9
+Moora	0-4	116
+Moora	5-14	319
+Moora	15-19	117
+Moora	20-24	115
+Moora	25-34	244
+Moora	35-44	235
+Moora	45-54	324
+Moora	55-64	337
+Moora	65-74	268
+Moora	75-84	149
+Moora	85+	57
+Morawa	0-4	43
+Morawa	5-14	110
+Morawa	15-19	42
+Morawa	20-24	23
+Morawa	25-34	62
+Morawa	35-44	63
+Morawa	45-54	77
+Morawa	55-64	83
+Morawa	65-74	98
+Morawa	75-84	36
+Morawa	85+	18
+Mosman Park	0-4	401
+Mosman Park	5-14	1146
+Mosman Park	15-19	638
+Mosman Park	20-24	553
+Mosman Park	25-34	1009
+Mosman Park	35-44	1139
+Mosman Park	45-54	1334
+Mosman Park	55-64	1141
+Mosman Park	65-74	995
+Mosman Park	75-84	594
+Mosman Park	85+	211
+Mount Magnet	0-4	40
+Mount Magnet	5-14	80
+Mount Magnet	15-19	25
+Mount Magnet	20-24	30
+Mount Magnet	25-34	70
+Mount Magnet	35-44	97
+Mount Magnet	45-54	104
+Mount Magnet	55-64	103
+Mount Magnet	65-74	72
+Mount Magnet	75-84	23
+Mount Magnet	85+	9
+Mount Marshall	0-4	33
+Mount Marshall	5-14	45
+Mount Marshall	15-19	5
+Mount Marshall	20-24	18
+Mount Marshall	25-34	42
+Mount Marshall	35-44	62
+Mount Marshall	45-54	75
+Mount Marshall	55-64	100
+Mount Marshall	65-74	45
+Mount Marshall	75-84	20
+Mount Marshall	85+	16
+Mukinbudin	0-4	46
+Mukinbudin	5-14	79
+Mukinbudin	15-19	34
+Mukinbudin	20-24	16
+Mukinbudin	25-34	62
+Mukinbudin	35-44	60
+Mukinbudin	45-54	82
+Mukinbudin	55-64	85
+Mukinbudin	65-74	68
+Mukinbudin	75-84	46
+Mukinbudin	85+	11
+Mundaring	0-4	1871
+Mundaring	5-14	4662
+Mundaring	15-19	2359
+Mundaring	20-24	1982
+Mundaring	25-34	4241
+Mundaring	35-44	4932
+Mundaring	45-54	5655
+Mundaring	55-64	5720
+Mundaring	65-74	4548
+Mundaring	75-84	2428
+Mundaring	85+	775
+Murchison	0-4	9
+Murchison	5-14	24
+Murchison	25-34	13
+Murchison	35-44	17
+Murchison	45-54	17
+Murchison	55-64	10
+Murchison	65-74	5
+Murray	0-4	926
+Murray	5-14	2352
+Murray	15-19	1065
+Murray	20-24	821
+Murray	25-34	1768
+Murray	35-44	2009
+Murray	45-54	2285
+Murray	55-64	2496
+Murray	65-74	2502
+Murray	75-84	1433
+Murray	85+	409
+Nannup	0-4	48
+Nannup	5-14	161
+Nannup	15-19	65
+Nannup	20-24	16
+Nannup	25-34	94
+Nannup	35-44	178
+Nannup	45-54	182
+Nannup	55-64	280
+Nannup	65-74	336
+Nannup	75-84	151
+Nannup	85+	30
+Narembeen	0-4	55
+Narembeen	5-14	104
+Narembeen	15-19	16
+Narembeen	20-24	32
+Narembeen	25-34	106
+Narembeen	35-44	69
+Narembeen	45-54	98
+Narembeen	55-64	119
+Narembeen	65-74	89
+Narembeen	75-84	68
+Narembeen	85+	41
+Narrogin	0-4	226
+Narrogin	5-14	599
+Narrogin	15-19	325
+Narrogin	20-24	261
+Narrogin	25-34	536
+Narrogin	35-44	524
+Narrogin	45-54	592
+Narrogin	55-64	654
+Narrogin	65-74	567
+Narrogin	75-84	326
+Narrogin	85+	159
+Nedlands	0-4	998
+Nedlands	5-14	3203
+Nedlands	15-19	1655
+Nedlands	20-24	1389
+Nedlands	25-34	1863
+Nedlands	35-44	2448
+Nedlands	45-54	3143
+Nedlands	55-64	2774
+Nedlands	65-74	2506
+Nedlands	75-84	1499
+Nedlands	85+	650
+Ngaanyatjarraku	0-4	82
+Ngaanyatjarraku	5-14	208
+Ngaanyatjarraku	15-19	135
+Ngaanyatjarraku	20-24	107
+Ngaanyatjarraku	25-34	230
+Ngaanyatjarraku	35-44	210
+Ngaanyatjarraku	45-54	180
+Ngaanyatjarraku	55-64	135
+Ngaanyatjarraku	65-74	52
+Ngaanyatjarraku	75-84	14
+Ngaanyatjarraku	85+	3
+Northam	0-4	588
+Northam	5-14	1479
+Northam	15-19	674
+Northam	20-24	569
+Northam	25-34	1227
+Northam	35-44	1305
+Northam	45-54	1488
+Northam	55-64	1662
+Northam	65-74	1438
+Northam	75-84	706
+Northam	85+	237
+Northampton	0-4	128
+Northampton	5-14	345
+Northampton	15-19	110
+Northampton	20-24	97
+Northampton	25-34	239
+Northampton	35-44	324
+Northampton	45-54	408
+Northampton	55-64	606
+Northampton	65-74	597
+Northampton	75-84	282
+Northampton	85+	86
+Nungarin	0-4	8
+Nungarin	5-14	24
+Nungarin	15-19	12
+Nungarin	20-24	19
+Nungarin	25-34	17
+Nungarin	35-44	20
+Nungarin	45-54	37
+Nungarin	55-64	46
+Nungarin	65-74	44
+Nungarin	75-84	14
+Nungarin	85+	4
+Peppermint Grove	0-4	53
+Peppermint Grove	5-14	211
+Peppermint Grove	15-19	219
+Peppermint Grove	20-24	104
+Peppermint Grove	25-34	112
+Peppermint Grove	35-44	119
+Peppermint Grove	45-54	215
+Peppermint Grove	55-64	220
+Peppermint Grove	65-74	183
+Peppermint Grove	75-84	114
+Peppermint Grove	85+	41
+Perenjori	0-4	21
+Perenjori	5-14	68
+Perenjori	15-19	24
+Perenjori	20-24	34
+Perenjori	25-34	76
+Perenjori	35-44	95
+Perenjori	45-54	102
+Perenjori	55-64	117
+Perenjori	65-74	55
+Perenjori	75-84	26
+Perenjori	85+	11
+Perth	0-4	933
+Perth	5-14	1065
+Perth	15-19	1241
+Perth	20-24	3628
+Perth	25-34	8545
+Perth	35-44	4824
+Perth	45-54	2682
+Perth	55-64	2481
+Perth	65-74	1901
+Perth	75-84	901
+Perth	85+	268
+Pingelly	0-4	48
+Pingelly	5-14	116
+Pingelly	15-19	38
+Pingelly	20-24	45
+Pingelly	25-34	89
+Pingelly	35-44	94
+Pingelly	45-54	123
+Pingelly	55-64	177
+Pingelly	65-74	172
+Pingelly	75-84	107
+Pingelly	85+	23
+Plantagenet	0-4	242
+Plantagenet	5-14	655
+Plantagenet	15-19	303
+Plantagenet	20-24	183
+Plantagenet	25-34	455
+Plantagenet	35-44	573
+Plantagenet	45-54	769
+Plantagenet	55-64	910
+Plantagenet	65-74	823
+Plantagenet	75-84	352
+Plantagenet	85+	117
+Port Hedland	0-4	1411
+Port Hedland	5-14	2469
+Port Hedland	15-19	820
+Port Hedland	20-24	844
+Port Hedland	25-34	3066
+Port Hedland	35-44	2832
+Port Hedland	45-54	2024
+Port Hedland	55-64	1608
+Port Hedland	65-74	468
+Port Hedland	75-84	111
+Port Hedland	85+	33
+Quairading	0-4	52
+Quairading	5-14	98
+Quairading	15-19	29
+Quairading	20-24	21
+Quairading	25-34	87
+Quairading	35-44	81
+Quairading	45-54	121
+Quairading	55-64	160
+Quairading	65-74	190
+Quairading	75-84	81
+Quairading	85+	39
+Ravensthorpe	0-4	155
+Ravensthorpe	5-14	234
+Ravensthorpe	15-19	58
+Ravensthorpe	20-24	84
+Ravensthorpe	25-34	297
+Ravensthorpe	35-44	257
+Ravensthorpe	45-54	299
+Ravensthorpe	55-64	323
+Ravensthorpe	65-74	221
+Ravensthorpe	75-84	126
+Ravensthorpe	85+	32
+Rockingham	0-4	9148
+Rockingham	5-14	20284
+Rockingham	15-19	8784
+Rockingham	20-24	8106
+Rockingham	25-34	18324
+Rockingham	35-44	18382
+Rockingham	45-54	17886
+Rockingham	55-64	15559
+Rockingham	65-74	10901
+Rockingham	75-84	6210
+Rockingham	85+	2083
+Sandstone	20-24	4
+Sandstone	25-34	13
+Sandstone	35-44	7
+Sandstone	45-54	11
+Sandstone	55-64	31
+Sandstone	65-74	22
+Sandstone	75-84	15
+Serpentine-Jarrahdale	0-4	2777
+Serpentine-Jarrahdale	5-14	5235
+Serpentine-Jarrahdale	15-19	1969
+Serpentine-Jarrahdale	20-24	1740
+Serpentine-Jarrahdale	25-34	4896
+Serpentine-Jarrahdale	35-44	4765
+Serpentine-Jarrahdale	45-54	4066
+Serpentine-Jarrahdale	55-64	3391
+Serpentine-Jarrahdale	65-74	2123
+Serpentine-Jarrahdale	75-84	955
+Serpentine-Jarrahdale	85+	249
+Shark Bay	0-4	61
+Shark Bay	5-14	109
+Shark Bay	15-19	28
+Shark Bay	20-24	49
+Shark Bay	25-34	152
+Shark Bay	35-44	133
+Shark Bay	45-54	124
+Shark Bay	55-64	166
+Shark Bay	65-74	145
+Shark Bay	75-84	63
+Shark Bay	85+	8
+South Perth	0-4	2025
+South Perth	5-14	4194
+South Perth	15-19	2449
+South Perth	20-24	3465
+South Perth	25-34	6604
+South Perth	35-44	5719
+South Perth	45-54	5276
+South Perth	55-64	5155
+South Perth	65-74	4773
+South Perth	75-84	2503
+South Perth	85+	1233
+Stirling	0-4	13360
+Stirling	5-14	24903
+Stirling	15-19	11170
+Stirling	20-24	13378
+Stirling	25-34	37576
+Stirling	35-44	34928
+Stirling	45-54	28195
+Stirling	55-64	24207
+Stirling	65-74	20107
+Stirling	75-84	12645
+Stirling	85+	5894
+Subiaco	0-4	814
+Subiaco	5-14	1913
+Subiaco	15-19	792
+Subiaco	20-24	1013
+Subiaco	25-34	2660
+Subiaco	35-44	2411
+Subiaco	45-54	2135
+Subiaco	55-64	1989
+Subiaco	65-74	1947
+Subiaco	75-84	1153
+Subiaco	85+	439
+Swan	0-4	11262
+Swan	5-14	21970
+Swan	15-19	9598
+Swan	20-24	9608
+Swan	25-34	23311
+Swan	35-44	22878
+Swan	45-54	19814
+Swan	55-64	16713
+Swan	65-74	10855
+Swan	75-84	5197
+Swan	85+	1767
+Tammin	0-4	18
+Tammin	5-14	50
+Tammin	15-19	20
+Tammin	20-24	12
+Tammin	25-34	45
+Tammin	35-44	37
+Tammin	45-54	64
+Tammin	55-64	69
+Tammin	65-74	40
+Tammin	75-84	25
+Tammin	85+	6
+Three Springs	0-4	44
+Three Springs	5-14	76
+Three Springs	15-19	19
+Three Springs	20-24	25
+Three Springs	25-34	62
+Three Springs	35-44	77
+Three Springs	45-54	71
+Three Springs	55-64	76
+Three Springs	65-74	72
+Three Springs	75-84	45
+Three Springs	85+	6
+Toodyay	0-4	158
+Toodyay	5-14	471
+Toodyay	15-19	210
+Toodyay	20-24	150
+Toodyay	25-34	338
+Toodyay	35-44	412
+Toodyay	45-54	659
+Toodyay	55-64	967
+Toodyay	65-74	818
+Toodyay	75-84	353
+Toodyay	85+	72
+Trayning	0-4	9
+Trayning	5-14	22
+Trayning	15-19	20
+Trayning	20-24	13
+Trayning	25-34	34
+Trayning	35-44	16
+Trayning	45-54	38
+Trayning	55-64	61
+Trayning	65-74	47
+Trayning	75-84	29
+Upper Gascoyne	0-4	19
+Upper Gascoyne	5-14	25
+Upper Gascoyne	15-19	8
+Upper Gascoyne	20-24	10
+Upper Gascoyne	25-34	22
+Upper Gascoyne	35-44	24
+Upper Gascoyne	45-54	24
+Upper Gascoyne	55-64	25
+Upper Gascoyne	65-74	15
+Victoria Park	0-4	2039
+Victoria Park	5-14	3122
+Victoria Park	15-19	1495
+Victoria Park	20-24	3045
+Victoria Park	25-34	7737
+Victoria Park	35-44	5954
+Victoria Park	45-54	4324
+Victoria Park	55-64	3695
+Victoria Park	65-74	2834
+Victoria Park	75-84	1626
+Victoria Park	85+	1022
+Victoria Plains	0-4	37
+Victoria Plains	5-14	97
+Victoria Plains	15-19	38
+Victoria Plains	20-24	19
+Victoria Plains	25-34	75
+Victoria Plains	35-44	101
+Victoria Plains	45-54	114
+Victoria Plains	55-64	152
+Victoria Plains	65-74	102
+Victoria Plains	75-84	50
+Victoria Plains	85+	12
+Vincent	0-4	1896
+Vincent	5-14	3345
+Vincent	15-19	1286
+Vincent	20-24	2549
+Vincent	25-34	8305
+Vincent	35-44	6304
+Vincent	45-54	4660
+Vincent	55-64	3835
+Vincent	65-74	2485
+Vincent	75-84	1197
+Vincent	85+	667
+Wagin	0-4	86
+Wagin	5-14	192
+Wagin	15-19	87
+Wagin	20-24	66
+Wagin	25-34	173
+Wagin	35-44	191
+Wagin	45-54	207
+Wagin	55-64	277
+Wagin	65-74	284
+Wagin	75-84	152
+Wagin	85+	47
+Wandering	0-4	23
+Wandering	5-14	51
+Wandering	15-19	27
+Wandering	20-24	24
+Wandering	25-34	47
+Wandering	35-44	57
+Wandering	45-54	96
+Wandering	55-64	84
+Wandering	65-74	72
+Wandering	75-84	48
+Wandering	85+	9
+Wanneroo	0-4	14748
+Wanneroo	5-14	31364
+Wanneroo	15-19	13890
+Wanneroo	20-24	13443
+Wanneroo	25-34	29094
+Wanneroo	35-44	30915
+Wanneroo	45-54	28677
+Wanneroo	55-64	21776
+Wanneroo	65-74	14772
+Wanneroo	75-84	7804
+Wanneroo	85+	2623
+Waroona	0-4	202
+Waroona	5-14	500
+Waroona	15-19	244
+Waroona	20-24	173
+Waroona	25-34	369
+Waroona	35-44	482
+Waroona	45-54	578
+Waroona	55-64	660
+Waroona	65-74	627
+Waroona	75-84	305
+Waroona	85+	106
+West Arthur	0-4	26
+West Arthur	5-14	107
+West Arthur	15-19	29
+West Arthur	20-24	32
+West Arthur	25-34	58
+West Arthur	35-44	85
+West Arthur	45-54	123
+West Arthur	55-64	149
+West Arthur	65-74	105
+West Arthur	75-84	46
+West Arthur	85+	24
+Westonia	0-4	18
+Westonia	5-14	28
+Westonia	15-19	4
+Westonia	20-24	9
+Westonia	25-34	32
+Westonia	35-44	30
+Westonia	45-54	24
+Westonia	55-64	46
+Westonia	65-74	38
+Westonia	75-84	19
+Westonia	85+	6
+Wickepin	0-4	42
+Wickepin	5-14	105
+Wickepin	15-19	23
+Wickepin	20-24	31
+Wickepin	25-34	75
+Wickepin	35-44	67
+Wickepin	45-54	86
+Wickepin	55-64	123
+Wickepin	65-74	81
+Wickepin	75-84	57
+Wickepin	85+	18
+Williams	0-4	68
+Williams	5-14	153
+Williams	15-19	37
+Williams	20-24	34
+Williams	25-34	106
+Williams	35-44	152
+Williams	45-54	121
+Williams	55-64	154
+Williams	65-74	111
+Williams	75-84	65
+Williams	85+	17
+Wiluna	0-4	21
+Wiluna	5-14	63
+Wiluna	15-19	24
+Wiluna	20-24	46
+Wiluna	25-34	108
+Wiluna	35-44	95
+Wiluna	45-54	88
+Wiluna	55-64	42
+Wiluna	65-74	39
+Wiluna	75-84	13
+Wongan-Ballidu	0-4	78
+Wongan-Ballidu	5-14	163
+Wongan-Ballidu	15-19	39
+Wongan-Ballidu	20-24	58
+Wongan-Ballidu	25-34	149
+Wongan-Ballidu	35-44	166
+Wongan-Ballidu	45-54	149
+Wongan-Ballidu	55-64	201
+Wongan-Ballidu	65-74	191
+Wongan-Ballidu	75-84	75
+Wongan-Ballidu	85+	20
+Woodanilling	0-4	35
+Woodanilling	5-14	64
+Woodanilling	15-19	15
+Woodanilling	20-24	17
+Woodanilling	25-34	43
+Woodanilling	35-44	49
+Woodanilling	45-54	52
+Woodanilling	55-64	84
+Woodanilling	65-74	61
+Woodanilling	75-84	22
+Woodanilling	85+	3
+Wyalkatchem	0-4	15
+Wyalkatchem	5-14	45
+Wyalkatchem	15-19	14
+Wyalkatchem	20-24	15
+Wyalkatchem	25-34	47
+Wyalkatchem	35-44	45
+Wyalkatchem	45-54	58
+Wyalkatchem	55-64	78
+Wyalkatchem	65-74	82
+Wyalkatchem	75-84	65
+Wyalkatchem	85+	9
+Wyndham-East Kimberley	0-4	562
+Wyndham-East Kimberley	5-14	1156
+Wyndham-East Kimberley	15-19	397
+Wyndham-East Kimberley	20-24	464
+Wyndham-East Kimberley	25-34	1302
+Wyndham-East Kimberley	35-44	1102
+Wyndham-East Kimberley	45-54	1030
+Wyndham-East Kimberley	55-64	889
+Wyndham-East Kimberley	65-74	418
+Wyndham-East Kimberley	75-84	136
+Wyndham-East Kimberley	85+	25
+Yalgoo	0-4	9
+Yalgoo	5-14	15
+Yalgoo	15-19	9
+Yalgoo	20-24	31
+Yalgoo	25-34	106
+Yalgoo	35-44	46
+Yalgoo	45-54	52
+Yalgoo	55-64	33
+Yalgoo	65-74	25
+Yalgoo	75-84	7
+Yalgoo	85+	4
+Yilgarn	0-4	41
+Yilgarn	5-14	77
+Yilgarn	15-19	18
+Yilgarn	20-24	46
+Yilgarn	25-34	187
+Yilgarn	35-44	169
+Yilgarn	45-54	222
+Yilgarn	55-64	215
+Yilgarn	65-74	127
+Yilgarn	75-84	50
+Yilgarn	85+	21
+York	0-4	106
+York	5-14	390
+York	15-19	129
+York	20-24	88
+York	25-34	249
+York	35-44	327
+York	45-54	385
+York	55-64	624
+York	65-74	680
+York	75-84	369
+York	85+	108
+No usual address (WA)	0-4	300
+No usual address (WA)	5-14	473
+No usual address (WA)	15-19	261
+No usual address (WA)	20-24	562
+No usual address (WA)	25-34	1512
+No usual address (WA)	35-44	1543
+No usual address (WA)	45-54	1313
+No usual address (WA)	55-64	1144
+No usual address (WA)	65-74	758
+No usual address (WA)	75-84	155
+No usual address (WA)	85+	30
+Migratory - Offshore - Shipping (WA)	15-19	6
+Migratory - Offshore - Shipping (WA)	20-24	31
+Migratory - Offshore - Shipping (WA)	25-34	116
+Migratory - Offshore - Shipping (WA)	35-44	170
+Migratory - Offshore - Shipping (WA)	45-54	109
+Migratory - Offshore - Shipping (WA)	55-64	62
+Migratory - Offshore - Shipping (WA)	65-74	18
+Break O'Day	0-4	254
+Break O'Day	5-14	619
+Break O'Day	15-19	221
+Break O'Day	20-24	214
+Break O'Day	25-34	489
+Break O'Day	35-44	644
+Break O'Day	45-54	827
+Break O'Day	55-64	1358
+Break O'Day	65-74	1339
+Break O'Day	75-84	643
+Break O'Day	85+	155
+Brighton	0-4	1355
+Brighton	5-14	2957
+Brighton	15-19	1141
+Brighton	20-24	1247
+Brighton	25-34	2798
+Brighton	35-44	2401
+Brighton	45-54	2336
+Brighton	55-64	2081
+Brighton	65-74	1740
+Brighton	75-84	757
+Brighton	85+	176
+Burnie	0-4	1127
+Burnie	5-14	2478
+Burnie	15-19	1243
+Burnie	20-24	1208
+Burnie	25-34	2609
+Burnie	35-44	2276
+Burnie	45-54	2584
+Burnie	55-64	2624
+Burnie	65-74	2097
+Burnie	75-84	1223
+Burnie	85+	450
+Central Coast (Tas.)	0-4	1010
+Central Coast (Tas.)	5-14	2562
+Central Coast (Tas.)	15-19	1279
+Central Coast (Tas.)	20-24	1095
+Central Coast (Tas.)	25-34	2301
+Central Coast (Tas.)	35-44	2344
+Central Coast (Tas.)	45-54	2888
+Central Coast (Tas.)	55-64	3635
+Central Coast (Tas.)	65-74	3157
+Central Coast (Tas.)	75-84	1834
+Central Coast (Tas.)	85+	646
+Central Highlands (Tas.)	0-4	121
+Central Highlands (Tas.)	5-14	257
+Central Highlands (Tas.)	15-19	115
+Central Highlands (Tas.)	20-24	117
+Central Highlands (Tas.)	25-34	243
+Central Highlands (Tas.)	35-44	265
+Central Highlands (Tas.)	45-54	295
+Central Highlands (Tas.)	55-64	471
+Central Highlands (Tas.)	65-74	437
+Central Highlands (Tas.)	75-84	166
+Central Highlands (Tas.)	85+	32
+Circular Head	0-4	508
+Circular Head	5-14	1038
+Circular Head	15-19	474
+Circular Head	20-24	398
+Circular Head	25-34	1022
+Circular Head	35-44	887
+Circular Head	45-54	1006
+Circular Head	55-64	1178
+Circular Head	65-74	969
+Circular Head	75-84	473
+Circular Head	85+	170
+Clarence	0-4	3306
+Clarence	5-14	7266
+Clarence	15-19	3162
+Clarence	20-24	3207
+Clarence	25-34	8611
+Clarence	35-44	7877
+Clarence	45-54	7369
+Clarence	55-64	7837
+Clarence	65-74	7047
+Clarence	75-84	4175
+Clarence	85+	1673
+Derwent Valley	0-4	561
+Derwent Valley	5-14	1394
+Derwent Valley	15-19	663
+Derwent Valley	20-24	629
+Derwent Valley	25-34	1228
+Derwent Valley	35-44	1343
+Derwent Valley	45-54	1461
+Derwent Valley	55-64	1593
+Derwent Valley	65-74	1238
+Derwent Valley	75-84	631
+Derwent Valley	85+	197
+Devonport	0-4	1356
+Devonport	5-14	3081
+Devonport	15-19	1453
+Devonport	20-24	1410
+Devonport	25-34	3450
+Devonport	35-44	2817
+Devonport	45-54	3255
+Devonport	55-64	3389
+Devonport	65-74	3243
+Devonport	75-84	1984
+Devonport	85+	717
+Dorset	0-4	315
+Dorset	5-14	795
+Dorset	15-19	344
+Dorset	20-24	301
+Dorset	25-34	701
+Dorset	35-44	666
+Dorset	45-54	813
+Dorset	55-64	1145
+Dorset	65-74	1003
+Dorset	75-84	529
+Dorset	85+	217
+Flinders (Tas.)	0-4	26
+Flinders (Tas.)	5-14	95
+Flinders (Tas.)	15-19	24
+Flinders (Tas.)	20-24	16
+Flinders (Tas.)	25-34	53
+Flinders (Tas.)	35-44	97
+Flinders (Tas.)	45-54	108
+Flinders (Tas.)	55-64	170
+Flinders (Tas.)	65-74	200
+Flinders (Tas.)	75-84	107
+Flinders (Tas.)	85+	20
+George Town	0-4	323
+George Town	5-14	800
+George Town	15-19	394
+George Town	20-24	307
+George Town	25-34	694
+George Town	35-44	705
+George Town	45-54	855
+George Town	55-64	1155
+George Town	65-74	1098
+George Town	75-84	535
+George Town	85+	163
+Glamorgan-Spring Bay	0-4	153
+Glamorgan-Spring Bay	5-14	338
+Glamorgan-Spring Bay	15-19	151
+Glamorgan-Spring Bay	20-24	146
+Glamorgan-Spring Bay	25-34	525
+Glamorgan-Spring Bay	35-44	464
+Glamorgan-Spring Bay	45-54	559
+Glamorgan-Spring Bay	55-64	970
+Glamorgan-Spring Bay	65-74	1062
+Glamorgan-Spring Bay	75-84	513
+Glamorgan-Spring Bay	85+	134
+Glenorchy	0-4	2703
+Glenorchy	5-14	5596
+Glenorchy	15-19	2563
+Glenorchy	20-24	3057
+Glenorchy	25-34	9677
+Glenorchy	35-44	6561
+Glenorchy	45-54	5634
+Glenorchy	55-64	5799
+Glenorchy	65-74	4619
+Glenorchy	75-84	2965
+Glenorchy	85+	1238
+Hobart	0-4	2202
+Hobart	5-14	5154
+Hobart	15-19	2910
+Hobart	20-24	4156
+Hobart	25-34	10747
+Hobart	35-44	6989
+Hobart	45-54	6619
+Hobart	55-64	6288
+Hobart	65-74	5670
+Hobart	75-84	3018
+Hobart	85+	1331
+Huon Valley	0-4	937
+Huon Valley	5-14	2200
+Huon Valley	15-19	935
+Huon Valley	20-24	777
+Huon Valley	25-34	1842
+Huon Valley	35-44	2141
+Huon Valley	45-54	2432
+Huon Valley	55-64	2976
+Huon Valley	65-74	2545
+Huon Valley	75-84	1140
+Huon Valley	85+	333
+Kentish	0-4	282
+Kentish	5-14	729
+Kentish	15-19	339
+Kentish	20-24	293
+Kentish	25-34	637
+Kentish	35-44	694
+Kentish	45-54	931
+Kentish	55-64	1247
+Kentish	65-74	926
+Kentish	75-84	425
+Kentish	85+	105
+King Island	0-4	92
+King Island	5-14	177
+King Island	15-19	51
+King Island	20-24	52
+King Island	25-34	202
+King Island	35-44	215
+King Island	45-54	189
+King Island	55-64	236
+King Island	65-74	234
+King Island	75-84	122
+King Island	85+	33
+Kingborough	0-4	2075
+Kingborough	5-14	5113
+Kingborough	15-19	2386
+Kingborough	20-24	1972
+Kingborough	25-34	4959
+Kingborough	35-44	5219
+Kingborough	45-54	5187
+Kingborough	55-64	5013
+Kingborough	65-74	4800
+Kingborough	75-84	2553
+Kingborough	85+	810
+Latrobe (Tas.)	0-4	566
+Latrobe (Tas.)	5-14	1361
+Latrobe (Tas.)	15-19	622
+Latrobe (Tas.)	20-24	547
+Latrobe (Tas.)	25-34	1262
+Latrobe (Tas.)	35-44	1244
+Latrobe (Tas.)	45-54	1584
+Latrobe (Tas.)	55-64	1838
+Latrobe (Tas.)	65-74	1992
+Latrobe (Tas.)	75-84	1063
+Latrobe (Tas.)	85+	339
+Launceston	0-4	3765
+Launceston	5-14	8094
+Launceston	15-19	3952
+Launceston	20-24	4770
+Launceston	25-34	10853
+Launceston	35-44	8447
+Launceston	45-54	8598
+Launceston	55-64	8252
+Launceston	65-74	7171
+Launceston	75-84	4348
+Launceston	85+	1793
+Meander Valley	0-4	963
+Meander Valley	5-14	2445
+Meander Valley	15-19	1095
+Meander Valley	20-24	1027
+Meander Valley	25-34	2272
+Meander Valley	35-44	2244
+Meander Valley	45-54	2694
+Meander Valley	55-64	3063
+Meander Valley	65-74	2813
+Meander Valley	75-84	1590
+Meander Valley	85+	503
+Northern Midlands	0-4	749
+Northern Midlands	5-14	1546
+Northern Midlands	15-19	720
+Northern Midlands	20-24	675
+Northern Midlands	25-34	1575
+Northern Midlands	35-44	1382
+Northern Midlands	45-54	1787
+Northern Midlands	55-64	2049
+Northern Midlands	65-74	1946
+Northern Midlands	75-84	994
+Northern Midlands	85+	311
+Sorell	0-4	930
+Sorell	5-14	1995
+Sorell	15-19	862
+Sorell	20-24	818
+Sorell	25-34	2217
+Sorell	35-44	2056
+Sorell	45-54	2026
+Sorell	55-64	2484
+Sorell	65-74	2108
+Sorell	75-84	936
+Sorell	85+	300
+Southern Midlands	0-4	353
+Southern Midlands	5-14	790
+Southern Midlands	15-19	392
+Southern Midlands	20-24	373
+Southern Midlands	25-34	746
+Southern Midlands	35-44	753
+Southern Midlands	45-54	907
+Southern Midlands	55-64	1078
+Southern Midlands	65-74	820
+Southern Midlands	75-84	367
+Southern Midlands	85+	86
+Tasman	0-4	72
+Tasman	5-14	197
+Tasman	15-19	110
+Tasman	20-24	66
+Tasman	25-34	175
+Tasman	35-44	248
+Tasman	45-54	308
+Tasman	55-64	571
+Tasman	65-74	554
+Tasman	75-84	240
+Tasman	85+	58
+Waratah-Wynyard	0-4	715
+Waratah-Wynyard	5-14	1710
+Waratah-Wynyard	15-19	700
+Waratah-Wynyard	20-24	666
+Waratah-Wynyard	25-34	1352
+Waratah-Wynyard	35-44	1521
+Waratah-Wynyard	45-54	1824
+Waratah-Wynyard	55-64	2211
+Waratah-Wynyard	65-74	2055
+Waratah-Wynyard	75-84	1179
+Waratah-Wynyard	85+	364
+West Coast	0-4	208
+West Coast	5-14	462
+West Coast	15-19	172
+West Coast	20-24	200
+West Coast	25-34	521
+West Coast	35-44	454
+West Coast	45-54	629
+West Coast	55-64	726
+West Coast	65-74	582
+West Coast	75-84	254
+West Coast	85+	59
+West Tamar	0-4	1210
+West Tamar	5-14	3008
+West Tamar	15-19	1493
+West Tamar	20-24	1158
+West Tamar	25-34	2665
+West Tamar	35-44	2793
+West Tamar	45-54	3276
+West Tamar	55-64	3746
+West Tamar	65-74	3372
+West Tamar	75-84	1852
+West Tamar	85+	575
+No usual address (Tas.)	0-4	42
+No usual address (Tas.)	5-14	92
+No usual address (Tas.)	15-19	95
+No usual address (Tas.)	20-24	119
+No usual address (Tas.)	25-34	228
+No usual address (Tas.)	35-44	198
+No usual address (Tas.)	45-54	203
+No usual address (Tas.)	55-64	199
+No usual address (Tas.)	65-74	163
+No usual address (Tas.)	75-84	31
+No usual address (Tas.)	85+	3
+Migratory - Offshore - Shipping (Tas.)	25-34	4
+Migratory - Offshore - Shipping (Tas.)	35-44	4
+Migratory - Offshore - Shipping (Tas.)	45-54	7
+Alice Springs	0-4	1868
+Alice Springs	5-14	3529
+Alice Springs	15-19	1490
+Alice Springs	20-24	1283
+Alice Springs	25-34	4872
+Alice Springs	35-44	4023
+Alice Springs	45-54	3313
+Alice Springs	55-64	3048
+Alice Springs	65-74	1701
+Alice Springs	75-84	604
+Alice Springs	85+	176
+Barkly	0-4	552
+Barkly	5-14	1017
+Barkly	15-19	490
+Barkly	20-24	469
+Barkly	25-34	1150
+Barkly	35-44	832
+Barkly	45-54	720
+Barkly	55-64	638
+Barkly	65-74	337
+Barkly	75-84	100
+Barkly	85+	10
+Belyuen	0-4	6
+Belyuen	5-14	16
+Belyuen	15-19	15
+Belyuen	20-24	11
+Belyuen	25-34	30
+Belyuen	35-44	20
+Belyuen	45-54	14
+Belyuen	55-64	25
+Belyuen	65-74	5
+Central Desert	0-4	318
+Central Desert	5-14	644
+Central Desert	15-19	301
+Central Desert	20-24	314
+Central Desert	25-34	613
+Central Desert	35-44	482
+Central Desert	45-54	402
+Central Desert	55-64	304
+Central Desert	65-74	145
+Central Desert	75-84	53
+Central Desert	85+	18
+Coomalie	0-4	60
+Coomalie	5-14	138
+Coomalie	15-19	51
+Coomalie	20-24	43
+Coomalie	25-34	126
+Coomalie	35-44	113
+Coomalie	45-54	176
+Coomalie	55-64	269
+Coomalie	65-74	215
+Coomalie	75-84	79
+Coomalie	85+	6
+Darwin	0-4	5067
+Darwin	5-14	9829
+Darwin	15-19	4049
+Darwin	20-24	5101
+Darwin	25-34	15994
+Darwin	35-44	12810
+Darwin	45-54	10273
+Darwin	55-64	8544
+Darwin	65-74	5845
+Darwin	75-84	2449
+Darwin	85+	578
+Darwin Waterfront Precinct	0-4	9
+Darwin Waterfront Precinct	5-14	9
+Darwin Waterfront Precinct	15-19	3
+Darwin Waterfront Precinct	20-24	18
+Darwin Waterfront Precinct	25-34	95
+Darwin Waterfront Precinct	35-44	54
+Darwin Waterfront Precinct	45-54	34
+Darwin Waterfront Precinct	55-64	47
+Darwin Waterfront Precinct	65-74	16
+Darwin Waterfront Precinct	75-84	3
+East Arnhem	0-4	651
+East Arnhem	5-14	1385
+East Arnhem	15-19	929
+East Arnhem	20-24	917
+East Arnhem	25-34	1576
+East Arnhem	35-44	1292
+East Arnhem	45-54	970
+East Arnhem	55-64	699
+East Arnhem	65-74	281
+East Arnhem	75-84	71
+East Arnhem	85+	12
+Katherine	0-4	702
+Katherine	5-14	1463
+Katherine	15-19	505
+Katherine	20-24	666
+Katherine	25-34	1857
+Katherine	35-44	1388
+Katherine	45-54	1182
+Katherine	55-64	1025
+Katherine	65-74	585
+Katherine	75-84	223
+Katherine	85+	46
+Litchfield	0-4	1125
+Litchfield	5-14	2750
+Litchfield	15-19	1286
+Litchfield	20-24	1387
+Litchfield	25-34	2875
+Litchfield	35-44	3072
+Litchfield	45-54	3437
+Litchfield	55-64	2948
+Litchfield	65-74	1829
+Litchfield	75-84	599
+Litchfield	85+	97
+MacDonnell	0-4	439
+MacDonnell	5-14	870
+MacDonnell	15-19	388
+MacDonnell	20-24	521
+MacDonnell	25-34	1108
+MacDonnell	35-44	920
+MacDonnell	45-54	713
+MacDonnell	55-64	482
+MacDonnell	65-74	232
+MacDonnell	75-84	60
+MacDonnell	85+	14
+Palmerston	0-4	3318
+Palmerston	5-14	6090
+Palmerston	15-19	2269
+Palmerston	20-24	2521
+Palmerston	25-34	6886
+Palmerston	35-44	6089
+Palmerston	45-54	4598
+Palmerston	55-64	3083
+Palmerston	65-74	1677
+Palmerston	75-84	559
+Palmerston	85+	159
+Roper Gulf	0-4	444
+Roper Gulf	5-14	1063
+Roper Gulf	15-19	567
+Roper Gulf	20-24	686
+Roper Gulf	25-34	1160
+Roper Gulf	35-44	878
+Roper Gulf	45-54	753
+Roper Gulf	55-64	556
+Roper Gulf	65-74	304
+Roper Gulf	75-84	83
+Roper Gulf	85+	12
+Tiwi Islands	0-4	149
+Tiwi Islands	5-14	384
+Tiwi Islands	15-19	229
+Tiwi Islands	20-24	172
+Tiwi Islands	25-34	396
+Tiwi Islands	35-44	351
+Tiwi Islands	45-54	343
+Tiwi Islands	55-64	225
+Tiwi Islands	65-74	89
+Tiwi Islands	75-84	19
+Victoria Daly	0-4	228
+Victoria Daly	5-14	458
+Victoria Daly	15-19	277
+Victoria Daly	20-24	274
+Victoria Daly	25-34	492
+Victoria Daly	35-44	299
+Victoria Daly	45-54	322
+Victoria Daly	55-64	240
+Victoria Daly	65-74	170
+Victoria Daly	75-84	50
+Victoria Daly	85+	13
+Wagait	0-4	17
+Wagait	5-14	41
+Wagait	15-19	16
+Wagait	20-24	9
+Wagait	25-34	12
+Wagait	35-44	47
+Wagait	45-54	79
+Wagait	55-64	88
+Wagait	65-74	83
+Wagait	75-84	25
+West Arnhem	0-4	451
+West Arnhem	5-14	1072
+West Arnhem	15-19	537
+West Arnhem	20-24	581
+West Arnhem	25-34	1248
+West Arnhem	35-44	929
+West Arnhem	45-54	766
+West Arnhem	55-64	484
+West Arnhem	65-74	171
+West Arnhem	75-84	41
+West Arnhem	85+	4
+West Daly	0-4	213
+West Daly	5-14	615
+West Daly	15-19	325
+West Daly	20-24	269
+West Daly	25-34	569
+West Daly	35-44	424
+West Daly	45-54	279
+West Daly	55-64	178
+West Daly	65-74	72
+West Daly	75-84	17
+West Daly	85+	7
+Unincorporated NT	0-4	433
+Unincorporated NT	5-14	1024
+Unincorporated NT	15-19	358
+Unincorporated NT	20-24	367
+Unincorporated NT	25-34	1145
+Unincorporated NT	35-44	1206
+Unincorporated NT	45-54	983
+Unincorporated NT	55-64	764
+Unincorporated NT	65-74	421
+Unincorporated NT	75-84	85
+Unincorporated NT	85+	12
+No usual address (NT)	0-4	164
+No usual address (NT)	5-14	285
+No usual address (NT)	15-19	95
+No usual address (NT)	20-24	183
+No usual address (NT)	25-34	661
+No usual address (NT)	35-44	573
+No usual address (NT)	45-54	591
+No usual address (NT)	55-64	579
+No usual address (NT)	65-74	318
+No usual address (NT)	75-84	49
+No usual address (NT)	85+	7
+Migratory - Offshore - Shipping (NT)	15-19	4
+Migratory - Offshore - Shipping (NT)	20-24	6
+Migratory - Offshore - Shipping (NT)	25-34	23
+Migratory - Offshore - Shipping (NT)	35-44	22
+Migratory - Offshore - Shipping (NT)	45-54	19
+Migratory - Offshore - Shipping (NT)	55-64	17
+Unincorporated ACT	0-4	26660
+Unincorporated ACT	5-14	56236
+Unincorporated ACT	15-19	26286
+Unincorporated ACT	20-24	34174
+Unincorporated ACT	25-34	77634
+Unincorporated ACT	35-44	69285
+Unincorporated ACT	45-54	56126
+Unincorporated ACT	55-64	45328
+Unincorporated ACT	65-74	35639
+Unincorporated ACT	75-84	19340
+Unincorporated ACT	85+	7180
+No usual address (ACT)	0-4	19
+No usual address (ACT)	5-14	25
+No usual address (ACT)	15-19	58
+No usual address (ACT)	20-24	82
+No usual address (ACT)	25-34	108
+No usual address (ACT)	35-44	104
+No usual address (ACT)	45-54	77
+No usual address (ACT)	55-64	78
+No usual address (ACT)	65-74	34
+No usual address (ACT)	75-84	10
+No usual address (ACT)	85+	4
+Unincorp. Other Territories	0-4	118
+Unincorp. Other Territories	5-14	293
+Unincorp. Other Territories	15-19	123
+Unincorp. Other Territories	20-24	108
+Unincorp. Other Territories	25-34	189
+Unincorp. Other Territories	35-44	282
+Unincorp. Other Territories	45-54	344
+Unincorp. Other Territories	55-64	447
+Unincorp. Other Territories	65-74	345
+Unincorp. Other Territories	75-84	192
+Unincorp. Other Territories	85+	54
+No usual address (OT)	25-34	4
+No usual address (OT)	55-64	3
