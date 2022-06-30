@@ -1,0 +1,599 @@
+SA4_NAME16	MaxSchoolingCompleted	adults
+Capital Region	Did not go to school	720
+Capital Region	Year 8	8106
+Capital Region	Year 9	13449
+Capital Region	Year 10	50551
+Capital Region	Year 11	14329
+Capital Region	Year 12	94864
+Central Coast	Did not go to school	1046
+Central Coast	Year 8	10504
+Central Coast	Year 9	22259
+Central Coast	Year 10	82763
+Central Coast	Year 11	20163
+Central Coast	Year 12	129524
+Central West	Did not go to school	639
+Central West	Year 8	8314
+Central West	Year 9	14281
+Central West	Year 10	51805
+Central West	Year 11	12134
+Central West	Year 12	69190
+Coffs Harbour - Grafton	Did not go to school	697
+Coffs Harbour - Grafton	Year 8	5602
+Coffs Harbour - Grafton	Year 9	10336
+Coffs Harbour - Grafton	Year 10	36179
+Coffs Harbour - Grafton	Year 11	9134
+Coffs Harbour - Grafton	Year 12	48788
+Far West and Orana	Did not go to school	378
+Far West and Orana	Year 8	5435
+Far West and Orana	Year 9	7948
+Far West and Orana	Year 10	26620
+Far West and Orana	Year 11	6598
+Far West and Orana	Year 12	33385
+Hunter Valley exc Newcastle	Did not go to school	784
+Hunter Valley exc Newcastle	Year 8	10188
+Hunter Valley exc Newcastle	Year 9	21637
+Hunter Valley exc Newcastle	Year 10	77865
+Hunter Valley exc Newcastle	Year 11	19215
+Hunter Valley exc Newcastle	Year 12	89444
+Illawarra	Did not go to school	1914
+Illawarra	Year 8	11456
+Illawarra	Year 9	18141
+Illawarra	Year 10	68479
+Illawarra	Year 11	17213
+Illawarra	Year 12	126598
+Mid North Coast	Did not go to school	510
+Mid North Coast	Year 8	9872
+Mid North Coast	Year 9	19521
+Mid North Coast	Year 10	62737
+Mid North Coast	Year 11	13836
+Mid North Coast	Year 12	70847
+Murray	Did not go to school	593
+Murray	Year 8	5383
+Murray	Year 9	8567
+Murray	Year 10	25379
+Murray	Year 11	12360
+Murray	Year 12	39974
+New England and North West	Did not go to school	741
+New England and North West	Year 8	7908
+New England and North West	Year 9	12818
+New England and North West	Year 10	42992
+New England and North West	Year 11	10438
+New England and North West	Year 12	58861
+Newcastle and Lake Macquarie	Did not go to school	1310
+Newcastle and Lake Macquarie	Year 8	11479
+Newcastle and Lake Macquarie	Year 9	25079
+Newcastle and Lake Macquarie	Year 10	87938
+Newcastle and Lake Macquarie	Year 11	21639
+Newcastle and Lake Macquarie	Year 12	157912
+Richmond - Tweed	Did not go to school	588
+Richmond - Tweed	Year 8	8539
+Richmond - Tweed	Year 9	15105
+Richmond - Tweed	Year 10	57558
+Richmond - Tweed	Year 11	15717
+Richmond - Tweed	Year 12	98248
+Riverina	Did not go to school	993
+Riverina	Year 8	6908
+Riverina	Year 9	10630
+Riverina	Year 10	38124
+Riverina	Year 11	10138
+Riverina	Year 12	53116
+Southern Highlands and Shoalhaven	Did not go to school	427
+Southern Highlands and Shoalhaven	Year 8	5478
+Southern Highlands and Shoalhaven	Year 9	11144
+Southern Highlands and Shoalhaven	Year 10	39346
+Southern Highlands and Shoalhaven	Year 11	9274
+Southern Highlands and Shoalhaven	Year 12	59213
+Sydney - Baulkham Hills and Hawkesbury	Did not go to school	1057
+Sydney - Baulkham Hills and Hawkesbury	Year 8	4451
+Sydney - Baulkham Hills and Hawkesbury	Year 9	9019
+Sydney - Baulkham Hills and Hawkesbury	Year 10	36147
+Sydney - Baulkham Hills and Hawkesbury	Year 11	10593
+Sydney - Baulkham Hills and Hawkesbury	Year 12	141918
+Sydney - Blacktown	Did not go to school	3963
+Sydney - Blacktown	Year 8	11484
+Sydney - Blacktown	Year 9	14718
+Sydney - Blacktown	Year 10	51268
+Sydney - Blacktown	Year 11	16135
+Sydney - Blacktown	Year 12	191368
+Sydney - City and Inner South	Did not go to school	3086
+Sydney - City and Inner South	Year 8	6236
+Sydney - City and Inner South	Year 9	5555
+Sydney - City and Inner South	Year 10	21083
+Sydney - City and Inner South	Year 11	10568
+Sydney - City and Inner South	Year 12	230648
+Sydney - Eastern Suburbs	Did not go to school	1020
+Sydney - Eastern Suburbs	Year 8	3918
+Sydney - Eastern Suburbs	Year 9	5283
+Sydney - Eastern Suburbs	Year 10	18452
+Sydney - Eastern Suburbs	Year 11	8218
+Sydney - Eastern Suburbs	Year 12	169459
+Sydney - Inner South West	Did not go to school	12053
+Sydney - Inner South West	Year 8	25402
+Sydney - Inner South West	Year 9	19771
+Sydney - Inner South West	Year 10	68926
+Sydney - Inner South West	Year 11	22327
+Sydney - Inner South West	Year 12	312752
+Sydney - Inner West	Did not go to school	3297
+Sydney - Inner West	Year 8	8496
+Sydney - Inner West	Year 9	6884
+Sydney - Inner West	Year 10	24968
+Sydney - Inner West	Year 11	9456
+Sydney - Inner West	Year 12	191806
+Sydney - North Sydney and Hornsby	Did not go to school	1702
+Sydney - North Sydney and Hornsby	Year 8	4683
+Sydney - North Sydney and Hornsby	Year 9	8891
+Sydney - North Sydney and Hornsby	Year 10	29164
+Sydney - North Sydney and Hornsby	Year 11	13683
+Sydney - North Sydney and Hornsby	Year 12	276608
+Sydney - Northern Beaches	Did not go to school	925
+Sydney - Northern Beaches	Year 8	3920
+Sydney - Northern Beaches	Year 9	7752
+Sydney - Northern Beaches	Year 10	31897
+Sydney - Northern Beaches	Year 11	11260
+Sydney - Northern Beaches	Year 12	149994
+Sydney - Outer South West	Did not go to school	1905
+Sydney - Outer South West	Year 8	8208
+Sydney - Outer South West	Year 9	15378
+Sydney - Outer South West	Year 10	58031
+Sydney - Outer South West	Year 11	15732
+Sydney - Outer South West	Year 12	118222
+Sydney - Outer West and Blue Mountains	Did not go to school	1549
+Sydney - Outer West and Blue Mountains	Year 8	9081
+Sydney - Outer West and Blue Mountains	Year 9	17123
+Sydney - Outer West and Blue Mountains	Year 10	69319
+Sydney - Outer West and Blue Mountains	Year 11	18051
+Sydney - Outer West and Blue Mountains	Year 12	133632
+Sydney - Parramatta	Did not go to school	10667
+Sydney - Parramatta	Year 8	16881
+Sydney - Parramatta	Year 9	14914
+Sydney - Parramatta	Year 10	48110
+Sydney - Parramatta	Year 11	16415
+Sydney - Parramatta	Year 12	261081
+Sydney - Ryde	Did not go to school	1584
+Sydney - Ryde	Year 8	3710
+Sydney - Ryde	Year 9	4672
+Sydney - Ryde	Year 10	15769
+Sydney - Ryde	Year 11	5984
+Sydney - Ryde	Year 12	128241
+Sydney - South West	Did not go to school	18884
+Sydney - South West	Year 8	26101
+Sydney - South West	Year 9	20073
+Sydney - South West	Year 10	59729
+Sydney - South West	Year 11	20931
+Sydney - South West	Year 12	204738
+Sydney - Sutherland	Did not go to school	715
+Sydney - Sutherland	Year 8	4176
+Sydney - Sutherland	Year 9	9287
+Sydney - Sutherland	Year 10	41685
+Sydney - Sutherland	Year 11	10651
+Sydney - Sutherland	Year 12	113301
+No usual address (NSW)	Did not go to school	75
+No usual address (NSW)	Year 8	332
+No usual address (NSW)	Year 9	576
+No usual address (NSW)	Year 10	1883
+No usual address (NSW)	Year 11	526
+No usual address (NSW)	Year 12	3320
+Ballarat	Did not go to school	501
+Ballarat	Year 8	7208
+Ballarat	Year 9	11310
+Ballarat	Year 10	25194
+Ballarat	Year 11	20931
+Ballarat	Year 12	67596
+Bendigo	Did not go to school	806
+Bendigo	Year 8	7017
+Bendigo	Year 9	10370
+Bendigo	Year 10	24442
+Bendigo	Year 11	19640
+Bendigo	Year 12	65130
+Geelong	Did not go to school	1673
+Geelong	Year 8	11467
+Geelong	Year 9	16592
+Geelong	Year 10	39632
+Geelong	Year 11	38300
+Geelong	Year 12	145083
+Hume	Did not go to school	656
+Hume	Year 8	7766
+Hume	Year 9	11942
+Hume	Year 10	30625
+Hume	Year 11	24211
+Hume	Year 12	65745
+Latrobe - Gippsland	Did not go to school	1096
+Latrobe - Gippsland	Year 8	13855
+Latrobe - Gippsland	Year 9	21432
+Latrobe - Gippsland	Year 10	50747
+Latrobe - Gippsland	Year 11	41254
+Latrobe - Gippsland	Year 12	100296
+Melbourne - Inner	Did not go to school	5183
+Melbourne - Inner	Year 8	14495
+Melbourne - Inner	Year 9	10719
+Melbourne - Inner	Year 10	26894
+Melbourne - Inner	Year 11	31256
+Melbourne - Inner	Year 12	427613
+Melbourne - Inner East	Did not go to school	3025
+Melbourne - Inner East	Year 8	11137
+Melbourne - Inner East	Year 9	10511
+Melbourne - Inner East	Year 10	20758
+Melbourne - Inner East	Year 11	22828
+Melbourne - Inner East	Year 12	233342
+Melbourne - Inner South	Did not go to school	2064
+Melbourne - Inner South	Year 8	10454
+Melbourne - Inner South	Year 9	11860
+Melbourne - Inner South	Year 10	28453
+Melbourne - Inner South	Year 11	31025
+Melbourne - Inner South	Year 12	250914
+Melbourne - North East	Did not go to school	6482
+Melbourne - North East	Year 8	23675
+Melbourne - North East	Year 9	21612
+Melbourne - North East	Year 10	47851
+Melbourne - North East	Year 11	44858
+Melbourne - North East	Year 12	271392
+Melbourne - North West	Did not go to school	7636
+Melbourne - North West	Year 8	21833
+Melbourne - North West	Year 9	18465
+Melbourne - North West	Year 10	39015
+Melbourne - North West	Year 11	34356
+Melbourne - North West	Year 12	194970
+Melbourne - Outer East	Did not go to school	3373
+Melbourne - Outer East	Year 8	15873
+Melbourne - Outer East	Year 9	23490
+Melbourne - Outer East	Year 10	57154
+Melbourne - Outer East	Year 11	54521
+Melbourne - Outer East	Year 12	253773
+Melbourne - South East	Did not go to school	17166
+Melbourne - South East	Year 8	35403
+Melbourne - South East	Year 9	35196
+Melbourne - South East	Year 10	80634
+Melbourne - South East	Year 11	65222
+Melbourne - South East	Year 12	416880
+Melbourne - West	Did not go to school	13688
+Melbourne - West	Year 8	34769
+Melbourne - West	Year 9	32162
+Melbourne - West	Year 10	75738
+Melbourne - West	Year 11	60177
+Melbourne - West	Year 12	409583
+Mornington Peninsula	Did not go to school	1046
+Mornington Peninsula	Year 8	10069
+Mornington Peninsula	Year 9	16826
+Mornington Peninsula	Year 10	41749
+Mornington Peninsula	Year 11	36400
+Mornington Peninsula	Year 12	132236
+North West	Did not go to school	1348
+North West	Year 8	8984
+North West	Year 9	11426
+North West	Year 10	25104
+North West	Year 11	21213
+North West	Year 12	48138
+Shepparton	Did not go to school	1169
+Shepparton	Year 8	7643
+Shepparton	Year 9	10412
+Shepparton	Year 10	22480
+Shepparton	Year 11	18067
+Shepparton	Year 12	42749
+Warrnambool and South West	Did not go to school	454
+Warrnambool and South West	Year 8	6318
+Warrnambool and South West	Year 9	9148
+Warrnambool and South West	Year 10	19601
+Warrnambool and South West	Year 11	18522
+Warrnambool and South West	Year 12	44004
+Migratory - Offshore - Shipping (Vic.)	Year 12	5
+No usual address (Vic.)	Did not go to school	51
+No usual address (Vic.)	Year 8	240
+No usual address (Vic.)	Year 9	395
+No usual address (Vic.)	Year 10	919
+No usual address (Vic.)	Year 11	652
+No usual address (Vic.)	Year 12	2452
+Brisbane - East	Did not go to school	567
+Brisbane - East	Year 8	6925
+Brisbane - East	Year 9	9069
+Brisbane - East	Year 10	44442
+Brisbane - East	Year 11	14947
+Brisbane - East	Year 12	110455
+Brisbane - North	Did not go to school	959
+Brisbane - North	Year 8	6492
+Brisbane - North	Year 9	6022
+Brisbane - North	Year 10	30324
+Brisbane - North	Year 11	11000
+Brisbane - North	Year 12	121042
+Brisbane - South	Did not go to school	2877
+Brisbane - South	Year 8	9170
+Brisbane - South	Year 9	8804
+Brisbane - South	Year 10	35842
+Brisbane - South	Year 11	14477
+Brisbane - South	Year 12	217853
+Brisbane - West	Did not go to school	510
+Brisbane - West	Year 8	2636
+Brisbane - West	Year 9	3944
+Brisbane - West	Year 10	17080
+Brisbane - West	Year 11	7766
+Brisbane - West	Year 12	115471
+Brisbane Inner City	Did not go to school	863
+Brisbane Inner City	Year 8	3423
+Brisbane Inner City	Year 9	4860
+Brisbane Inner City	Year 10	20653
+Brisbane Inner City	Year 11	11253
+Brisbane Inner City	Year 12	197997
+Cairns	Did not go to school	1453
+Cairns	Year 8	8474
+Cairns	Year 9	10501
+Cairns	Year 10	46000
+Cairns	Year 11	17979
+Cairns	Year 12	100675
+Darling Downs - Maranoa	Did not go to school	468
+Darling Downs - Maranoa	Year 8	6982
+Darling Downs - Maranoa	Year 9	6990
+Darling Downs - Maranoa	Year 10	29722
+Darling Downs - Maranoa	Year 11	7429
+Darling Downs - Maranoa	Year 12	41104
+Central Queensland	Did not go to school	676
+Central Queensland	Year 8	9288
+Central Queensland	Year 9	10682
+Central Queensland	Year 10	48229
+Central Queensland	Year 11	15083
+Central Queensland	Year 12	79441
+Gold Coast	Did not go to school	1899
+Gold Coast	Year 8	13446
+Gold Coast	Year 9	24117
+Gold Coast	Year 10	106291
+Gold Coast	Year 11	43044
+Gold Coast	Year 12	302216
+Ipswich	Did not go to school	3091
+Ipswich	Year 8	13730
+Ipswich	Year 9	15415
+Ipswich	Year 10	64549
+Ipswich	Year 11	21931
+Ipswich	Year 12	148849
+Logan - Beaudesert	Did not go to school	3774
+Logan - Beaudesert	Year 8	12019
+Logan - Beaudesert	Year 9	15939
+Logan - Beaudesert	Year 10	63439
+Logan - Beaudesert	Year 11	23108
+Logan - Beaudesert	Year 12	140512
+Mackay - Isaac - Whitsunday	Did not go to school	460
+Mackay - Isaac - Whitsunday	Year 8	6317
+Mackay - Isaac - Whitsunday	Year 9	7924
+Mackay - Isaac - Whitsunday	Year 10	37551
+Mackay - Isaac - Whitsunday	Year 11	12168
+Mackay - Isaac - Whitsunday	Year 12	62428
+Moreton Bay - North	Did not go to school	937
+Moreton Bay - North	Year 8	10648
+Moreton Bay - North	Year 9	14068
+Moreton Bay - North	Year 10	60185
+Moreton Bay - North	Year 11	18531
+Moreton Bay - North	Year 12	97484
+Moreton Bay - South	Did not go to school	593
+Moreton Bay - South	Year 8	4692
+Moreton Bay - South	Year 9	6953
+Moreton Bay - South	Year 10	33813
+Moreton Bay - South	Year 11	13060
+Moreton Bay - South	Year 12	104189
+Queensland - Outback	Did not go to school	439
+Queensland - Outback	Year 8	3783
+Queensland - Outback	Year 9	3664
+Queensland - Outback	Year 10	15507
+Queensland - Outback	Year 11	5256
+Queensland - Outback	Year 12	25177
+Sunshine Coast	Did not go to school	764
+Sunshine Coast	Year 8	9977
+Sunshine Coast	Year 9	15420
+Sunshine Coast	Year 10	75775
+Sunshine Coast	Year 11	28048
+Sunshine Coast	Year 12	180229
+Toowoomba	Did not go to school	1336
+Toowoomba	Year 8	7286
+Toowoomba	Year 9	6926
+Toowoomba	Year 10	31422
+Toowoomba	Year 11	9199
+Toowoomba	Year 12	66370
+Townsville	Did not go to school	900
+Townsville	Year 8	8453
+Townsville	Year 9	9862
+Townsville	Year 10	44776
+Townsville	Year 11	15473
+Townsville	Year 12	93450
+Wide Bay	Did not go to school	1142
+Wide Bay	Year 8	18069
+Wide Bay	Year 9	19889
+Wide Bay	Year 10	80827
+Wide Bay	Year 11	21396
+Wide Bay	Year 12	95448
+Migratory - Offshore - Shipping (Qld)	Year 10	15
+Migratory - Offshore - Shipping (Qld)	Year 11	3
+Migratory - Offshore - Shipping (Qld)	Year 12	29
+No usual address (Qld)	Did not go to school	64
+No usual address (Qld)	Year 8	428
+No usual address (Qld)	Year 9	752
+No usual address (Qld)	Year 10	2785
+No usual address (Qld)	Year 11	1026
+No usual address (Qld)	Year 12	4685
+Adelaide - Central and Hills	Did not go to school	1508
+Adelaide - Central and Hills	Year 8	8248
+Adelaide - Central and Hills	Year 9	8161
+Adelaide - Central and Hills	Year 10	24971
+Adelaide - Central and Hills	Year 11	32377
+Adelaide - Central and Hills	Year 12	176180
+Adelaide - North	Did not go to school	7371
+Adelaide - North	Year 8	17686
+Adelaide - North	Year 9	19979
+Adelaide - North	Year 10	59266
+Adelaide - North	Year 11	62958
+Adelaide - North	Year 12	181003
+Adelaide - South	Did not go to school	1292
+Adelaide - South	Year 8	9429
+Adelaide - South	Year 9	13671
+Adelaide - South	Year 10	45292
+Adelaide - South	Year 11	52325
+Adelaide - South	Year 12	176755
+Adelaide - West	Did not go to school	2727
+Adelaide - West	Year 8	10792
+Adelaide - West	Year 9	8781
+Adelaide - West	Year 10	25322
+Adelaide - West	Year 11	29506
+Adelaide - West	Year 12	121145
+Barossa - Yorke - Mid North	Did not go to school	253
+Barossa - Yorke - Mid North	Year 8	5653
+Barossa - Yorke - Mid North	Year 9	6875
+Barossa - Yorke - Mid North	Year 10	19036
+Barossa - Yorke - Mid North	Year 11	20866
+Barossa - Yorke - Mid North	Year 12	35707
+South Australia - Outback	Did not go to school	309
+South Australia - Outback	Year 8	3830
+South Australia - Outback	Year 9	4222
+South Australia - Outback	Year 10	13108
+South Australia - Outback	Year 11	14478
+South Australia - Outback	Year 12	24670
+South Australia - South East	Did not go to school	944
+South Australia - South East	Year 8	9436
+South Australia - South East	Year 9	11337
+South Australia - South East	Year 10	33017
+South Australia - South East	Year 11	33608
+South Australia - South East	Year 12	61943
+Migratory - Offshore - Shipping (SA)	Year 12	4
+No usual address (SA)	Did not go to school	21
+No usual address (SA)	Year 8	95
+No usual address (SA)	Year 9	185
+No usual address (SA)	Year 10	543
+No usual address (SA)	Year 11	509
+No usual address (SA)	Year 12	850
+Bunbury	Did not go to school	511
+Bunbury	Year 8	4602
+Bunbury	Year 9	8354
+Bunbury	Year 10	42020
+Bunbury	Year 11	18314
+Bunbury	Year 12	67661
+Mandurah	Did not go to school	264
+Mandurah	Year 8	3092
+Mandurah	Year 9	5658
+Mandurah	Year 10	25383
+Mandurah	Year 11	10720
+Mandurah	Year 12	36927
+Perth - Inner	Did not go to school	583
+Perth - Inner	Year 8	2010
+Perth - Inner	Year 9	3378
+Perth - Inner	Year 10	13145
+Perth - Inner	Year 11	8111
+Perth - Inner	Year 12	118109
+Perth - North East	Did not go to school	2072
+Perth - North East	Year 8	6775
+Perth - North East	Year 9	9398
+Perth - North East	Year 10	45607
+Perth - North East	Year 11	21737
+Perth - North East	Year 12	124574
+Perth - North West	Did not go to school	4001
+Perth - North West	Year 8	11968
+Perth - North West	Year 9	17579
+Perth - North West	Year 10	81823
+Perth - North West	Year 11	42455
+Perth - North West	Year 12	284033
+Perth - South East	Did not go to school	3998
+Perth - South East	Year 8	11196
+Perth - South East	Year 9	17066
+Perth - South East	Year 10	77719
+Perth - South East	Year 11	37670
+Perth - South East	Year 12	252766
+Perth - South West	Did not go to school	1705
+Perth - South West	Year 8	8798
+Perth - South West	Year 9	14657
+Perth - South West	Year 10	69826
+Perth - South West	Year 11	34443
+Perth - South West	Year 12	206240
+Western Australia - Wheat Belt	Did not go to school	536
+Western Australia - Wheat Belt	Year 8	4131
+Western Australia - Wheat Belt	Year 9	6512
+Western Australia - Wheat Belt	Year 10	30511
+Western Australia - Wheat Belt	Year 11	12320
+Western Australia - Wheat Belt	Year 12	47088
+Western Australia - Outback (North)	Did not go to school	534
+Western Australia - Outback (North)	Year 8	1841
+Western Australia - Outback (North)	Year 9	2872
+Western Australia - Outback (North)	Year 10	13729
+Western Australia - Outback (North)	Year 11	7967
+Western Australia - Outback (North)	Year 12	29291
+Western Australia - Outback (South)	Did not go to school	488
+Western Australia - Outback (South)	Year 8	3350
+Western Australia - Outback (South)	Year 9	5372
+Western Australia - Outback (South)	Year 10	24406
+Western Australia - Outback (South)	Year 11	11580
+Western Australia - Outback (South)	Year 12	37250
+Migratory - Offshore - Shipping (WA)	Did not go to school	3
+Migratory - Offshore - Shipping (WA)	Year 9	16
+Migratory - Offshore - Shipping (WA)	Year 10	61
+Migratory - Offshore - Shipping (WA)	Year 11	38
+Migratory - Offshore - Shipping (WA)	Year 12	174
+No usual address (WA)	Did not go to school	30
+No usual address (WA)	Year 8	118
+No usual address (WA)	Year 9	241
+No usual address (WA)	Year 10	1036
+No usual address (WA)	Year 11	457
+No usual address (WA)	Year 12	2024
+Hobart	Did not go to school	1022
+Hobart	Year 8	6414
+Hobart	Year 9	11436
+Hobart	Year 10	47424
+Hobart	Year 11	15897
+Hobart	Year 12	112427
+Launceston and North East	Did not go to school	799
+Launceston and North East	Year 8	5020
+Launceston and North East	Year 9	9649
+Launceston and North East	Year 10	39033
+Launceston and North East	Year 11	11043
+Launceston and North East	Year 12	52237
+South East	Did not go to school	83
+South East	Year 8	1311
+South East	Year 9	2830
+South East	Year 10	10566
+South East	Year 11	3085
+South East	Year 12	14440
+West and North West	Did not go to school	325
+West and North West	Year 8	4503
+West and North West	Year 9	8935
+West and North West	Year 10	34452
+West and North West	Year 11	9304
+West and North West	Year 12	32125
+Migratory - Offshore - Shipping (Tas.)	Year 11	3
+Migratory - Offshore - Shipping (Tas.)	Year 12	7
+No usual address (Tas.)	Did not go to school	8
+No usual address (Tas.)	Year 8	50
+No usual address (Tas.)	Year 9	75
+No usual address (Tas.)	Year 10	314
+No usual address (Tas.)	Year 11	94
+No usual address (Tas.)	Year 12	374
+Darwin	Did not go to school	868
+Darwin	Year 8	3263
+Darwin	Year 9	4354
+Darwin	Year 10	17542
+Darwin	Year 11	12327
+Darwin	Year 12	62538
+Northern Territory - Outback	Did not go to school	1477
+Northern Territory - Outback	Year 8	5843
+Northern Territory - Outback	Year 9	5597
+Northern Territory - Outback	Year 10	13628
+Northern Territory - Outback	Year 11	8641
+Northern Territory - Outback	Year 12	25377
+Migratory - Offshore - Shipping (NT)	Year 9	5
+Migratory - Offshore - Shipping (NT)	Year 10	21
+Migratory - Offshore - Shipping (NT)	Year 11	8
+Migratory - Offshore - Shipping (NT)	Year 12	29
+No usual address (NT)	Did not go to school	28
+No usual address (NT)	Year 8	127
+No usual address (NT)	Year 9	173
+No usual address (NT)	Year 10	473
+No usual address (NT)	Year 11	255
+No usual address (NT)	Year 12	805
+Australian Capital Territory	Did not go to school	1840
+Australian Capital Territory	Year 8	7785
+Australian Capital Territory	Year 9	11105
+Australian Capital Territory	Year 10	41830
+Australian Capital Territory	Year 11	16494
+Australian Capital Territory	Year 12	275232
+No usual address (ACT)	Year 8	11
+No usual address (ACT)	Year 9	23
+No usual address (ACT)	Year 10	94
+No usual address (ACT)	Year 11	44
+No usual address (ACT)	Year 12	253
+Other Territories	Did not go to school	119
+Other Territories	Year 8	157
+Other Territories	Year 9	142
+Other Territories	Year 10	761
+Other Territories	Year 11	269
+Other Territories	Year 12	1651
+No usual address (OT)	Year 12	3

@@ -1,0 +1,488 @@
+SA4_NAME16	AgeStudent	students
+Capital Region	0-4	3661
+Capital Region	5-14	26321
+Capital Region	15-19	9131
+Capital Region	20-24	2931
+Capital Region	25+	7991
+Central Coast	0-4	6458
+Central Coast	5-14	40307
+Central Coast	15-19	14985
+Central Coast	20-24	6147
+Central Coast	25+	11477
+Central West	0-4	3655
+Central West	5-14	26354
+Central West	15-19	8724
+Central West	20-24	2899
+Central West	25+	6375
+Coffs Harbour - Grafton	0-4	2207
+Coffs Harbour - Grafton	5-14	16242
+Coffs Harbour - Grafton	15-19	5385
+Coffs Harbour - Grafton	20-24	1560
+Coffs Harbour - Grafton	25+	4743
+Far West and Orana	0-4	2077
+Far West and Orana	5-14	13164
+Far West and Orana	15-19	3888
+Far West and Orana	20-24	1071
+Far West and Orana	25+	3235
+Hunter Valley exc Newcastle	0-4	5418
+Hunter Valley exc Newcastle	5-14	36865
+Hunter Valley exc Newcastle	15-19	12009
+Hunter Valley exc Newcastle	20-24	4323
+Hunter Valley exc Newcastle	25+	8960
+Illawarra	0-4	5957
+Illawarra	5-14	36195
+Illawarra	15-19	14828
+Illawarra	20-24	9006
+Illawarra	25+	12139
+Mid North Coast	0-4	3118
+Mid North Coast	5-14	23420
+Mid North Coast	15-19	8283
+Mid North Coast	20-24	2418
+Mid North Coast	25+	6183
+Murray	0-4	2041
+Murray	5-14	13808
+Murray	15-19	4912
+Murray	20-24	1662
+Murray	25+	3599
+New England and North West	0-4	3066
+New England and North West	5-14	21912
+New England and North West	15-19	7305
+New England and North West	20-24	2541
+New England and North West	25+	5734
+Newcastle and Lake Macquarie	0-4	7061
+Newcastle and Lake Macquarie	5-14	44204
+Newcastle and Lake Macquarie	15-19	16831
+Newcastle and Lake Macquarie	20-24	11285
+Newcastle and Lake Macquarie	25+	16257
+Richmond - Tweed	0-4	3708
+Richmond - Tweed	5-14	27588
+Richmond - Tweed	15-19	9536
+Richmond - Tweed	20-24	3158
+Richmond - Tweed	25+	9094
+Riverina	0-4	2929
+Riverina	5-14	19913
+Riverina	15-19	7100
+Riverina	20-24	2832
+Riverina	25+	5183
+Southern Highlands and Shoalhaven	0-4	2541
+Southern Highlands and Shoalhaven	5-14	16705
+Southern Highlands and Shoalhaven	15-19	5944
+Southern Highlands and Shoalhaven	20-24	1872
+Southern Highlands and Shoalhaven	25+	4593
+Sydney - Baulkham Hills and Hawkesbury	0-4	5092
+Sydney - Baulkham Hills and Hawkesbury	5-14	38174
+Sydney - Baulkham Hills and Hawkesbury	15-19	15962
+Sydney - Baulkham Hills and Hawkesbury	20-24	7984
+Sydney - Baulkham Hills and Hawkesbury	25+	8962
+Sydney - Blacktown	0-4	8173
+Sydney - Blacktown	5-14	56216
+Sydney - Blacktown	15-19	19316
+Sydney - Blacktown	20-24	11071
+Sydney - Blacktown	25+	16672
+Sydney - City and Inner South	0-4	3691
+Sydney - City and Inner South	5-14	17945
+Sydney - City and Inner South	15-19	8487
+Sydney - City and Inner South	20-24	17161
+Sydney - City and Inner South	25+	30906
+Sydney - Eastern Suburbs	0-4	4293
+Sydney - Eastern Suburbs	5-14	25396
+Sydney - Eastern Suburbs	15-19	10940
+Sydney - Eastern Suburbs	20-24	8959
+Sydney - Eastern Suburbs	25+	14662
+Sydney - Inner South West	0-4	10187
+Sydney - Inner South West	5-14	66403
+Sydney - Inner South West	15-19	28027
+Sydney - Inner South West	20-24	21393
+Sydney - Inner South West	25+	30396
+Sydney - Inner West	0-4	4834
+Sydney - Inner West	5-14	28827
+Sydney - Inner West	15-19	12064
+Sydney - Inner West	20-24	12913
+Sydney - Inner West	25+	18672
+Sydney - North Sydney and Hornsby	0-4	7736
+Sydney - North Sydney and Hornsby	5-14	52807
+Sydney - North Sydney and Hornsby	15-19	22389
+Sydney - North Sydney and Hornsby	20-24	13070
+Sydney - North Sydney and Hornsby	25+	19481
+Sydney - Northern Beaches	0-4	5125
+Sydney - Northern Beaches	5-14	33374
+Sydney - Northern Beaches	15-19	14299
+Sydney - Northern Beaches	20-24	7001
+Sydney - Northern Beaches	25+	9418
+Sydney - Outer South West	0-4	6207
+Sydney - Outer South West	5-14	41171
+Sydney - Outer South West	15-19	14552
+Sydney - Outer South West	20-24	6290
+Sydney - Outer South West	25+	10052
+Sydney - Outer West and Blue Mountains	0-4	6490
+Sydney - Outer West and Blue Mountains	5-14	41834
+Sydney - Outer West and Blue Mountains	15-19	15260
+Sydney - Outer West and Blue Mountains	20-24	6718
+Sydney - Outer West and Blue Mountains	25+	11998
+Sydney - Parramatta	0-4	8568
+Sydney - Parramatta	5-14	56275
+Sydney - Parramatta	15-19	20847
+Sydney - Parramatta	20-24	18581
+Sydney - Parramatta	25+	27305
+Sydney - Ryde	0-4	3529
+Sydney - Ryde	5-14	22755
+Sydney - Ryde	15-19	9447
+Sydney - Ryde	20-24	7679
+Sydney - Ryde	25+	11403
+Sydney - South West	0-4	8002
+Sydney - South West	5-14	61327
+Sydney - South West	15-19	25603
+Sydney - South West	20-24	13577
+Sydney - South West	25+	18077
+Sydney - Sutherland	0-4	4673
+Sydney - Sutherland	5-14	28133
+Sydney - Sutherland	15-19	12056
+Sydney - Sutherland	20-24	5530
+Sydney - Sutherland	25+	7383
+No usual address (NSW)	0-4	65
+No usual address (NSW)	5-14	425
+No usual address (NSW)	15-19	188
+No usual address (NSW)	20-24	130
+No usual address (NSW)	25+	337
+Ballarat	0-4	2796
+Ballarat	5-14	20250
+Ballarat	15-19	7520
+Ballarat	20-24	3115
+Ballarat	25+	5982
+Bendigo	0-4	2574
+Bendigo	5-14	19437
+Bendigo	15-19	7005
+Bendigo	20-24	2882
+Bendigo	25+	5316
+Geelong	0-4	5778
+Geelong	5-14	37869
+Geelong	15-19	14573
+Geelong	20-24	8107
+Geelong	25+	12440
+Hume	0-4	2748
+Hume	5-14	20477
+Hume	15-19	7579
+Hume	20-24	2336
+Hume	25+	5482
+Latrobe - Gippsland	0-4	4280
+Latrobe - Gippsland	5-14	32252
+Latrobe - Gippsland	15-19	11338
+Latrobe - Gippsland	20-24	3375
+Latrobe - Gippsland	25+	7998
+Melbourne - Inner	0-4	7295
+Melbourne - Inner	5-14	40134
+Melbourne - Inner	15-19	20349
+Melbourne - Inner	20-24	32846
+Melbourne - Inner	25+	50330
+Melbourne - Inner East	0-4	5656
+Melbourne - Inner East	5-14	41548
+Melbourne - Inner East	15-19	21966
+Melbourne - Inner East	20-24	16733
+Melbourne - Inner East	25+	17981
+Melbourne - Inner South	0-4	7574
+Melbourne - Inner South	5-14	49812
+Melbourne - Inner South	15-19	22776
+Melbourne - Inner South	20-24	14128
+Melbourne - Inner South	25+	16797
+Melbourne - North East	0-4	10679
+Melbourne - North East	5-14	65455
+Melbourne - North East	15-19	25566
+Melbourne - North East	20-24	15654
+Melbourne - North East	25+	23807
+Melbourne - North West	0-4	8187
+Melbourne - North West	5-14	53879
+Melbourne - North West	15-19	20435
+Melbourne - North West	20-24	11879
+Melbourne - North West	25+	18250
+Melbourne - Outer East	0-4	9461
+Melbourne - Outer East	5-14	60911
+Melbourne - Outer East	15-19	26091
+Melbourne - Outer East	20-24	13287
+Melbourne - Outer East	25+	18602
+Melbourne - South East	0-4	15685
+Melbourne - South East	5-14	107233
+Melbourne - South East	15-19	43121
+Melbourne - South East	20-24	29220
+Melbourne - South East	25+	39452
+Melbourne - West	0-4	17239
+Melbourne - West	5-14	112064
+Melbourne - West	15-19	38574
+Melbourne - West	20-24	23687
+Melbourne - West	25+	39803
+Mornington Peninsula	0-4	5236
+Mornington Peninsula	5-14	34493
+Mornington Peninsula	15-19	13504
+Mornington Peninsula	20-24	5614
+Mornington Peninsula	25+	9284
+North West	0-4	2338
+North West	5-14	16792
+North West	15-19	5682
+North West	20-24	1635
+North West	25+	3824
+Shepparton	0-4	2010
+Shepparton	5-14	15808
+Shepparton	15-19	5781
+Shepparton	20-24	1753
+Shepparton	25+	3698
+Warrnambool and South West	0-4	1836
+Warrnambool and South West	5-14	14165
+Warrnambool and South West	15-19	5321
+Warrnambool and South West	20-24	1372
+Warrnambool and South West	25+	3329
+No usual address (Vic.)	0-4	63
+No usual address (Vic.)	5-14	407
+No usual address (Vic.)	15-19	140
+No usual address (Vic.)	20-24	133
+No usual address (Vic.)	25+	267
+Brisbane - East	0-4	4175
+Brisbane - East	5-14	29996
+Brisbane - East	15-19	11710
+Brisbane - East	20-24	4219
+Brisbane - East	25+	7550
+Brisbane - North	0-4	3980
+Brisbane - North	5-14	25480
+Brisbane - North	15-19	9975
+Brisbane - North	20-24	5614
+Brisbane - North	25+	10623
+Brisbane - South	0-4	6494
+Brisbane - South	5-14	44055
+Brisbane - South	15-19	17819
+Brisbane - South	20-24	13991
+Brisbane - South	25+	21306
+Brisbane - West	0-4	3300
+Brisbane - West	5-14	25976
+Brisbane - West	15-19	12572
+Brisbane - West	20-24	7914
+Brisbane - West	25+	9542
+Brisbane Inner City	0-4	3723
+Brisbane Inner City	5-14	25177
+Brisbane Inner City	15-19	13606
+Brisbane Inner City	20-24	16025
+Brisbane Inner City	25+	22855
+Cairns	0-4	3247
+Cairns	5-14	29936
+Cairns	15-19	9980
+Cairns	20-24	2826
+Cairns	25+	9263
+Darling Downs - Maranoa	0-4	1546
+Darling Downs - Maranoa	5-14	15767
+Darling Downs - Maranoa	15-19	4541
+Darling Downs - Maranoa	20-24	1047
+Darling Downs - Maranoa	25+	2908
+Central Queensland	0-4	3468
+Central Queensland	5-14	30319
+Central Queensland	15-19	9228
+Central Queensland	20-24	2337
+Central Queensland	25+	6456
+Gold Coast	0-4	10606
+Gold Coast	5-14	73075
+Gold Coast	15-19	28192
+Gold Coast	20-24	14826
+Gold Coast	25+	28284
+Ipswich	0-4	6465
+Ipswich	5-14	50602
+Ipswich	15-19	16773
+Ipswich	20-24	6302
+Ipswich	25+	13639
+Logan - Beaudesert	0-4	6247
+Logan - Beaudesert	5-14	49336
+Logan - Beaudesert	15-19	16393
+Logan - Beaudesert	20-24	5838
+Logan - Beaudesert	25+	12202
+Mackay - Isaac - Whitsunday	0-4	2643
+Mackay - Isaac - Whitsunday	5-14	22310
+Mackay - Isaac - Whitsunday	15-19	6570
+Mackay - Isaac - Whitsunday	20-24	1750
+Mackay - Isaac - Whitsunday	25+	4894
+Moreton Bay - North	0-4	3898
+Moreton Bay - North	5-14	31237
+Moreton Bay - North	15-19	10670
+Moreton Bay - North	20-24	3235
+Moreton Bay - North	25+	7806
+Moreton Bay - South	0-4	4355
+Moreton Bay - South	5-14	31534
+Moreton Bay - South	15-19	11279
+Moreton Bay - South	20-24	4207
+Moreton Bay - South	25+	8615
+Queensland - Outback	0-4	1121
+Queensland - Outback	5-14	10143
+Queensland - Outback	15-19	2147
+Queensland - Outback	20-24	475
+Queensland - Outback	25+	1908
+Sunshine Coast	0-4	5761
+Sunshine Coast	5-14	45756
+Sunshine Coast	15-19	16957
+Sunshine Coast	20-24	6090
+Sunshine Coast	25+	14049
+Toowoomba	0-4	2520
+Toowoomba	5-14	20942
+Toowoomba	15-19	7946
+Toowoomba	20-24	3173
+Toowoomba	25+	7022
+Townsville	0-4	3530
+Townsville	5-14	28404
+Townsville	15-19	10355
+Townsville	20-24	4484
+Townsville	25+	8224
+Wide Bay	0-4	3355
+Wide Bay	5-14	32857
+Wide Bay	15-19	10686
+Wide Bay	20-24	2282
+Wide Bay	25+	7410
+No usual address (Qld)	0-4	63
+No usual address (Qld)	5-14	721
+No usual address (Qld)	15-19	212
+No usual address (Qld)	20-24	112
+No usual address (Qld)	25+	369
+Adelaide - Central and Hills	0-4	4400
+Adelaide - Central and Hills	5-14	33940
+Adelaide - Central and Hills	15-19	15810
+Adelaide - Central and Hills	20-24	12222
+Adelaide - Central and Hills	25+	16126
+Adelaide - North	0-4	7099
+Adelaide - North	5-14	56221
+Adelaide - North	15-19	20347
+Adelaide - North	20-24	11173
+Adelaide - North	25+	19369
+Adelaide - South	0-4	5585
+Adelaide - South	5-14	41970
+Adelaide - South	15-19	17047
+Adelaide - South	20-24	9470
+Adelaide - South	25+	15714
+Adelaide - West	0-4	3424
+Adelaide - West	5-14	23169
+Adelaide - West	15-19	9792
+Adelaide - West	20-24	7634
+Adelaide - West	25+	11873
+Barossa - Yorke - Mid North	0-4	1283
+Barossa - Yorke - Mid North	5-14	12542
+Barossa - Yorke - Mid North	15-19	4179
+Barossa - Yorke - Mid North	20-24	1111
+Barossa - Yorke - Mid North	25+	2339
+South Australia - Outback	0-4	1164
+South Australia - Outback	5-14	9528
+South Australia - Outback	15-19	2781
+South Australia - Outback	20-24	584
+South Australia - Outback	25+	1898
+South Australia - South East	0-4	2076
+South Australia - South East	5-14	20186
+South Australia - South East	15-19	6985
+South Australia - South East	20-24	1564
+South Australia - South East	25+	4439
+No usual address (SA)	0-4	25
+No usual address (SA)	5-14	200
+No usual address (SA)	15-19	92
+No usual address (SA)	20-24	39
+No usual address (SA)	25+	94
+Bunbury	0-4	2696
+Bunbury	5-14	23598
+Bunbury	15-19	7490
+Bunbury	20-24	1443
+Bunbury	25+	4810
+Mandurah	0-4	1565
+Mandurah	5-14	12299
+Mandurah	15-19	4221
+Mandurah	20-24	1350
+Mandurah	25+	2781
+Perth - Inner	0-4	2620
+Perth - Inner	5-14	18530
+Perth - Inner	15-19	9094
+Perth - Inner	20-24	7670
+Perth - Inner	25+	10580
+Perth - North East	0-4	5112
+Perth - North East	5-14	33321
+Perth - North East	15-19	11918
+Perth - North East	20-24	5622
+Perth - North East	25+	10523
+Perth - North West	0-4	10588
+Perth - North West	5-14	72134
+Perth - North West	15-19	27451
+Perth - North West	20-24	14086
+Perth - North West	25+	22123
+Perth - South East	0-4	9217
+Perth - South East	5-14	65263
+Perth - South East	15-19	23747
+Perth - South East	20-24	15499
+Perth - South East	25+	23566
+Perth - South West	0-4	8102
+Perth - South West	5-14	55762
+Perth - South West	15-19	20363
+Perth - South West	20-24	10154
+Perth - South West	25+	16507
+Western Australia - Wheat Belt	0-4	1621
+Western Australia - Wheat Belt	5-14	15017
+Western Australia - Wheat Belt	15-19	4717
+Western Australia - Wheat Belt	20-24	866
+Western Australia - Wheat Belt	25+	2905
+Western Australia - Outback (North)	0-4	1540
+Western Australia - Outback (North)	5-14	11491
+Western Australia - Outback (North)	15-19	2354
+Western Australia - Outback (North)	20-24	489
+Western Australia - Outback (North)	25+	2544
+Western Australia - Outback (South)	0-4	1713
+Western Australia - Outback (South)	5-14	13578
+Western Australia - Outback (South)	15-19	3742
+Western Australia - Outback (South)	20-24	900
+Western Australia - Outback (South)	25+	3118
+Migratory - Offshore - Shipping (WA)	25+	17
+No usual address (WA)	0-4	34
+No usual address (WA)	5-14	327
+No usual address (WA)	15-19	76
+No usual address (WA)	20-24	62
+No usual address (WA)	25+	169
+Hobart	0-4	3474
+Hobart	5-14	27113
+Hobart	15-19	10275
+Hobart	20-24	5653
+Hobart	25+	14019
+Launceston and North East	0-4	1910
+Launceston and North East	5-14	16276
+Launceston and North East	15-19	6007
+Launceston and North East	20-24	2346
+Launceston and North East	25+	5630
+South East	0-4	425
+South East	5-14	4115
+South East	15-19	1380
+South East	20-24	321
+South East	25+	1194
+West and North West	0-4	1367
+West and North West	5-14	12553
+West and North West	15-19	4517
+West and North West	20-24	1156
+West and North West	25+	3266
+No usual address (Tas.)	0-4	6
+No usual address (Tas.)	5-14	68
+No usual address (Tas.)	15-19	36
+No usual address (Tas.)	20-24	24
+No usual address (Tas.)	25+	50
+Darwin	0-4	2532
+Darwin	5-14	16884
+Darwin	15-19	5101
+Darwin	20-24	2440
+Darwin	25+	8522
+Northern Territory - Outback	0-4	1562
+Northern Territory - Outback	5-14	11842
+Northern Territory - Outback	15-19	2562
+Northern Territory - Outback	20-24	482
+Northern Territory - Outback	25+	2771
+Migratory - Offshore - Shipping (NT)	25+	3
+No usual address (NT)	0-4	11
+No usual address (NT)	5-14	180
+No usual address (NT)	15-19	20
+No usual address (NT)	20-24	13
+No usual address (NT)	25+	56
+Australian Capital Territory	0-4	7872
+Australian Capital Territory	5-14	53804
+Australian Capital Territory	15-19	21598
+Australian Capital Territory	20-24	17260
+Australian Capital Territory	25+	28207
+No usual address (ACT)	0-4	7
+No usual address (ACT)	5-14	19
+No usual address (ACT)	15-19	42
+No usual address (ACT)	20-24	29
+No usual address (ACT)	25+	21
+Other Territories	0-4	66
+Other Territories	5-14	486
+Other Territories	15-19	115
+Other Territories	20-24	38
+Other Territories	25+	113

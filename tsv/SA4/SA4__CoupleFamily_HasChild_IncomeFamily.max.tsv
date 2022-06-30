@@ -1,0 +1,5291 @@
+SA4_NAME16	CoupleFamily	HasChild	IncomeFamily.max	families
+Capital Region				23
+Capital Region			0	6
+Capital Region			7875	6
+Capital Region			15750	8
+Capital Region			21000	5
+Capital Region			26250	13
+Capital Region			34125	23
+Capital Region			42000	38
+Capital Region			52500	94
+Capital Region			65625	85
+Capital Region			78750	85
+Capital Region			91875	41
+Capital Region			105000	54
+Capital Region			131250	88
+Capital Region			157500	47
+Capital Region			183750	23
+Capital Region			210000	8
+Capital Region			Inf	26
+Capital Region	0			902
+Capital Region	0		0	108
+Capital Region	0		7875	55
+Capital Region	0		15750	118
+Capital Region	0		21000	212
+Capital Region	0		26250	383
+Capital Region	0		34125	695
+Capital Region	0		42000	713
+Capital Region	0		52500	1058
+Capital Region	0		65625	1011
+Capital Region	0		78750	878
+Capital Region	0		91875	665
+Capital Region	0		105000	563
+Capital Region	0		131250	931
+Capital Region	0		157500	393
+Capital Region	0		183750	252
+Capital Region	0		210000	120
+Capital Region	0		Inf	249
+Capital Region	1	0		4060
+Capital Region	1	0	0	577
+Capital Region	1	0	7875	257
+Capital Region	1	0	15750	147
+Capital Region	1	0	21000	126
+Capital Region	1	0	26250	760
+Capital Region	1	0	34125	561
+Capital Region	1	0	42000	3385
+Capital Region	1	0	52500	2674
+Capital Region	1	0	65625	3241
+Capital Region	1	0	78750	4246
+Capital Region	1	0	91875	2856
+Capital Region	1	0	105000	3224
+Capital Region	1	0	131250	6853
+Capital Region	1	0	157500	5259
+Capital Region	1	0	183750	4413
+Capital Region	1	0	210000	2993
+Capital Region	1	0	Inf	8314
+Capital Region	1	1	7875	21
+Capital Region	1	1	15750	41
+Capital Region	1	1	21000	18
+Capital Region	1	1	26250	80
+Capital Region	1	1	34125	117
+Capital Region	1	1	42000	287
+Central Coast				31
+Central Coast			0	18
+Central Coast			7875	3
+Central Coast			15750	8
+Central Coast			21000	15
+Central Coast			26250	30
+Central Coast			34125	31
+Central Coast			42000	81
+Central Coast			52500	154
+Central Coast			65625	187
+Central Coast			78750	166
+Central Coast			91875	90
+Central Coast			105000	86
+Central Coast			131250	136
+Central Coast			157500	68
+Central Coast			183750	36
+Central Coast			210000	14
+Central Coast			Inf	27
+Central Coast	0			1472
+Central Coast	0		0	265
+Central Coast	0		7875	69
+Central Coast	0		15750	184
+Central Coast	0		21000	352
+Central Coast	0		26250	663
+Central Coast	0		34125	1313
+Central Coast	0		42000	1602
+Central Coast	0		52500	2060
+Central Coast	0		65625	2250
+Central Coast	0		78750	1926
+Central Coast	0		91875	1305
+Central Coast	0		105000	1170
+Central Coast	0		131250	1802
+Central Coast	0		157500	784
+Central Coast	0		183750	436
+Central Coast	0		210000	178
+Central Coast	0		Inf	406
+Central Coast	1	0		4782
+Central Coast	1	0	0	800
+Central Coast	1	0	7875	303
+Central Coast	1	0	15750	199
+Central Coast	1	0	21000	183
+Central Coast	1	0	26250	952
+Central Coast	1	0	34125	666
+Central Coast	1	0	42000	4806
+Central Coast	1	0	52500	3716
+Central Coast	1	0	65625	4392
+Central Coast	1	0	78750	5715
+Central Coast	1	0	91875	4178
+Central Coast	1	0	105000	4646
+Central Coast	1	0	131250	10248
+Central Coast	1	0	157500	8134
+Central Coast	1	0	183750	6632
+Central Coast	1	0	210000	4109
+Central Coast	1	0	Inf	10198
+Central Coast	1	1	7875	24
+Central Coast	1	1	15750	32
+Central Coast	1	1	21000	36
+Central Coast	1	1	26250	106
+Central Coast	1	1	34125	163
+Central Coast	1	1	42000	426
+Central West				27
+Central West			0	8
+Central West			15750	7
+Central West			21000	3
+Central West			26250	25
+Central West			34125	24
+Central West			42000	58
+Central West			52500	110
+Central West			65625	98
+Central West			78750	103
+Central West			91875	52
+Central West			105000	51
+Central West			131250	78
+Central West			157500	36
+Central West			183750	15
+Central West			210000	10
+Central West			Inf	22
+Central West	0			893
+Central West	0		0	115
+Central West	0		7875	47
+Central West	0		15750	114
+Central West	0		21000	256
+Central West	0		26250	431
+Central West	0		34125	759
+Central West	0		42000	932
+Central West	0		52500	1189
+Central West	0		65625	1147
+Central West	0		78750	865
+Central West	0		91875	649
+Central West	0		105000	497
+Central West	0		131250	812
+Central West	0		157500	309
+Central West	0		183750	214
+Central West	0		210000	60
+Central West	0		Inf	181
+Central West	1	0		3925
+Central West	1	0	0	479
+Central West	1	0	7875	219
+Central West	1	0	15750	112
+Central West	1	0	21000	110
+Central West	1	0	26250	700
+Central West	1	0	34125	404
+Central West	1	0	42000	2937
+Central West	1	0	52500	2163
+Central West	1	0	65625	2698
+Central West	1	0	78750	3442
+Central West	1	0	91875	2459
+Central West	1	0	105000	2785
+Central West	1	0	131250	6027
+Central West	1	0	157500	4853
+Central West	1	0	183750	3657
+Central West	1	0	210000	2344
+Central West	1	0	Inf	5307
+Central West	1	1	7875	24
+Central West	1	1	15750	31
+Central West	1	1	21000	29
+Central West	1	1	26250	72
+Central West	1	1	34125	112
+Central West	1	1	42000	300
+Coffs Harbour - Grafton				27
+Coffs Harbour - Grafton			0	6
+Coffs Harbour - Grafton			7875	5
+Coffs Harbour - Grafton			15750	3
+Coffs Harbour - Grafton			21000	4
+Coffs Harbour - Grafton			26250	20
+Coffs Harbour - Grafton			34125	20
+Coffs Harbour - Grafton			42000	51
+Coffs Harbour - Grafton			52500	85
+Coffs Harbour - Grafton			65625	86
+Coffs Harbour - Grafton			78750	57
+Coffs Harbour - Grafton			91875	37
+Coffs Harbour - Grafton			105000	33
+Coffs Harbour - Grafton			131250	41
+Coffs Harbour - Grafton			157500	20
+Coffs Harbour - Grafton			183750	14
+Coffs Harbour - Grafton			Inf	12
+Coffs Harbour - Grafton	0			723
+Coffs Harbour - Grafton	0		0	95
+Coffs Harbour - Grafton	0		7875	51
+Coffs Harbour - Grafton	0		15750	77
+Coffs Harbour - Grafton	0		21000	196
+Coffs Harbour - Grafton	0		26250	323
+Coffs Harbour - Grafton	0		34125	621
+Coffs Harbour - Grafton	0		42000	748
+Coffs Harbour - Grafton	0		52500	905
+Coffs Harbour - Grafton	0		65625	956
+Coffs Harbour - Grafton	0		78750	794
+Coffs Harbour - Grafton	0		91875	514
+Coffs Harbour - Grafton	0		105000	364
+Coffs Harbour - Grafton	0		131250	483
+Coffs Harbour - Grafton	0		157500	170
+Coffs Harbour - Grafton	0		183750	104
+Coffs Harbour - Grafton	0		210000	37
+Coffs Harbour - Grafton	0		Inf	112
+Coffs Harbour - Grafton	1	0		2417
+Coffs Harbour - Grafton	1	0	0	362
+Coffs Harbour - Grafton	1	0	7875	174
+Coffs Harbour - Grafton	1	0	15750	116
+Coffs Harbour - Grafton	1	0	21000	103
+Coffs Harbour - Grafton	1	0	26250	547
+Coffs Harbour - Grafton	1	0	34125	373
+Coffs Harbour - Grafton	1	0	42000	2722
+Coffs Harbour - Grafton	1	0	52500	2099
+Coffs Harbour - Grafton	1	0	65625	2564
+Coffs Harbour - Grafton	1	0	78750	3056
+Coffs Harbour - Grafton	1	0	91875	1996
+Coffs Harbour - Grafton	1	0	105000	2157
+Coffs Harbour - Grafton	1	0	131250	4144
+Coffs Harbour - Grafton	1	0	157500	2870
+Coffs Harbour - Grafton	1	0	183750	1986
+Coffs Harbour - Grafton	1	0	210000	1134
+Coffs Harbour - Grafton	1	0	Inf	2286
+Coffs Harbour - Grafton	1	1	7875	7
+Coffs Harbour - Grafton	1	1	15750	32
+Coffs Harbour - Grafton	1	1	21000	23
+Coffs Harbour - Grafton	1	1	26250	77
+Coffs Harbour - Grafton	1	1	34125	70
+Coffs Harbour - Grafton	1	1	42000	251
+Far West and Orana				26
+Far West and Orana			0	12
+Far West and Orana			7875	5
+Far West and Orana			15750	4
+Far West and Orana			21000	3
+Far West and Orana			26250	17
+Far West and Orana			34125	16
+Far West and Orana			42000	47
+Far West and Orana			52500	76
+Far West and Orana			65625	56
+Far West and Orana			78750	57
+Far West and Orana			91875	32
+Far West and Orana			105000	22
+Far West and Orana			131250	57
+Far West and Orana			157500	34
+Far West and Orana			183750	12
+Far West and Orana			210000	3
+Far West and Orana			Inf	9
+Far West and Orana	0			618
+Far West and Orana	0		0	90
+Far West and Orana	0		7875	25
+Far West and Orana	0		15750	89
+Far West and Orana	0		21000	145
+Far West and Orana	0		26250	304
+Far West and Orana	0		34125	467
+Far West and Orana	0		42000	534
+Far West and Orana	0		52500	653
+Far West and Orana	0		65625	695
+Far West and Orana	0		78750	513
+Far West and Orana	0		91875	374
+Far West and Orana	0		105000	282
+Far West and Orana	0		131250	416
+Far West and Orana	0		157500	158
+Far West and Orana	0		183750	94
+Far West and Orana	0		210000	48
+Far West and Orana	0		Inf	103
+Far West and Orana	1	0		2372
+Far West and Orana	1	0	0	328
+Far West and Orana	1	0	7875	94
+Far West and Orana	1	0	15750	44
+Far West and Orana	1	0	21000	49
+Far West and Orana	1	0	26250	333
+Far West and Orana	1	0	34125	235
+Far West and Orana	1	0	42000	1444
+Far West and Orana	1	0	52500	1098
+Far West and Orana	1	0	65625	1358
+Far West and Orana	1	0	78750	1715
+Far West and Orana	1	0	91875	1180
+Far West and Orana	1	0	105000	1392
+Far West and Orana	1	0	131250	3132
+Far West and Orana	1	0	157500	2223
+Far West and Orana	1	0	183750	1730
+Far West and Orana	1	0	210000	1053
+Far West and Orana	1	0	Inf	2148
+Far West and Orana	1	1	7875	15
+Far West and Orana	1	1	15750	25
+Far West and Orana	1	1	21000	14
+Far West and Orana	1	1	26250	49
+Far West and Orana	1	1	34125	72
+Far West and Orana	1	1	42000	151
+Hunter Valley exc Newcastle				35
+Hunter Valley exc Newcastle			0	17
+Hunter Valley exc Newcastle			7875	5
+Hunter Valley exc Newcastle			15750	16
+Hunter Valley exc Newcastle			21000	18
+Hunter Valley exc Newcastle			26250	18
+Hunter Valley exc Newcastle			34125	29
+Hunter Valley exc Newcastle			42000	67
+Hunter Valley exc Newcastle			52500	145
+Hunter Valley exc Newcastle			65625	141
+Hunter Valley exc Newcastle			78750	116
+Hunter Valley exc Newcastle			91875	68
+Hunter Valley exc Newcastle			105000	61
+Hunter Valley exc Newcastle			131250	111
+Hunter Valley exc Newcastle			157500	39
+Hunter Valley exc Newcastle			183750	34
+Hunter Valley exc Newcastle			210000	7
+Hunter Valley exc Newcastle			Inf	21
+Hunter Valley exc Newcastle	0			1230
+Hunter Valley exc Newcastle	0		0	187
+Hunter Valley exc Newcastle	0		7875	69
+Hunter Valley exc Newcastle	0		15750	165
+Hunter Valley exc Newcastle	0		21000	336
+Hunter Valley exc Newcastle	0		26250	639
+Hunter Valley exc Newcastle	0		34125	1166
+Hunter Valley exc Newcastle	0		42000	1361
+Hunter Valley exc Newcastle	0		52500	1735
+Hunter Valley exc Newcastle	0		65625	1820
+Hunter Valley exc Newcastle	0		78750	1378
+Hunter Valley exc Newcastle	0		91875	957
+Hunter Valley exc Newcastle	0		105000	793
+Hunter Valley exc Newcastle	0		131250	1249
+Hunter Valley exc Newcastle	0		157500	524
+Hunter Valley exc Newcastle	0		183750	325
+Hunter Valley exc Newcastle	0		210000	110
+Hunter Valley exc Newcastle	0		Inf	271
+Hunter Valley exc Newcastle	1	0		5183
+Hunter Valley exc Newcastle	1	0	0	717
+Hunter Valley exc Newcastle	1	0	7875	280
+Hunter Valley exc Newcastle	1	0	15750	185
+Hunter Valley exc Newcastle	1	0	21000	146
+Hunter Valley exc Newcastle	1	0	26250	866
+Hunter Valley exc Newcastle	1	0	34125	637
+Hunter Valley exc Newcastle	1	0	42000	4194
+Hunter Valley exc Newcastle	1	0	52500	3165
+Hunter Valley exc Newcastle	1	0	65625	3858
+Hunter Valley exc Newcastle	1	0	78750	4968
+Hunter Valley exc Newcastle	1	0	91875	3570
+Hunter Valley exc Newcastle	1	0	105000	3939
+Hunter Valley exc Newcastle	1	0	131250	9151
+Hunter Valley exc Newcastle	1	0	157500	6996
+Hunter Valley exc Newcastle	1	0	183750	5699
+Hunter Valley exc Newcastle	1	0	210000	3513
+Hunter Valley exc Newcastle	1	0	Inf	7613
+Hunter Valley exc Newcastle	1	1	7875	14
+Hunter Valley exc Newcastle	1	1	15750	32
+Hunter Valley exc Newcastle	1	1	21000	41
+Hunter Valley exc Newcastle	1	1	26250	103
+Hunter Valley exc Newcastle	1	1	34125	132
+Hunter Valley exc Newcastle	1	1	42000	379
+Illawarra				29
+Illawarra			0	24
+Illawarra			7875	3
+Illawarra			15750	11
+Illawarra			21000	11
+Illawarra			26250	32
+Illawarra			34125	40
+Illawarra			42000	74
+Illawarra			52500	158
+Illawarra			65625	158
+Illawarra			78750	153
+Illawarra			91875	89
+Illawarra			105000	80
+Illawarra			131250	131
+Illawarra			157500	65
+Illawarra			183750	36
+Illawarra			210000	22
+Illawarra			Inf	32
+Illawarra	0			1163
+Illawarra	0		0	196
+Illawarra	0		7875	73
+Illawarra	0		15750	168
+Illawarra	0		21000	337
+Illawarra	0		26250	574
+Illawarra	0		34125	972
+Illawarra	0		42000	1165
+Illawarra	0		52500	1614
+Illawarra	0		65625	1618
+Illawarra	0		78750	1510
+Illawarra	0		91875	1050
+Illawarra	0		105000	911
+Illawarra	0		131250	1464
+Illawarra	0		157500	601
+Illawarra	0		183750	453
+Illawarra	0		210000	171
+Illawarra	0		Inf	386
+Illawarra	1	0		4079
+Illawarra	1	0	0	739
+Illawarra	1	0	7875	246
+Illawarra	1	0	15750	160
+Illawarra	1	0	21000	154
+Illawarra	1	0	26250	871
+Illawarra	1	0	34125	672
+Illawarra	1	0	42000	3986
+Illawarra	1	0	52500	3256
+Illawarra	1	0	65625	3805
+Illawarra	1	0	78750	4751
+Illawarra	1	0	91875	3418
+Illawarra	1	0	105000	3915
+Illawarra	1	0	131250	9025
+Illawarra	1	0	157500	7841
+Illawarra	1	0	183750	6620
+Illawarra	1	0	210000	4498
+Illawarra	1	0	Inf	11088
+Illawarra	1	1	7875	19
+Illawarra	1	1	15750	44
+Illawarra	1	1	21000	34
+Illawarra	1	1	26250	105
+Illawarra	1	1	34125	157
+Illawarra	1	1	42000	411
+Mid North Coast				36
+Mid North Coast			0	17
+Mid North Coast			7875	12
+Mid North Coast			15750	11
+Mid North Coast			21000	7
+Mid North Coast			26250	29
+Mid North Coast			34125	40
+Mid North Coast			42000	71
+Mid North Coast			52500	129
+Mid North Coast			65625	114
+Mid North Coast			78750	103
+Mid North Coast			91875	43
+Mid North Coast			105000	61
+Mid North Coast			131250	74
+Mid North Coast			157500	27
+Mid North Coast			183750	12
+Mid North Coast			210000	4
+Mid North Coast			Inf	9
+Mid North Coast	0			1139
+Mid North Coast	0		0	137
+Mid North Coast	0		7875	67
+Mid North Coast	0		15750	151
+Mid North Coast	0		21000	269
+Mid North Coast	0		26250	599
+Mid North Coast	0		34125	968
+Mid North Coast	0		42000	1167
+Mid North Coast	0		52500	1503
+Mid North Coast	0		65625	1501
+Mid North Coast	0		78750	1184
+Mid North Coast	0		91875	672
+Mid North Coast	0		105000	535
+Mid North Coast	0		131250	736
+Mid North Coast	0		157500	255
+Mid North Coast	0		183750	127
+Mid North Coast	0		210000	36
+Mid North Coast	0		Inf	128
+Mid North Coast	1	0		3707
+Mid North Coast	1	0	0	677
+Mid North Coast	1	0	7875	312
+Mid North Coast	1	0	15750	220
+Mid North Coast	1	0	21000	211
+Mid North Coast	1	0	26250	1058
+Mid North Coast	1	0	34125	745
+Mid North Coast	1	0	42000	5563
+Mid North Coast	1	0	52500	3946
+Mid North Coast	1	0	65625	4340
+Mid North Coast	1	0	78750	5265
+Mid North Coast	1	0	91875	3074
+Mid North Coast	1	0	105000	3235
+Mid North Coast	1	0	131250	6030
+Mid North Coast	1	0	157500	4076
+Mid North Coast	1	0	183750	2849
+Mid North Coast	1	0	210000	1621
+Mid North Coast	1	0	Inf	3358
+Mid North Coast	1	1	7875	16
+Mid North Coast	1	1	15750	33
+Mid North Coast	1	1	21000	41
+Mid North Coast	1	1	26250	82
+Mid North Coast	1	1	34125	118
+Mid North Coast	1	1	42000	379
+Murray				20
+Murray			7875	7
+Murray			21000	4
+Murray			26250	10
+Murray			34125	18
+Murray			42000	26
+Murray			52500	64
+Murray			65625	50
+Murray			78750	38
+Murray			91875	35
+Murray			105000	35
+Murray			131250	47
+Murray			157500	20
+Murray			183750	12
+Murray			210000	8
+Murray			Inf	5
+Murray	0			459
+Murray	0		0	69
+Murray	0		7875	18
+Murray	0		15750	70
+Murray	0		21000	125
+Murray	0		26250	235
+Murray	0		34125	455
+Murray	0		42000	498
+Murray	0		52500	599
+Murray	0		65625	631
+Murray	0		78750	486
+Murray	0		91875	344
+Murray	0		105000	282
+Murray	0		131250	437
+Murray	0		157500	128
+Murray	0		183750	74
+Murray	0		210000	25
+Murray	0		Inf	71
+Murray	1	0		2366
+Murray	1	0	0	299
+Murray	1	0	7875	134
+Murray	1	0	15750	86
+Murray	1	0	21000	57
+Murray	1	0	26250	414
+Murray	1	0	34125	295
+Murray	1	0	42000	1953
+Murray	1	0	52500	1482
+Murray	1	0	65625	1748
+Murray	1	0	78750	2298
+Murray	1	0	91875	1615
+Murray	1	0	105000	1828
+Murray	1	0	131250	3823
+Murray	1	0	157500	2699
+Murray	1	0	183750	2034
+Murray	1	0	210000	1180
+Murray	1	0	Inf	2300
+Murray	1	1	7875	6
+Murray	1	1	15750	25
+Murray	1	1	21000	22
+Murray	1	1	26250	39
+Murray	1	1	34125	71
+Murray	1	1	42000	156
+New England and North West				40
+New England and North West			0	13
+New England and North West			7875	6
+New England and North West			15750	13
+New England and North West			21000	6
+New England and North West			26250	23
+New England and North West			34125	22
+New England and North West			42000	63
+New England and North West			52500	116
+New England and North West			65625	102
+New England and North West			78750	81
+New England and North West			91875	50
+New England and North West			105000	55
+New England and North West			131250	57
+New England and North West			157500	49
+New England and North West			183750	19
+New England and North West			210000	9
+New England and North West			Inf	13
+New England and North West	0			820
+New England and North West	0		0	134
+New England and North West	0		7875	47
+New England and North West	0		15750	142
+New England and North West	0		21000	235
+New England and North West	0		26250	496
+New England and North West	0		34125	783
+New England and North West	0		42000	888
+New England and North West	0		52500	1098
+New England and North West	0		65625	1059
+New England and North West	0		78750	767
+New England and North West	0		91875	471
+New England and North West	0		105000	420
+New England and North West	0		131250	613
+New England and North West	0		157500	188
+New England and North West	0		183750	107
+New England and North West	0		210000	43
+New England and North West	0		Inf	130
+New England and North West	1	0		3170
+New England and North West	1	0	0	486
+New England and North West	1	0	7875	182
+New England and North West	1	0	15750	117
+New England and North West	1	0	21000	81
+New England and North West	1	0	26250	637
+New England and North West	1	0	34125	403
+New England and North West	1	0	42000	2835
+New England and North West	1	0	52500	2050
+New England and North West	1	0	65625	2522
+New England and North West	1	0	78750	3195
+New England and North West	1	0	91875	2213
+New England and North West	1	0	105000	2616
+New England and North West	1	0	131250	5403
+New England and North West	1	0	157500	3629
+New England and North West	1	0	183750	2776
+New England and North West	1	0	210000	1632
+New England and North West	1	0	Inf	3467
+New England and North West	1	1	7875	28
+New England and North West	1	1	15750	27
+New England and North West	1	1	21000	22
+New England and North West	1	1	26250	72
+New England and North West	1	1	34125	117
+New England and North West	1	1	42000	288
+Newcastle and Lake Macquarie				36
+Newcastle and Lake Macquarie			0	25
+Newcastle and Lake Macquarie			7875	12
+Newcastle and Lake Macquarie			15750	13
+Newcastle and Lake Macquarie			21000	15
+Newcastle and Lake Macquarie			26250	36
+Newcastle and Lake Macquarie			34125	45
+Newcastle and Lake Macquarie			42000	93
+Newcastle and Lake Macquarie			52500	208
+Newcastle and Lake Macquarie			65625	197
+Newcastle and Lake Macquarie			78750	203
+Newcastle and Lake Macquarie			91875	146
+Newcastle and Lake Macquarie			105000	117
+Newcastle and Lake Macquarie			131250	215
+Newcastle and Lake Macquarie			157500	114
+Newcastle and Lake Macquarie			183750	72
+Newcastle and Lake Macquarie			210000	31
+Newcastle and Lake Macquarie			Inf	41
+Newcastle and Lake Macquarie	0			1521
+Newcastle and Lake Macquarie	0		0	236
+Newcastle and Lake Macquarie	0		7875	73
+Newcastle and Lake Macquarie	0		15750	196
+Newcastle and Lake Macquarie	0		21000	355
+Newcastle and Lake Macquarie	0		26250	663
+Newcastle and Lake Macquarie	0		34125	1171
+Newcastle and Lake Macquarie	0		42000	1438
+Newcastle and Lake Macquarie	0		52500	2052
+Newcastle and Lake Macquarie	0		65625	2184
+Newcastle and Lake Macquarie	0		78750	1909
+Newcastle and Lake Macquarie	0		91875	1458
+Newcastle and Lake Macquarie	0		105000	1225
+Newcastle and Lake Macquarie	0		131250	1930
+Newcastle and Lake Macquarie	0		157500	869
+Newcastle and Lake Macquarie	0		183750	516
+Newcastle and Lake Macquarie	0		210000	186
+Newcastle and Lake Macquarie	0		Inf	425
+Newcastle and Lake Macquarie	1	0		5431
+Newcastle and Lake Macquarie	1	0	0	736
+Newcastle and Lake Macquarie	1	0	7875	274
+Newcastle and Lake Macquarie	1	0	15750	208
+Newcastle and Lake Macquarie	1	0	21000	156
+Newcastle and Lake Macquarie	1	0	26250	925
+Newcastle and Lake Macquarie	1	0	34125	707
+Newcastle and Lake Macquarie	1	0	42000	4727
+Newcastle and Lake Macquarie	1	0	52500	3839
+Newcastle and Lake Macquarie	1	0	65625	4682
+Newcastle and Lake Macquarie	1	0	78750	5748
+Newcastle and Lake Macquarie	1	0	91875	4171
+Newcastle and Lake Macquarie	1	0	105000	4621
+Newcastle and Lake Macquarie	1	0	131250	11369
+Newcastle and Lake Macquarie	1	0	157500	9617
+Newcastle and Lake Macquarie	1	0	183750	8380
+Newcastle and Lake Macquarie	1	0	210000	5509
+Newcastle and Lake Macquarie	1	0	Inf	13367
+Newcastle and Lake Macquarie	1	1	7875	28
+Newcastle and Lake Macquarie	1	1	15750	44
+Newcastle and Lake Macquarie	1	1	21000	35
+Newcastle and Lake Macquarie	1	1	26250	98
+Newcastle and Lake Macquarie	1	1	34125	181
+Newcastle and Lake Macquarie	1	1	42000	368
+Richmond - Tweed				16
+Richmond - Tweed			0	13
+Richmond - Tweed			7875	4
+Richmond - Tweed			15750	10
+Richmond - Tweed			21000	3
+Richmond - Tweed			26250	19
+Richmond - Tweed			34125	33
+Richmond - Tweed			42000	61
+Richmond - Tweed			52500	144
+Richmond - Tweed			65625	148
+Richmond - Tweed			78750	143
+Richmond - Tweed			91875	51
+Richmond - Tweed			105000	58
+Richmond - Tweed			131250	84
+Richmond - Tweed			157500	28
+Richmond - Tweed			183750	29
+Richmond - Tweed			210000	3
+Richmond - Tweed			Inf	27
+Richmond - Tweed	0			1247
+Richmond - Tweed	0		0	149
+Richmond - Tweed	0		7875	88
+Richmond - Tweed	0		15750	112
+Richmond - Tweed	0		21000	267
+Richmond - Tweed	0		26250	542
+Richmond - Tweed	0		34125	973
+Richmond - Tweed	0		42000	1153
+Richmond - Tweed	0		52500	1546
+Richmond - Tweed	0		65625	1616
+Richmond - Tweed	0		78750	1329
+Richmond - Tweed	0		91875	962
+Richmond - Tweed	0		105000	711
+Richmond - Tweed	0		131250	927
+Richmond - Tweed	0		157500	410
+Richmond - Tweed	0		183750	215
+Richmond - Tweed	0		210000	65
+Richmond - Tweed	0		Inf	239
+Richmond - Tweed	1	0		4062
+Richmond - Tweed	1	0	0	514
+Richmond - Tweed	1	0	7875	267
+Richmond - Tweed	1	0	15750	168
+Richmond - Tweed	1	0	21000	156
+Richmond - Tweed	1	0	26250	824
+Richmond - Tweed	1	0	34125	601
+Richmond - Tweed	1	0	42000	3991
+Richmond - Tweed	1	0	52500	3273
+Richmond - Tweed	1	0	65625	3922
+Richmond - Tweed	1	0	78750	4895
+Richmond - Tweed	1	0	91875	3283
+Richmond - Tweed	1	0	105000	3635
+Richmond - Tweed	1	0	131250	7518
+Richmond - Tweed	1	0	157500	5204
+Richmond - Tweed	1	0	183750	3791
+Richmond - Tweed	1	0	210000	2171
+Richmond - Tweed	1	0	Inf	5153
+Richmond - Tweed	1	1	7875	20
+Richmond - Tweed	1	1	15750	48
+Richmond - Tweed	1	1	21000	42
+Richmond - Tweed	1	1	26250	84
+Richmond - Tweed	1	1	34125	146
+Richmond - Tweed	1	1	42000	334
+Riverina				25
+Riverina			0	10
+Riverina			7875	5
+Riverina			15750	6
+Riverina			26250	16
+Riverina			34125	16
+Riverina			42000	30
+Riverina			52500	77
+Riverina			65625	88
+Riverina			78750	77
+Riverina			91875	45
+Riverina			105000	46
+Riverina			131250	63
+Riverina			157500	20
+Riverina			183750	21
+Riverina			210000	3
+Riverina			Inf	17
+Riverina	0			641
+Riverina	0		0	87
+Riverina	0		7875	34
+Riverina	0		15750	99
+Riverina	0		21000	182
+Riverina	0		26250	387
+Riverina	0		34125	616
+Riverina	0		42000	612
+Riverina	0		52500	854
+Riverina	0		65625	832
+Riverina	0		78750	666
+Riverina	0		91875	447
+Riverina	0		105000	389
+Riverina	0		131250	548
+Riverina	0		157500	198
+Riverina	0		183750	135
+Riverina	0		210000	64
+Riverina	0		Inf	97
+Riverina	1	0		3037
+Riverina	1	0	0	351
+Riverina	1	0	7875	138
+Riverina	1	0	15750	93
+Riverina	1	0	21000	67
+Riverina	1	0	26250	446
+Riverina	1	0	34125	306
+Riverina	1	0	42000	1952
+Riverina	1	0	52500	1511
+Riverina	1	0	65625	2093
+Riverina	1	0	78750	2788
+Riverina	1	0	91875	1971
+Riverina	1	0	105000	2485
+Riverina	1	0	131250	5066
+Riverina	1	0	157500	3753
+Riverina	1	0	183750	2794
+Riverina	1	0	210000	1669
+Riverina	1	0	Inf	3483
+Riverina	1	1	7875	21
+Riverina	1	1	15750	28
+Riverina	1	1	21000	23
+Riverina	1	1	26250	80
+Riverina	1	1	34125	94
+Riverina	1	1	42000	233
+Southern Highlands and Shoalhaven				10
+Southern Highlands and Shoalhaven			0	19
+Southern Highlands and Shoalhaven			7875	4
+Southern Highlands and Shoalhaven			21000	4
+Southern Highlands and Shoalhaven			26250	16
+Southern Highlands and Shoalhaven			34125	23
+Southern Highlands and Shoalhaven			42000	36
+Southern Highlands and Shoalhaven			52500	79
+Southern Highlands and Shoalhaven			65625	73
+Southern Highlands and Shoalhaven			78750	68
+Southern Highlands and Shoalhaven			91875	36
+Southern Highlands and Shoalhaven			105000	26
+Southern Highlands and Shoalhaven			131250	59
+Southern Highlands and Shoalhaven			157500	30
+Southern Highlands and Shoalhaven			183750	12
+Southern Highlands and Shoalhaven			210000	6
+Southern Highlands and Shoalhaven			Inf	5
+Southern Highlands and Shoalhaven	0			629
+Southern Highlands and Shoalhaven	0		0	83
+Southern Highlands and Shoalhaven	0		7875	26
+Southern Highlands and Shoalhaven	0		15750	72
+Southern Highlands and Shoalhaven	0		21000	136
+Southern Highlands and Shoalhaven	0		26250	296
+Southern Highlands and Shoalhaven	0		34125	520
+Southern Highlands and Shoalhaven	0		42000	619
+Southern Highlands and Shoalhaven	0		52500	846
+Southern Highlands and Shoalhaven	0		65625	865
+Southern Highlands and Shoalhaven	0		78750	727
+Southern Highlands and Shoalhaven	0		91875	510
+Southern Highlands and Shoalhaven	0		105000	390
+Southern Highlands and Shoalhaven	0		131250	524
+Southern Highlands and Shoalhaven	0		157500	246
+Southern Highlands and Shoalhaven	0		183750	141
+Southern Highlands and Shoalhaven	0		210000	72
+Southern Highlands and Shoalhaven	0		Inf	155
+Southern Highlands and Shoalhaven	1	0		2584
+Southern Highlands and Shoalhaven	1	0	0	473
+Southern Highlands and Shoalhaven	1	0	7875	235
+Southern Highlands and Shoalhaven	1	0	15750	142
+Southern Highlands and Shoalhaven	1	0	21000	119
+Southern Highlands and Shoalhaven	1	0	26250	626
+Southern Highlands and Shoalhaven	1	0	34125	468
+Southern Highlands and Shoalhaven	1	0	42000	3022
+Southern Highlands and Shoalhaven	1	0	52500	2188
+Southern Highlands and Shoalhaven	1	0	65625	2808
+Southern Highlands and Shoalhaven	1	0	78750	3451
+Southern Highlands and Shoalhaven	1	0	91875	2104
+Southern Highlands and Shoalhaven	1	0	105000	2481
+Southern Highlands and Shoalhaven	1	0	131250	4744
+Southern Highlands and Shoalhaven	1	0	157500	3449
+Southern Highlands and Shoalhaven	1	0	183750	2570
+Southern Highlands and Shoalhaven	1	0	210000	1505
+Southern Highlands and Shoalhaven	1	0	Inf	4117
+Southern Highlands and Shoalhaven	1	1	7875	23
+Southern Highlands and Shoalhaven	1	1	15750	22
+Southern Highlands and Shoalhaven	1	1	21000	15
+Southern Highlands and Shoalhaven	1	1	26250	66
+Southern Highlands and Shoalhaven	1	1	34125	73
+Southern Highlands and Shoalhaven	1	1	42000	207
+Sydney - Baulkham Hills and Hawkesbury				11
+Sydney - Baulkham Hills and Hawkesbury			0	17
+Sydney - Baulkham Hills and Hawkesbury			7875	10
+Sydney - Baulkham Hills and Hawkesbury			15750	7
+Sydney - Baulkham Hills and Hawkesbury			21000	3
+Sydney - Baulkham Hills and Hawkesbury			26250	13
+Sydney - Baulkham Hills and Hawkesbury			34125	8
+Sydney - Baulkham Hills and Hawkesbury			42000	18
+Sydney - Baulkham Hills and Hawkesbury			52500	44
+Sydney - Baulkham Hills and Hawkesbury			65625	43
+Sydney - Baulkham Hills and Hawkesbury			78750	48
+Sydney - Baulkham Hills and Hawkesbury			91875	40
+Sydney - Baulkham Hills and Hawkesbury			105000	41
+Sydney - Baulkham Hills and Hawkesbury			131250	64
+Sydney - Baulkham Hills and Hawkesbury			157500	57
+Sydney - Baulkham Hills and Hawkesbury			183750	43
+Sydney - Baulkham Hills and Hawkesbury			210000	18
+Sydney - Baulkham Hills and Hawkesbury			Inf	47
+Sydney - Baulkham Hills and Hawkesbury	0			613
+Sydney - Baulkham Hills and Hawkesbury	0		0	194
+Sydney - Baulkham Hills and Hawkesbury	0		7875	52
+Sydney - Baulkham Hills and Hawkesbury	0		15750	78
+Sydney - Baulkham Hills and Hawkesbury	0		21000	99
+Sydney - Baulkham Hills and Hawkesbury	0		26250	161
+Sydney - Baulkham Hills and Hawkesbury	0		34125	285
+Sydney - Baulkham Hills and Hawkesbury	0		42000	373
+Sydney - Baulkham Hills and Hawkesbury	0		52500	506
+Sydney - Baulkham Hills and Hawkesbury	0		65625	551
+Sydney - Baulkham Hills and Hawkesbury	0		78750	635
+Sydney - Baulkham Hills and Hawkesbury	0		91875	551
+Sydney - Baulkham Hills and Hawkesbury	0		105000	527
+Sydney - Baulkham Hills and Hawkesbury	0		131250	1003
+Sydney - Baulkham Hills and Hawkesbury	0		157500	578
+Sydney - Baulkham Hills and Hawkesbury	0		183750	421
+Sydney - Baulkham Hills and Hawkesbury	0		210000	230
+Sydney - Baulkham Hills and Hawkesbury	0		Inf	722
+Sydney - Baulkham Hills and Hawkesbury	1	0		3631
+Sydney - Baulkham Hills and Hawkesbury	1	0	0	1211
+Sydney - Baulkham Hills and Hawkesbury	1	0	7875	320
+Sydney - Baulkham Hills and Hawkesbury	1	0	15750	183
+Sydney - Baulkham Hills and Hawkesbury	1	0	21000	134
+Sydney - Baulkham Hills and Hawkesbury	1	0	26250	658
+Sydney - Baulkham Hills and Hawkesbury	1	0	34125	426
+Sydney - Baulkham Hills and Hawkesbury	1	0	42000	1778
+Sydney - Baulkham Hills and Hawkesbury	1	0	52500	1742
+Sydney - Baulkham Hills and Hawkesbury	1	0	65625	2338
+Sydney - Baulkham Hills and Hawkesbury	1	0	78750	3022
+Sydney - Baulkham Hills and Hawkesbury	1	0	91875	2319
+Sydney - Baulkham Hills and Hawkesbury	1	0	105000	2739
+Sydney - Baulkham Hills and Hawkesbury	1	0	131250	6878
+Sydney - Baulkham Hills and Hawkesbury	1	0	157500	6116
+Sydney - Baulkham Hills and Hawkesbury	1	0	183750	6303
+Sydney - Baulkham Hills and Hawkesbury	1	0	210000	4885
+Sydney - Baulkham Hills and Hawkesbury	1	0	Inf	20995
+Sydney - Baulkham Hills and Hawkesbury	1	1	7875	31
+Sydney - Baulkham Hills and Hawkesbury	1	1	15750	52
+Sydney - Baulkham Hills and Hawkesbury	1	1	21000	44
+Sydney - Baulkham Hills and Hawkesbury	1	1	26250	104
+Sydney - Baulkham Hills and Hawkesbury	1	1	34125	169
+Sydney - Baulkham Hills and Hawkesbury	1	1	42000	284
+Sydney - Blacktown				37
+Sydney - Blacktown			0	37
+Sydney - Blacktown			7875	9
+Sydney - Blacktown			15750	13
+Sydney - Blacktown			21000	11
+Sydney - Blacktown			26250	38
+Sydney - Blacktown			34125	47
+Sydney - Blacktown			42000	79
+Sydney - Blacktown			52500	152
+Sydney - Blacktown			65625	149
+Sydney - Blacktown			78750	188
+Sydney - Blacktown			91875	139
+Sydney - Blacktown			105000	133
+Sydney - Blacktown			131250	274
+Sydney - Blacktown			157500	148
+Sydney - Blacktown			183750	80
+Sydney - Blacktown			210000	55
+Sydney - Blacktown			Inf	73
+Sydney - Blacktown	0			1325
+Sydney - Blacktown	0		0	402
+Sydney - Blacktown	0		7875	91
+Sydney - Blacktown	0		15750	229
+Sydney - Blacktown	0		21000	404
+Sydney - Blacktown	0		26250	761
+Sydney - Blacktown	0		34125	1168
+Sydney - Blacktown	0		42000	1302
+Sydney - Blacktown	0		52500	1661
+Sydney - Blacktown	0		65625	1689
+Sydney - Blacktown	0		78750	1751
+Sydney - Blacktown	0		91875	1209
+Sydney - Blacktown	0		105000	1123
+Sydney - Blacktown	0		131250	1916
+Sydney - Blacktown	0		157500	924
+Sydney - Blacktown	0		183750	620
+Sydney - Blacktown	0		210000	302
+Sydney - Blacktown	0		Inf	563
+Sydney - Blacktown	1	0		4838
+Sydney - Blacktown	1	0	0	1574
+Sydney - Blacktown	1	0	7875	218
+Sydney - Blacktown	1	0	15750	181
+Sydney - Blacktown	1	0	21000	170
+Sydney - Blacktown	1	0	26250	724
+Sydney - Blacktown	1	0	34125	512
+Sydney - Blacktown	1	0	42000	2835
+Sydney - Blacktown	1	0	52500	2795
+Sydney - Blacktown	1	0	65625	3899
+Sydney - Blacktown	1	0	78750	5243
+Sydney - Blacktown	1	0	91875	4585
+Sydney - Blacktown	1	0	105000	4821
+Sydney - Blacktown	1	0	131250	12659
+Sydney - Blacktown	1	0	157500	10169
+Sydney - Blacktown	1	0	183750	8919
+Sydney - Blacktown	1	0	210000	6156
+Sydney - Blacktown	1	0	Inf	14185
+Sydney - Blacktown	1	1	7875	55
+Sydney - Blacktown	1	1	15750	90
+Sydney - Blacktown	1	1	21000	111
+Sydney - Blacktown	1	1	26250	250
+Sydney - Blacktown	1	1	34125	383
+Sydney - Blacktown	1	1	42000	836
+Sydney - City and Inner South				35
+Sydney - City and Inner South			0	95
+Sydney - City and Inner South			7875	19
+Sydney - City and Inner South			15750	20
+Sydney - City and Inner South			21000	22
+Sydney - City and Inner South			26250	46
+Sydney - City and Inner South			34125	57
+Sydney - City and Inner South			42000	76
+Sydney - City and Inner South			52500	166
+Sydney - City and Inner South			65625	200
+Sydney - City and Inner South			78750	225
+Sydney - City and Inner South			91875	153
+Sydney - City and Inner South			105000	152
+Sydney - City and Inner South			131250	320
+Sydney - City and Inner South			157500	192
+Sydney - City and Inner South			183750	137
+Sydney - City and Inner South			210000	91
+Sydney - City and Inner South			Inf	199
+Sydney - City and Inner South	0			692
+Sydney - City and Inner South	0		0	274
+Sydney - City and Inner South	0		7875	64
+Sydney - City and Inner South	0		15750	120
+Sydney - City and Inner South	0		21000	192
+Sydney - City and Inner South	0		26250	345
+Sydney - City and Inner South	0		34125	415
+Sydney - City and Inner South	0		42000	517
+Sydney - City and Inner South	0		52500	747
+Sydney - City and Inner South	0		65625	732
+Sydney - City and Inner South	0		78750	737
+Sydney - City and Inner South	0		91875	626
+Sydney - City and Inner South	0		105000	572
+Sydney - City and Inner South	0		131250	1175
+Sydney - City and Inner South	0		157500	413
+Sydney - City and Inner South	0		183750	416
+Sydney - City and Inner South	0		210000	137
+Sydney - City and Inner South	0		Inf	787
+Sydney - City and Inner South	1	0		2990
+Sydney - City and Inner South	1	0	0	940
+Sydney - City and Inner South	1	0	7875	191
+Sydney - City and Inner South	1	0	15750	133
+Sydney - City and Inner South	1	0	21000	125
+Sydney - City and Inner South	1	0	26250	481
+Sydney - City and Inner South	1	0	34125	359
+Sydney - City and Inner South	1	0	42000	1501
+Sydney - City and Inner South	1	0	52500	1473
+Sydney - City and Inner South	1	0	65625	2124
+Sydney - City and Inner South	1	0	78750	2867
+Sydney - City and Inner South	1	0	91875	2351
+Sydney - City and Inner South	1	0	105000	2755
+Sydney - City and Inner South	1	0	131250	7301
+Sydney - City and Inner South	1	0	157500	6433
+Sydney - City and Inner South	1	0	183750	6224
+Sydney - City and Inner South	1	0	210000	5029
+Sydney - City and Inner South	1	0	Inf	22121
+Sydney - City and Inner South	1	1	7875	22
+Sydney - City and Inner South	1	1	15750	31
+Sydney - City and Inner South	1	1	21000	33
+Sydney - City and Inner South	1	1	26250	98
+Sydney - City and Inner South	1	1	34125	139
+Sydney - City and Inner South	1	1	42000	269
+Sydney - Eastern Suburbs				16
+Sydney - Eastern Suburbs			0	29
+Sydney - Eastern Suburbs			7875	7
+Sydney - Eastern Suburbs			15750	12
+Sydney - Eastern Suburbs			21000	3
+Sydney - Eastern Suburbs			26250	21
+Sydney - Eastern Suburbs			34125	38
+Sydney - Eastern Suburbs			42000	38
+Sydney - Eastern Suburbs			52500	71
+Sydney - Eastern Suburbs			65625	119
+Sydney - Eastern Suburbs			78750	103
+Sydney - Eastern Suburbs			91875	72
+Sydney - Eastern Suburbs			105000	100
+Sydney - Eastern Suburbs			131250	160
+Sydney - Eastern Suburbs			157500	128
+Sydney - Eastern Suburbs			183750	90
+Sydney - Eastern Suburbs			210000	37
+Sydney - Eastern Suburbs			Inf	126
+Sydney - Eastern Suburbs	0			777
+Sydney - Eastern Suburbs	0		0	199
+Sydney - Eastern Suburbs	0		7875	47
+Sydney - Eastern Suburbs	0		15750	90
+Sydney - Eastern Suburbs	0		21000	133
+Sydney - Eastern Suburbs	0		26250	223
+Sydney - Eastern Suburbs	0		34125	299
+Sydney - Eastern Suburbs	0		42000	402
+Sydney - Eastern Suburbs	0		52500	543
+Sydney - Eastern Suburbs	0		65625	679
+Sydney - Eastern Suburbs	0		78750	613
+Sydney - Eastern Suburbs	0		91875	554
+Sydney - Eastern Suburbs	0		105000	528
+Sydney - Eastern Suburbs	0		131250	1101
+Sydney - Eastern Suburbs	0		157500	424
+Sydney - Eastern Suburbs	0		183750	465
+Sydney - Eastern Suburbs	0		210000	172
+Sydney - Eastern Suburbs	0		Inf	1212
+Sydney - Eastern Suburbs	1	0		3363
+Sydney - Eastern Suburbs	1	0	0	560
+Sydney - Eastern Suburbs	1	0	7875	157
+Sydney - Eastern Suburbs	1	0	15750	112
+Sydney - Eastern Suburbs	1	0	21000	70
+Sydney - Eastern Suburbs	1	0	26250	356
+Sydney - Eastern Suburbs	1	0	34125	238
+Sydney - Eastern Suburbs	1	0	42000	1051
+Sydney - Eastern Suburbs	1	0	52500	989
+Sydney - Eastern Suburbs	1	0	65625	1390
+Sydney - Eastern Suburbs	1	0	78750	1908
+Sydney - Eastern Suburbs	1	0	91875	1410
+Sydney - Eastern Suburbs	1	0	105000	1893
+Sydney - Eastern Suburbs	1	0	131250	4806
+Sydney - Eastern Suburbs	1	0	157500	4437
+Sydney - Eastern Suburbs	1	0	183750	4569
+Sydney - Eastern Suburbs	1	0	210000	3716
+Sydney - Eastern Suburbs	1	0	Inf	24366
+Sydney - Eastern Suburbs	1	1	7875	15
+Sydney - Eastern Suburbs	1	1	15750	26
+Sydney - Eastern Suburbs	1	1	21000	30
+Sydney - Eastern Suburbs	1	1	26250	39
+Sydney - Eastern Suburbs	1	1	34125	84
+Sydney - Eastern Suburbs	1	1	42000	148
+Sydney - Inner South West				60
+Sydney - Inner South West			0	82
+Sydney - Inner South West			7875	21
+Sydney - Inner South West			15750	36
+Sydney - Inner South West			21000	25
+Sydney - Inner South West			26250	63
+Sydney - Inner South West			34125	92
+Sydney - Inner South West			42000	146
+Sydney - Inner South West			52500	315
+Sydney - Inner South West			65625	334
+Sydney - Inner South West			78750	416
+Sydney - Inner South West			91875	259
+Sydney - Inner South West			105000	256
+Sydney - Inner South West			131250	461
+Sydney - Inner South West			157500	324
+Sydney - Inner South West			183750	157
+Sydney - Inner South West			210000	82
+Sydney - Inner South West			Inf	173
+Sydney - Inner South West	0			1942
+Sydney - Inner South West	0		0	854
+Sydney - Inner South West	0		7875	171
+Sydney - Inner South West	0		15750	426
+Sydney - Inner South West	0		21000	644
+Sydney - Inner South West	0		26250	1098
+Sydney - Inner South West	0		34125	1565
+Sydney - Inner South West	0		42000	1933
+Sydney - Inner South West	0		52500	2356
+Sydney - Inner South West	0		65625	2605
+Sydney - Inner South West	0		78750	2507
+Sydney - Inner South West	0		91875	1908
+Sydney - Inner South West	0		105000	1587
+Sydney - Inner South West	0		131250	2849
+Sydney - Inner South West	0		157500	1502
+Sydney - Inner South West	0		183750	962
+Sydney - Inner South West	0		210000	506
+Sydney - Inner South West	0		Inf	1101
+Sydney - Inner South West	1	0		7370
+Sydney - Inner South West	1	0	0	2929
+Sydney - Inner South West	1	0	7875	550
+Sydney - Inner South West	1	0	15750	437
+Sydney - Inner South West	1	0	21000	345
+Sydney - Inner South West	1	0	26250	1738
+Sydney - Inner South West	1	0	34125	1101
+Sydney - Inner South West	1	0	42000	5993
+Sydney - Inner South West	1	0	52500	5927
+Sydney - Inner South West	1	0	65625	7607
+Sydney - Inner South West	1	0	78750	9287
+Sydney - Inner South West	1	0	91875	6781
+Sydney - Inner South West	1	0	105000	7448
+Sydney - Inner South West	1	0	131250	15889
+Sydney - Inner South West	1	0	157500	11874
+Sydney - Inner South West	1	0	183750	9819
+Sydney - Inner South West	1	0	210000	6783
+Sydney - Inner South West	1	0	Inf	19749
+Sydney - Inner South West	1	1	7875	148
+Sydney - Inner South West	1	1	15750	260
+Sydney - Inner South West	1	1	21000	285
+Sydney - Inner South West	1	1	26250	639
+Sydney - Inner South West	1	1	34125	1045
+Sydney - Inner South West	1	1	42000	1997
+Sydney - Inner West				31
+Sydney - Inner West			0	46
+Sydney - Inner West			7875	10
+Sydney - Inner West			15750	20
+Sydney - Inner West			21000	17
+Sydney - Inner West			26250	32
+Sydney - Inner West			34125	45
+Sydney - Inner West			42000	69
+Sydney - Inner West			52500	133
+Sydney - Inner West			65625	141
+Sydney - Inner West			78750	228
+Sydney - Inner West			91875	149
+Sydney - Inner West			105000	145
+Sydney - Inner West			131250	276
+Sydney - Inner West			157500	175
+Sydney - Inner West			183750	115
+Sydney - Inner West			210000	62
+Sydney - Inner West			Inf	143
+Sydney - Inner West	0			822
+Sydney - Inner West	0		0	329
+Sydney - Inner West	0		7875	81
+Sydney - Inner West	0		15750	138
+Sydney - Inner West	0		21000	202
+Sydney - Inner West	0		26250	293
+Sydney - Inner West	0		34125	458
+Sydney - Inner West	0		42000	520
+Sydney - Inner West	0		52500	774
+Sydney - Inner West	0		65625	894
+Sydney - Inner West	0		78750	875
+Sydney - Inner West	0		91875	802
+Sydney - Inner West	0		105000	672
+Sydney - Inner West	0		131250	1446
+Sydney - Inner West	0		157500	594
+Sydney - Inner West	0		183750	560
+Sydney - Inner West	0		210000	221
+Sydney - Inner West	0		Inf	1057
+Sydney - Inner West	1	0		3321
+Sydney - Inner West	1	0	0	1032
+Sydney - Inner West	1	0	7875	263
+Sydney - Inner West	1	0	15750	159
+Sydney - Inner West	1	0	21000	136
+Sydney - Inner West	1	0	26250	609
+Sydney - Inner West	1	0	34125	438
+Sydney - Inner West	1	0	42000	1998
+Sydney - Inner West	1	0	52500	1761
+Sydney - Inner West	1	0	65625	2663
+Sydney - Inner West	1	0	78750	3361
+Sydney - Inner West	1	0	91875	2549
+Sydney - Inner West	1	0	105000	2963
+Sydney - Inner West	1	0	131250	7255
+Sydney - Inner West	1	0	157500	5938
+Sydney - Inner West	1	0	183750	5796
+Sydney - Inner West	1	0	210000	4575
+Sydney - Inner West	1	0	Inf	22511
+Sydney - Inner West	1	1	7875	40
+Sydney - Inner West	1	1	15750	61
+Sydney - Inner West	1	1	21000	63
+Sydney - Inner West	1	1	26250	120
+Sydney - Inner West	1	1	34125	206
+Sydney - Inner West	1	1	42000	324
+Sydney - North Sydney and Hornsby				24
+Sydney - North Sydney and Hornsby			0	36
+Sydney - North Sydney and Hornsby			7875	8
+Sydney - North Sydney and Hornsby			15750	15
+Sydney - North Sydney and Hornsby			21000	26
+Sydney - North Sydney and Hornsby			26250	34
+Sydney - North Sydney and Hornsby			34125	38
+Sydney - North Sydney and Hornsby			42000	46
+Sydney - North Sydney and Hornsby			52500	82
+Sydney - North Sydney and Hornsby			65625	112
+Sydney - North Sydney and Hornsby			78750	155
+Sydney - North Sydney and Hornsby			91875	113
+Sydney - North Sydney and Hornsby			105000	101
+Sydney - North Sydney and Hornsby			131250	198
+Sydney - North Sydney and Hornsby			157500	151
+Sydney - North Sydney and Hornsby			183750	122
+Sydney - North Sydney and Hornsby			210000	76
+Sydney - North Sydney and Hornsby			Inf	157
+Sydney - North Sydney and Hornsby	0			1055
+Sydney - North Sydney and Hornsby	0		0	550
+Sydney - North Sydney and Hornsby	0		7875	130
+Sydney - North Sydney and Hornsby	0		15750	164
+Sydney - North Sydney and Hornsby	0		21000	228
+Sydney - North Sydney and Hornsby	0		26250	328
+Sydney - North Sydney and Hornsby	0		34125	495
+Sydney - North Sydney and Hornsby	0		42000	563
+Sydney - North Sydney and Hornsby	0		52500	757
+Sydney - North Sydney and Hornsby	0		65625	1027
+Sydney - North Sydney and Hornsby	0		78750	1027
+Sydney - North Sydney and Hornsby	0		91875	958
+Sydney - North Sydney and Hornsby	0		105000	877
+Sydney - North Sydney and Hornsby	0		131250	1907
+Sydney - North Sydney and Hornsby	0		157500	777
+Sydney - North Sydney and Hornsby	0		183750	759
+Sydney - North Sydney and Hornsby	0		210000	295
+Sydney - North Sydney and Hornsby	0		Inf	1914
+Sydney - North Sydney and Hornsby	1	0		5345
+Sydney - North Sydney and Hornsby	1	0	0	1469
+Sydney - North Sydney and Hornsby	1	0	7875	395
+Sydney - North Sydney and Hornsby	1	0	15750	249
+Sydney - North Sydney and Hornsby	1	0	21000	127
+Sydney - North Sydney and Hornsby	1	0	26250	798
+Sydney - North Sydney and Hornsby	1	0	34125	564
+Sydney - North Sydney and Hornsby	1	0	42000	1782
+Sydney - North Sydney and Hornsby	1	0	52500	2052
+Sydney - North Sydney and Hornsby	1	0	65625	3024
+Sydney - North Sydney and Hornsby	1	0	78750	3891
+Sydney - North Sydney and Hornsby	1	0	91875	3107
+Sydney - North Sydney and Hornsby	1	0	105000	3718
+Sydney - North Sydney and Hornsby	1	0	131250	9187
+Sydney - North Sydney and Hornsby	1	0	157500	7746
+Sydney - North Sydney and Hornsby	1	0	183750	8414
+Sydney - North Sydney and Hornsby	1	0	210000	6489
+Sydney - North Sydney and Hornsby	1	0	Inf	43226
+Sydney - North Sydney and Hornsby	1	1	7875	60
+Sydney - North Sydney and Hornsby	1	1	15750	80
+Sydney - North Sydney and Hornsby	1	1	21000	75
+Sydney - North Sydney and Hornsby	1	1	26250	130
+Sydney - North Sydney and Hornsby	1	1	34125	210
+Sydney - North Sydney and Hornsby	1	1	42000	364
+Sydney - Northern Beaches				13
+Sydney - Northern Beaches			0	3
+Sydney - Northern Beaches			7875	6
+Sydney - Northern Beaches			15750	8
+Sydney - Northern Beaches			21000	9
+Sydney - Northern Beaches			26250	22
+Sydney - Northern Beaches			34125	20
+Sydney - Northern Beaches			42000	22
+Sydney - Northern Beaches			52500	51
+Sydney - Northern Beaches			65625	51
+Sydney - Northern Beaches			78750	76
+Sydney - Northern Beaches			91875	57
+Sydney - Northern Beaches			105000	56
+Sydney - Northern Beaches			131250	127
+Sydney - Northern Beaches			157500	65
+Sydney - Northern Beaches			183750	36
+Sydney - Northern Beaches			210000	18
+Sydney - Northern Beaches			Inf	44
+Sydney - Northern Beaches	0			807
+Sydney - Northern Beaches	0		0	139
+Sydney - Northern Beaches	0		7875	34
+Sydney - Northern Beaches	0		15750	69
+Sydney - Northern Beaches	0		21000	101
+Sydney - Northern Beaches	0		26250	169
+Sydney - Northern Beaches	0		34125	281
+Sydney - Northern Beaches	0		42000	377
+Sydney - Northern Beaches	0		52500	533
+Sydney - Northern Beaches	0		65625	683
+Sydney - Northern Beaches	0		78750	748
+Sydney - Northern Beaches	0		91875	693
+Sydney - Northern Beaches	0		105000	633
+Sydney - Northern Beaches	0		131250	1217
+Sydney - Northern Beaches	0		157500	538
+Sydney - Northern Beaches	0		183750	458
+Sydney - Northern Beaches	0		210000	196
+Sydney - Northern Beaches	0		Inf	938
+Sydney - Northern Beaches	1	0		3524
+Sydney - Northern Beaches	1	0	0	532
+Sydney - Northern Beaches	1	0	7875	190
+Sydney - Northern Beaches	1	0	15750	116
+Sydney - Northern Beaches	1	0	21000	83
+Sydney - Northern Beaches	1	0	26250	440
+Sydney - Northern Beaches	1	0	34125	331
+Sydney - Northern Beaches	1	0	42000	1451
+Sydney - Northern Beaches	1	0	52500	1350
+Sydney - Northern Beaches	1	0	65625	2082
+Sydney - Northern Beaches	1	0	78750	2669
+Sydney - Northern Beaches	1	0	91875	2089
+Sydney - Northern Beaches	1	0	105000	2483
+Sydney - Northern Beaches	1	0	131250	5980
+Sydney - Northern Beaches	1	0	157500	5517
+Sydney - Northern Beaches	1	0	183750	5432
+Sydney - Northern Beaches	1	0	210000	4159
+Sydney - Northern Beaches	1	0	Inf	24334
+Sydney - Northern Beaches	1	1	7875	18
+Sydney - Northern Beaches	1	1	15750	32
+Sydney - Northern Beaches	1	1	21000	23
+Sydney - Northern Beaches	1	1	26250	55
+Sydney - Northern Beaches	1	1	34125	81
+Sydney - Northern Beaches	1	1	42000	166
+Sydney - Outer South West				28
+Sydney - Outer South West			0	20
+Sydney - Outer South West			7875	9
+Sydney - Outer South West			15750	10
+Sydney - Outer South West			21000	11
+Sydney - Outer South West			26250	29
+Sydney - Outer South West			34125	24
+Sydney - Outer South West			42000	50
+Sydney - Outer South West			52500	106
+Sydney - Outer South West			65625	110
+Sydney - Outer South West			78750	116
+Sydney - Outer South West			91875	60
+Sydney - Outer South West			105000	96
+Sydney - Outer South West			131250	154
+Sydney - Outer South West			157500	99
+Sydney - Outer South West			183750	58
+Sydney - Outer South West			210000	19
+Sydney - Outer South West			Inf	38
+Sydney - Outer South West	0			1114
+Sydney - Outer South West	0		0	275
+Sydney - Outer South West	0		7875	64
+Sydney - Outer South West	0		15750	159
+Sydney - Outer South West	0		21000	315
+Sydney - Outer South West	0		26250	601
+Sydney - Outer South West	0		34125	1045
+Sydney - Outer South West	0		42000	1127
+Sydney - Outer South West	0		52500	1451
+Sydney - Outer South West	0		65625	1557
+Sydney - Outer South West	0		78750	1320
+Sydney - Outer South West	0		91875	1071
+Sydney - Outer South West	0		105000	925
+Sydney - Outer South West	0		131250	1514
+Sydney - Outer South West	0		157500	761
+Sydney - Outer South West	0		183750	488
+Sydney - Outer South West	0		210000	209
+Sydney - Outer South West	0		Inf	406
+Sydney - Outer South West	1	0		3861
+Sydney - Outer South West	1	0	0	809
+Sydney - Outer South West	1	0	7875	173
+Sydney - Outer South West	1	0	15750	138
+Sydney - Outer South West	1	0	21000	166
+Sydney - Outer South West	1	0	26250	581
+Sydney - Outer South West	1	0	34125	462
+Sydney - Outer South West	1	0	42000	2615
+Sydney - Outer South West	1	0	52500	2487
+Sydney - Outer South West	1	0	65625	3297
+Sydney - Outer South West	1	0	78750	4325
+Sydney - Outer South West	1	0	91875	3712
+Sydney - Outer South West	1	0	105000	3952
+Sydney - Outer South West	1	0	131250	9635
+Sydney - Outer South West	1	0	157500	7736
+Sydney - Outer South West	1	0	183750	6279
+Sydney - Outer South West	1	0	210000	4084
+Sydney - Outer South West	1	0	Inf	9135
+Sydney - Outer South West	1	1	7875	48
+Sydney - Outer South West	1	1	15750	86
+Sydney - Outer South West	1	1	21000	54
+Sydney - Outer South West	1	1	26250	156
+Sydney - Outer South West	1	1	34125	273
+Sydney - Outer South West	1	1	42000	565
+Sydney - Outer West and Blue Mountains				17
+Sydney - Outer West and Blue Mountains			0	17
+Sydney - Outer West and Blue Mountains			7875	6
+Sydney - Outer West and Blue Mountains			15750	11
+Sydney - Outer West and Blue Mountains			21000	10
+Sydney - Outer West and Blue Mountains			26250	24
+Sydney - Outer West and Blue Mountains			34125	28
+Sydney - Outer West and Blue Mountains			42000	59
+Sydney - Outer West and Blue Mountains			52500	127
+Sydney - Outer West and Blue Mountains			65625	123
+Sydney - Outer West and Blue Mountains			78750	147
+Sydney - Outer West and Blue Mountains			91875	86
+Sydney - Outer West and Blue Mountains			105000	101
+Sydney - Outer West and Blue Mountains			131250	178
+Sydney - Outer West and Blue Mountains			157500	111
+Sydney - Outer West and Blue Mountains			183750	54
+Sydney - Outer West and Blue Mountains			210000	29
+Sydney - Outer West and Blue Mountains			Inf	42
+Sydney - Outer West and Blue Mountains	0			1230
+Sydney - Outer West and Blue Mountains	0		0	242
+Sydney - Outer West and Blue Mountains	0		7875	76
+Sydney - Outer West and Blue Mountains	0		15750	175
+Sydney - Outer West and Blue Mountains	0		21000	313
+Sydney - Outer West and Blue Mountains	0		26250	638
+Sydney - Outer West and Blue Mountains	0		34125	1109
+Sydney - Outer West and Blue Mountains	0		42000	1333
+Sydney - Outer West and Blue Mountains	0		52500	1563
+Sydney - Outer West and Blue Mountains	0		65625	1761
+Sydney - Outer West and Blue Mountains	0		78750	1664
+Sydney - Outer West and Blue Mountains	0		91875	1247
+Sydney - Outer West and Blue Mountains	0		105000	1106
+Sydney - Outer West and Blue Mountains	0		131250	1855
+Sydney - Outer West and Blue Mountains	0		157500	910
+Sydney - Outer West and Blue Mountains	0		183750	553
+Sydney - Outer West and Blue Mountains	0		210000	259
+Sydney - Outer West and Blue Mountains	0		Inf	498
+Sydney - Outer West and Blue Mountains	1	0		4129
+Sydney - Outer West and Blue Mountains	1	0	0	791
+Sydney - Outer West and Blue Mountains	1	0	7875	201
+Sydney - Outer West and Blue Mountains	1	0	15750	171
+Sydney - Outer West and Blue Mountains	1	0	21000	140
+Sydney - Outer West and Blue Mountains	1	0	26250	652
+Sydney - Outer West and Blue Mountains	1	0	34125	487
+Sydney - Outer West and Blue Mountains	1	0	42000	2881
+Sydney - Outer West and Blue Mountains	1	0	52500	2674
+Sydney - Outer West and Blue Mountains	1	0	65625	3534
+Sydney - Outer West and Blue Mountains	1	0	78750	4717
+Sydney - Outer West and Blue Mountains	1	0	91875	3924
+Sydney - Outer West and Blue Mountains	1	0	105000	4387
+Sydney - Outer West and Blue Mountains	1	0	131250	10539
+Sydney - Outer West and Blue Mountains	1	0	157500	8795
+Sydney - Outer West and Blue Mountains	1	0	183750	7334
+Sydney - Outer West and Blue Mountains	1	0	210000	4943
+Sydney - Outer West and Blue Mountains	1	0	Inf	10983
+Sydney - Outer West and Blue Mountains	1	1	7875	29
+Sydney - Outer West and Blue Mountains	1	1	15750	45
+Sydney - Outer West and Blue Mountains	1	1	21000	35
+Sydney - Outer West and Blue Mountains	1	1	26250	101
+Sydney - Outer West and Blue Mountains	1	1	34125	177
+Sydney - Outer West and Blue Mountains	1	1	42000	375
+Sydney - Parramatta				57
+Sydney - Parramatta			0	71
+Sydney - Parramatta			7875	17
+Sydney - Parramatta			15750	28
+Sydney - Parramatta			21000	26
+Sydney - Parramatta			26250	65
+Sydney - Parramatta			34125	62
+Sydney - Parramatta			42000	125
+Sydney - Parramatta			52500	205
+Sydney - Parramatta			65625	258
+Sydney - Parramatta			78750	338
+Sydney - Parramatta			91875	228
+Sydney - Parramatta			105000	215
+Sydney - Parramatta			131250	403
+Sydney - Parramatta			157500	256
+Sydney - Parramatta			183750	121
+Sydney - Parramatta			210000	74
+Sydney - Parramatta			Inf	120
+Sydney - Parramatta	0			1365
+Sydney - Parramatta	0		0	682
+Sydney - Parramatta	0		7875	141
+Sydney - Parramatta	0		15750	308
+Sydney - Parramatta	0		21000	468
+Sydney - Parramatta	0		26250	787
+Sydney - Parramatta	0		34125	1196
+Sydney - Parramatta	0		42000	1315
+Sydney - Parramatta	0		52500	1679
+Sydney - Parramatta	0		65625	1808
+Sydney - Parramatta	0		78750	1712
+Sydney - Parramatta	0		91875	1361
+Sydney - Parramatta	0		105000	1139
+Sydney - Parramatta	0		131250	2012
+Sydney - Parramatta	0		157500	1095
+Sydney - Parramatta	0		183750	684
+Sydney - Parramatta	0		210000	344
+Sydney - Parramatta	0		Inf	750
+Sydney - Parramatta	1	0		5942
+Sydney - Parramatta	1	0	0	2373
+Sydney - Parramatta	1	0	7875	415
+Sydney - Parramatta	1	0	15750	314
+Sydney - Parramatta	1	0	21000	302
+Sydney - Parramatta	1	0	26250	1249
+Sydney - Parramatta	1	0	34125	825
+Sydney - Parramatta	1	0	42000	3924
+Sydney - Parramatta	1	0	52500	4588
+Sydney - Parramatta	1	0	65625	6187
+Sydney - Parramatta	1	0	78750	7563
+Sydney - Parramatta	1	0	91875	5901
+Sydney - Parramatta	1	0	105000	6066
+Sydney - Parramatta	1	0	131250	13921
+Sydney - Parramatta	1	0	157500	9837
+Sydney - Parramatta	1	0	183750	8581
+Sydney - Parramatta	1	0	210000	5776
+Sydney - Parramatta	1	0	Inf	15280
+Sydney - Parramatta	1	1	7875	100
+Sydney - Parramatta	1	1	15750	244
+Sydney - Parramatta	1	1	21000	208
+Sydney - Parramatta	1	1	26250	568
+Sydney - Parramatta	1	1	34125	793
+Sydney - Parramatta	1	1	42000	1644
+Sydney - Ryde				14
+Sydney - Ryde			0	38
+Sydney - Ryde			7875	16
+Sydney - Ryde			15750	10
+Sydney - Ryde			21000	7
+Sydney - Ryde			26250	14
+Sydney - Ryde			34125	24
+Sydney - Ryde			42000	45
+Sydney - Ryde			52500	81
+Sydney - Ryde			65625	82
+Sydney - Ryde			78750	104
+Sydney - Ryde			91875	71
+Sydney - Ryde			105000	69
+Sydney - Ryde			131250	140
+Sydney - Ryde			157500	101
+Sydney - Ryde			183750	51
+Sydney - Ryde			210000	36
+Sydney - Ryde			Inf	67
+Sydney - Ryde	0			459
+Sydney - Ryde	0		0	257
+Sydney - Ryde	0		7875	56
+Sydney - Ryde	0		15750	95
+Sydney - Ryde	0		21000	129
+Sydney - Ryde	0		26250	179
+Sydney - Ryde	0		34125	282
+Sydney - Ryde	0		42000	372
+Sydney - Ryde	0		52500	459
+Sydney - Ryde	0		65625	561
+Sydney - Ryde	0		78750	567
+Sydney - Ryde	0		91875	459
+Sydney - Ryde	0		105000	401
+Sydney - Ryde	0		131250	874
+Sydney - Ryde	0		157500	418
+Sydney - Ryde	0		183750	325
+Sydney - Ryde	0		210000	164
+Sydney - Ryde	0		Inf	522
+Sydney - Ryde	1	0		2395
+Sydney - Ryde	1	0	0	969
+Sydney - Ryde	1	0	7875	239
+Sydney - Ryde	1	0	15750	143
+Sydney - Ryde	1	0	21000	111
+Sydney - Ryde	1	0	26250	547
+Sydney - Ryde	1	0	34125	322
+Sydney - Ryde	1	0	42000	1282
+Sydney - Ryde	1	0	52500	1400
+Sydney - Ryde	1	0	65625	1877
+Sydney - Ryde	1	0	78750	2423
+Sydney - Ryde	1	0	91875	1897
+Sydney - Ryde	1	0	105000	2098
+Sydney - Ryde	1	0	131250	5433
+Sydney - Ryde	1	0	157500	4466
+Sydney - Ryde	1	0	183750	4233
+Sydney - Ryde	1	0	210000	3250
+Sydney - Ryde	1	0	Inf	14022
+Sydney - Ryde	1	1	7875	38
+Sydney - Ryde	1	1	15750	56
+Sydney - Ryde	1	1	21000	40
+Sydney - Ryde	1	1	26250	125
+Sydney - Ryde	1	1	34125	162
+Sydney - Ryde	1	1	42000	270
+Sydney - South West				59
+Sydney - South West			0	49
+Sydney - South West			7875	26
+Sydney - South West			15750	27
+Sydney - South West			21000	33
+Sydney - South West			26250	74
+Sydney - South West			34125	54
+Sydney - South West			42000	126
+Sydney - South West			52500	281
+Sydney - South West			65625	232
+Sydney - South West			78750	242
+Sydney - South West			91875	164
+Sydney - South West			105000	146
+Sydney - South West			131250	260
+Sydney - South West			157500	164
+Sydney - South West			183750	76
+Sydney - South West			210000	51
+Sydney - South West			Inf	66
+Sydney - South West	0			1679
+Sydney - South West	0		0	870
+Sydney - South West	0		7875	136
+Sydney - South West	0		15750	363
+Sydney - South West	0		21000	678
+Sydney - South West	0		26250	1100
+Sydney - South West	0		34125	1556
+Sydney - South West	0		42000	1846
+Sydney - South West	0		52500	2379
+Sydney - South West	0		65625	2522
+Sydney - South West	0		78750	2293
+Sydney - South West	0		91875	1669
+Sydney - South West	0		105000	1454
+Sydney - South West	0		131250	2355
+Sydney - South West	0		157500	1292
+Sydney - South West	0		183750	783
+Sydney - South West	0		210000	445
+Sydney - South West	0		Inf	739
+Sydney - South West	1	0		5811
+Sydney - South West	1	0	0	2259
+Sydney - South West	1	0	7875	289
+Sydney - South West	1	0	15750	227
+Sydney - South West	1	0	21000	260
+Sydney - South West	1	0	26250	1097
+Sydney - South West	1	0	34125	747
+Sydney - South West	1	0	42000	4757
+Sydney - South West	1	0	52500	5005
+Sydney - South West	1	0	65625	6008
+Sydney - South West	1	0	78750	7077
+Sydney - South West	1	0	91875	5560
+Sydney - South West	1	0	105000	5860
+Sydney - South West	1	0	131250	12474
+Sydney - South West	1	0	157500	9773
+Sydney - South West	1	0	183750	7753
+Sydney - South West	1	0	210000	5169
+Sydney - South West	1	0	Inf	11526
+Sydney - South West	1	1	7875	103
+Sydney - South West	1	1	15750	255
+Sydney - South West	1	1	21000	264
+Sydney - South West	1	1	26250	744
+Sydney - South West	1	1	34125	940
+Sydney - South West	1	1	42000	2103
+Sydney - Sutherland				5
+Sydney - Sutherland			0	7
+Sydney - Sutherland			7875	4
+Sydney - Sutherland			15750	7
+Sydney - Sutherland			21000	7
+Sydney - Sutherland			26250	14
+Sydney - Sutherland			34125	12
+Sydney - Sutherland			42000	26
+Sydney - Sutherland			52500	56
+Sydney - Sutherland			65625	65
+Sydney - Sutherland			78750	63
+Sydney - Sutherland			91875	46
+Sydney - Sutherland			105000	48
+Sydney - Sutherland			131250	98
+Sydney - Sutherland			157500	69
+Sydney - Sutherland			183750	49
+Sydney - Sutherland			210000	21
+Sydney - Sutherland			Inf	38
+Sydney - Sutherland	0			709
+Sydney - Sutherland	0		0	106
+Sydney - Sutherland	0		7875	26
+Sydney - Sutherland	0		15750	67
+Sydney - Sutherland	0		21000	106
+Sydney - Sutherland	0		26250	203
+Sydney - Sutherland	0		34125	347
+Sydney - Sutherland	0		42000	422
+Sydney - Sutherland	0		52500	650
+Sydney - Sutherland	0		65625	736
+Sydney - Sutherland	0		78750	787
+Sydney - Sutherland	0		91875	660
+Sydney - Sutherland	0		105000	608
+Sydney - Sutherland	0		131250	1177
+Sydney - Sutherland	0		157500	607
+Sydney - Sutherland	0		183750	439
+Sydney - Sutherland	0		210000	207
+Sydney - Sutherland	0		Inf	550
+Sydney - Sutherland	1	0		2960
+Sydney - Sutherland	1	0	0	591
+Sydney - Sutherland	1	0	7875	232
+Sydney - Sutherland	1	0	15750	119
+Sydney - Sutherland	1	0	21000	66
+Sydney - Sutherland	1	0	26250	526
+Sydney - Sutherland	1	0	34125	382
+Sydney - Sutherland	1	0	42000	1718
+Sydney - Sutherland	1	0	52500	1549
+Sydney - Sutherland	1	0	65625	2187
+Sydney - Sutherland	1	0	78750	2759
+Sydney - Sutherland	1	0	91875	1995
+Sydney - Sutherland	1	0	105000	2392
+Sydney - Sutherland	1	0	131250	6006
+Sydney - Sutherland	1	0	157500	5656
+Sydney - Sutherland	1	0	183750	5702
+Sydney - Sutherland	1	0	210000	4449
+Sydney - Sutherland	1	0	Inf	15930
+Sydney - Sutherland	1	1	7875	18
+Sydney - Sutherland	1	1	15750	34
+Sydney - Sutherland	1	1	21000	18
+Sydney - Sutherland	1	1	26250	50
+Sydney - Sutherland	1	1	34125	70
+Sydney - Sutherland	1	1	42000	144
+Ballarat				23
+Ballarat			7875	6
+Ballarat			15750	7
+Ballarat			21000	4
+Ballarat			26250	19
+Ballarat			34125	24
+Ballarat			42000	38
+Ballarat			52500	84
+Ballarat			65625	89
+Ballarat			78750	84
+Ballarat			91875	47
+Ballarat			105000	42
+Ballarat			131250	69
+Ballarat			157500	48
+Ballarat			183750	17
+Ballarat			210000	3
+Ballarat			Inf	11
+Ballarat	0			720
+Ballarat	0		0	105
+Ballarat	0		7875	32
+Ballarat	0		15750	95
+Ballarat	0		21000	184
+Ballarat	0		26250	397
+Ballarat	0		34125	685
+Ballarat	0		42000	809
+Ballarat	0		52500	1018
+Ballarat	0		65625	1024
+Ballarat	0		78750	849
+Ballarat	0		91875	566
+Ballarat	0		105000	442
+Ballarat	0		131250	602
+Ballarat	0		157500	238
+Ballarat	0		183750	125
+Ballarat	0		210000	65
+Ballarat	0		Inf	128
+Ballarat	1	0		2612
+Ballarat	1	0	0	326
+Ballarat	1	0	7875	143
+Ballarat	1	0	15750	97
+Ballarat	1	0	21000	95
+Ballarat	1	0	26250	504
+Ballarat	1	0	34125	416
+Ballarat	1	0	42000	2506
+Ballarat	1	0	52500	2039
+Ballarat	1	0	65625	2485
+Ballarat	1	0	78750	3181
+Ballarat	1	0	91875	2285
+Ballarat	1	0	105000	2585
+Ballarat	1	0	131250	5129
+Ballarat	1	0	157500	3820
+Ballarat	1	0	183750	2930
+Ballarat	1	0	210000	1742
+Ballarat	1	0	Inf	3959
+Ballarat	1	1	7875	17
+Ballarat	1	1	15750	23
+Ballarat	1	1	21000	19
+Ballarat	1	1	26250	58
+Ballarat	1	1	34125	90
+Ballarat	1	1	42000	262
+Bendigo				21
+Bendigo			0	15
+Bendigo			7875	3
+Bendigo			15750	3
+Bendigo			21000	3
+Bendigo			26250	25
+Bendigo			34125	25
+Bendigo			42000	45
+Bendigo			52500	95
+Bendigo			65625	79
+Bendigo			78750	80
+Bendigo			91875	53
+Bendigo			105000	41
+Bendigo			131250	61
+Bendigo			157500	39
+Bendigo			183750	14
+Bendigo			210000	12
+Bendigo			Inf	9
+Bendigo	0			660
+Bendigo	0		0	69
+Bendigo	0		7875	28
+Bendigo	0		15750	69
+Bendigo	0		21000	170
+Bendigo	0		26250	354
+Bendigo	0		34125	601
+Bendigo	0		42000	732
+Bendigo	0		52500	964
+Bendigo	0		65625	922
+Bendigo	0		78750	774
+Bendigo	0		91875	595
+Bendigo	0		105000	428
+Bendigo	0		131250	671
+Bendigo	0		157500	250
+Bendigo	0		183750	149
+Bendigo	0		210000	58
+Bendigo	0		Inf	110
+Bendigo	1	0		2550
+Bendigo	1	0	0	314
+Bendigo	1	0	7875	156
+Bendigo	1	0	15750	99
+Bendigo	1	0	21000	56
+Bendigo	1	0	26250	480
+Bendigo	1	0	34125	362
+Bendigo	1	0	42000	2312
+Bendigo	1	0	52500	1965
+Bendigo	1	0	65625	2402
+Bendigo	1	0	78750	3051
+Bendigo	1	0	91875	2134
+Bendigo	1	0	105000	2434
+Bendigo	1	0	131250	5208
+Bendigo	1	0	157500	3912
+Bendigo	1	0	183750	3037
+Bendigo	1	0	210000	1817
+Bendigo	1	0	Inf	3847
+Bendigo	1	1	7875	18
+Bendigo	1	1	15750	28
+Bendigo	1	1	21000	18
+Bendigo	1	1	26250	41
+Bendigo	1	1	34125	81
+Bendigo	1	1	42000	219
+Geelong				33
+Geelong			0	13
+Geelong			7875	8
+Geelong			15750	14
+Geelong			21000	14
+Geelong			26250	23
+Geelong			34125	31
+Geelong			42000	72
+Geelong			52500	131
+Geelong			65625	137
+Geelong			78750	131
+Geelong			91875	80
+Geelong			105000	64
+Geelong			131250	172
+Geelong			157500	81
+Geelong			183750	49
+Geelong			210000	24
+Geelong			Inf	43
+Geelong	0			1231
+Geelong	0		0	171
+Geelong	0		7875	85
+Geelong	0		15750	156
+Geelong	0		21000	237
+Geelong	0		26250	537
+Geelong	0		34125	985
+Geelong	0		42000	1102
+Geelong	0		52500	1506
+Geelong	0		65625	1540
+Geelong	0		78750	1405
+Geelong	0		91875	1027
+Geelong	0		105000	773
+Geelong	0		131250	1300
+Geelong	0		157500	539
+Geelong	0		183750	339
+Geelong	0		210000	140
+Geelong	0		Inf	361
+Geelong	1	0		4704
+Geelong	1	0	0	723
+Geelong	1	0	7875	288
+Geelong	1	0	15750	194
+Geelong	1	0	21000	157
+Geelong	1	0	26250	884
+Geelong	1	0	34125	659
+Geelong	1	0	42000	3768
+Geelong	1	0	52500	3342
+Geelong	1	0	65625	4285
+Geelong	1	0	78750	5250
+Geelong	1	0	91875	3800
+Geelong	1	0	105000	4224
+Geelong	1	0	131250	9938
+Geelong	1	0	157500	8229
+Geelong	1	0	183750	6890
+Geelong	1	0	210000	4324
+Geelong	1	0	Inf	10685
+Geelong	1	1	7875	26
+Geelong	1	1	15750	50
+Geelong	1	1	21000	40
+Geelong	1	1	26250	94
+Geelong	1	1	34125	174
+Geelong	1	1	42000	363
+Hume				25
+Hume			0	3
+Hume			7875	3
+Hume			15750	8
+Hume			21000	7
+Hume			26250	23
+Hume			34125	21
+Hume			42000	41
+Hume			52500	79
+Hume			65625	78
+Hume			78750	79
+Hume			91875	40
+Hume			105000	40
+Hume			131250	64
+Hume			157500	34
+Hume			183750	20
+Hume			210000	6
+Hume			Inf	12
+Hume	0			782
+Hume	0		0	90
+Hume	0		7875	25
+Hume	0		15750	78
+Hume	0		21000	183
+Hume	0		26250	347
+Hume	0		34125	626
+Hume	0		42000	775
+Hume	0		52500	964
+Hume	0		65625	968
+Hume	0		78750	801
+Hume	0		91875	502
+Hume	0		105000	441
+Hume	0		131250	620
+Hume	0		157500	238
+Hume	0		183750	140
+Hume	0		210000	54
+Hume	0		Inf	134
+Hume	1	0		3384
+Hume	1	0	0	398
+Hume	1	0	7875	183
+Hume	1	0	15750	118
+Hume	1	0	21000	112
+Hume	1	0	26250	669
+Hume	1	0	34125	430
+Hume	1	0	42000	2849
+Hume	1	0	52500	2295
+Hume	1	0	65625	2877
+Hume	1	0	78750	3543
+Hume	1	0	91875	2503
+Hume	1	0	105000	2827
+Hume	1	0	131250	6184
+Hume	1	0	157500	4278
+Hume	1	0	183750	3055
+Hume	1	0	210000	1789
+Hume	1	0	Inf	3466
+Hume	1	1	7875	28
+Hume	1	1	15750	25
+Hume	1	1	21000	31
+Hume	1	1	26250	60
+Hume	1	1	34125	93
+Hume	1	1	42000	203
+Latrobe - Gippsland				34
+Latrobe - Gippsland			0	15
+Latrobe - Gippsland			7875	10
+Latrobe - Gippsland			15750	11
+Latrobe - Gippsland			21000	15
+Latrobe - Gippsland			26250	35
+Latrobe - Gippsland			34125	27
+Latrobe - Gippsland			42000	73
+Latrobe - Gippsland			52500	173
+Latrobe - Gippsland			65625	133
+Latrobe - Gippsland			78750	96
+Latrobe - Gippsland			91875	81
+Latrobe - Gippsland			105000	65
+Latrobe - Gippsland			131250	72
+Latrobe - Gippsland			157500	55
+Latrobe - Gippsland			183750	25
+Latrobe - Gippsland			210000	6
+Latrobe - Gippsland			Inf	16
+Latrobe - Gippsland	0			1288
+Latrobe - Gippsland	0		0	165
+Latrobe - Gippsland	0		7875	73
+Latrobe - Gippsland	0		15750	191
+Latrobe - Gippsland	0		21000	359
+Latrobe - Gippsland	0		26250	677
+Latrobe - Gippsland	0		34125	1154
+Latrobe - Gippsland	0		42000	1368
+Latrobe - Gippsland	0		52500	1660
+Latrobe - Gippsland	0		65625	1509
+Latrobe - Gippsland	0		78750	1269
+Latrobe - Gippsland	0		91875	805
+Latrobe - Gippsland	0		105000	631
+Latrobe - Gippsland	0		131250	904
+Latrobe - Gippsland	0		157500	330
+Latrobe - Gippsland	0		183750	182
+Latrobe - Gippsland	0		210000	83
+Latrobe - Gippsland	0		Inf	199
+Latrobe - Gippsland	1	0		5440
+Latrobe - Gippsland	1	0	0	900
+Latrobe - Gippsland	1	0	7875	383
+Latrobe - Gippsland	1	0	15750	273
+Latrobe - Gippsland	1	0	21000	226
+Latrobe - Gippsland	1	0	26250	1234
+Latrobe - Gippsland	1	0	34125	874
+Latrobe - Gippsland	1	0	42000	5339
+Latrobe - Gippsland	1	0	52500	4428
+Latrobe - Gippsland	1	0	65625	5055
+Latrobe - Gippsland	1	0	78750	5870
+Latrobe - Gippsland	1	0	91875	3823
+Latrobe - Gippsland	1	0	105000	4598
+Latrobe - Gippsland	1	0	131250	8829
+Latrobe - Gippsland	1	0	157500	6140
+Latrobe - Gippsland	1	0	183750	4533
+Latrobe - Gippsland	1	0	210000	2477
+Latrobe - Gippsland	1	0	Inf	5746
+Latrobe - Gippsland	1	1	7875	28
+Latrobe - Gippsland	1	1	15750	50
+Latrobe - Gippsland	1	1	21000	25
+Latrobe - Gippsland	1	1	26250	127
+Latrobe - Gippsland	1	1	34125	173
+Latrobe - Gippsland	1	1	42000	442
+Melbourne - Inner				41
+Melbourne - Inner			0	208
+Melbourne - Inner			7875	63
+Melbourne - Inner			15750	77
+Melbourne - Inner			21000	55
+Melbourne - Inner			26250	130
+Melbourne - Inner			34125	137
+Melbourne - Inner			42000	228
+Melbourne - Inner			52500	335
+Melbourne - Inner			65625	394
+Melbourne - Inner			78750	461
+Melbourne - Inner			91875	333
+Melbourne - Inner			105000	311
+Melbourne - Inner			131250	541
+Melbourne - Inner			157500	432
+Melbourne - Inner			183750	268
+Melbourne - Inner			210000	167
+Melbourne - Inner			Inf	352
+Melbourne - Inner	0			1486
+Melbourne - Inner	0		0	522
+Melbourne - Inner	0		7875	163
+Melbourne - Inner	0		15750	351
+Melbourne - Inner	0		21000	443
+Melbourne - Inner	0		26250	673
+Melbourne - Inner	0		34125	897
+Melbourne - Inner	0		42000	1023
+Melbourne - Inner	0		52500	1379
+Melbourne - Inner	0		65625	1536
+Melbourne - Inner	0		78750	1382
+Melbourne - Inner	0		91875	1190
+Melbourne - Inner	0		105000	1090
+Melbourne - Inner	0		131250	2075
+Melbourne - Inner	0		157500	758
+Melbourne - Inner	0		183750	714
+Melbourne - Inner	0		210000	251
+Melbourne - Inner	0		Inf	1392
+Melbourne - Inner	1	0		5935
+Melbourne - Inner	1	0	0	1322
+Melbourne - Inner	1	0	7875	345
+Melbourne - Inner	1	0	15750	274
+Melbourne - Inner	1	0	21000	237
+Melbourne - Inner	1	0	26250	906
+Melbourne - Inner	1	0	34125	724
+Melbourne - Inner	1	0	42000	2841
+Melbourne - Inner	1	0	52500	2847
+Melbourne - Inner	1	0	65625	4104
+Melbourne - Inner	1	0	78750	5574
+Melbourne - Inner	1	0	91875	4378
+Melbourne - Inner	1	0	105000	5212
+Melbourne - Inner	1	0	131250	13311
+Melbourne - Inner	1	0	157500	12121
+Melbourne - Inner	1	0	183750	11719
+Melbourne - Inner	1	0	210000	9162
+Melbourne - Inner	1	0	Inf	39666
+Melbourne - Inner	1	1	7875	66
+Melbourne - Inner	1	1	15750	91
+Melbourne - Inner	1	1	21000	75
+Melbourne - Inner	1	1	26250	185
+Melbourne - Inner	1	1	34125	241
+Melbourne - Inner	1	1	42000	455
+Melbourne - Inner East				25
+Melbourne - Inner East			0	61
+Melbourne - Inner East			7875	31
+Melbourne - Inner East			15750	33
+Melbourne - Inner East			21000	14
+Melbourne - Inner East			26250	41
+Melbourne - Inner East			34125	54
+Melbourne - Inner East			42000	84
+Melbourne - Inner East			52500	149
+Melbourne - Inner East			65625	151
+Melbourne - Inner East			78750	213
+Melbourne - Inner East			91875	142
+Melbourne - Inner East			105000	101
+Melbourne - Inner East			131250	246
+Melbourne - Inner East			157500	166
+Melbourne - Inner East			183750	94
+Melbourne - Inner East			210000	42
+Melbourne - Inner East			Inf	108
+Melbourne - Inner East	0			1109
+Melbourne - Inner East	0		0	794
+Melbourne - Inner East	0		7875	184
+Melbourne - Inner East	0		15750	295
+Melbourne - Inner East	0		21000	316
+Melbourne - Inner East	0		26250	475
+Melbourne - Inner East	0		34125	603
+Melbourne - Inner East	0		42000	698
+Melbourne - Inner East	0		52500	896
+Melbourne - Inner East	0		65625	1229
+Melbourne - Inner East	0		78750	1080
+Melbourne - Inner East	0		91875	869
+Melbourne - Inner East	0		105000	857
+Melbourne - Inner East	0		131250	1576
+Melbourne - Inner East	0		157500	758
+Melbourne - Inner East	0		183750	628
+Melbourne - Inner East	0		210000	238
+Melbourne - Inner East	0		Inf	1042
+Melbourne - Inner East	1	0		5109
+Melbourne - Inner East	1	0	0	1691
+Melbourne - Inner East	1	0	7875	464
+Melbourne - Inner East	1	0	15750	285
+Melbourne - Inner East	1	0	21000	191
+Melbourne - Inner East	1	0	26250	925
+Melbourne - Inner East	1	0	34125	678
+Melbourne - Inner East	1	0	42000	2759
+Melbourne - Inner East	1	0	52500	2902
+Melbourne - Inner East	1	0	65625	3723
+Melbourne - Inner East	1	0	78750	4551
+Melbourne - Inner East	1	0	91875	3368
+Melbourne - Inner East	1	0	105000	3797
+Melbourne - Inner East	1	0	131250	8553
+Melbourne - Inner East	1	0	157500	7141
+Melbourne - Inner East	1	0	183750	6835
+Melbourne - Inner East	1	0	210000	5097
+Melbourne - Inner East	1	0	Inf	26157
+Melbourne - Inner East	1	1	7875	96
+Melbourne - Inner East	1	1	15750	134
+Melbourne - Inner East	1	1	21000	110
+Melbourne - Inner East	1	1	26250	219
+Melbourne - Inner East	1	1	34125	351
+Melbourne - Inner East	1	1	42000	606
+Melbourne - Inner South				27
+Melbourne - Inner South			0	39
+Melbourne - Inner South			7875	14
+Melbourne - Inner South			15750	12
+Melbourne - Inner South			21000	10
+Melbourne - Inner South			26250	41
+Melbourne - Inner South			34125	57
+Melbourne - Inner South			42000	72
+Melbourne - Inner South			52500	147
+Melbourne - Inner South			65625	140
+Melbourne - Inner South			78750	161
+Melbourne - Inner South			91875	106
+Melbourne - Inner South			105000	118
+Melbourne - Inner South			131250	235
+Melbourne - Inner South			157500	142
+Melbourne - Inner South			183750	94
+Melbourne - Inner South			210000	57
+Melbourne - Inner South			Inf	108
+Melbourne - Inner South	0			1409
+Melbourne - Inner South	0		0	425
+Melbourne - Inner South	0		7875	134
+Melbourne - Inner South	0		15750	197
+Melbourne - Inner South	0		21000	241
+Melbourne - Inner South	0		26250	438
+Melbourne - Inner South	0		34125	658
+Melbourne - Inner South	0		42000	791
+Melbourne - Inner South	0		52500	1203
+Melbourne - Inner South	0		65625	1437
+Melbourne - Inner South	0		78750	1350
+Melbourne - Inner South	0		91875	1196
+Melbourne - Inner South	0		105000	992
+Melbourne - Inner South	0		131250	1968
+Melbourne - Inner South	0		157500	751
+Melbourne - Inner South	0		183750	737
+Melbourne - Inner South	0		210000	271
+Melbourne - Inner South	0		Inf	1298
+Melbourne - Inner South	1	0		5513
+Melbourne - Inner South	1	0	0	1048
+Melbourne - Inner South	1	0	7875	327
+Melbourne - Inner South	1	0	15750	244
+Melbourne - Inner South	1	0	21000	143
+Melbourne - Inner South	1	0	26250	779
+Melbourne - Inner South	1	0	34125	569
+Melbourne - Inner South	1	0	42000	2665
+Melbourne - Inner South	1	0	52500	2525
+Melbourne - Inner South	1	0	65625	3520
+Melbourne - Inner South	1	0	78750	4474
+Melbourne - Inner South	1	0	91875	3359
+Melbourne - Inner South	1	0	105000	3893
+Melbourne - Inner South	1	0	131250	9688
+Melbourne - Inner South	1	0	157500	9225
+Melbourne - Inner South	1	0	183750	8952
+Melbourne - Inner South	1	0	210000	6764
+Melbourne - Inner South	1	0	Inf	32794
+Melbourne - Inner South	1	1	7875	46
+Melbourne - Inner South	1	1	15750	77
+Melbourne - Inner South	1	1	21000	63
+Melbourne - Inner South	1	1	26250	146
+Melbourne - Inner South	1	1	34125	174
+Melbourne - Inner South	1	1	42000	320
+Melbourne - North East				53
+Melbourne - North East			0	42
+Melbourne - North East			7875	13
+Melbourne - North East			15750	23
+Melbourne - North East			21000	26
+Melbourne - North East			26250	51
+Melbourne - North East			34125	51
+Melbourne - North East			42000	134
+Melbourne - North East			52500	211
+Melbourne - North East			65625	229
+Melbourne - North East			78750	259
+Melbourne - North East			91875	195
+Melbourne - North East			105000	193
+Melbourne - North East			131250	330
+Melbourne - North East			157500	234
+Melbourne - North East			183750	115
+Melbourne - North East			210000	66
+Melbourne - North East			Inf	83
+Melbourne - North East	0			1907
+Melbourne - North East	0		0	517
+Melbourne - North East	0		7875	131
+Melbourne - North East	0		15750	305
+Melbourne - North East	0		21000	488
+Melbourne - North East	0		26250	810
+Melbourne - North East	0		34125	1397
+Melbourne - North East	0		42000	1556
+Melbourne - North East	0		52500	2225
+Melbourne - North East	0		65625	2343
+Melbourne - North East	0		78750	2241
+Melbourne - North East	0		91875	1775
+Melbourne - North East	0		105000	1527
+Melbourne - North East	0		131250	2505
+Melbourne - North East	0		157500	1172
+Melbourne - North East	0		183750	720
+Melbourne - North East	0		210000	342
+Melbourne - North East	0		Inf	744
+Melbourne - North East	1	0		7057
+Melbourne - North East	1	0	0	1793
+Melbourne - North East	1	0	7875	468
+Melbourne - North East	1	0	15750	305
+Melbourne - North East	1	0	21000	256
+Melbourne - North East	1	0	26250	1265
+Melbourne - North East	1	0	34125	829
+Melbourne - North East	1	0	42000	5024
+Melbourne - North East	1	0	52500	4726
+Melbourne - North East	1	0	65625	6202
+Melbourne - North East	1	0	78750	7869
+Melbourne - North East	1	0	91875	6434
+Melbourne - North East	1	0	105000	6985
+Melbourne - North East	1	0	131250	16657
+Melbourne - North East	1	0	157500	13867
+Melbourne - North East	1	0	183750	11749
+Melbourne - North East	1	0	210000	7965
+Melbourne - North East	1	0	Inf	20137
+Melbourne - North East	1	1	7875	97
+Melbourne - North East	1	1	15750	172
+Melbourne - North East	1	1	21000	140
+Melbourne - North East	1	1	26250	361
+Melbourne - North East	1	1	34125	462
+Melbourne - North East	1	1	42000	1112
+Melbourne - North West				47
+Melbourne - North West			0	34
+Melbourne - North West			7875	21
+Melbourne - North West			15750	16
+Melbourne - North West			21000	8
+Melbourne - North West			26250	46
+Melbourne - North West			34125	47
+Melbourne - North West			42000	82
+Melbourne - North West			52500	199
+Melbourne - North West			65625	176
+Melbourne - North West			78750	223
+Melbourne - North West			91875	126
+Melbourne - North West			105000	126
+Melbourne - North West			131250	243
+Melbourne - North West			157500	135
+Melbourne - North West			183750	96
+Melbourne - North West			210000	60
+Melbourne - North West			Inf	65
+Melbourne - North West	0			1421
+Melbourne - North West	0		0	419
+Melbourne - North West	0		7875	110
+Melbourne - North West	0		15750	283
+Melbourne - North West	0		21000	420
+Melbourne - North West	0		26250	732
+Melbourne - North West	0		34125	1067
+Melbourne - North West	0		42000	1358
+Melbourne - North West	0		52500	1817
+Melbourne - North West	0		65625	1961
+Melbourne - North West	0		78750	1783
+Melbourne - North West	0		91875	1420
+Melbourne - North West	0		105000	1101
+Melbourne - North West	0		131250	1822
+Melbourne - North West	0		157500	1002
+Melbourne - North West	0		183750	578
+Melbourne - North West	0		210000	290
+Melbourne - North West	0		Inf	517
+Melbourne - North West	1	0		5699
+Melbourne - North West	1	0	0	1557
+Melbourne - North West	1	0	7875	309
+Melbourne - North West	1	0	15750	198
+Melbourne - North West	1	0	21000	179
+Melbourne - North West	1	0	26250	895
+Melbourne - North West	1	0	34125	652
+Melbourne - North West	1	0	42000	3894
+Melbourne - North West	1	0	52500	4299
+Melbourne - North West	1	0	65625	5415
+Melbourne - North West	1	0	78750	6670
+Melbourne - North West	1	0	91875	5321
+Melbourne - North West	1	0	105000	5675
+Melbourne - North West	1	0	131250	12705
+Melbourne - North West	1	0	157500	9998
+Melbourne - North West	1	0	183750	8139
+Melbourne - North West	1	0	210000	5435
+Melbourne - North West	1	0	Inf	12536
+Melbourne - North West	1	1	7875	89
+Melbourne - North West	1	1	15750	195
+Melbourne - North West	1	1	21000	179
+Melbourne - North West	1	1	26250	520
+Melbourne - North West	1	1	34125	759
+Melbourne - North West	1	1	42000	1416
+Melbourne - Outer East				31
+Melbourne - Outer East			0	33
+Melbourne - Outer East			7875	8
+Melbourne - Outer East			15750	13
+Melbourne - Outer East			21000	14
+Melbourne - Outer East			26250	43
+Melbourne - Outer East			34125	50
+Melbourne - Outer East			42000	94
+Melbourne - Outer East			52500	158
+Melbourne - Outer East			65625	175
+Melbourne - Outer East			78750	218
+Melbourne - Outer East			91875	149
+Melbourne - Outer East			105000	129
+Melbourne - Outer East			131250	260
+Melbourne - Outer East			157500	143
+Melbourne - Outer East			183750	80
+Melbourne - Outer East			210000	48
+Melbourne - Outer East			Inf	59
+Melbourne - Outer East	0			1844
+Melbourne - Outer East	0		0	438
+Melbourne - Outer East	0		7875	120
+Melbourne - Outer East	0		15750	216
+Melbourne - Outer East	0		21000	389
+Melbourne - Outer East	0		26250	709
+Melbourne - Outer East	0		34125	1097
+Melbourne - Outer East	0		42000	1493
+Melbourne - Outer East	0		52500	1994
+Melbourne - Outer East	0		65625	2273
+Melbourne - Outer East	0		78750	2184
+Melbourne - Outer East	0		91875	1675
+Melbourne - Outer East	0		105000	1369
+Melbourne - Outer East	0		131250	2415
+Melbourne - Outer East	0		157500	1220
+Melbourne - Outer East	0		183750	745
+Melbourne - Outer East	0		210000	351
+Melbourne - Outer East	0		Inf	751
+Melbourne - Outer East	1	0		7029
+Melbourne - Outer East	1	0	0	1661
+Melbourne - Outer East	1	0	7875	536
+Melbourne - Outer East	1	0	15750	333
+Melbourne - Outer East	1	0	21000	246
+Melbourne - Outer East	1	0	26250	1303
+Melbourne - Outer East	1	0	34125	937
+Melbourne - Outer East	1	0	42000	4814
+Melbourne - Outer East	1	0	52500	4897
+Melbourne - Outer East	1	0	65625	6312
+Melbourne - Outer East	1	0	78750	7942
+Melbourne - Outer East	1	0	91875	6050
+Melbourne - Outer East	1	0	105000	6856
+Melbourne - Outer East	1	0	131250	16346
+Melbourne - Outer East	1	0	157500	14284
+Melbourne - Outer East	1	0	183750	12268
+Melbourne - Outer East	1	0	210000	8170
+Melbourne - Outer East	1	0	Inf	20922
+Melbourne - Outer East	1	1	7875	73
+Melbourne - Outer East	1	1	15750	116
+Melbourne - Outer East	1	1	21000	99
+Melbourne - Outer East	1	1	26250	202
+Melbourne - Outer East	1	1	34125	333
+Melbourne - Outer East	1	1	42000	727
+Melbourne - South East				53
+Melbourne - South East			0	111
+Melbourne - South East			7875	23
+Melbourne - South East			15750	32
+Melbourne - South East			21000	33
+Melbourne - South East			26250	85
+Melbourne - South East			34125	81
+Melbourne - South East			42000	182
+Melbourne - South East			52500	341
+Melbourne - South East			65625	391
+Melbourne - South East			78750	482
+Melbourne - South East			91875	313
+Melbourne - South East			105000	325
+Melbourne - South East			131250	587
+Melbourne - South East			157500	329
+Melbourne - South East			183750	200
+Melbourne - South East			210000	72
+Melbourne - South East			Inf	149
+Melbourne - South East	0			2827
+Melbourne - South East	0		0	1059
+Melbourne - South East	0		7875	298
+Melbourne - South East	0		15750	566
+Melbourne - South East	0		21000	815
+Melbourne - South East	0		26250	1395
+Melbourne - South East	0		34125	2091
+Melbourne - South East	0		42000	2621
+Melbourne - South East	0		52500	3594
+Melbourne - South East	0		65625	3796
+Melbourne - South East	0		78750	3616
+Melbourne - South East	0		91875	2573
+Melbourne - South East	0		105000	2175
+Melbourne - South East	0		131250	3680
+Melbourne - South East	0		157500	1806
+Melbourne - South East	0		183750	1095
+Melbourne - South East	0		210000	485
+Melbourne - South East	0		Inf	898
+Melbourne - South East	1	0		11618
+Melbourne - South East	1	0	0	3695
+Melbourne - South East	1	0	7875	714
+Melbourne - South East	1	0	15750	533
+Melbourne - South East	1	0	21000	434
+Melbourne - South East	1	0	26250	2087
+Melbourne - South East	1	0	34125	1406
+Melbourne - South East	1	0	42000	7791
+Melbourne - South East	1	0	52500	8528
+Melbourne - South East	1	0	65625	11064
+Melbourne - South East	1	0	78750	14217
+Melbourne - South East	1	0	91875	11464
+Melbourne - South East	1	0	105000	12633
+Melbourne - South East	1	0	131250	27851
+Melbourne - South East	1	0	157500	21086
+Melbourne - South East	1	0	183750	16048
+Melbourne - South East	1	0	210000	9946
+Melbourne - South East	1	0	Inf	22599
+Melbourne - South East	1	1	7875	175
+Melbourne - South East	1	1	15750	323
+Melbourne - South East	1	1	21000	299
+Melbourne - South East	1	1	26250	669
+Melbourne - South East	1	1	34125	1045
+Melbourne - South East	1	1	42000	2168
+Melbourne - West				89
+Melbourne - West			0	84
+Melbourne - West			7875	23
+Melbourne - West			15750	41
+Melbourne - West			21000	47
+Melbourne - West			26250	95
+Melbourne - West			34125	92
+Melbourne - West			42000	228
+Melbourne - West			52500	369
+Melbourne - West			65625	377
+Melbourne - West			78750	503
+Melbourne - West			91875	311
+Melbourne - West			105000	313
+Melbourne - West			131250	586
+Melbourne - West			157500	334
+Melbourne - West			183750	200
+Melbourne - West			210000	121
+Melbourne - West			Inf	179
+Melbourne - West	0			2931
+Melbourne - West	0		0	1077
+Melbourne - West	0		7875	278
+Melbourne - West	0		15750	652
+Melbourne - West	0		21000	969
+Melbourne - West	0		26250	1554
+Melbourne - West	0		34125	2485
+Melbourne - West	0		42000	2972
+Melbourne - West	0		52500	3708
+Melbourne - West	0		65625	3867
+Melbourne - West	0		78750	3694
+Melbourne - West	0		91875	2727
+Melbourne - West	0		105000	2285
+Melbourne - West	0		131250	3704
+Melbourne - West	0		157500	1694
+Melbourne - West	0		183750	1157
+Melbourne - West	0		210000	487
+Melbourne - West	0		Inf	989
+Melbourne - West	1	0		10853
+Melbourne - West	1	0	0	3313
+Melbourne - West	1	0	7875	576
+Melbourne - West	1	0	15750	474
+Melbourne - West	1	0	21000	387
+Melbourne - West	1	0	26250	1786
+Melbourne - West	1	0	34125	1211
+Melbourne - West	1	0	42000	6695
+Melbourne - West	1	0	52500	7550
+Melbourne - West	1	0	65625	9717
+Melbourne - West	1	0	78750	12874
+Melbourne - West	1	0	91875	10585
+Melbourne - West	1	0	105000	11196
+Melbourne - West	1	0	131250	26206
+Melbourne - West	1	0	157500	20122
+Melbourne - West	1	0	183750	16374
+Melbourne - West	1	0	210000	10825
+Melbourne - West	1	0	Inf	26391
+Melbourne - West	1	1	7875	146
+Melbourne - West	1	1	15750	303
+Melbourne - West	1	1	21000	293
+Melbourne - West	1	1	26250	722
+Melbourne - West	1	1	34125	1136
+Melbourne - West	1	1	42000	2245
+Mornington Peninsula				22
+Mornington Peninsula			0	14
+Mornington Peninsula			7875	8
+Mornington Peninsula			15750	13
+Mornington Peninsula			21000	12
+Mornington Peninsula			26250	31
+Mornington Peninsula			34125	21
+Mornington Peninsula			42000	68
+Mornington Peninsula			52500	114
+Mornington Peninsula			65625	123
+Mornington Peninsula			78750	113
+Mornington Peninsula			91875	69
+Mornington Peninsula			105000	69
+Mornington Peninsula			131250	146
+Mornington Peninsula			157500	68
+Mornington Peninsula			183750	45
+Mornington Peninsula			210000	24
+Mornington Peninsula			Inf	33
+Mornington Peninsula	0			1406
+Mornington Peninsula	0		0	206
+Mornington Peninsula	0		7875	65
+Mornington Peninsula	0		15750	159
+Mornington Peninsula	0		21000	255
+Mornington Peninsula	0		26250	556
+Mornington Peninsula	0		34125	910
+Mornington Peninsula	0		42000	1172
+Mornington Peninsula	0		52500	1530
+Mornington Peninsula	0		65625	1715
+Mornington Peninsula	0		78750	1523
+Mornington Peninsula	0		91875	1110
+Mornington Peninsula	0		105000	929
+Mornington Peninsula	0		131250	1500
+Mornington Peninsula	0		157500	636
+Mornington Peninsula	0		183750	349
+Mornington Peninsula	0		210000	162
+Mornington Peninsula	0		Inf	371
+Mornington Peninsula	1	0		4566
+Mornington Peninsula	1	0	0	752
+Mornington Peninsula	1	0	7875	285
+Mornington Peninsula	1	0	15750	199
+Mornington Peninsula	1	0	21000	137
+Mornington Peninsula	1	0	26250	862
+Mornington Peninsula	1	0	34125	586
+Mornington Peninsula	1	0	42000	3564
+Mornington Peninsula	1	0	52500	3116
+Mornington Peninsula	1	0	65625	4104
+Mornington Peninsula	1	0	78750	4904
+Mornington Peninsula	1	0	91875	3510
+Mornington Peninsula	1	0	105000	4041
+Mornington Peninsula	1	0	131250	9356
+Mornington Peninsula	1	0	157500	7860
+Mornington Peninsula	1	0	183750	6234
+Mornington Peninsula	1	0	210000	3933
+Mornington Peninsula	1	0	Inf	10061
+Mornington Peninsula	1	1	7875	23
+Mornington Peninsula	1	1	15750	40
+Mornington Peninsula	1	1	21000	33
+Mornington Peninsula	1	1	26250	82
+Mornington Peninsula	1	1	34125	125
+Mornington Peninsula	1	1	42000	273
+North West				31
+North West			0	8
+North West			7875	9
+North West			15750	4
+North West			21000	11
+North West			26250	14
+North West			34125	20
+North West			42000	42
+North West			52500	83
+North West			65625	94
+North West			78750	74
+North West			91875	28
+North West			105000	58
+North West			131250	73
+North West			157500	35
+North West			183750	8
+North West			210000	11
+North West			Inf	18
+North West	0			630
+North West	0		0	94
+North West	0		7875	38
+North West	0		15750	95
+North West	0		21000	183
+North West	0		26250	340
+North West	0		34125	599
+North West	0		42000	640
+North West	0		52500	827
+North West	0		65625	826
+North West	0		78750	601
+North West	0		91875	441
+North West	0		105000	312
+North West	0		131250	443
+North West	0		157500	172
+North West	0		183750	95
+North West	0		210000	27
+North West	0		Inf	80
+North West	1	0		2851
+North West	1	0	0	374
+North West	1	0	7875	141
+North West	1	0	15750	102
+North West	1	0	21000	79
+North West	1	0	26250	593
+North West	1	0	34125	346
+North West	1	0	42000	2459
+North West	1	0	52500	2028
+North West	1	0	65625	2479
+North West	1	0	78750	3023
+North West	1	0	91875	2042
+North West	1	0	105000	2361
+North West	1	0	131250	4818
+North West	1	0	157500	3246
+North West	1	0	183750	2132
+North West	1	0	210000	1205
+North West	1	0	Inf	2376
+North West	1	1	7875	26
+North West	1	1	15750	30
+North West	1	1	21000	27
+North West	1	1	26250	76
+North West	1	1	34125	126
+North West	1	1	42000	265
+Shepparton				23
+Shepparton			0	10
+Shepparton			7875	4
+Shepparton			21000	3
+Shepparton			26250	16
+Shepparton			34125	11
+Shepparton			42000	34
+Shepparton			52500	66
+Shepparton			65625	56
+Shepparton			78750	57
+Shepparton			91875	27
+Shepparton			105000	39
+Shepparton			131250	46
+Shepparton			157500	21
+Shepparton			183750	13
+Shepparton			Inf	8
+Shepparton	0			616
+Shepparton	0		0	83
+Shepparton	0		7875	26
+Shepparton	0		15750	83
+Shepparton	0		21000	175
+Shepparton	0		26250	316
+Shepparton	0		34125	546
+Shepparton	0		42000	611
+Shepparton	0		52500	780
+Shepparton	0		65625	722
+Shepparton	0		78750	583
+Shepparton	0		91875	386
+Shepparton	0		105000	314
+Shepparton	0		131250	437
+Shepparton	0		157500	160
+Shepparton	0		183750	88
+Shepparton	0		210000	28
+Shepparton	0		Inf	74
+Shepparton	1	0		2420
+Shepparton	1	0	0	455
+Shepparton	1	0	7875	146
+Shepparton	1	0	15750	74
+Shepparton	1	0	21000	95
+Shepparton	1	0	26250	519
+Shepparton	1	0	34125	329
+Shepparton	1	0	42000	2280
+Shepparton	1	0	52500	1797
+Shepparton	1	0	65625	2046
+Shepparton	1	0	78750	2621
+Shepparton	1	0	91875	1834
+Shepparton	1	0	105000	2044
+Shepparton	1	0	131250	4126
+Shepparton	1	0	157500	2974
+Shepparton	1	0	183750	1998
+Shepparton	1	0	210000	1145
+Shepparton	1	0	Inf	2269
+Shepparton	1	1	7875	24
+Shepparton	1	1	15750	36
+Shepparton	1	1	21000	29
+Shepparton	1	1	26250	79
+Shepparton	1	1	34125	112
+Shepparton	1	1	42000	267
+Warrnambool and South West				21
+Warrnambool and South West			0	10
+Warrnambool and South West			21000	4
+Warrnambool and South West			26250	16
+Warrnambool and South West			34125	9
+Warrnambool and South West			42000	28
+Warrnambool and South West			52500	78
+Warrnambool and South West			65625	71
+Warrnambool and South West			78750	59
+Warrnambool and South West			91875	41
+Warrnambool and South West			105000	35
+Warrnambool and South West			131250	56
+Warrnambool and South West			157500	21
+Warrnambool and South West			183750	12
+Warrnambool and South West			210000	8
+Warrnambool and South West			Inf	20
+Warrnambool and South West	0			510
+Warrnambool and South West	0		0	65
+Warrnambool and South West	0		7875	27
+Warrnambool and South West	0		15750	53
+Warrnambool and South West	0		21000	127
+Warrnambool and South West	0		26250	231
+Warrnambool and South West	0		34125	422
+Warrnambool and South West	0		42000	512
+Warrnambool and South West	0		52500	676
+Warrnambool and South West	0		65625	637
+Warrnambool and South West	0		78750	485
+Warrnambool and South West	0		91875	384
+Warrnambool and South West	0		105000	261
+Warrnambool and South West	0		131250	358
+Warrnambool and South West	0		157500	190
+Warrnambool and South West	0		183750	86
+Warrnambool and South West	0		210000	31
+Warrnambool and South West	0		Inf	88
+Warrnambool and South West	1	0		2288
+Warrnambool and South West	1	0	0	303
+Warrnambool and South West	1	0	7875	139
+Warrnambool and South West	1	0	15750	78
+Warrnambool and South West	1	0	21000	76
+Warrnambool and South West	1	0	26250	460
+Warrnambool and South West	1	0	34125	322
+Warrnambool and South West	1	0	42000	1902
+Warrnambool and South West	1	0	52500	1674
+Warrnambool and South West	1	0	65625	1961
+Warrnambool and South West	1	0	78750	2591
+Warrnambool and South West	1	0	91875	1739
+Warrnambool and South West	1	0	105000	2043
+Warrnambool and South West	1	0	131250	4145
+Warrnambool and South West	1	0	157500	2919
+Warrnambool and South West	1	0	183750	2031
+Warrnambool and South West	1	0	210000	1116
+Warrnambool and South West	1	0	Inf	2433
+Warrnambool and South West	1	1	7875	6
+Warrnambool and South West	1	1	15750	25
+Warrnambool and South West	1	1	21000	19
+Warrnambool and South West	1	1	26250	37
+Warrnambool and South West	1	1	34125	69
+Warrnambool and South West	1	1	42000	170
+Brisbane - East				15
+Brisbane - East			0	15
+Brisbane - East			7875	3
+Brisbane - East			15750	7
+Brisbane - East			21000	9
+Brisbane - East			26250	19
+Brisbane - East			34125	25
+Brisbane - East			42000	42
+Brisbane - East			52500	98
+Brisbane - East			65625	80
+Brisbane - East			78750	105
+Brisbane - East			91875	63
+Brisbane - East			105000	62
+Brisbane - East			131250	147
+Brisbane - East			157500	64
+Brisbane - East			183750	38
+Brisbane - East			210000	29
+Brisbane - East			Inf	19
+Brisbane - East	0			887
+Brisbane - East	0		0	125
+Brisbane - East	0		7875	40
+Brisbane - East	0		15750	109
+Brisbane - East	0		21000	180
+Brisbane - East	0		26250	344
+Brisbane - East	0		34125	623
+Brisbane - East	0		42000	758
+Brisbane - East	0		52500	1047
+Brisbane - East	0		65625	1279
+Brisbane - East	0		78750	1104
+Brisbane - East	0		91875	862
+Brisbane - East	0		105000	743
+Brisbane - East	0		131250	1272
+Brisbane - East	0		157500	536
+Brisbane - East	0		183750	361
+Brisbane - East	0		210000	139
+Brisbane - East	0		Inf	319
+Brisbane - East	1	0		3695
+Brisbane - East	1	0	0	523
+Brisbane - East	1	0	7875	183
+Brisbane - East	1	0	15750	145
+Brisbane - East	1	0	21000	112
+Brisbane - East	1	0	26250	639
+Brisbane - East	1	0	34125	466
+Brisbane - East	1	0	42000	2964
+Brisbane - East	1	0	52500	2378
+Brisbane - East	1	0	65625	2892
+Brisbane - East	1	0	78750	3459
+Brisbane - East	1	0	91875	2570
+Brisbane - East	1	0	105000	3066
+Brisbane - East	1	0	131250	7433
+Brisbane - East	1	0	157500	6404
+Brisbane - East	1	0	183750	5564
+Brisbane - East	1	0	210000	3890
+Brisbane - East	1	0	Inf	10074
+Brisbane - East	1	1	7875	19
+Brisbane - East	1	1	15750	30
+Brisbane - East	1	1	21000	19
+Brisbane - East	1	1	26250	55
+Brisbane - East	1	1	34125	102
+Brisbane - East	1	1	42000	241
+Brisbane - North				21
+Brisbane - North			0	11
+Brisbane - North			7875	4
+Brisbane - North			15750	10
+Brisbane - North			21000	6
+Brisbane - North			26250	39
+Brisbane - North			34125	28
+Brisbane - North			42000	54
+Brisbane - North			52500	132
+Brisbane - North			65625	127
+Brisbane - North			78750	146
+Brisbane - North			91875	92
+Brisbane - North			105000	119
+Brisbane - North			131250	198
+Brisbane - North			157500	130
+Brisbane - North			183750	89
+Brisbane - North			210000	47
+Brisbane - North			Inf	54
+Brisbane - North	0			768
+Brisbane - North	0		0	119
+Brisbane - North	0		7875	37
+Brisbane - North	0		15750	94
+Brisbane - North	0		21000	158
+Brisbane - North	0		26250	296
+Brisbane - North	0		34125	505
+Brisbane - North	0		42000	643
+Brisbane - North	0		52500	899
+Brisbane - North	0		65625	1057
+Brisbane - North	0		78750	1030
+Brisbane - North	0		91875	794
+Brisbane - North	0		105000	698
+Brisbane - North	0		131250	1127
+Brisbane - North	0		157500	507
+Brisbane - North	0		183750	372
+Brisbane - North	0		210000	139
+Brisbane - North	0		Inf	346
+Brisbane - North	1	0		2928
+Brisbane - North	1	0	0	382
+Brisbane - North	1	0	7875	146
+Brisbane - North	1	0	15750	115
+Brisbane - North	1	0	21000	78
+Brisbane - North	1	0	26250	409
+Brisbane - North	1	0	34125	326
+Brisbane - North	1	0	42000	1688
+Brisbane - North	1	0	52500	1738
+Brisbane - North	1	0	65625	2277
+Brisbane - North	1	0	78750	2853
+Brisbane - North	1	0	91875	2358
+Brisbane - North	1	0	105000	2682
+Brisbane - North	1	0	131250	6678
+Brisbane - North	1	0	157500	5950
+Brisbane - North	1	0	183750	5308
+Brisbane - North	1	0	210000	3765
+Brisbane - North	1	0	Inf	10228
+Brisbane - North	1	1	7875	21
+Brisbane - North	1	1	15750	32
+Brisbane - North	1	1	21000	9
+Brisbane - North	1	1	26250	53
+Brisbane - North	1	1	34125	121
+Brisbane - North	1	1	42000	213
+Brisbane - South				20
+Brisbane - South			0	48
+Brisbane - South			7875	18
+Brisbane - South			15750	26
+Brisbane - South			21000	17
+Brisbane - South			26250	30
+Brisbane - South			34125	79
+Brisbane - South			42000	101
+Brisbane - South			52500	196
+Brisbane - South			65625	200
+Brisbane - South			78750	245
+Brisbane - South			91875	180
+Brisbane - South			105000	165
+Brisbane - South			131250	341
+Brisbane - South			157500	218
+Brisbane - South			183750	119
+Brisbane - South			210000	62
+Brisbane - South			Inf	98
+Brisbane - South	0			1122
+Brisbane - South	0		0	394
+Brisbane - South	0		7875	93
+Brisbane - South	0		15750	183
+Brisbane - South	0		21000	312
+Brisbane - South	0		26250	502
+Brisbane - South	0		34125	766
+Brisbane - South	0		42000	887
+Brisbane - South	0		52500	1265
+Brisbane - South	0		65625	1420
+Brisbane - South	0		78750	1412
+Brisbane - South	0		91875	1122
+Brisbane - South	0		105000	968
+Brisbane - South	0		131250	1714
+Brisbane - South	0		157500	734
+Brisbane - South	0		183750	526
+Brisbane - South	0		210000	204
+Brisbane - South	0		Inf	536
+Brisbane - South	1	0		4597
+Brisbane - South	1	0	0	1208
+Brisbane - South	1	0	7875	316
+Brisbane - South	1	0	15750	209
+Brisbane - South	1	0	21000	172
+Brisbane - South	1	0	26250	762
+Brisbane - South	1	0	34125	552
+Brisbane - South	1	0	42000	2616
+Brisbane - South	1	0	52500	2890
+Brisbane - South	1	0	65625	3923
+Brisbane - South	1	0	78750	5034
+Brisbane - South	1	0	91875	3986
+Brisbane - South	1	0	105000	4518
+Brisbane - South	1	0	131250	10631
+Brisbane - South	1	0	157500	8657
+Brisbane - South	1	0	183750	7757
+Brisbane - South	1	0	210000	5731
+Brisbane - South	1	0	Inf	16581
+Brisbane - South	1	1	7875	70
+Brisbane - South	1	1	15750	101
+Brisbane - South	1	1	21000	81
+Brisbane - South	1	1	26250	216
+Brisbane - South	1	1	34125	306
+Brisbane - South	1	1	42000	615
+Brisbane - West				7
+Brisbane - West			0	23
+Brisbane - West			7875	12
+Brisbane - West			15750	13
+Brisbane - West			21000	14
+Brisbane - West			26250	28
+Brisbane - West			34125	26
+Brisbane - West			42000	50
+Brisbane - West			52500	73
+Brisbane - West			65625	70
+Brisbane - West			78750	111
+Brisbane - West			91875	58
+Brisbane - West			105000	56
+Brisbane - West			131250	92
+Brisbane - West			157500	72
+Brisbane - West			183750	30
+Brisbane - West			210000	19
+Brisbane - West			Inf	38
+Brisbane - West	0			550
+Brisbane - West	0		0	165
+Brisbane - West	0		7875	60
+Brisbane - West	0		15750	60
+Brisbane - West	0		21000	87
+Brisbane - West	0		26250	157
+Brisbane - West	0		34125	321
+Brisbane - West	0		42000	353
+Brisbane - West	0		52500	451
+Brisbane - West	0		65625	628
+Brisbane - West	0		78750	595
+Brisbane - West	0		91875	558
+Brisbane - West	0		105000	504
+Brisbane - West	0		131250	1002
+Brisbane - West	0		157500	352
+Brisbane - West	0		183750	283
+Brisbane - West	0		210000	98
+Brisbane - West	0		Inf	421
+Brisbane - West	1	0		2597
+Brisbane - West	1	0	0	360
+Brisbane - West	1	0	7875	134
+Brisbane - West	1	0	15750	110
+Brisbane - West	1	0	21000	58
+Brisbane - West	1	0	26250	300
+Brisbane - West	1	0	34125	256
+Brisbane - West	1	0	42000	1053
+Brisbane - West	1	0	52500	1248
+Brisbane - West	1	0	65625	1760
+Brisbane - West	1	0	78750	2092
+Brisbane - West	1	0	91875	1640
+Brisbane - West	1	0	105000	1872
+Brisbane - West	1	0	131250	4557
+Brisbane - West	1	0	157500	4303
+Brisbane - West	1	0	183750	4420
+Brisbane - West	1	0	210000	3393
+Brisbane - West	1	0	Inf	13451
+Brisbane - West	1	1	7875	21
+Brisbane - West	1	1	15750	33
+Brisbane - West	1	1	21000	26
+Brisbane - West	1	1	26250	43
+Brisbane - West	1	1	34125	84
+Brisbane - West	1	1	42000	166
+Brisbane Inner City				21
+Brisbane Inner City			0	35
+Brisbane Inner City			7875	28
+Brisbane Inner City			15750	23
+Brisbane Inner City			21000	12
+Brisbane Inner City			26250	36
+Brisbane Inner City			34125	38
+Brisbane Inner City			42000	101
+Brisbane Inner City			52500	133
+Brisbane Inner City			65625	164
+Brisbane Inner City			78750	222
+Brisbane Inner City			91875	157
+Brisbane Inner City			105000	136
+Brisbane Inner City			131250	291
+Brisbane Inner City			157500	230
+Brisbane Inner City			183750	129
+Brisbane Inner City			210000	57
+Brisbane Inner City			Inf	123
+Brisbane Inner City	0			705
+Brisbane Inner City	0		0	236
+Brisbane Inner City	0		7875	58
+Brisbane Inner City	0		15750	89
+Brisbane Inner City	0		21000	108
+Brisbane Inner City	0		26250	202
+Brisbane Inner City	0		34125	357
+Brisbane Inner City	0		42000	419
+Brisbane Inner City	0		52500	501
+Brisbane Inner City	0		65625	732
+Brisbane Inner City	0		78750	682
+Brisbane Inner City	0		91875	640
+Brisbane Inner City	0		105000	557
+Brisbane Inner City	0		131250	1225
+Brisbane Inner City	0		157500	407
+Brisbane Inner City	0		183750	409
+Brisbane Inner City	0		210000	149
+Brisbane Inner City	0		Inf	956
+Brisbane Inner City	1	0		3326
+Brisbane Inner City	1	0	0	457
+Brisbane Inner City	1	0	7875	159
+Brisbane Inner City	1	0	15750	116
+Brisbane Inner City	1	0	21000	85
+Brisbane Inner City	1	0	26250	343
+Brisbane Inner City	1	0	34125	272
+Brisbane Inner City	1	0	42000	941
+Brisbane Inner City	1	0	52500	1261
+Brisbane Inner City	1	0	65625	2003
+Brisbane Inner City	1	0	78750	2782
+Brisbane Inner City	1	0	91875	2121
+Brisbane Inner City	1	0	105000	2598
+Brisbane Inner City	1	0	131250	6689
+Brisbane Inner City	1	0	157500	5399
+Brisbane Inner City	1	0	183750	5252
+Brisbane Inner City	1	0	210000	4300
+Brisbane Inner City	1	0	Inf	21298
+Brisbane Inner City	1	1	7875	24
+Brisbane Inner City	1	1	15750	26
+Brisbane Inner City	1	1	21000	21
+Brisbane Inner City	1	1	26250	64
+Brisbane Inner City	1	1	34125	94
+Brisbane Inner City	1	1	42000	159
+Cairns				33
+Cairns			0	12
+Cairns			7875	13
+Cairns			15750	21
+Cairns			21000	9
+Cairns			26250	36
+Cairns			34125	33
+Cairns			42000	54
+Cairns			52500	132
+Cairns			65625	118
+Cairns			78750	137
+Cairns			91875	84
+Cairns			105000	74
+Cairns			131250	110
+Cairns			157500	68
+Cairns			183750	32
+Cairns			210000	9
+Cairns			Inf	19
+Cairns	0			1308
+Cairns	0		0	201
+Cairns	0		7875	57
+Cairns	0		15750	196
+Cairns	0		21000	291
+Cairns	0		26250	538
+Cairns	0		34125	1008
+Cairns	0		42000	1155
+Cairns	0		52500	1423
+Cairns	0		65625	1460
+Cairns	0		78750	1281
+Cairns	0		91875	875
+Cairns	0		105000	679
+Cairns	0		131250	1018
+Cairns	0		157500	336
+Cairns	0		183750	215
+Cairns	0		210000	75
+Cairns	0		Inf	200
+Cairns	1	0		5177
+Cairns	1	0	0	576
+Cairns	1	0	7875	259
+Cairns	1	0	15750	144
+Cairns	1	0	21000	146
+Cairns	1	0	26250	711
+Cairns	1	0	34125	537
+Cairns	1	0	42000	2861
+Cairns	1	0	52500	2606
+Cairns	1	0	65625	3244
+Cairns	1	0	78750	4160
+Cairns	1	0	91875	3035
+Cairns	1	0	105000	3502
+Cairns	1	0	131250	7316
+Cairns	1	0	157500	5245
+Cairns	1	0	183750	3990
+Cairns	1	0	210000	2441
+Cairns	1	0	Inf	4777
+Cairns	1	1	7875	35
+Cairns	1	1	15750	51
+Cairns	1	1	21000	35
+Cairns	1	1	26250	103
+Cairns	1	1	34125	180
+Cairns	1	1	42000	405
+Darling Downs - Maranoa				20
+Darling Downs - Maranoa			0	6
+Darling Downs - Maranoa			7875	11
+Darling Downs - Maranoa			15750	5
+Darling Downs - Maranoa			21000	7
+Darling Downs - Maranoa			26250	19
+Darling Downs - Maranoa			34125	13
+Darling Downs - Maranoa			42000	30
+Darling Downs - Maranoa			52500	87
+Darling Downs - Maranoa			65625	64
+Darling Downs - Maranoa			78750	54
+Darling Downs - Maranoa			91875	27
+Darling Downs - Maranoa			105000	32
+Darling Downs - Maranoa			131250	46
+Darling Downs - Maranoa			157500	34
+Darling Downs - Maranoa			183750	6
+Darling Downs - Maranoa			210000	5
+Darling Downs - Maranoa			Inf	9
+Darling Downs - Maranoa	0			532
+Darling Downs - Maranoa	0		0	74
+Darling Downs - Maranoa	0		7875	27
+Darling Downs - Maranoa	0		15750	69
+Darling Downs - Maranoa	0		21000	138
+Darling Downs - Maranoa	0		26250	305
+Darling Downs - Maranoa	0		34125	509
+Darling Downs - Maranoa	0		42000	607
+Darling Downs - Maranoa	0		52500	725
+Darling Downs - Maranoa	0		65625	628
+Darling Downs - Maranoa	0		78750	474
+Darling Downs - Maranoa	0		91875	330
+Darling Downs - Maranoa	0		105000	225
+Darling Downs - Maranoa	0		131250	322
+Darling Downs - Maranoa	0		157500	138
+Darling Downs - Maranoa	0		183750	69
+Darling Downs - Maranoa	0		210000	26
+Darling Downs - Maranoa	0		Inf	58
+Darling Downs - Maranoa	1	0		3274
+Darling Downs - Maranoa	1	0	0	431
+Darling Downs - Maranoa	1	0	7875	151
+Darling Downs - Maranoa	1	0	15750	120
+Darling Downs - Maranoa	1	0	21000	74
+Darling Downs - Maranoa	1	0	26250	510
+Darling Downs - Maranoa	1	0	34125	319
+Darling Downs - Maranoa	1	0	42000	2282
+Darling Downs - Maranoa	1	0	52500	1631
+Darling Downs - Maranoa	1	0	65625	1933
+Darling Downs - Maranoa	1	0	78750	2389
+Darling Downs - Maranoa	1	0	91875	1682
+Darling Downs - Maranoa	1	0	105000	1860
+Darling Downs - Maranoa	1	0	131250	3673
+Darling Downs - Maranoa	1	0	157500	2455
+Darling Downs - Maranoa	1	0	183750	1697
+Darling Downs - Maranoa	1	0	210000	938
+Darling Downs - Maranoa	1	0	Inf	1837
+Darling Downs - Maranoa	1	1	7875	16
+Darling Downs - Maranoa	1	1	15750	32
+Darling Downs - Maranoa	1	1	21000	19
+Darling Downs - Maranoa	1	1	26250	58
+Darling Downs - Maranoa	1	1	34125	79
+Darling Downs - Maranoa	1	1	42000	244
+Central Queensland				31
+Central Queensland			0	20
+Central Queensland			7875	7
+Central Queensland			15750	11
+Central Queensland			21000	12
+Central Queensland			26250	24
+Central Queensland			34125	36
+Central Queensland			42000	58
+Central Queensland			52500	116
+Central Queensland			65625	97
+Central Queensland			78750	108
+Central Queensland			91875	42
+Central Queensland			105000	61
+Central Queensland			131250	91
+Central Queensland			157500	48
+Central Queensland			183750	34
+Central Queensland			210000	17
+Central Queensland			Inf	32
+Central Queensland	0			953
+Central Queensland	0		0	138
+Central Queensland	0		7875	49
+Central Queensland	0		15750	145
+Central Queensland	0		21000	226
+Central Queensland	0		26250	503
+Central Queensland	0		34125	921
+Central Queensland	0		42000	1020
+Central Queensland	0		52500	1200
+Central Queensland	0		65625	1120
+Central Queensland	0		78750	949
+Central Queensland	0		91875	655
+Central Queensland	0		105000	497
+Central Queensland	0		131250	879
+Central Queensland	0		157500	366
+Central Queensland	0		183750	224
+Central Queensland	0		210000	87
+Central Queensland	0		Inf	198
+Central Queensland	1	0		6228
+Central Queensland	1	0	0	529
+Central Queensland	1	0	7875	197
+Central Queensland	1	0	15750	124
+Central Queensland	1	0	21000	108
+Central Queensland	1	0	26250	625
+Central Queensland	1	0	34125	444
+Central Queensland	1	0	42000	2588
+Central Queensland	1	0	52500	1915
+Central Queensland	1	0	65625	2423
+Central Queensland	1	0	78750	3014
+Central Queensland	1	0	91875	2263
+Central Queensland	1	0	105000	2649
+Central Queensland	1	0	131250	6338
+Central Queensland	1	0	157500	4978
+Central Queensland	1	0	183750	4274
+Central Queensland	1	0	210000	2703
+Central Queensland	1	0	Inf	6186
+Central Queensland	1	1	7875	20
+Central Queensland	1	1	15750	31
+Central Queensland	1	1	21000	30
+Central Queensland	1	1	26250	87
+Central Queensland	1	1	34125	101
+Central Queensland	1	1	42000	282
+Gold Coast				48
+Gold Coast			0	54
+Gold Coast			7875	22
+Gold Coast			15750	8
+Gold Coast			21000	15
+Gold Coast			26250	61
+Gold Coast			34125	71
+Gold Coast			42000	139
+Gold Coast			52500	263
+Gold Coast			65625	306
+Gold Coast			78750	323
+Gold Coast			91875	200
+Gold Coast			105000	214
+Gold Coast			131250	333
+Gold Coast			157500	171
+Gold Coast			183750	94
+Gold Coast			210000	44
+Gold Coast			Inf	75
+Gold Coast	0			2361
+Gold Coast	0		0	596
+Gold Coast	0		7875	149
+Gold Coast	0		15750	346
+Gold Coast	0		21000	516
+Gold Coast	0		26250	978
+Gold Coast	0		34125	1994
+Gold Coast	0		42000	2444
+Gold Coast	0		52500	3228
+Gold Coast	0		65625	3701
+Gold Coast	0		78750	3192
+Gold Coast	0		91875	2357
+Gold Coast	0		105000	1881
+Gold Coast	0		131250	2856
+Gold Coast	0		157500	1205
+Gold Coast	0		183750	738
+Gold Coast	0		210000	275
+Gold Coast	0		Inf	726
+Gold Coast	1	0		10371
+Gold Coast	1	0	0	1729
+Gold Coast	1	0	7875	513
+Gold Coast	1	0	15750	391
+Gold Coast	1	0	21000	334
+Gold Coast	1	0	26250	1616
+Gold Coast	1	0	34125	1274
+Gold Coast	1	0	42000	6782
+Gold Coast	1	0	52500	6199
+Gold Coast	1	0	65625	8070
+Gold Coast	1	0	78750	10588
+Gold Coast	1	0	91875	7923
+Gold Coast	1	0	105000	9039
+Gold Coast	1	0	131250	20322
+Gold Coast	1	0	157500	15193
+Gold Coast	1	0	183750	11845
+Gold Coast	1	0	210000	7373
+Gold Coast	1	0	Inf	19009
+Gold Coast	1	1	7875	90
+Gold Coast	1	1	15750	114
+Gold Coast	1	1	21000	129
+Gold Coast	1	1	26250	260
+Gold Coast	1	1	34125	415
+Gold Coast	1	1	42000	848
+Ipswich				24
+Ipswich			0	30
+Ipswich			7875	4
+Ipswich			15750	12
+Ipswich			21000	12
+Ipswich			26250	26
+Ipswich			34125	56
+Ipswich			42000	103
+Ipswich			52500	206
+Ipswich			65625	205
+Ipswich			78750	182
+Ipswich			91875	140
+Ipswich			105000	122
+Ipswich			131250	203
+Ipswich			157500	99
+Ipswich			183750	63
+Ipswich			210000	26
+Ipswich			Inf	43
+Ipswich	0			1540
+Ipswich	0		0	351
+Ipswich	0		7875	96
+Ipswich	0		15750	283
+Ipswich	0		21000	495
+Ipswich	0		26250	895
+Ipswich	0		34125	1625
+Ipswich	0		42000	1993
+Ipswich	0		52500	2379
+Ipswich	0		65625	2376
+Ipswich	0		78750	1973
+Ipswich	0		91875	1472
+Ipswich	0		105000	1111
+Ipswich	0		131250	1771
+Ipswich	0		157500	717
+Ipswich	0		183750	395
+Ipswich	0		210000	150
+Ipswich	0		Inf	341
+Ipswich	1	0		5706
+Ipswich	1	0	0	787
+Ipswich	1	0	7875	206
+Ipswich	1	0	15750	180
+Ipswich	1	0	21000	187
+Ipswich	1	0	26250	778
+Ipswich	1	0	34125	632
+Ipswich	1	0	42000	3620
+Ipswich	1	0	52500	3626
+Ipswich	1	0	65625	4404
+Ipswich	1	0	78750	5957
+Ipswich	1	0	91875	4815
+Ipswich	1	0	105000	5204
+Ipswich	1	0	131250	11752
+Ipswich	1	0	157500	8479
+Ipswich	1	0	183750	6458
+Ipswich	1	0	210000	3896
+Ipswich	1	0	Inf	6854
+Ipswich	1	1	7875	44
+Ipswich	1	1	15750	80
+Ipswich	1	1	21000	64
+Ipswich	1	1	26250	211
+Ipswich	1	1	34125	311
+Ipswich	1	1	42000	696
+Logan - Beaudesert				29
+Logan - Beaudesert			0	12
+Logan - Beaudesert			7875	13
+Logan - Beaudesert			15750	20
+Logan - Beaudesert			21000	25
+Logan - Beaudesert			26250	31
+Logan - Beaudesert			34125	40
+Logan - Beaudesert			42000	104
+Logan - Beaudesert			52500	170
+Logan - Beaudesert			65625	172
+Logan - Beaudesert			78750	171
+Logan - Beaudesert			91875	104
+Logan - Beaudesert			105000	131
+Logan - Beaudesert			131250	202
+Logan - Beaudesert			157500	109
+Logan - Beaudesert			183750	58
+Logan - Beaudesert			210000	24
+Logan - Beaudesert			Inf	30
+Logan - Beaudesert	0			1535
+Logan - Beaudesert	0		0	378
+Logan - Beaudesert	0		7875	105
+Logan - Beaudesert	0		15750	251
+Logan - Beaudesert	0		21000	466
+Logan - Beaudesert	0		26250	948
+Logan - Beaudesert	0		34125	1710
+Logan - Beaudesert	0		42000	1954
+Logan - Beaudesert	0		52500	2362
+Logan - Beaudesert	0		65625	2308
+Logan - Beaudesert	0		78750	2023
+Logan - Beaudesert	0		91875	1457
+Logan - Beaudesert	0		105000	1048
+Logan - Beaudesert	0		131250	1607
+Logan - Beaudesert	0		157500	691
+Logan - Beaudesert	0		183750	343
+Logan - Beaudesert	0		210000	160
+Logan - Beaudesert	0		Inf	292
+Logan - Beaudesert	1	0		5544
+Logan - Beaudesert	1	0	0	839
+Logan - Beaudesert	1	0	7875	192
+Logan - Beaudesert	1	0	15750	174
+Logan - Beaudesert	1	0	21000	159
+Logan - Beaudesert	1	0	26250	767
+Logan - Beaudesert	1	0	34125	606
+Logan - Beaudesert	1	0	42000	3853
+Logan - Beaudesert	1	0	52500	3677
+Logan - Beaudesert	1	0	65625	4585
+Logan - Beaudesert	1	0	78750	6164
+Logan - Beaudesert	1	0	91875	4819
+Logan - Beaudesert	1	0	105000	5110
+Logan - Beaudesert	1	0	131250	11403
+Logan - Beaudesert	1	0	157500	8407
+Logan - Beaudesert	1	0	183750	5787
+Logan - Beaudesert	1	0	210000	3540
+Logan - Beaudesert	1	0	Inf	6213
+Logan - Beaudesert	1	1	7875	46
+Logan - Beaudesert	1	1	15750	90
+Logan - Beaudesert	1	1	21000	70
+Logan - Beaudesert	1	1	26250	227
+Logan - Beaudesert	1	1	34125	316
+Logan - Beaudesert	1	1	42000	764
+Mackay - Isaac - Whitsunday				14
+Mackay - Isaac - Whitsunday			0	9
+Mackay - Isaac - Whitsunday			7875	5
+Mackay - Isaac - Whitsunday			15750	6
+Mackay - Isaac - Whitsunday			21000	10
+Mackay - Isaac - Whitsunday			26250	16
+Mackay - Isaac - Whitsunday			34125	16
+Mackay - Isaac - Whitsunday			42000	24
+Mackay - Isaac - Whitsunday			52500	63
+Mackay - Isaac - Whitsunday			65625	48
+Mackay - Isaac - Whitsunday			78750	61
+Mackay - Isaac - Whitsunday			91875	50
+Mackay - Isaac - Whitsunday			105000	47
+Mackay - Isaac - Whitsunday			131250	99
+Mackay - Isaac - Whitsunday			157500	52
+Mackay - Isaac - Whitsunday			183750	17
+Mackay - Isaac - Whitsunday			210000	15
+Mackay - Isaac - Whitsunday			Inf	31
+Mackay - Isaac - Whitsunday	0			671
+Mackay - Isaac - Whitsunday	0		0	109
+Mackay - Isaac - Whitsunday	0		7875	33
+Mackay - Isaac - Whitsunday	0		15750	88
+Mackay - Isaac - Whitsunday	0		21000	155
+Mackay - Isaac - Whitsunday	0		26250	302
+Mackay - Isaac - Whitsunday	0		34125	546
+Mackay - Isaac - Whitsunday	0		42000	606
+Mackay - Isaac - Whitsunday	0		52500	740
+Mackay - Isaac - Whitsunday	0		65625	743
+Mackay - Isaac - Whitsunday	0		78750	622
+Mackay - Isaac - Whitsunday	0		91875	464
+Mackay - Isaac - Whitsunday	0		105000	420
+Mackay - Isaac - Whitsunday	0		131250	617
+Mackay - Isaac - Whitsunday	0		157500	198
+Mackay - Isaac - Whitsunday	0		183750	186
+Mackay - Isaac - Whitsunday	0		210000	55
+Mackay - Isaac - Whitsunday	0		Inf	211
+Mackay - Isaac - Whitsunday	1	0		5536
+Mackay - Isaac - Whitsunday	1	0	0	420
+Mackay - Isaac - Whitsunday	1	0	7875	156
+Mackay - Isaac - Whitsunday	1	0	15750	104
+Mackay - Isaac - Whitsunday	1	0	21000	73
+Mackay - Isaac - Whitsunday	1	0	26250	448
+Mackay - Isaac - Whitsunday	1	0	34125	285
+Mackay - Isaac - Whitsunday	1	0	42000	1684
+Mackay - Isaac - Whitsunday	1	0	52500	1265
+Mackay - Isaac - Whitsunday	1	0	65625	1647
+Mackay - Isaac - Whitsunday	1	0	78750	2109
+Mackay - Isaac - Whitsunday	1	0	91875	1641
+Mackay - Isaac - Whitsunday	1	0	105000	2065
+Mackay - Isaac - Whitsunday	1	0	131250	4819
+Mackay - Isaac - Whitsunday	1	0	157500	4052
+Mackay - Isaac - Whitsunday	1	0	183750	3617
+Mackay - Isaac - Whitsunday	1	0	210000	2277
+Mackay - Isaac - Whitsunday	1	0	Inf	5593
+Mackay - Isaac - Whitsunday	1	1	7875	14
+Mackay - Isaac - Whitsunday	1	1	15750	20
+Mackay - Isaac - Whitsunday	1	1	21000	15
+Mackay - Isaac - Whitsunday	1	1	26250	31
+Mackay - Isaac - Whitsunday	1	1	34125	59
+Mackay - Isaac - Whitsunday	1	1	42000	161
+Moreton Bay - North				22
+Moreton Bay - North			0	8
+Moreton Bay - North			7875	5
+Moreton Bay - North			15750	8
+Moreton Bay - North			21000	5
+Moreton Bay - North			26250	23
+Moreton Bay - North			34125	34
+Moreton Bay - North			42000	56
+Moreton Bay - North			52500	163
+Moreton Bay - North			65625	158
+Moreton Bay - North			78750	116
+Moreton Bay - North			91875	74
+Moreton Bay - North			105000	62
+Moreton Bay - North			131250	100
+Moreton Bay - North			157500	59
+Moreton Bay - North			183750	22
+Moreton Bay - North			210000	13
+Moreton Bay - North			Inf	14
+Moreton Bay - North	0			1117
+Moreton Bay - North	0		0	182
+Moreton Bay - North	0		7875	62
+Moreton Bay - North	0		15750	157
+Moreton Bay - North	0		21000	311
+Moreton Bay - North	0		26250	612
+Moreton Bay - North	0		34125	1231
+Moreton Bay - North	0		42000	1421
+Moreton Bay - North	0		52500	1748
+Moreton Bay - North	0		65625	1722
+Moreton Bay - North	0		78750	1504
+Moreton Bay - North	0		91875	1018
+Moreton Bay - North	0		105000	792
+Moreton Bay - North	0		131250	1138
+Moreton Bay - North	0		157500	449
+Moreton Bay - North	0		183750	227
+Moreton Bay - North	0		210000	97
+Moreton Bay - North	0		Inf	220
+Moreton Bay - North	1	0		4639
+Moreton Bay - North	1	0	0	626
+Moreton Bay - North	1	0	7875	261
+Moreton Bay - North	1	0	15750	169
+Moreton Bay - North	1	0	21000	190
+Moreton Bay - North	1	0	26250	880
+Moreton Bay - North	1	0	34125	659
+Moreton Bay - North	1	0	42000	4478
+Moreton Bay - North	1	0	52500	3573
+Moreton Bay - North	1	0	65625	4055
+Moreton Bay - North	1	0	78750	4845
+Moreton Bay - North	1	0	91875	3511
+Moreton Bay - North	1	0	105000	3808
+Moreton Bay - North	1	0	131250	7910
+Moreton Bay - North	1	0	157500	5745
+Moreton Bay - North	1	0	183750	4226
+Moreton Bay - North	1	0	210000	2527
+Moreton Bay - North	1	0	Inf	4809
+Moreton Bay - North	1	1	7875	22
+Moreton Bay - North	1	1	15750	30
+Moreton Bay - North	1	1	21000	21
+Moreton Bay - North	1	1	26250	66
+Moreton Bay - North	1	1	34125	144
+Moreton Bay - North	1	1	42000	386
+Moreton Bay - South				10
+Moreton Bay - South			0	5
+Moreton Bay - South			15750	14
+Moreton Bay - South			21000	3
+Moreton Bay - South			26250	13
+Moreton Bay - South			34125	22
+Moreton Bay - South			42000	37
+Moreton Bay - South			52500	67
+Moreton Bay - South			65625	77
+Moreton Bay - South			78750	92
+Moreton Bay - South			91875	68
+Moreton Bay - South			105000	62
+Moreton Bay - South			131250	106
+Moreton Bay - South			157500	58
+Moreton Bay - South			183750	31
+Moreton Bay - South			210000	24
+Moreton Bay - South			Inf	27
+Moreton Bay - South	0			775
+Moreton Bay - South	0		0	122
+Moreton Bay - South	0		7875	37
+Moreton Bay - South	0		15750	97
+Moreton Bay - South	0		21000	126
+Moreton Bay - South	0		26250	334
+Moreton Bay - South	0		34125	620
+Moreton Bay - South	0		42000	807
+Moreton Bay - South	0		52500	1065
+Moreton Bay - South	0		65625	1209
+Moreton Bay - South	0		78750	1103
+Moreton Bay - South	0		91875	832
+Moreton Bay - South	0		105000	724
+Moreton Bay - South	0		131250	1135
+Moreton Bay - South	0		157500	448
+Moreton Bay - South	0		183750	313
+Moreton Bay - South	0		210000	113
+Moreton Bay - South	0		Inf	224
+Moreton Bay - South	1	0		3316
+Moreton Bay - South	1	0	0	366
+Moreton Bay - South	1	0	7875	147
+Moreton Bay - South	1	0	15750	88
+Moreton Bay - South	1	0	21000	81
+Moreton Bay - South	1	0	26250	390
+Moreton Bay - South	1	0	34125	362
+Moreton Bay - South	1	0	42000	1830
+Moreton Bay - South	1	0	52500	1731
+Moreton Bay - South	1	0	65625	2486
+Moreton Bay - South	1	0	78750	3224
+Moreton Bay - South	1	0	91875	2733
+Moreton Bay - South	1	0	105000	3176
+Moreton Bay - South	1	0	131250	7592
+Moreton Bay - South	1	0	157500	6245
+Moreton Bay - South	1	0	183750	5229
+Moreton Bay - South	1	0	210000	3366
+Moreton Bay - South	1	0	Inf	8073
+Moreton Bay - South	1	1	7875	16
+Moreton Bay - South	1	1	15750	23
+Moreton Bay - South	1	1	21000	19
+Moreton Bay - South	1	1	26250	50
+Moreton Bay - South	1	1	34125	101
+Moreton Bay - South	1	1	42000	230
+Queensland - Outback				20
+Queensland - Outback			0	7
+Queensland - Outback			7875	7
+Queensland - Outback			15750	11
+Queensland - Outback			21000	4
+Queensland - Outback			26250	29
+Queensland - Outback			34125	24
+Queensland - Outback			42000	47
+Queensland - Outback			52500	49
+Queensland - Outback			65625	36
+Queensland - Outback			78750	34
+Queensland - Outback			91875	19
+Queensland - Outback			105000	12
+Queensland - Outback			131250	33
+Queensland - Outback			157500	21
+Queensland - Outback			183750	17
+Queensland - Outback			210000	7
+Queensland - Outback			Inf	24
+Queensland - Outback	0			543
+Queensland - Outback	0		0	77
+Queensland - Outback	0		7875	24
+Queensland - Outback	0		15750	129
+Queensland - Outback	0		21000	193
+Queensland - Outback	0		26250	287
+Queensland - Outback	0		34125	356
+Queensland - Outback	0		42000	317
+Queensland - Outback	0		52500	351
+Queensland - Outback	0		65625	371
+Queensland - Outback	0		78750	315
+Queensland - Outback	0		91875	213
+Queensland - Outback	0		105000	144
+Queensland - Outback	0		131250	231
+Queensland - Outback	0		157500	83
+Queensland - Outback	0		183750	76
+Queensland - Outback	0		210000	16
+Queensland - Outback	0		Inf	69
+Queensland - Outback	1	0		2120
+Queensland - Outback	1	0	0	158
+Queensland - Outback	1	0	7875	45
+Queensland - Outback	1	0	15750	31
+Queensland - Outback	1	0	21000	28
+Queensland - Outback	1	0	26250	237
+Queensland - Outback	1	0	34125	133
+Queensland - Outback	1	0	42000	527
+Queensland - Outback	1	0	52500	610
+Queensland - Outback	1	0	65625	694
+Queensland - Outback	1	0	78750	868
+Queensland - Outback	1	0	91875	622
+Queensland - Outback	1	0	105000	735
+Queensland - Outback	1	0	131250	1661
+Queensland - Outback	1	0	157500	1343
+Queensland - Outback	1	0	183750	1187
+Queensland - Outback	1	0	210000	781
+Queensland - Outback	1	0	Inf	1721
+Queensland - Outback	1	1	7875	15
+Queensland - Outback	1	1	15750	26
+Queensland - Outback	1	1	21000	27
+Queensland - Outback	1	1	26250	118
+Queensland - Outback	1	1	34125	94
+Queensland - Outback	1	1	42000	208
+Sunshine Coast				16
+Sunshine Coast			0	15
+Sunshine Coast			7875	5
+Sunshine Coast			15750	5
+Sunshine Coast			21000	3
+Sunshine Coast			26250	21
+Sunshine Coast			34125	37
+Sunshine Coast			42000	70
+Sunshine Coast			52500	118
+Sunshine Coast			65625	146
+Sunshine Coast			78750	158
+Sunshine Coast			91875	122
+Sunshine Coast			105000	90
+Sunshine Coast			131250	142
+Sunshine Coast			157500	68
+Sunshine Coast			183750	33
+Sunshine Coast			210000	23
+Sunshine Coast			Inf	29
+Sunshine Coast	0			1497
+Sunshine Coast	0		0	222
+Sunshine Coast	0		7875	96
+Sunshine Coast	0		15750	184
+Sunshine Coast	0		21000	280
+Sunshine Coast	0		26250	587
+Sunshine Coast	0		34125	1145
+Sunshine Coast	0		42000	1466
+Sunshine Coast	0		52500	1939
+Sunshine Coast	0		65625	2191
+Sunshine Coast	0		78750	1855
+Sunshine Coast	0		91875	1337
+Sunshine Coast	0		105000	1088
+Sunshine Coast	0		131250	1549
+Sunshine Coast	0		157500	596
+Sunshine Coast	0		183750	354
+Sunshine Coast	0		210000	127
+Sunshine Coast	0		Inf	353
+Sunshine Coast	1	0		7691
+Sunshine Coast	1	0	0	973
+Sunshine Coast	1	0	7875	435
+Sunshine Coast	1	0	15750	288
+Sunshine Coast	1	0	21000	255
+Sunshine Coast	1	0	26250	1295
+Sunshine Coast	1	0	34125	1025
+Sunshine Coast	1	0	42000	5612
+Sunshine Coast	1	0	52500	4967
+Sunshine Coast	1	0	65625	6063
+Sunshine Coast	1	0	78750	7696
+Sunshine Coast	1	0	91875	5226
+Sunshine Coast	1	0	105000	6114
+Sunshine Coast	1	0	131250	12743
+Sunshine Coast	1	0	157500	9468
+Sunshine Coast	1	0	183750	7189
+Sunshine Coast	1	0	210000	4352
+Sunshine Coast	1	0	Inf	11313
+Sunshine Coast	1	1	7875	42
+Sunshine Coast	1	1	15750	60
+Sunshine Coast	1	1	21000	30
+Sunshine Coast	1	1	26250	105
+Sunshine Coast	1	1	34125	176
+Sunshine Coast	1	1	42000	401
+Toowoomba				12
+Toowoomba			0	8
+Toowoomba			15750	7
+Toowoomba			21000	9
+Toowoomba			26250	13
+Toowoomba			34125	24
+Toowoomba			42000	42
+Toowoomba			52500	85
+Toowoomba			65625	86
+Toowoomba			78750	79
+Toowoomba			91875	51
+Toowoomba			105000	55
+Toowoomba			131250	102
+Toowoomba			157500	52
+Toowoomba			183750	17
+Toowoomba			210000	11
+Toowoomba			Inf	17
+Toowoomba	0			568
+Toowoomba	0		0	88
+Toowoomba	0		7875	32
+Toowoomba	0		15750	96
+Toowoomba	0		21000	144
+Toowoomba	0		26250	337
+Toowoomba	0		34125	554
+Toowoomba	0		42000	669
+Toowoomba	0		52500	879
+Toowoomba	0		65625	925
+Toowoomba	0		78750	767
+Toowoomba	0		91875	562
+Toowoomba	0		105000	445
+Toowoomba	0		131250	650
+Toowoomba	0		157500	244
+Toowoomba	0		183750	120
+Toowoomba	0		210000	52
+Toowoomba	0		Inf	136
+Toowoomba	1	0		3002
+Toowoomba	1	0	0	333
+Toowoomba	1	0	7875	136
+Toowoomba	1	0	15750	81
+Toowoomba	1	0	21000	73
+Toowoomba	1	0	26250	380
+Toowoomba	1	0	34125	287
+Toowoomba	1	0	42000	2073
+Toowoomba	1	0	52500	1740
+Toowoomba	1	0	65625	2130
+Toowoomba	1	0	78750	2751
+Toowoomba	1	0	91875	2070
+Toowoomba	1	0	105000	2327
+Toowoomba	1	0	131250	5118
+Toowoomba	1	0	157500	3739
+Toowoomba	1	0	183750	2790
+Toowoomba	1	0	210000	1682
+Toowoomba	1	0	Inf	3621
+Toowoomba	1	1	7875	13
+Toowoomba	1	1	15750	21
+Toowoomba	1	1	21000	14
+Toowoomba	1	1	26250	82
+Toowoomba	1	1	34125	99
+Toowoomba	1	1	42000	249
+Townsville				22
+Townsville			0	15
+Townsville			7875	14
+Townsville			15750	16
+Townsville			21000	7
+Townsville			26250	25
+Townsville			34125	37
+Townsville			42000	62
+Townsville			52500	100
+Townsville			65625	124
+Townsville			78750	136
+Townsville			91875	82
+Townsville			105000	92
+Townsville			131250	135
+Townsville			157500	78
+Townsville			183750	29
+Townsville			210000	12
+Townsville			Inf	28
+Townsville	0			972
+Townsville	0		0	157
+Townsville	0		7875	64
+Townsville	0		15750	126
+Townsville	0		21000	277
+Townsville	0		26250	468
+Townsville	0		34125	818
+Townsville	0		42000	1023
+Townsville	0		52500	1284
+Townsville	0		65625	1302
+Townsville	0		78750	1117
+Townsville	0		91875	886
+Townsville	0		105000	718
+Townsville	0		131250	980
+Townsville	0		157500	397
+Townsville	0		183750	210
+Townsville	0		210000	88
+Townsville	0		Inf	216
+Townsville	1	0		5364
+Townsville	1	0	0	428
+Townsville	1	0	7875	177
+Townsville	1	0	15750	126
+Townsville	1	0	21000	118
+Townsville	1	0	26250	556
+Townsville	1	0	34125	400
+Townsville	1	0	42000	2383
+Townsville	1	0	52500	1920
+Townsville	1	0	65625	2505
+Townsville	1	0	78750	3227
+Townsville	1	0	91875	2535
+Townsville	1	0	105000	3000
+Townsville	1	0	131250	6862
+Townsville	1	0	157500	5701
+Townsville	1	0	183750	4388
+Townsville	1	0	210000	2694
+Townsville	1	0	Inf	5472
+Townsville	1	1	7875	12
+Townsville	1	1	15750	37
+Townsville	1	1	21000	19
+Townsville	1	1	26250	59
+Townsville	1	1	34125	85
+Townsville	1	1	42000	257
+Wide Bay				38
+Wide Bay			0	19
+Wide Bay			7875	14
+Wide Bay			15750	15
+Wide Bay			21000	13
+Wide Bay			26250	36
+Wide Bay			34125	38
+Wide Bay			42000	89
+Wide Bay			52500	203
+Wide Bay			65625	189
+Wide Bay			78750	137
+Wide Bay			91875	78
+Wide Bay			105000	76
+Wide Bay			131250	88
+Wide Bay			157500	43
+Wide Bay			183750	18
+Wide Bay			210000	9
+Wide Bay			Inf	16
+Wide Bay	0			1362
+Wide Bay	0		0	186
+Wide Bay	0		7875	67
+Wide Bay	0		15750	209
+Wide Bay	0		21000	440
+Wide Bay	0		26250	773
+Wide Bay	0		34125	1417
+Wide Bay	0		42000	1644
+Wide Bay	0		52500	2067
+Wide Bay	0		65625	2033
+Wide Bay	0		78750	1385
+Wide Bay	0		91875	966
+Wide Bay	0		105000	672
+Wide Bay	0		131250	859
+Wide Bay	0		157500	313
+Wide Bay	0		183750	145
+Wide Bay	0		210000	56
+Wide Bay	0		Inf	156
+Wide Bay	1	0		6360
+Wide Bay	1	0	0	997
+Wide Bay	1	0	7875	491
+Wide Bay	1	0	15750	284
+Wide Bay	1	0	21000	308
+Wide Bay	1	0	26250	1676
+Wide Bay	1	0	34125	1195
+Wide Bay	1	0	42000	8276
+Wide Bay	1	0	52500	5573
+Wide Bay	1	0	65625	5685
+Wide Bay	1	0	78750	6542
+Wide Bay	1	0	91875	3938
+Wide Bay	1	0	105000	4194
+Wide Bay	1	0	131250	7774
+Wide Bay	1	0	157500	5101
+Wide Bay	1	0	183750	3535
+Wide Bay	1	0	210000	1908
+Wide Bay	1	0	Inf	3562
+Wide Bay	1	1	7875	28
+Wide Bay	1	1	15750	76
+Wide Bay	1	1	21000	42
+Wide Bay	1	1	26250	180
+Wide Bay	1	1	34125	217
+Wide Bay	1	1	42000	611
+Adelaide - Central and Hills				15
+Adelaide - Central and Hills			0	38
+Adelaide - Central and Hills			7875	15
+Adelaide - Central and Hills			15750	13
+Adelaide - Central and Hills			21000	18
+Adelaide - Central and Hills			26250	33
+Adelaide - Central and Hills			34125	49
+Adelaide - Central and Hills			42000	79
+Adelaide - Central and Hills			52500	132
+Adelaide - Central and Hills			65625	149
+Adelaide - Central and Hills			78750	170
+Adelaide - Central and Hills			91875	103
+Adelaide - Central and Hills			105000	102
+Adelaide - Central and Hills			131250	162
+Adelaide - Central and Hills			157500	90
+Adelaide - Central and Hills			183750	48
+Adelaide - Central and Hills			210000	19
+Adelaide - Central and Hills			Inf	55
+Adelaide - Central and Hills	0			936
+Adelaide - Central and Hills	0		0	278
+Adelaide - Central and Hills	0		7875	88
+Adelaide - Central and Hills	0		15750	133
+Adelaide - Central and Hills	0		21000	207
+Adelaide - Central and Hills	0		26250	339
+Adelaide - Central and Hills	0		34125	567
+Adelaide - Central and Hills	0		42000	681
+Adelaide - Central and Hills	0		52500	996
+Adelaide - Central and Hills	0		65625	1161
+Adelaide - Central and Hills	0		78750	1051
+Adelaide - Central and Hills	0		91875	814
+Adelaide - Central and Hills	0		105000	759
+Adelaide - Central and Hills	0		131250	1335
+Adelaide - Central and Hills	0		157500	544
+Adelaide - Central and Hills	0		183750	375
+Adelaide - Central and Hills	0		210000	137
+Adelaide - Central and Hills	0		Inf	525
+Adelaide - Central and Hills	1	0		4592
+Adelaide - Central and Hills	1	0	0	691
+Adelaide - Central and Hills	1	0	7875	250
+Adelaide - Central and Hills	1	0	15750	174
+Adelaide - Central and Hills	1	0	21000	114
+Adelaide - Central and Hills	1	0	26250	651
+Adelaide - Central and Hills	1	0	34125	582
+Adelaide - Central and Hills	1	0	42000	2557
+Adelaide - Central and Hills	1	0	52500	2845
+Adelaide - Central and Hills	1	0	65625	3700
+Adelaide - Central and Hills	1	0	78750	4598
+Adelaide - Central and Hills	1	0	91875	3372
+Adelaide - Central and Hills	1	0	105000	3745
+Adelaide - Central and Hills	1	0	131250	8776
+Adelaide - Central and Hills	1	0	157500	7324
+Adelaide - Central and Hills	1	0	183750	6297
+Adelaide - Central and Hills	1	0	210000	4447
+Adelaide - Central and Hills	1	0	Inf	15951
+Adelaide - Central and Hills	1	1	7875	30
+Adelaide - Central and Hills	1	1	15750	50
+Adelaide - Central and Hills	1	1	21000	36
+Adelaide - Central and Hills	1	1	26250	92
+Adelaide - Central and Hills	1	1	34125	160
+Adelaide - Central and Hills	1	1	42000	296
+Adelaide - North				36
+Adelaide - North			0	50
+Adelaide - North			7875	19
+Adelaide - North			15750	17
+Adelaide - North			21000	19
+Adelaide - North			26250	57
+Adelaide - North			34125	85
+Adelaide - North			42000	137
+Adelaide - North			52500	250
+Adelaide - North			65625	218
+Adelaide - North			78750	279
+Adelaide - North			91875	168
+Adelaide - North			105000	175
+Adelaide - North			131250	250
+Adelaide - North			157500	156
+Adelaide - North			183750	75
+Adelaide - North			210000	38
+Adelaide - North			Inf	33
+Adelaide - North	0			2028
+Adelaide - North	0		0	403
+Adelaide - North	0		7875	110
+Adelaide - North	0		15750	349
+Adelaide - North	0		21000	644
+Adelaide - North	0		26250	1169
+Adelaide - North	0		34125	2023
+Adelaide - North	0		42000	2323
+Adelaide - North	0		52500	2961
+Adelaide - North	0		65625	2998
+Adelaide - North	0		78750	2539
+Adelaide - North	0		91875	1756
+Adelaide - North	0		105000	1379
+Adelaide - North	0		131250	2032
+Adelaide - North	0		157500	861
+Adelaide - North	0		183750	454
+Adelaide - North	0		210000	204
+Adelaide - North	0		Inf	339
+Adelaide - North	1	0		6537
+Adelaide - North	1	0	0	1040
+Adelaide - North	1	0	7875	270
+Adelaide - North	1	0	15750	224
+Adelaide - North	1	0	21000	188
+Adelaide - North	1	0	26250	1058
+Adelaide - North	1	0	34125	817
+Adelaide - North	1	0	42000	5697
+Adelaide - North	1	0	52500	5624
+Adelaide - North	1	0	65625	6766
+Adelaide - North	1	0	78750	8393
+Adelaide - North	1	0	91875	6312
+Adelaide - North	1	0	105000	6645
+Adelaide - North	1	0	131250	14902
+Adelaide - North	1	0	157500	10473
+Adelaide - North	1	0	183750	7298
+Adelaide - North	1	0	210000	4161
+Adelaide - North	1	0	Inf	6973
+Adelaide - North	1	1	7875	67
+Adelaide - North	1	1	15750	101
+Adelaide - North	1	1	21000	115
+Adelaide - North	1	1	26250	366
+Adelaide - North	1	1	34125	498
+Adelaide - North	1	1	42000	1106
+Adelaide - South				24
+Adelaide - South			0	16
+Adelaide - South			7875	10
+Adelaide - South			15750	16
+Adelaide - South			21000	13
+Adelaide - South			26250	44
+Adelaide - South			34125	52
+Adelaide - South			42000	112
+Adelaide - South			52500	169
+Adelaide - South			65625	179
+Adelaide - South			78750	208
+Adelaide - South			91875	105
+Adelaide - South			105000	118
+Adelaide - South			131250	189
+Adelaide - South			157500	97
+Adelaide - South			183750	59
+Adelaide - South			210000	18
+Adelaide - South			Inf	30
+Adelaide - South	0			1489
+Adelaide - South	0		0	218
+Adelaide - South	0		7875	77
+Adelaide - South	0		15750	189
+Adelaide - South	0		21000	315
+Adelaide - South	0		26250	613
+Adelaide - South	0		34125	1188
+Adelaide - South	0		42000	1451
+Adelaide - South	0		52500	1966
+Adelaide - South	0		65625	2096
+Adelaide - South	0		78750	1800
+Adelaide - South	0		91875	1369
+Adelaide - South	0		105000	1144
+Adelaide - South	0		131250	1706
+Adelaide - South	0		157500	718
+Adelaide - South	0		183750	400
+Adelaide - South	0		210000	166
+Adelaide - South	0		Inf	381
+Adelaide - South	1	0		5725
+Adelaide - South	1	0	0	618
+Adelaide - South	1	0	7875	279
+Adelaide - South	1	0	15750	189
+Adelaide - South	1	0	21000	157
+Adelaide - South	1	0	26250	932
+Adelaide - South	1	0	34125	755
+Adelaide - South	1	0	42000	4581
+Adelaide - South	1	0	52500	4323
+Adelaide - South	1	0	65625	5408
+Adelaide - South	1	0	78750	6704
+Adelaide - South	1	0	91875	4719
+Adelaide - South	1	0	105000	5347
+Adelaide - South	1	0	131250	11904
+Adelaide - South	1	0	157500	9629
+Adelaide - South	1	0	183750	7642
+Adelaide - South	1	0	210000	4844
+Adelaide - South	1	0	Inf	10894
+Adelaide - South	1	1	7875	25
+Adelaide - South	1	1	15750	53
+Adelaide - South	1	1	21000	45
+Adelaide - South	1	1	26250	138
+Adelaide - South	1	1	34125	187
+Adelaide - South	1	1	42000	437
+Adelaide - West				18
+Adelaide - West			0	9
+Adelaide - West			7875	14
+Adelaide - West			15750	20
+Adelaide - West			21000	18
+Adelaide - West			26250	51
+Adelaide - West			34125	55
+Adelaide - West			42000	103
+Adelaide - West			52500	164
+Adelaide - West			65625	190
+Adelaide - West			78750	198
+Adelaide - West			91875	97
+Adelaide - West			105000	125
+Adelaide - West			131250	201
+Adelaide - West			157500	117
+Adelaide - West			183750	54
+Adelaide - West			210000	37
+Adelaide - West			Inf	27
+Adelaide - West	0			927
+Adelaide - West	0		0	162
+Adelaide - West	0		7875	66
+Adelaide - West	0		15750	129
+Adelaide - West	0		21000	249
+Adelaide - West	0		26250	459
+Adelaide - West	0		34125	724
+Adelaide - West	0		42000	908
+Adelaide - West	0		52500	1229
+Adelaide - West	0		65625	1261
+Adelaide - West	0		78750	1175
+Adelaide - West	0		91875	926
+Adelaide - West	0		105000	695
+Adelaide - West	0		131250	1212
+Adelaide - West	0		157500	521
+Adelaide - West	0		183750	294
+Adelaide - West	0		210000	124
+Adelaide - West	0		Inf	272
+Adelaide - West	1	0		3205
+Adelaide - West	1	0	0	492
+Adelaide - West	1	0	7875	162
+Adelaide - West	1	0	15750	127
+Adelaide - West	1	0	21000	87
+Adelaide - West	1	0	26250	624
+Adelaide - West	1	0	34125	443
+Adelaide - West	1	0	42000	2773
+Adelaide - West	1	0	52500	2468
+Adelaide - West	1	0	65625	3159
+Adelaide - West	1	0	78750	3867
+Adelaide - West	1	0	91875	2890
+Adelaide - West	1	0	105000	3202
+Adelaide - West	1	0	131250	7247
+Adelaide - West	1	0	157500	6071
+Adelaide - West	1	0	183750	4744
+Adelaide - West	1	0	210000	3124
+Adelaide - West	1	0	Inf	6763
+Adelaide - West	1	1	7875	35
+Adelaide - West	1	1	15750	49
+Adelaide - West	1	1	21000	49
+Adelaide - West	1	1	26250	112
+Adelaide - West	1	1	34125	188
+Adelaide - West	1	1	42000	370
+Barossa - Yorke - Mid North				13
+Barossa - Yorke - Mid North			0	7
+Barossa - Yorke - Mid North			7875	5
+Barossa - Yorke - Mid North			15750	6
+Barossa - Yorke - Mid North			21000	5
+Barossa - Yorke - Mid North			26250	8
+Barossa - Yorke - Mid North			34125	8
+Barossa - Yorke - Mid North			42000	30
+Barossa - Yorke - Mid North			52500	59
+Barossa - Yorke - Mid North			65625	32
+Barossa - Yorke - Mid North			78750	38
+Barossa - Yorke - Mid North			91875	20
+Barossa - Yorke - Mid North			105000	26
+Barossa - Yorke - Mid North			131250	36
+Barossa - Yorke - Mid North			157500	9
+Barossa - Yorke - Mid North			183750	9
+Barossa - Yorke - Mid North			210000	4
+Barossa - Yorke - Mid North			Inf	9
+Barossa - Yorke - Mid North	0			502
+Barossa - Yorke - Mid North	0		0	44
+Barossa - Yorke - Mid North	0		7875	17
+Barossa - Yorke - Mid North	0		15750	80
+Barossa - Yorke - Mid North	0		21000	105
+Barossa - Yorke - Mid North	0		26250	270
+Barossa - Yorke - Mid North	0		34125	441
+Barossa - Yorke - Mid North	0		42000	449
+Barossa - Yorke - Mid North	0		52500	595
+Barossa - Yorke - Mid North	0		65625	516
+Barossa - Yorke - Mid North	0		78750	416
+Barossa - Yorke - Mid North	0		91875	300
+Barossa - Yorke - Mid North	0		105000	176
+Barossa - Yorke - Mid North	0		131250	269
+Barossa - Yorke - Mid North	0		157500	124
+Barossa - Yorke - Mid North	0		183750	59
+Barossa - Yorke - Mid North	0		210000	20
+Barossa - Yorke - Mid North	0		Inf	46
+Barossa - Yorke - Mid North	1	0		2582
+Barossa - Yorke - Mid North	1	0	0	283
+Barossa - Yorke - Mid North	1	0	7875	128
+Barossa - Yorke - Mid North	1	0	15750	103
+Barossa - Yorke - Mid North	1	0	21000	79
+Barossa - Yorke - Mid North	1	0	26250	522
+Barossa - Yorke - Mid North	1	0	34125	365
+Barossa - Yorke - Mid North	1	0	42000	2505
+Barossa - Yorke - Mid North	1	0	52500	1908
+Barossa - Yorke - Mid North	1	0	65625	2013
+Barossa - Yorke - Mid North	1	0	78750	2509
+Barossa - Yorke - Mid North	1	0	91875	1495
+Barossa - Yorke - Mid North	1	0	105000	1726
+Barossa - Yorke - Mid North	1	0	131250	3364
+Barossa - Yorke - Mid North	1	0	157500	2328
+Barossa - Yorke - Mid North	1	0	183750	1614
+Barossa - Yorke - Mid North	1	0	210000	942
+Barossa - Yorke - Mid North	1	0	Inf	1725
+Barossa - Yorke - Mid North	1	1	7875	24
+Barossa - Yorke - Mid North	1	1	15750	15
+Barossa - Yorke - Mid North	1	1	21000	15
+Barossa - Yorke - Mid North	1	1	26250	51
+Barossa - Yorke - Mid North	1	1	34125	69
+Barossa - Yorke - Mid North	1	1	42000	206
+South Australia - Outback				25
+South Australia - Outback			0	3
+South Australia - Outback			15750	8
+South Australia - Outback			21000	3
+South Australia - Outback			26250	16
+South Australia - Outback			34125	22
+South Australia - Outback			42000	27
+South Australia - Outback			52500	46
+South Australia - Outback			65625	35
+South Australia - Outback			78750	30
+South Australia - Outback			91875	25
+South Australia - Outback			105000	16
+South Australia - Outback			131250	20
+South Australia - Outback			157500	19
+South Australia - Outback			183750	9
+South Australia - Outback			210000	7
+South Australia - Outback			Inf	6
+South Australia - Outback	0			434
+South Australia - Outback	0		0	73
+South Australia - Outback	0		7875	20
+South Australia - Outback	0		15750	90
+South Australia - Outback	0		21000	135
+South Australia - Outback	0		26250	249
+South Australia - Outback	0		34125	317
+South Australia - Outback	0		42000	388
+South Australia - Outback	0		52500	422
+South Australia - Outback	0		65625	405
+South Australia - Outback	0		78750	334
+South Australia - Outback	0		91875	216
+South Australia - Outback	0		105000	177
+South Australia - Outback	0		131250	198
+South Australia - Outback	0		157500	97
+South Australia - Outback	0		183750	52
+South Australia - Outback	0		210000	14
+South Australia - Outback	0		Inf	50
+South Australia - Outback	1	0		2049
+South Australia - Outback	1	0	0	165
+South Australia - Outback	1	0	7875	53
+South Australia - Outback	1	0	15750	49
+South Australia - Outback	1	0	21000	37
+South Australia - Outback	1	0	26250	299
+South Australia - Outback	1	0	34125	181
+South Australia - Outback	1	0	42000	1144
+South Australia - Outback	1	0	52500	930
+South Australia - Outback	1	0	65625	1086
+South Australia - Outback	1	0	78750	1367
+South Australia - Outback	1	0	91875	856
+South Australia - Outback	1	0	105000	1025
+South Australia - Outback	1	0	131250	2089
+South Australia - Outback	1	0	157500	1642
+South Australia - Outback	1	0	183750	1281
+South Australia - Outback	1	0	210000	729
+South Australia - Outback	1	0	Inf	1440
+South Australia - Outback	1	1	7875	15
+South Australia - Outback	1	1	15750	16
+South Australia - Outback	1	1	21000	9
+South Australia - Outback	1	1	26250	80
+South Australia - Outback	1	1	34125	80
+South Australia - Outback	1	1	42000	181
+South Australia - South East				24
+South Australia - South East			0	5
+South Australia - South East			7875	5
+South Australia - South East			26250	17
+South Australia - South East			34125	23
+South Australia - South East			42000	59
+South Australia - South East			52500	108
+South Australia - South East			65625	89
+South Australia - South East			78750	83
+South Australia - South East			91875	40
+South Australia - South East			105000	39
+South Australia - South East			131250	60
+South Australia - South East			157500	21
+South Australia - South East			183750	9
+South Australia - South East			210000	3
+South Australia - South East			Inf	10
+South Australia - South East	0			750
+South Australia - South East	0		0	75
+South Australia - South East	0		7875	49
+South Australia - South East	0		15750	120
+South Australia - South East	0		21000	226
+South Australia - South East	0		26250	407
+South Australia - South East	0		34125	746
+South Australia - South East	0		42000	845
+South Australia - South East	0		52500	1040
+South Australia - South East	0		65625	954
+South Australia - South East	0		78750	725
+South Australia - South East	0		91875	461
+South Australia - South East	0		105000	365
+South Australia - South East	0		131250	492
+South Australia - South East	0		157500	197
+South Australia - South East	0		183750	89
+South Australia - South East	0		210000	36
+South Australia - South East	0		Inf	83
+South Australia - South East	1	0		3896
+South Australia - South East	1	0	0	515
+South Australia - South East	1	0	7875	215
+South Australia - South East	1	0	15750	145
+South Australia - South East	1	0	21000	136
+South Australia - South East	1	0	26250	850
+South Australia - South East	1	0	34125	637
+South Australia - South East	1	0	42000	4195
+South Australia - South East	1	0	52500	3313
+South Australia - South East	1	0	65625	3637
+South Australia - South East	1	0	78750	4472
+South Australia - South East	1	0	91875	2782
+South Australia - South East	1	0	105000	3110
+South Australia - South East	1	0	131250	5775
+South Australia - South East	1	0	157500	3628
+South Australia - South East	1	0	183750	2438
+South Australia - South East	1	0	210000	1218
+South Australia - South East	1	0	Inf	2664
+South Australia - South East	1	1	7875	26
+South Australia - South East	1	1	15750	24
+South Australia - South East	1	1	21000	23
+South Australia - South East	1	1	26250	96
+South Australia - South East	1	1	34125	118
+South Australia - South East	1	1	42000	349
+Bunbury				12
+Bunbury			0	4
+Bunbury			7875	3
+Bunbury			15750	4
+Bunbury			21000	4
+Bunbury			26250	19
+Bunbury			34125	18
+Bunbury			42000	34
+Bunbury			52500	61
+Bunbury			65625	50
+Bunbury			78750	58
+Bunbury			91875	47
+Bunbury			105000	35
+Bunbury			131250	59
+Bunbury			157500	25
+Bunbury			183750	17
+Bunbury			210000	8
+Bunbury			Inf	14
+Bunbury	0			817
+Bunbury	0		0	94
+Bunbury	0		7875	38
+Bunbury	0		15750	100
+Bunbury	0		21000	205
+Bunbury	0		26250	368
+Bunbury	0		34125	662
+Bunbury	0		42000	776
+Bunbury	0		52500	891
+Bunbury	0		65625	950
+Bunbury	0		78750	714
+Bunbury	0		91875	476
+Bunbury	0		105000	369
+Bunbury	0		131250	603
+Bunbury	0		157500	242
+Bunbury	0		183750	150
+Bunbury	0		210000	54
+Bunbury	0		Inf	125
+Bunbury	1	0		5592
+Bunbury	1	0	0	435
+Bunbury	1	0	7875	201
+Bunbury	1	0	15750	150
+Bunbury	1	0	21000	120
+Bunbury	1	0	26250	675
+Bunbury	1	0	34125	474
+Bunbury	1	0	42000	2683
+Bunbury	1	0	52500	2055
+Bunbury	1	0	65625	2556
+Bunbury	1	0	78750	3063
+Bunbury	1	0	91875	2152
+Bunbury	1	0	105000	2531
+Bunbury	1	0	131250	5487
+Bunbury	1	0	157500	4315
+Bunbury	1	0	183750	3484
+Bunbury	1	0	210000	1975
+Bunbury	1	0	Inf	4379
+Bunbury	1	1	7875	16
+Bunbury	1	1	15750	23
+Bunbury	1	1	21000	21
+Bunbury	1	1	26250	56
+Bunbury	1	1	34125	87
+Bunbury	1	1	42000	216
+Mandurah				9
+Mandurah			0	5
+Mandurah			7875	3
+Mandurah			15750	8
+Mandurah			21000	9
+Mandurah			26250	15
+Mandurah			34125	20
+Mandurah			42000	30
+Mandurah			52500	47
+Mandurah			65625	39
+Mandurah			78750	34
+Mandurah			91875	17
+Mandurah			105000	17
+Mandurah			131250	42
+Mandurah			157500	13
+Mandurah			183750	10
+Mandurah			210000	6
+Mandurah			Inf	12
+Mandurah	0			494
+Mandurah	0		0	84
+Mandurah	0		7875	35
+Mandurah	0		15750	65
+Mandurah	0		21000	137
+Mandurah	0		26250	248
+Mandurah	0		34125	537
+Mandurah	0		42000	511
+Mandurah	0		52500	578
+Mandurah	0		65625	560
+Mandurah	0		78750	452
+Mandurah	0		91875	293
+Mandurah	0		105000	250
+Mandurah	0		131250	378
+Mandurah	0		157500	184
+Mandurah	0		183750	109
+Mandurah	0		210000	43
+Mandurah	0		Inf	116
+Mandurah	1	0		3615
+Mandurah	1	0	0	318
+Mandurah	1	0	7875	122
+Mandurah	1	0	15750	98
+Mandurah	1	0	21000	81
+Mandurah	1	0	26250	424
+Mandurah	1	0	34125	306
+Mandurah	1	0	42000	2081
+Mandurah	1	0	52500	1561
+Mandurah	1	0	65625	1624
+Mandurah	1	0	78750	1706
+Mandurah	1	0	91875	1064
+Mandurah	1	0	105000	1164
+Mandurah	1	0	131250	2592
+Mandurah	1	0	157500	1990
+Mandurah	1	0	183750	1770
+Mandurah	1	0	210000	1030
+Mandurah	1	0	Inf	2686
+Mandurah	1	1	7875	5
+Mandurah	1	1	15750	6
+Mandurah	1	1	21000	15
+Mandurah	1	1	26250	30
+Mandurah	1	1	34125	76
+Mandurah	1	1	42000	135
+Perth - Inner				4
+Perth - Inner			0	23
+Perth - Inner			7875	10
+Perth - Inner			15750	19
+Perth - Inner			21000	3
+Perth - Inner			26250	25
+Perth - Inner			34125	31
+Perth - Inner			42000	29
+Perth - Inner			52500	65
+Perth - Inner			65625	79
+Perth - Inner			78750	81
+Perth - Inner			91875	59
+Perth - Inner			105000	58
+Perth - Inner			131250	96
+Perth - Inner			157500	79
+Perth - Inner			183750	40
+Perth - Inner			210000	19
+Perth - Inner			Inf	67
+Perth - Inner	0			450
+Perth - Inner	0		0	135
+Perth - Inner	0		7875	41
+Perth - Inner	0		15750	56
+Perth - Inner	0		21000	89
+Perth - Inner	0		26250	124
+Perth - Inner	0		34125	194
+Perth - Inner	0		42000	233
+Perth - Inner	0		52500	337
+Perth - Inner	0		65625	408
+Perth - Inner	0		78750	371
+Perth - Inner	0		91875	355
+Perth - Inner	0		105000	339
+Perth - Inner	0		131250	605
+Perth - Inner	0		157500	241
+Perth - Inner	0		183750	235
+Perth - Inner	0		210000	86
+Perth - Inner	0		Inf	639
+Perth - Inner	1	0		3238
+Perth - Inner	1	0	0	362
+Perth - Inner	1	0	7875	111
+Perth - Inner	1	0	15750	88
+Perth - Inner	1	0	21000	55
+Perth - Inner	1	0	26250	255
+Perth - Inner	1	0	34125	203
+Perth - Inner	1	0	42000	718
+Perth - Inner	1	0	52500	854
+Perth - Inner	1	0	65625	1268
+Perth - Inner	1	0	78750	1647
+Perth - Inner	1	0	91875	1201
+Perth - Inner	1	0	105000	1533
+Perth - Inner	1	0	131250	3494
+Perth - Inner	1	0	157500	3048
+Perth - Inner	1	0	183750	3059
+Perth - Inner	1	0	210000	2351
+Perth - Inner	1	0	Inf	15982
+Perth - Inner	1	1	7875	20
+Perth - Inner	1	1	15750	27
+Perth - Inner	1	1	21000	20
+Perth - Inner	1	1	26250	45
+Perth - Inner	1	1	34125	71
+Perth - Inner	1	1	42000	106
+Perth - North East				18
+Perth - North East			0	12
+Perth - North East			7875	6
+Perth - North East			15750	11
+Perth - North East			21000	12
+Perth - North East			26250	32
+Perth - North East			34125	32
+Perth - North East			42000	67
+Perth - North East			52500	104
+Perth - North East			65625	102
+Perth - North East			78750	135
+Perth - North East			91875	113
+Perth - North East			105000	108
+Perth - North East			131250	181
+Perth - North East			157500	105
+Perth - North East			183750	61
+Perth - North East			210000	32
+Perth - North East			Inf	58
+Perth - North East	0			1090
+Perth - North East	0		0	227
+Perth - North East	0		7875	72
+Perth - North East	0		15750	171
+Perth - North East	0		21000	276
+Perth - North East	0		26250	456
+Perth - North East	0		34125	825
+Perth - North East	0		42000	969
+Perth - North East	0		52500	1216
+Perth - North East	0		65625	1304
+Perth - North East	0		78750	1203
+Perth - North East	0		91875	869
+Perth - North East	0		105000	772
+Perth - North East	0		131250	1305
+Perth - North East	0		157500	612
+Perth - North East	0		183750	375
+Perth - North East	0		210000	152
+Perth - North East	0		Inf	304
+Perth - North East	1	0		6955
+Perth - North East	1	0	0	624
+Perth - North East	1	0	7875	188
+Perth - North East	1	0	15750	132
+Perth - North East	1	0	21000	97
+Perth - North East	1	0	26250	585
+Perth - North East	1	0	34125	474
+Perth - North East	1	0	42000	2566
+Perth - North East	1	0	52500	2215
+Perth - North East	1	0	65625	3028
+Perth - North East	1	0	78750	3867
+Perth - North East	1	0	91875	3047
+Perth - North East	1	0	105000	3487
+Perth - North East	1	0	131250	8433
+Perth - North East	1	0	157500	6861
+Perth - North East	1	0	183750	5748
+Perth - North East	1	0	210000	3717
+Perth - North East	1	0	Inf	8788
+Perth - North East	1	1	7875	17
+Perth - North East	1	1	15750	46
+Perth - North East	1	1	21000	50
+Perth - North East	1	1	26250	112
+Perth - North East	1	1	34125	180
+Perth - North East	1	1	42000	384
+Perth - North West				29
+Perth - North West			0	39
+Perth - North West			7875	27
+Perth - North West			15750	28
+Perth - North West			21000	18
+Perth - North West			26250	57
+Perth - North West			34125	74
+Perth - North West			42000	107
+Perth - North West			52500	198
+Perth - North West			65625	215
+Perth - North West			78750	235
+Perth - North West			91875	164
+Perth - North West			105000	174
+Perth - North West			131250	304
+Perth - North West			157500	211
+Perth - North West			183750	133
+Perth - North West			210000	66
+Perth - North West			Inf	91
+Perth - North West	0			2212
+Perth - North West	0		0	375
+Perth - North West	0		7875	130
+Perth - North West	0		15750	273
+Perth - North West	0		21000	537
+Perth - North West	0		26250	929
+Perth - North West	0		34125	1578
+Perth - North West	0		42000	1760
+Perth - North West	0		52500	2282
+Perth - North West	0		65625	2578
+Perth - North West	0		78750	2281
+Perth - North West	0		91875	1850
+Perth - North West	0		105000	1565
+Perth - North West	0		131250	2693
+Perth - North West	0		157500	1148
+Perth - North West	0		183750	796
+Perth - North West	0		210000	338
+Perth - North West	0		Inf	874
+Perth - North West	1	0		13981
+Perth - North West	1	0	0	1394
+Perth - North West	1	0	7875	419
+Perth - North West	1	0	15750	354
+Perth - North West	1	0	21000	245
+Perth - North West	1	0	26250	1308
+Perth - North West	1	0	34125	988
+Perth - North West	1	0	42000	4939
+Perth - North West	1	0	52500	4822
+Perth - North West	1	0	65625	6080
+Perth - North West	1	0	78750	7622
+Perth - North West	1	0	91875	6075
+Perth - North West	1	0	105000	6679
+Perth - North West	1	0	131250	16172
+Perth - North West	1	0	157500	13971
+Perth - North West	1	0	183750	12608
+Perth - North West	1	0	210000	8530
+Perth - North West	1	0	Inf	25241
+Perth - North West	1	1	7875	55
+Perth - North West	1	1	15750	113
+Perth - North West	1	1	21000	102
+Perth - North West	1	1	26250	234
+Perth - North West	1	1	34125	337
+Perth - North West	1	1	42000	755
+Perth - South East				38
+Perth - South East			0	58
+Perth - South East			7875	27
+Perth - South East			15750	36
+Perth - South East			21000	35
+Perth - South East			26250	90
+Perth - South East			34125	77
+Perth - South East			42000	120
+Perth - South East			52500	266
+Perth - South East			65625	257
+Perth - South East			78750	315
+Perth - South East			91875	216
+Perth - South East			105000	203
+Perth - South East			131250	420
+Perth - South East			157500	231
+Perth - South East			183750	142
+Perth - South East			210000	86
+Perth - South East			Inf	145
+Perth - South East	0			1958
+Perth - South East	0		0	417
+Perth - South East	0		7875	109
+Perth - South East	0		15750	281
+Perth - South East	0		21000	530
+Perth - South East	0		26250	891
+Perth - South East	0		34125	1435
+Perth - South East	0		42000	1637
+Perth - South East	0		52500	1988
+Perth - South East	0		65625	2258
+Perth - South East	0		78750	2017
+Perth - South East	0		91875	1466
+Perth - South East	0		105000	1261
+Perth - South East	0		131250	2125
+Perth - South East	0		157500	936
+Perth - South East	0		183750	670
+Perth - South East	0		210000	253
+Perth - South East	0		Inf	641
+Perth - South East	1	0		11740
+Perth - South East	1	0	0	1477
+Perth - South East	1	0	7875	401
+Perth - South East	1	0	15750	315
+Perth - South East	1	0	21000	243
+Perth - South East	1	0	26250	1085
+Perth - South East	1	0	34125	899
+Perth - South East	1	0	42000	4579
+Perth - South East	1	0	52500	4505
+Perth - South East	1	0	65625	5988
+Perth - South East	1	0	78750	7588
+Perth - South East	1	0	91875	6187
+Perth - South East	1	0	105000	6866
+Perth - South East	1	0	131250	15745
+Perth - South East	1	0	157500	12320
+Perth - South East	1	0	183750	10375
+Perth - South East	1	0	210000	6552
+Perth - South East	1	0	Inf	17460
+Perth - South East	1	1	7875	69
+Perth - South East	1	1	15750	118
+Perth - South East	1	1	21000	105
+Perth - South East	1	1	26250	279
+Perth - South East	1	1	34125	413
+Perth - South East	1	1	42000	838
+Perth - South West				29
+Perth - South West			0	24
+Perth - South West			7875	19
+Perth - South West			15750	27
+Perth - South West			21000	16
+Perth - South West			26250	43
+Perth - South West			34125	61
+Perth - South West			42000	105
+Perth - South West			52500	184
+Perth - South West			65625	153
+Perth - South West			78750	186
+Perth - South West			91875	129
+Perth - South West			105000	108
+Perth - South West			131250	211
+Perth - South West			157500	114
+Perth - South West			183750	83
+Perth - South West			210000	47
+Perth - South West			Inf	73
+Perth - South West	0			1793
+Perth - South West	0		0	315
+Perth - South West	0		7875	118
+Perth - South West	0		15750	267
+Perth - South West	0		21000	446
+Perth - South West	0		26250	776
+Perth - South West	0		34125	1405
+Perth - South West	0		42000	1475
+Perth - South West	0		52500	1869
+Perth - South West	0		65625	2005
+Perth - South West	0		78750	1723
+Perth - South West	0		91875	1468
+Perth - South West	0		105000	1153
+Perth - South West	0		131250	1923
+Perth - South West	0		157500	859
+Perth - South West	0		183750	618
+Perth - South West	0		210000	260
+Perth - South West	0		Inf	693
+Perth - South West	1	0		11225
+Perth - South West	1	0	0	981
+Perth - South West	1	0	7875	350
+Perth - South West	1	0	15750	275
+Perth - South West	1	0	21000	191
+Perth - South West	1	0	26250	971
+Perth - South West	1	0	34125	734
+Perth - South West	1	0	42000	3881
+Perth - South West	1	0	52500	3512
+Perth - South West	1	0	65625	4298
+Perth - South West	1	0	78750	5315
+Perth - South West	1	0	91875	4461
+Perth - South West	1	0	105000	5113
+Perth - South West	1	0	131250	12293
+Perth - South West	1	0	157500	10454
+Perth - South West	1	0	183750	9567
+Perth - South West	1	0	210000	6365
+Perth - South West	1	0	Inf	18812
+Perth - South West	1	1	7875	43
+Perth - South West	1	1	15750	55
+Perth - South West	1	1	21000	65
+Perth - South West	1	1	26250	146
+Perth - South West	1	1	34125	210
+Perth - South West	1	1	42000	490
+Western Australia - Wheat Belt				21
+Western Australia - Wheat Belt			0	12
+Western Australia - Wheat Belt			7875	11
+Western Australia - Wheat Belt			15750	4
+Western Australia - Wheat Belt			26250	17
+Western Australia - Wheat Belt			34125	14
+Western Australia - Wheat Belt			42000	22
+Western Australia - Wheat Belt			52500	49
+Western Australia - Wheat Belt			65625	52
+Western Australia - Wheat Belt			78750	44
+Western Australia - Wheat Belt			91875	21
+Western Australia - Wheat Belt			105000	18
+Western Australia - Wheat Belt			131250	44
+Western Australia - Wheat Belt			157500	16
+Western Australia - Wheat Belt			183750	21
+Western Australia - Wheat Belt			210000	7
+Western Australia - Wheat Belt			Inf	8
+Western Australia - Wheat Belt	0			580
+Western Australia - Wheat Belt	0		0	58
+Western Australia - Wheat Belt	0		7875	30
+Western Australia - Wheat Belt	0		15750	69
+Western Australia - Wheat Belt	0		21000	121
+Western Australia - Wheat Belt	0		26250	286
+Western Australia - Wheat Belt	0		34125	440
+Western Australia - Wheat Belt	0		42000	470
+Western Australia - Wheat Belt	0		52500	541
+Western Australia - Wheat Belt	0		65625	544
+Western Australia - Wheat Belt	0		78750	432
+Western Australia - Wheat Belt	0		91875	295
+Western Australia - Wheat Belt	0		105000	226
+Western Australia - Wheat Belt	0		131250	315
+Western Australia - Wheat Belt	0		157500	138
+Western Australia - Wheat Belt	0		183750	80
+Western Australia - Wheat Belt	0		210000	27
+Western Australia - Wheat Belt	0		Inf	76
+Western Australia - Wheat Belt	1	0		4114
+Western Australia - Wheat Belt	1	0	0	354
+Western Australia - Wheat Belt	1	0	7875	154
+Western Australia - Wheat Belt	1	0	15750	115
+Western Australia - Wheat Belt	1	0	21000	97
+Western Australia - Wheat Belt	1	0	26250	502
+Western Australia - Wheat Belt	1	0	34125	352
+Western Australia - Wheat Belt	1	0	42000	2206
+Western Australia - Wheat Belt	1	0	52500	1680
+Western Australia - Wheat Belt	1	0	65625	1952
+Western Australia - Wheat Belt	1	0	78750	2360
+Western Australia - Wheat Belt	1	0	91875	1571
+Western Australia - Wheat Belt	1	0	105000	1882
+Western Australia - Wheat Belt	1	0	131250	3783
+Western Australia - Wheat Belt	1	0	157500	2834
+Western Australia - Wheat Belt	1	0	183750	2093
+Western Australia - Wheat Belt	1	0	210000	1165
+Western Australia - Wheat Belt	1	0	Inf	2661
+Western Australia - Wheat Belt	1	1	7875	17
+Western Australia - Wheat Belt	1	1	15750	28
+Western Australia - Wheat Belt	1	1	21000	16
+Western Australia - Wheat Belt	1	1	26250	60
+Western Australia - Wheat Belt	1	1	34125	82
+Western Australia - Wheat Belt	1	1	42000	202
+Western Australia - Outback (North)				24
+Western Australia - Outback (North)			0	9
+Western Australia - Outback (North)			7875	4
+Western Australia - Outback (North)			15750	5
+Western Australia - Outback (North)			21000	11
+Western Australia - Outback (North)			26250	31
+Western Australia - Outback (North)			34125	25
+Western Australia - Outback (North)			42000	42
+Western Australia - Outback (North)			52500	32
+Western Australia - Outback (North)			65625	35
+Western Australia - Outback (North)			78750	23
+Western Australia - Outback (North)			91875	8
+Western Australia - Outback (North)			105000	25
+Western Australia - Outback (North)			131250	29
+Western Australia - Outback (North)			157500	19
+Western Australia - Outback (North)			183750	19
+Western Australia - Outback (North)			210000	4
+Western Australia - Outback (North)			Inf	16
+Western Australia - Outback (North)	0			436
+Western Australia - Outback (North)	0		0	51
+Western Australia - Outback (North)	0		7875	23
+Western Australia - Outback (North)	0		15750	159
+Western Australia - Outback (North)	0		21000	184
+Western Australia - Outback (North)	0		26250	204
+Western Australia - Outback (North)	0		34125	199
+Western Australia - Outback (North)	0		42000	228
+Western Australia - Outback (North)	0		52500	221
+Western Australia - Outback (North)	0		65625	231
+Western Australia - Outback (North)	0		78750	212
+Western Australia - Outback (North)	0		91875	195
+Western Australia - Outback (North)	0		105000	174
+Western Australia - Outback (North)	0		131250	288
+Western Australia - Outback (North)	0		157500	90
+Western Australia - Outback (North)	0		183750	119
+Western Australia - Outback (North)	0		210000	37
+Western Australia - Outback (North)	0		Inf	111
+Western Australia - Outback (North)	1	0		2080
+Western Australia - Outback (North)	1	0	0	75
+Western Australia - Outback (North)	1	0	7875	18
+Western Australia - Outback (North)	1	0	15750	23
+Western Australia - Outback (North)	1	0	21000	9
+Western Australia - Outback (North)	1	0	26250	161
+Western Australia - Outback (North)	1	0	34125	58
+Western Australia - Outback (North)	1	0	42000	197
+Western Australia - Outback (North)	1	0	52500	294
+Western Australia - Outback (North)	1	0	65625	370
+Western Australia - Outback (North)	1	0	78750	373
+Western Australia - Outback (North)	1	0	91875	296
+Western Australia - Outback (North)	1	0	105000	479
+Western Australia - Outback (North)	1	0	131250	1454
+Western Australia - Outback (North)	1	0	157500	1496
+Western Australia - Outback (North)	1	0	183750	1739
+Western Australia - Outback (North)	1	0	210000	1230
+Western Australia - Outback (North)	1	0	Inf	3983
+Western Australia - Outback (North)	1	1	7875	21
+Western Australia - Outback (North)	1	1	15750	18
+Western Australia - Outback (North)	1	1	21000	14
+Western Australia - Outback (North)	1	1	26250	154
+Western Australia - Outback (North)	1	1	34125	112
+Western Australia - Outback (North)	1	1	42000	195
+Western Australia - Outback (South)				12
+Western Australia - Outback (South)			0	9
+Western Australia - Outback (South)			7875	3
+Western Australia - Outback (South)			15750	6
+Western Australia - Outback (South)			21000	6
+Western Australia - Outback (South)			26250	16
+Western Australia - Outback (South)			34125	26
+Western Australia - Outback (South)			42000	33
+Western Australia - Outback (South)			52500	51
+Western Australia - Outback (South)			65625	38
+Western Australia - Outback (South)			78750	46
+Western Australia - Outback (South)			91875	26
+Western Australia - Outback (South)			105000	25
+Western Australia - Outback (South)			131250	34
+Western Australia - Outback (South)			157500	33
+Western Australia - Outback (South)			183750	31
+Western Australia - Outback (South)			210000	10
+Western Australia - Outback (South)			Inf	21
+Western Australia - Outback (South)	0			568
+Western Australia - Outback (South)	0		0	73
+Western Australia - Outback (South)	0		7875	35
+Western Australia - Outback (South)	0		15750	108
+Western Australia - Outback (South)	0		21000	156
+Western Australia - Outback (South)	0		26250	262
+Western Australia - Outback (South)	0		34125	352
+Western Australia - Outback (South)	0		42000	382
+Western Australia - Outback (South)	0		52500	452
+Western Australia - Outback (South)	0		65625	438
+Western Australia - Outback (South)	0		78750	334
+Western Australia - Outback (South)	0		91875	283
+Western Australia - Outback (South)	0		105000	238
+Western Australia - Outback (South)	0		131250	383
+Western Australia - Outback (South)	0		157500	182
+Western Australia - Outback (South)	0		183750	117
+Western Australia - Outback (South)	0		210000	57
+Western Australia - Outback (South)	0		Inf	119
+Western Australia - Outback (South)	1	0		3360
+Western Australia - Outback (South)	1	0	0	240
+Western Australia - Outback (South)	1	0	7875	82
+Western Australia - Outback (South)	1	0	15750	63
+Western Australia - Outback (South)	1	0	21000	43
+Western Australia - Outback (South)	1	0	26250	299
+Western Australia - Outback (South)	1	0	34125	198
+Western Australia - Outback (South)	1	0	42000	1152
+Western Australia - Outback (South)	1	0	52500	902
+Western Australia - Outback (South)	1	0	65625	988
+Western Australia - Outback (South)	1	0	78750	1337
+Western Australia - Outback (South)	1	0	91875	1009
+Western Australia - Outback (South)	1	0	105000	1191
+Western Australia - Outback (South)	1	0	131250	2988
+Western Australia - Outback (South)	1	0	157500	2428
+Western Australia - Outback (South)	1	0	183750	2186
+Western Australia - Outback (South)	1	0	210000	1327
+Western Australia - Outback (South)	1	0	Inf	3340
+Western Australia - Outback (South)	1	1	7875	12
+Western Australia - Outback (South)	1	1	15750	20
+Western Australia - Outback (South)	1	1	21000	11
+Western Australia - Outback (South)	1	1	26250	56
+Western Australia - Outback (South)	1	1	34125	66
+Western Australia - Outback (South)	1	1	42000	138
+Hobart				18
+Hobart			0	17
+Hobart			7875	4
+Hobart			15750	13
+Hobart			21000	10
+Hobart			26250	30
+Hobart			34125	43
+Hobart			42000	60
+Hobart			52500	133
+Hobart			65625	124
+Hobart			78750	125
+Hobart			91875	73
+Hobart			105000	91
+Hobart			131250	139
+Hobart			157500	61
+Hobart			183750	35
+Hobart			210000	15
+Hobart			Inf	28
+Hobart	0			1088
+Hobart	0		0	132
+Hobart	0		7875	51
+Hobart	0		15750	138
+Hobart	0		21000	260
+Hobart	0		26250	557
+Hobart	0		34125	996
+Hobart	0		42000	1074
+Hobart	0		52500	1334
+Hobart	0		65625	1466
+Hobart	0		78750	1194
+Hobart	0		91875	866
+Hobart	0		105000	721
+Hobart	0		131250	1118
+Hobart	0		157500	396
+Hobart	0		183750	245
+Hobart	0		210000	87
+Hobart	0		Inf	264
+Hobart	1	0		3584
+Hobart	1	0	0	442
+Hobart	1	0	7875	131
+Hobart	1	0	15750	127
+Hobart	1	0	21000	108
+Hobart	1	0	26250	551
+Hobart	1	0	34125	479
+Hobart	1	0	42000	2621
+Hobart	1	0	52500	2652
+Hobart	1	0	65625	3417
+Hobart	1	0	78750	4593
+Hobart	1	0	91875	3275
+Hobart	1	0	105000	3499
+Hobart	1	0	131250	7576
+Hobart	1	0	157500	5774
+Hobart	1	0	183750	4318
+Hobart	1	0	210000	2870
+Hobart	1	0	Inf	6460
+Hobart	1	1	7875	25
+Hobart	1	1	15750	39
+Hobart	1	1	21000	18
+Hobart	1	1	26250	109
+Hobart	1	1	34125	155
+Hobart	1	1	42000	354
+Launceston and North East				22
+Launceston and North East			0	9
+Launceston and North East			7875	3
+Launceston and North East			15750	6
+Launceston and North East			21000	8
+Launceston and North East			26250	11
+Launceston and North East			34125	16
+Launceston and North East			42000	35
+Launceston and North East			52500	102
+Launceston and North East			65625	62
+Launceston and North East			78750	67
+Launceston and North East			91875	38
+Launceston and North East			105000	39
+Launceston and North East			131250	57
+Launceston and North East			157500	21
+Launceston and North East			183750	20
+Launceston and North East			Inf	4
+Launceston and North East	0			669
+Launceston and North East	0		0	82
+Launceston and North East	0		7875	36
+Launceston and North East	0		15750	90
+Launceston and North East	0		21000	193
+Launceston and North East	0		26250	349
+Launceston and North East	0		34125	666
+Launceston and North East	0		42000	758
+Launceston and North East	0		52500	964
+Launceston and North East	0		65625	856
+Launceston and North East	0		78750	722
+Launceston and North East	0		91875	445
+Launceston and North East	0		105000	328
+Launceston and North East	0		131250	479
+Launceston and North East	0		157500	186
+Launceston and North East	0		183750	93
+Launceston and North East	0		210000	22
+Launceston and North East	0		Inf	81
+Launceston and North East	1	0		2507
+Launceston and North East	1	0	0	288
+Launceston and North East	1	0	7875	137
+Launceston and North East	1	0	15750	96
+Launceston and North East	1	0	21000	115
+Launceston and North East	1	0	26250	577
+Launceston and North East	1	0	34125	402
+Launceston and North East	1	0	42000	2728
+Launceston and North East	1	0	52500	2175
+Launceston and North East	1	0	65625	2520
+Launceston and North East	1	0	78750	3113
+Launceston and North East	1	0	91875	2138
+Launceston and North East	1	0	105000	2214
+Launceston and North East	1	0	131250	4674
+Launceston and North East	1	0	157500	3103
+Launceston and North East	1	0	183750	2257
+Launceston and North East	1	0	210000	1265
+Launceston and North East	1	0	Inf	2571
+Launceston and North East	1	1	7875	16
+Launceston and North East	1	1	15750	23
+Launceston and North East	1	1	21000	26
+Launceston and North East	1	1	26250	84
+Launceston and North East	1	1	34125	125
+Launceston and North East	1	1	42000	311
+South East				4
+South East			21000	4
+South East			26250	3
+South East			42000	13
+South East			52500	21
+South East			65625	15
+South East			78750	15
+South East			91875	4
+South East			105000	5
+South East			131250	11
+South East			183750	4
+South East			210000	4
+South East	0			200
+South East	0		0	14
+South East	0		7875	7
+South East	0		15750	23
+South East	0		21000	49
+South East	0		26250	84
+South East	0		34125	150
+South East	0		42000	156
+South East	0		52500	196
+South East	0		65625	211
+South East	0		78750	142
+South East	0		91875	101
+South East	0		105000	70
+South East	0		131250	88
+South East	0		157500	34
+South East	0		183750	18
+South East	0		210000	10
+South East	0		Inf	20
+South East	1	0		918
+South East	1	0	0	103
+South East	1	0	7875	57
+South East	1	0	15750	50
+South East	1	0	21000	46
+South East	1	0	26250	224
+South East	1	0	34125	170
+South East	1	0	42000	901
+South East	1	0	52500	734
+South East	1	0	65625	826
+South East	1	0	78750	930
+South East	1	0	91875	620
+South East	1	0	105000	675
+South East	1	0	131250	1229
+South East	1	0	157500	857
+South East	1	0	183750	524
+South East	1	0	210000	284
+South East	1	0	Inf	536
+South East	1	1	7875	10
+South East	1	1	15750	4
+South East	1	1	21000	6
+South East	1	1	26250	18
+South East	1	1	34125	35
+South East	1	1	42000	96
+West and North West				11
+West and North West			0	5
+West and North West			7875	8
+West and North West			21000	7
+West and North West			26250	9
+West and North West			34125	13
+West and North West			42000	30
+West and North West			52500	51
+West and North West			65625	58
+West and North West			78750	50
+West and North West			91875	26
+West and North West			105000	33
+West and North West			131250	49
+West and North West			157500	26
+West and North West			183750	3
+West and North West			210000	5
+West and North West			Inf	8
+West and North West	0			538
+West and North West	0		0	54
+West and North West	0		7875	30
+West and North West	0		15750	75
+West and North West	0		21000	152
+West and North West	0		26250	337
+West and North West	0		34125	556
+West and North West	0		42000	627
+West and North West	0		52500	710
+West and North West	0		65625	667
+West and North West	0		78750	531
+West and North West	0		91875	346
+West and North West	0		105000	254
+West and North West	0		131250	331
+West and North West	0		157500	137
+West and North West	0		183750	67
+West and North West	0		210000	25
+West and North West	0		Inf	65
+West and North West	1	0		2327
+West and North West	1	0	0	200
+West and North West	1	0	7875	105
+West and North West	1	0	15750	91
+West and North West	1	0	21000	92
+West and North West	1	0	26250	458
+West and North West	1	0	34125	324
+West and North West	1	0	42000	2530
+West and North West	1	0	52500	1730
+West and North West	1	0	65625	1882
+West and North West	1	0	78750	2401
+West and North West	1	0	91875	1685
+West and North West	1	0	105000	1734
+West and North West	1	0	131250	3503
+West and North West	1	0	157500	2380
+West and North West	1	0	183750	1616
+West and North West	1	0	210000	896
+West and North West	1	0	Inf	1596
+West and North West	1	1	7875	8
+West and North West	1	1	15750	8
+West and North West	1	1	21000	10
+West and North West	1	1	26250	55
+West and North West	1	1	34125	71
+West and North West	1	1	42000	212
+Darwin				7
+Darwin			0	10
+Darwin			15750	11
+Darwin			21000	3
+Darwin			26250	10
+Darwin			34125	14
+Darwin			42000	17
+Darwin			52500	37
+Darwin			65625	39
+Darwin			78750	51
+Darwin			91875	35
+Darwin			105000	53
+Darwin			131250	102
+Darwin			157500	70
+Darwin			183750	27
+Darwin			210000	18
+Darwin			Inf	36
+Darwin	0			572
+Darwin	0		0	79
+Darwin	0		7875	28
+Darwin	0		15750	78
+Darwin	0		21000	150
+Darwin	0		26250	215
+Darwin	0		34125	311
+Darwin	0		42000	354
+Darwin	0		52500	384
+Darwin	0		65625	500
+Darwin	0		78750	508
+Darwin	0		91875	463
+Darwin	0		105000	398
+Darwin	0		131250	727
+Darwin	0		157500	304
+Darwin	0		183750	208
+Darwin	0		210000	101
+Darwin	0		Inf	255
+Darwin	1	0		3497
+Darwin	1	0	0	208
+Darwin	1	0	7875	41
+Darwin	1	0	15750	49
+Darwin	1	0	21000	39
+Darwin	1	0	26250	165
+Darwin	1	0	34125	126
+Darwin	1	0	42000	513
+Darwin	1	0	52500	620
+Darwin	1	0	65625	938
+Darwin	1	0	78750	1354
+Darwin	1	0	91875	1162
+Darwin	1	0	105000	1416
+Darwin	1	0	131250	3948
+Darwin	1	0	157500	3364
+Darwin	1	0	183750	3013
+Darwin	1	0	210000	2243
+Darwin	1	0	Inf	5541
+Darwin	1	1	7875	12
+Darwin	1	1	15750	12
+Darwin	1	1	21000	15
+Darwin	1	1	26250	50
+Darwin	1	1	34125	53
+Darwin	1	1	42000	122
+Northern Territory - Outback				21
+Northern Territory - Outback			0	7
+Northern Territory - Outback			7875	24
+Northern Territory - Outback			15750	20
+Northern Territory - Outback			21000	11
+Northern Territory - Outback			26250	50
+Northern Territory - Outback			34125	14
+Northern Territory - Outback			42000	74
+Northern Territory - Outback			52500	75
+Northern Territory - Outback			65625	48
+Northern Territory - Outback			78750	40
+Northern Territory - Outback			91875	22
+Northern Territory - Outback			105000	17
+Northern Territory - Outback			131250	35
+Northern Territory - Outback			157500	16
+Northern Territory - Outback			183750	11
+Northern Territory - Outback			210000	9
+Northern Territory - Outback			Inf	12
+Northern Territory - Outback	0			540
+Northern Territory - Outback	0		0	34
+Northern Territory - Outback	0		7875	163
+Northern Territory - Outback	0		15750	551
+Northern Territory - Outback	0		21000	289
+Northern Territory - Outback	0		26250	412
+Northern Territory - Outback	0		34125	293
+Northern Territory - Outback	0		42000	363
+Northern Territory - Outback	0		52500	340
+Northern Territory - Outback	0		65625	354
+Northern Territory - Outback	0		78750	286
+Northern Territory - Outback	0		91875	186
+Northern Territory - Outback	0		105000	169
+Northern Territory - Outback	0		131250	239
+Northern Territory - Outback	0		157500	103
+Northern Territory - Outback	0		183750	75
+Northern Territory - Outback	0		210000	40
+Northern Territory - Outback	0		Inf	69
+Northern Territory - Outback	1	0		1822
+Northern Territory - Outback	1	0	0	112
+Northern Territory - Outback	1	0	7875	148
+Northern Territory - Outback	1	0	15750	69
+Northern Territory - Outback	1	0	21000	32
+Northern Territory - Outback	1	0	26250	505
+Northern Territory - Outback	1	0	34125	118
+Northern Territory - Outback	1	0	42000	455
+Northern Territory - Outback	1	0	52500	790
+Northern Territory - Outback	1	0	65625	769
+Northern Territory - Outback	1	0	78750	767
+Northern Territory - Outback	1	0	91875	531
+Northern Territory - Outback	1	0	105000	554
+Northern Territory - Outback	1	0	131250	1443
+Northern Territory - Outback	1	0	157500	1321
+Northern Territory - Outback	1	0	183750	1167
+Northern Territory - Outback	1	0	210000	743
+Northern Territory - Outback	1	0	Inf	1581
+Northern Territory - Outback	1	1	7875	142
+Northern Territory - Outback	1	1	15750	190
+Northern Territory - Outback	1	1	21000	70
+Northern Territory - Outback	1	1	26250	624
+Northern Territory - Outback	1	1	34125	323
+Northern Territory - Outback	1	1	42000	554
+Australian Capital Territory				15
+Australian Capital Territory			0	19
+Australian Capital Territory			7875	20
+Australian Capital Territory			15750	5
+Australian Capital Territory			21000	8
+Australian Capital Territory			26250	30
+Australian Capital Territory			34125	32
+Australian Capital Territory			42000	59
+Australian Capital Territory			52500	99
+Australian Capital Territory			65625	121
+Australian Capital Territory			78750	181
+Australian Capital Territory			91875	110
+Australian Capital Territory			105000	129
+Australian Capital Territory			131250	300
+Australian Capital Territory			157500	239
+Australian Capital Territory			183750	137
+Australian Capital Territory			210000	96
+Australian Capital Territory			Inf	124
+Australian Capital Territory	0			1382
+Australian Capital Territory	0		0	196
+Australian Capital Territory	0		7875	85
+Australian Capital Territory	0		15750	170
+Australian Capital Territory	0		21000	266
+Australian Capital Territory	0		26250	478
+Australian Capital Territory	0		34125	697
+Australian Capital Territory	0		42000	758
+Australian Capital Territory	0		52500	976
+Australian Capital Territory	0		65625	1278
+Australian Capital Territory	0		78750	1314
+Australian Capital Territory	0		91875	1375
+Australian Capital Territory	0		105000	1274
+Australian Capital Territory	0		131250	2723
+Australian Capital Territory	0		157500	1128
+Australian Capital Territory	0		183750	939
+Australian Capital Territory	0		210000	422
+Australian Capital Territory	0		Inf	1240
+Australian Capital Territory	1	0		5068
+Australian Capital Territory	1	0	0	657
+Australian Capital Territory	1	0	7875	157
+Australian Capital Territory	1	0	15750	115
+Australian Capital Territory	1	0	21000	87
+Australian Capital Territory	1	0	26250	404
+Australian Capital Territory	1	0	34125	382
+Australian Capital Territory	1	0	42000	1720
+Australian Capital Territory	1	0	52500	2011
+Australian Capital Territory	1	0	65625	3104
+Australian Capital Territory	1	0	78750	4831
+Australian Capital Territory	1	0	91875	4114
+Australian Capital Territory	1	0	105000	4585
+Australian Capital Territory	1	0	131250	11885
+Australian Capital Territory	1	0	157500	10964
+Australian Capital Territory	1	0	183750	10851
+Australian Capital Territory	1	0	210000	9011
+Australian Capital Territory	1	0	Inf	30701
+Australian Capital Territory	1	1	7875	29
+Australian Capital Territory	1	1	15750	31
+Australian Capital Territory	1	1	21000	35
+Australian Capital Territory	1	1	26250	98
+Australian Capital Territory	1	1	34125	183
+Australian Capital Territory	1	1	42000	313
+Other Territories				3
+Other Territories			78750	4
+Other Territories			105000	4
+Other Territories	0			19
+Other Territories	0		21000	5
+Other Territories	0		26250	6
+Other Territories	0		34125	4
+Other Territories	0		42000	9
+Other Territories	0		52500	15
+Other Territories	0		65625	23
+Other Territories	0		78750	8
+Other Territories	0		91875	9
+Other Territories	0		105000	4
+Other Territories	0		131250	11
+Other Territories	0		157500	5
+Other Territories	0		183750	7
+Other Territories	0		210000	5
+Other Territories	1	0		99
+Other Territories	1	0	0	3
+Other Territories	1	0	7875	8
+Other Territories	1	0	21000	4
+Other Territories	1	0	26250	15
+Other Territories	1	0	34125	15
+Other Territories	1	0	42000	45
+Other Territories	1	0	52500	44
+Other Territories	1	0	65625	50
+Other Territories	1	0	78750	75
+Other Territories	1	0	91875	58
+Other Territories	1	0	105000	63
+Other Territories	1	0	131250	119
+Other Territories	1	0	157500	92
+Other Territories	1	0	183750	64
+Other Territories	1	0	210000	52
+Other Territories	1	0	Inf	89
+Other Territories	1	1	15750	4
+Other Territories	1	1	42000	9

@@ -1,0 +1,207 @@
+SA4_NAME16	Sex	persons
+Capital Region	F	119720
+Capital Region	M	119088
+Central Coast	F	178618
+Central Coast	M	167980
+Central West	F	106759
+Central West	M	106203
+Coffs Harbour - Grafton	F	74634
+Coffs Harbour - Grafton	M	71497
+Far West and Orana	F	58251
+Far West and Orana	M	57315
+Hunter Valley exc Newcastle	F	146804
+Hunter Valley exc Newcastle	M	145140
+Illawarra	F	159771
+Illawarra	M	154066
+Mid North Coast	F	117699
+Mid North Coast	M	111336
+Murray	F	62639
+Murray	M	60918
+New England and North West	F	94298
+New England and North West	M	91262
+Newcastle and Lake Macquarie	F	199494
+Newcastle and Lake Macquarie	M	191024
+Richmond - Tweed	F	132624
+Richmond - Tweed	M	124435
+Riverina	F	82302
+Riverina	M	81361
+Southern Highlands and Shoalhaven	F	82094
+Southern Highlands and Shoalhaven	M	78909
+Sydney - Baulkham Hills and Hawkesbury	F	133529
+Sydney - Baulkham Hills and Hawkesbury	M	130838
+Sydney - Blacktown	F	200894
+Sydney - Blacktown	M	200107
+Sydney - City and Inner South	F	160839
+Sydney - City and Inner South	M	170509
+Sydney - Eastern Suburbs	F	135328
+Sydney - Eastern Suburbs	M	126084
+Sydney - Inner South West	F	303505
+Sydney - Inner South West	M	301606
+Sydney - Inner West	F	156267
+Sydney - Inner West	M	148502
+Sydney - North Sydney and Hornsby	F	219868
+Sydney - North Sydney and Hornsby	M	204179
+Sydney - Northern Beaches	F	134623
+Sydney - Northern Beaches	M	128929
+Sydney - Outer South West	F	151122
+Sydney - Outer South West	M	146172
+Sydney - Outer West and Blue Mountains	F	168862
+Sydney - Outer West and Blue Mountains	M	163198
+Sydney - Parramatta	F	241931
+Sydney - Parramatta	M	251582
+Sydney - Ryde	F	103659
+Sydney - Ryde	M	98378
+Sydney - South West	F	239498
+Sydney - South West	M	234934
+Sydney - Sutherland	F	117352
+Sydney - Sutherland	M	112258
+No usual address (NSW)	F	4997
+No usual address (NSW)	M	6375
+Ballarat	F	88886
+Ballarat	M	85041
+Bendigo	F	85960
+Bendigo	M	81803
+Geelong	F	167815
+Geelong	M	160063
+Hume	F	93770
+Hume	M	91165
+Latrobe - Gippsland	F	153015
+Latrobe - Gippsland	M	147833
+Melbourne - Inner	F	317072
+Melbourne - Inner	M	299941
+Melbourne - Inner East	F	193669
+Melbourne - Inner East	M	179806
+Melbourne - Inner South	F	219288
+Melbourne - Inner South	M	203350
+Melbourne - North East	F	273777
+Melbourne - North East	M	266882
+Melbourne - North West	F	213385
+Melbourne - North West	M	210949
+Melbourne - Outer East	F	264753
+Melbourne - Outer East	M	253546
+Melbourne - South East	F	430395
+Melbourne - South East	M	429665
+Melbourne - West	F	426189
+Melbourne - West	M	426866
+Mornington Peninsula	F	158508
+Mornington Peninsula	M	149718
+North West	F	77914
+North West	M	77653
+Shepparton	F	69282
+Shepparton	M	68342
+Warrnambool and South West	F	64926
+Warrnambool and South West	M	63143
+Migratory - Offshore - Shipping (Vic.)	F	6
+Migratory - Offshore - Shipping (Vic.)	M	36
+No usual address (Vic.)	F	3915
+No usual address (Vic.)	M	5170
+Brisbane - East	F	122696
+Brisbane - East	M	117124
+Brisbane - North	F	115298
+Brisbane - North	M	109298
+Brisbane - South	F	188606
+Brisbane - South	M	182420
+Brisbane - West	F	96586
+Brisbane - West	M	92626
+Brisbane Inner City	F	147592
+Brisbane Inner City	M	144652
+Cairns	F	127735
+Cairns	M	126014
+Darling Downs - Maranoa	F	64264
+Darling Downs - Maranoa	M	64356
+Central Queensland	F	112823
+Central Queensland	M	115421
+Gold Coast	F	329627
+Gold Coast	M	311152
+Ipswich	F	184504
+Ipswich	M	182621
+Logan - Beaudesert	F	182174
+Logan - Beaudesert	M	177600
+Mackay - Isaac - Whitsunday	F	88188
+Mackay - Isaac - Whitsunday	M	92710
+Moreton Bay - North	F	135684
+Moreton Bay - North	M	129066
+Moreton Bay - South	F	110751
+Moreton Bay - South	M	106946
+Queensland - Outback	F	38443
+Queensland - Outback	M	41390
+Sunshine Coast	F	206834
+Sunshine Coast	M	192005
+Toowoomba	F	83917
+Toowoomba	M	78137
+Townsville	F	117144
+Townsville	M	117138
+Wide Bay	F	156032
+Wide Bay	M	151711
+Migratory - Offshore - Shipping (Qld)	F	28
+Migratory - Offshore - Shipping (Qld)	M	149
+No usual address (Qld)	F	6807
+No usual address (Qld)	M	7861
+Adelaide - Central and Hills	F	160429
+Adelaide - Central and Hills	M	151952
+Adelaide - North	F	229035
+Adelaide - North	M	226664
+Adelaide - South	F	192742
+Adelaide - South	M	182112
+Adelaide - West	F	124756
+Adelaide - West	M	119593
+Barossa - Yorke - Mid North	F	57265
+Barossa - Yorke - Mid North	M	57223
+South Australia - Outback	F	40472
+South Australia - Outback	M	42179
+South Australia - South East	F	96720
+South Australia - South East	M	96986
+Migratory - Offshore - Shipping (SA)	M	12
+No usual address (SA)	F	1506
+No usual address (SA)	M	1873
+Bunbury	F	95483
+Bunbury	M	93269
+Mandurah	F	55660
+Mandurah	M	51979
+Perth - Inner	F	92241
+Perth - Inner	M	90025
+Perth - North East	F	138478
+Perth - North East	M	138101
+Perth - North West	F	294235
+Perth - North West	M	283068
+Perth - South East	F	265325
+Perth - South East	M	264141
+Perth - South West	F	225539
+Perth - South West	M	217864
+Western Australia - Wheat Belt	F	67561
+Western Australia - Wheat Belt	M	69616
+Western Australia - Outback (North)	F	41999
+Western Australia - Outback (North)	M	48124
+Western Australia - Outback (South)	F	57177
+Western Australia - Outback (South)	M	61579
+Migratory - Offshore - Shipping (WA)	F	58
+Migratory - Offshore - Shipping (WA)	M	455
+No usual address (WA)	F	3416
+No usual address (WA)	M	4639
+Hobart	F	126562
+Hobart	M	120521
+Launceston and North East	F	76859
+Launceston and North East	M	74337
+South East	F	20414
+South East	M	21322
+West and North West	F	59349
+West and North West	M	56814
+Migratory - Offshore - Shipping (Tas.)	M	13
+No usual address (Tas.)	F	616
+No usual address (Tas.)	M	758
+Darwin	F	69161
+Darwin	M	70739
+Northern Territory - Outback	F	44220
+Northern Territory - Outback	M	44877
+Migratory - Offshore - Shipping (NT)	F	15
+Migratory - Offshore - Shipping (NT)	M	83
+No usual address (NT)	F	1675
+No usual address (NT)	M	1826
+Australian Capital Territory	F	229869
+Australian Capital Territory	M	224022
+No usual address (ACT)	F	273
+No usual address (ACT)	M	336
+Other Territories	F	2263
+Other Territories	M	2511
+No usual address (OT)	F	4
+No usual address (OT)	M	6

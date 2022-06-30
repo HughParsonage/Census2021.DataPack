@@ -1,0 +1,207 @@
+SA4_NAME16	BornAust	persons
+Capital Region	0	32050
+Capital Region	1	190530
+Central Coast	0	55682
+Central Coast	1	273712
+Central West	0	17989
+Central West	1	179261
+Coffs Harbour - Grafton	0	18389
+Coffs Harbour - Grafton	1	117944
+Far West and Orana	0	8481
+Far West and Orana	1	93743
+Hunter Valley exc Newcastle	0	27349
+Hunter Valley exc Newcastle	1	250011
+Illawarra	0	60704
+Illawarra	1	239913
+Mid North Coast	0	24029
+Mid North Coast	1	189107
+Murray	0	11656
+Murray	1	101922
+New England and North West	0	15268
+New England and North West	1	151716
+Newcastle and Lake Macquarie	0	48930
+Newcastle and Lake Macquarie	1	325835
+Richmond - Tweed	0	35793
+Richmond - Tweed	1	201202
+Riverina	0	19228
+Riverina	1	132633
+Southern Highlands and Shoalhaven	0	24099
+Southern Highlands and Shoalhaven	1	127062
+Sydney - Baulkham Hills and Hawkesbury	0	97138
+Sydney - Baulkham Hills and Hawkesbury	1	161016
+Sydney - Blacktown	0	178836
+Sydney - Blacktown	1	201256
+Sydney - City and Inner South	0	150908
+Sydney - City and Inner South	1	160464
+Sydney - Eastern Suburbs	0	101760
+Sydney - Eastern Suburbs	1	147059
+Sydney - Inner South West	0	276008
+Sydney - Inner South West	1	296441
+Sydney - Inner West	0	131221
+Sydney - Inner West	1	160859
+Sydney - North Sydney and Hornsby	0	176754
+Sydney - North Sydney and Hornsby	1	235420
+Sydney - Northern Beaches	0	79681
+Sydney - Northern Beaches	1	175873
+Sydney - Outer South West	0	79795
+Sydney - Outer South West	1	203669
+Sydney - Outer West and Blue Mountains	0	69180
+Sydney - Outer West and Blue Mountains	1	246776
+Sydney - Parramatta	0	257673
+Sydney - Parramatta	1	206180
+Sydney - Ryde	0	97075
+Sydney - Ryde	1	98562
+Sydney - South West	0	225072
+Sydney - South West	1	224620
+Sydney - Sutherland	0	44294
+Sydney - Sutherland	1	178874
+No usual address (NSW)	0	1908
+No usual address (NSW)	1	5912
+Ballarat	0	19505
+Ballarat	1	143983
+Bendigo	0	17639
+Bendigo	1	139745
+Geelong	0	54161
+Geelong	1	257934
+Hume	0	19530
+Hume	1	152185
+Latrobe - Gippsland	0	37384
+Latrobe - Gippsland	1	240797
+Melbourne - Inner	0	221412
+Melbourne - Inner	1	362743
+Melbourne - Inner East	0	147808
+Melbourne - Inner East	1	214019
+Melbourne - Inner South	0	130831
+Melbourne - Inner South	1	278589
+Melbourne - North East	0	165657
+Melbourne - North East	1	353639
+Melbourne - North West	0	149241
+Melbourne - North West	1	254652
+Melbourne - Outer East	0	139191
+Melbourne - Outer East	1	362762
+Melbourne - South East	0	383675
+Melbourne - South East	1	437878
+Melbourne - West	0	358172
+Melbourne - West	1	450888
+Mornington Peninsula	0	59637
+Mornington Peninsula	1	231982
+North West	0	17527
+North West	1	125410
+Shepparton	0	17849
+Shepparton	1	109099
+Warrnambool and South West	0	11223
+Warrnambool and South West	1	108095
+Migratory - Offshore - Shipping (Vic.)	0	3
+Migratory - Offshore - Shipping (Vic.)	1	9
+No usual address (Vic.)	0	1390
+No usual address (Vic.)	1	4283
+Brisbane - East	0	55945
+Brisbane - East	1	175644
+Brisbane - North	0	57333
+Brisbane - North	1	159442
+Brisbane - South	0	140512
+Brisbane - South	1	217162
+Brisbane - West	0	57036
+Brisbane - West	1	127375
+Brisbane Inner City	0	88282
+Brisbane Inner City	1	189603
+Cairns	0	50630
+Cairns	1	179461
+Darling Downs - Maranoa	0	10759
+Darling Downs - Maranoa	1	105677
+Central Queensland	0	24992
+Central Queensland	1	184311
+Gold Coast	0	185274
+Gold Coast	1	418579
+Ipswich	0	88577
+Ipswich	1	258897
+Logan - Beaudesert	0	98091
+Logan - Beaudesert	1	238629
+Mackay - Isaac - Whitsunday	0	22692
+Mackay - Isaac - Whitsunday	1	138112
+Moreton Bay - North	0	50501
+Moreton Bay - North	1	199660
+Moreton Bay - South	0	50448
+Moreton Bay - South	1	160247
+Queensland - Outback	0	7386
+Queensland - Outback	1	63559
+Sunshine Coast	0	83741
+Sunshine Coast	1	294585
+Toowoomba	0	24854
+Toowoomba	1	129263
+Townsville	0	30336
+Townsville	1	185635
+Wide Bay	0	40013
+Wide Bay	1	245132
+Migratory - Offshore - Shipping (Qld)	0	23
+Migratory - Offshore - Shipping (Qld)	1	29
+No usual address (Qld)	0	2917
+No usual address (Qld)	1	9019
+Adelaide - Central and Hills	0	89654
+Adelaide - Central and Hills	1	211871
+Adelaide - North	0	132081
+Adelaide - North	1	304793
+Adelaide - South	0	89142
+Adelaide - South	1	273027
+Adelaide - West	0	71945
+Adelaide - West	1	163514
+Barossa - Yorke - Mid North	0	11166
+Barossa - Yorke - Mid North	1	95552
+South Australia - Outback	0	8908
+South Australia - Outback	1	66936
+South Australia - South East	0	25070
+South Australia - South East	1	155408
+Migratory - Offshore - Shipping (SA)	0	4
+No usual address (SA)	0	530
+No usual address (SA)	1	2262
+Bunbury	0	36146
+Bunbury	1	140508
+Mandurah	0	27879
+Mandurah	1	73150
+Perth - Inner	0	65814
+Perth - Inner	1	107511
+Perth - North East	0	90886
+Perth - North East	1	173150
+Perth - North West	0	222764
+Perth - North West	1	331349
+Perth - South East	0	208956
+Perth - South East	1	295176
+Perth - South West	0	144752
+Perth - South West	1	278175
+Western Australia - Wheat Belt	0	24031
+Western Australia - Wheat Belt	1	100151
+Western Australia - Outback (North)	0	14955
+Western Australia - Outback (North)	1	60535
+Western Australia - Outback (South)	0	19880
+Western Australia - Outback (South)	1	84169
+Migratory - Offshore - Shipping (WA)	0	148
+Migratory - Offshore - Shipping (WA)	1	151
+No usual address (WA)	0	1431
+No usual address (WA)	1	4775
+Hobart	0	46696
+Hobart	1	189218
+Launceston and North East	0	21280
+Launceston and North East	1	121279
+South East	0	5418
+South East	1	32864
+West and North West	0	12111
+West and North West	1	96464
+Migratory - Offshore - Shipping (Tas.)	0	6
+Migratory - Offshore - Shipping (Tas.)	1	6
+No usual address (Tas.)	0	161
+No usual address (Tas.)	1	973
+Darwin	0	38891
+Darwin	1	89266
+Northern Territory - Outback	0	11338
+Northern Territory - Outback	1	70155
+Migratory - Offshore - Shipping (NT)	0	22
+Migratory - Offshore - Shipping (NT)	1	56
+No usual address (NT)	0	492
+No usual address (NT)	1	2106
+Australian Capital Territory	0	130535
+Australian Capital Territory	1	306525
+No usual address (ACT)	0	121
+No usual address (ACT)	1	384
+Other Territories	0	1382
+Other Territories	1	2673
+No usual address (OT)	1	12

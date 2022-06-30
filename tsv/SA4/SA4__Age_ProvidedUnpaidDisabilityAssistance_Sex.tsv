@@ -1,0 +1,5254 @@
+SA4_NAME16	Age	ProvidedUnpaidDisabilityAssistance	Sex	adults
+Capital Region	15-19		F	487
+Capital Region	15-19		M	596
+Capital Region	15-19	0	F	5255
+Capital Region	15-19	0	M	5779
+Capital Region	15-19	1	F	347
+Capital Region	15-19	1	M	321
+Capital Region	20-24		F	369
+Capital Region	20-24		M	466
+Capital Region	20-24	0	F	4440
+Capital Region	20-24	0	M	4889
+Capital Region	20-24	1	F	388
+Capital Region	20-24	1	M	311
+Capital Region	25-34		F	968
+Capital Region	25-34		M	1287
+Capital Region	25-34	0	F	11127
+Capital Region	25-34	0	M	11112
+Capital Region	25-34	1	F	1404
+Capital Region	25-34	1	M	857
+Capital Region	35-44		F	950
+Capital Region	35-44		M	1064
+Capital Region	35-44	0	F	10744
+Capital Region	35-44	0	M	10670
+Capital Region	35-44	1	F	2265
+Capital Region	35-44	1	M	1431
+Capital Region	45-54		F	937
+Capital Region	45-54		M	1209
+Capital Region	45-54	0	F	11789
+Capital Region	45-54	0	M	12182
+Capital Region	45-54	1	F	3315
+Capital Region	45-54	1	M	2027
+Capital Region	55-64		F	1105
+Capital Region	55-64		M	1310
+Capital Region	55-64	0	F	12892
+Capital Region	55-64	0	M	13605
+Capital Region	55-64	1	F	3841
+Capital Region	55-64	1	M	2619
+Capital Region	65-74		F	1018
+Capital Region	65-74		M	1097
+Capital Region	65-74	0	F	12022
+Capital Region	65-74	0	M	12832
+Capital Region	65-74	1	F	2476
+Capital Region	65-74	1	M	1819
+Capital Region	75-84		F	755
+Capital Region	75-84		M	673
+Capital Region	75-84	0	F	6507
+Capital Region	75-84	0	M	6431
+Capital Region	75-84	1	F	995
+Capital Region	75-84	1	M	805
+Capital Region	85+		F	456
+Capital Region	85+		M	289
+Capital Region	85+	0	F	2832
+Capital Region	85+	0	M	1809
+Capital Region	85+	1	F	164
+Capital Region	85+	1	M	232
+Central Coast	15-19		F	538
+Central Coast	15-19		M	615
+Central Coast	15-19	0	F	8703
+Central Coast	15-19	0	M	9443
+Central Coast	15-19	1	F	511
+Central Coast	15-19	1	M	467
+Central Coast	20-24		F	506
+Central Coast	20-24		M	513
+Central Coast	20-24	0	F	7956
+Central Coast	20-24	0	M	8337
+Central Coast	20-24	1	F	646
+Central Coast	20-24	1	M	531
+Central Coast	25-34		F	1137
+Central Coast	25-34		M	1204
+Central Coast	25-34	0	F	16368
+Central Coast	25-34	0	M	16189
+Central Coast	25-34	1	F	1999
+Central Coast	25-34	1	M	1224
+Central Coast	35-44		F	1135
+Central Coast	35-44		M	1154
+Central Coast	35-44	0	F	16730
+Central Coast	35-44	0	M	16767
+Central Coast	35-44	1	F	3582
+Central Coast	35-44	1	M	2000
+Central Coast	45-54		F	1006
+Central Coast	45-54		M	1197
+Central Coast	45-54	0	F	17055
+Central Coast	45-54	0	M	17431
+Central Coast	45-54	1	F	4733
+Central Coast	45-54	1	M	2762
+Central Coast	55-64		F	994
+Central Coast	55-64		M	1045
+Central Coast	55-64	0	F	17454
+Central Coast	55-64	0	M	17193
+Central Coast	55-64	1	F	5146
+Central Coast	55-64	1	M	3053
+Central Coast	65-74		F	1200
+Central Coast	65-74		M	1043
+Central Coast	65-74	0	F	17222
+Central Coast	65-74	0	M	15729
+Central Coast	65-74	1	F	3372
+Central Coast	65-74	1	M	2118
+Central Coast	75-84		F	1420
+Central Coast	75-84		M	1005
+Central Coast	75-84	0	F	10995
+Central Coast	75-84	0	M	9534
+Central Coast	75-84	1	F	1430
+Central Coast	75-84	1	M	1306
+Central Coast	85+		F	1481
+Central Coast	85+		M	716
+Central Coast	85+	0	F	4853
+Central Coast	85+	0	M	2885
+Central Coast	85+	1	F	278
+Central Coast	85+	1	M	323
+Central West	15-19		F	506
+Central West	15-19		M	640
+Central West	15-19	0	F	5168
+Central West	15-19	0	M	5772
+Central West	15-19	1	F	338
+Central West	15-19	1	M	268
+Central West	20-24		F	413
+Central West	20-24		M	650
+Central West	20-24	0	F	4557
+Central West	20-24	0	M	4872
+Central West	20-24	1	F	384
+Central West	20-24	1	M	286
+Central West	25-34		F	912
+Central West	25-34		M	1395
+Central West	25-34	0	F	10309
+Central West	25-34	0	M	10137
+Central West	25-34	1	F	1368
+Central West	25-34	1	M	738
+Central West	35-44		F	890
+Central West	35-44		M	1312
+Central West	35-44	0	F	9248
+Central West	35-44	0	M	9429
+Central West	35-44	1	F	2051
+Central West	35-44	1	M	1202
+Central West	45-54		F	894
+Central West	45-54		M	1140
+Central West	45-54	0	F	9557
+Central West	45-54	0	M	9970
+Central West	45-54	1	F	2898
+Central West	45-54	1	M	1737
+Central West	55-64		F	883
+Central West	55-64		M	1108
+Central West	55-64	0	F	9979
+Central West	55-64	0	M	10794
+Central West	55-64	1	F	3148
+Central West	55-64	1	M	2009
+Central West	65-74		F	821
+Central West	65-74		M	951
+Central West	65-74	0	F	9530
+Central West	65-74	0	M	10048
+Central West	65-74	1	F	1915
+Central West	65-74	1	M	1386
+Central West	75-84		F	722
+Central West	75-84		M	663
+Central West	75-84	0	F	5995
+Central West	75-84	0	M	5597
+Central West	75-84	1	F	795
+Central West	75-84	1	M	708
+Central West	85+		F	420
+Central West	85+		M	223
+Central West	85+	0	F	2850
+Central West	85+	0	M	1653
+Central West	85+	1	F	145
+Central West	85+	1	M	208
+Coffs Harbour - Grafton	15-19		F	336
+Coffs Harbour - Grafton	15-19		M	374
+Coffs Harbour - Grafton	15-19	0	F	3292
+Coffs Harbour - Grafton	15-19	0	M	3517
+Coffs Harbour - Grafton	15-19	1	F	225
+Coffs Harbour - Grafton	15-19	1	M	207
+Coffs Harbour - Grafton	20-24		F	239
+Coffs Harbour - Grafton	20-24		M	367
+Coffs Harbour - Grafton	20-24	0	F	2604
+Coffs Harbour - Grafton	20-24	0	M	2747
+Coffs Harbour - Grafton	20-24	1	F	232
+Coffs Harbour - Grafton	20-24	1	M	173
+Coffs Harbour - Grafton	25-34		F	649
+Coffs Harbour - Grafton	25-34		M	996
+Coffs Harbour - Grafton	25-34	0	F	6093
+Coffs Harbour - Grafton	25-34	0	M	5919
+Coffs Harbour - Grafton	25-34	1	F	882
+Coffs Harbour - Grafton	25-34	1	M	502
+Coffs Harbour - Grafton	35-44		F	653
+Coffs Harbour - Grafton	35-44		M	895
+Coffs Harbour - Grafton	35-44	0	F	6213
+Coffs Harbour - Grafton	35-44	0	M	6072
+Coffs Harbour - Grafton	35-44	1	F	1378
+Coffs Harbour - Grafton	35-44	1	M	762
+Coffs Harbour - Grafton	45-54		F	607
+Coffs Harbour - Grafton	45-54		M	797
+Coffs Harbour - Grafton	45-54	0	F	6857
+Coffs Harbour - Grafton	45-54	0	M	6698
+Coffs Harbour - Grafton	45-54	1	F	2003
+Coffs Harbour - Grafton	45-54	1	M	1147
+Coffs Harbour - Grafton	55-64		F	613
+Coffs Harbour - Grafton	55-64		M	732
+Coffs Harbour - Grafton	55-64	0	F	7851
+Coffs Harbour - Grafton	55-64	0	M	7830
+Coffs Harbour - Grafton	55-64	1	F	2593
+Coffs Harbour - Grafton	55-64	1	M	1633
+Coffs Harbour - Grafton	65-74		F	601
+Coffs Harbour - Grafton	65-74		M	603
+Coffs Harbour - Grafton	65-74	0	F	7981
+Coffs Harbour - Grafton	65-74	0	M	8367
+Coffs Harbour - Grafton	65-74	1	F	1817
+Coffs Harbour - Grafton	65-74	1	M	1272
+Coffs Harbour - Grafton	75-84		F	598
+Coffs Harbour - Grafton	75-84		M	469
+Coffs Harbour - Grafton	75-84	0	F	4693
+Coffs Harbour - Grafton	75-84	0	M	4400
+Coffs Harbour - Grafton	75-84	1	F	752
+Coffs Harbour - Grafton	75-84	1	M	589
+Coffs Harbour - Grafton	85+		F	462
+Coffs Harbour - Grafton	85+		M	235
+Coffs Harbour - Grafton	85+	0	F	2114
+Coffs Harbour - Grafton	85+	0	M	1355
+Coffs Harbour - Grafton	85+	1	F	139
+Coffs Harbour - Grafton	85+	1	M	172
+Far West and Orana	15-19		F	425
+Far West and Orana	15-19		M	541
+Far West and Orana	15-19	0	F	2535
+Far West and Orana	15-19	0	M	2713
+Far West and Orana	15-19	1	F	167
+Far West and Orana	15-19	1	M	152
+Far West and Orana	20-24		F	361
+Far West and Orana	20-24		M	472
+Far West and Orana	20-24	0	F	2407
+Far West and Orana	20-24	0	M	2409
+Far West and Orana	20-24	1	F	173
+Far West and Orana	20-24	1	M	153
+Far West and Orana	25-34		F	950
+Far West and Orana	25-34		M	1212
+Far West and Orana	25-34	0	F	6150
+Far West and Orana	25-34	0	M	5948
+Far West and Orana	25-34	1	F	808
+Far West and Orana	25-34	1	M	419
+Far West and Orana	35-44		F	866
+Far West and Orana	35-44		M	989
+Far West and Orana	35-44	0	F	4694
+Far West and Orana	35-44	0	M	4791
+Far West and Orana	35-44	1	F	1078
+Far West and Orana	35-44	1	M	562
+Far West and Orana	45-54		F	780
+Far West and Orana	45-54		M	888
+Far West and Orana	45-54	0	F	4725
+Far West and Orana	45-54	0	M	4892
+Far West and Orana	45-54	1	F	1347
+Far West and Orana	45-54	1	M	828
+Far West and Orana	55-64		F	752
+Far West and Orana	55-64		M	864
+Far West and Orana	55-64	0	F	5215
+Far West and Orana	55-64	0	M	5649
+Far West and Orana	55-64	1	F	1691
+Far West and Orana	55-64	1	M	1047
+Far West and Orana	65-74		F	643
+Far West and Orana	65-74		M	716
+Far West and Orana	65-74	0	F	4623
+Far West and Orana	65-74	0	M	5089
+Far West and Orana	65-74	1	F	946
+Far West and Orana	65-74	1	M	614
+Far West and Orana	75-84		F	588
+Far West and Orana	75-84		M	468
+Far West and Orana	75-84	0	F	2957
+Far West and Orana	75-84	0	M	2718
+Far West and Orana	75-84	1	F	428
+Far West and Orana	75-84	1	M	345
+Far West and Orana	85+		F	349
+Far West and Orana	85+		M	191
+Far West and Orana	85+	0	F	1331
+Far West and Orana	85+	0	M	812
+Far West and Orana	85+	1	F	87
+Far West and Orana	85+	1	M	99
+Hunter Valley exc Newcastle	15-19		F	531
+Hunter Valley exc Newcastle	15-19		M	646
+Hunter Valley exc Newcastle	15-19	0	F	7376
+Hunter Valley exc Newcastle	15-19	0	M	8133
+Hunter Valley exc Newcastle	15-19	1	F	476
+Hunter Valley exc Newcastle	15-19	1	M	427
+Hunter Valley exc Newcastle	20-24		F	440
+Hunter Valley exc Newcastle	20-24		M	693
+Hunter Valley exc Newcastle	20-24	0	F	6773
+Hunter Valley exc Newcastle	20-24	0	M	7232
+Hunter Valley exc Newcastle	20-24	1	F	637
+Hunter Valley exc Newcastle	20-24	1	M	403
+Hunter Valley exc Newcastle	25-34		F	972
+Hunter Valley exc Newcastle	25-34		M	1674
+Hunter Valley exc Newcastle	25-34	0	F	15333
+Hunter Valley exc Newcastle	25-34	0	M	15234
+Hunter Valley exc Newcastle	25-34	1	F	2118
+Hunter Valley exc Newcastle	25-34	1	M	1185
+Hunter Valley exc Newcastle	35-44		F	911
+Hunter Valley exc Newcastle	35-44		M	1475
+Hunter Valley exc Newcastle	35-44	0	F	13615
+Hunter Valley exc Newcastle	35-44	0	M	14119
+Hunter Valley exc Newcastle	35-44	1	F	3277
+Hunter Valley exc Newcastle	35-44	1	M	1830
+Hunter Valley exc Newcastle	45-54		F	833
+Hunter Valley exc Newcastle	45-54		M	1242
+Hunter Valley exc Newcastle	45-54	0	F	13619
+Hunter Valley exc Newcastle	45-54	0	M	14285
+Hunter Valley exc Newcastle	45-54	1	F	4002
+Hunter Valley exc Newcastle	45-54	1	M	2257
+Hunter Valley exc Newcastle	55-64		F	807
+Hunter Valley exc Newcastle	55-64		M	1109
+Hunter Valley exc Newcastle	55-64	0	F	13747
+Hunter Valley exc Newcastle	55-64	0	M	14339
+Hunter Valley exc Newcastle	55-64	1	F	4314
+Hunter Valley exc Newcastle	55-64	1	M	2684
+Hunter Valley exc Newcastle	65-74		F	834
+Hunter Valley exc Newcastle	65-74		M	951
+Hunter Valley exc Newcastle	65-74	0	F	12991
+Hunter Valley exc Newcastle	65-74	0	M	13103
+Hunter Valley exc Newcastle	65-74	1	F	2754
+Hunter Valley exc Newcastle	65-74	1	M	2026
+Hunter Valley exc Newcastle	75-84		F	772
+Hunter Valley exc Newcastle	75-84		M	724
+Hunter Valley exc Newcastle	75-84	0	F	7354
+Hunter Valley exc Newcastle	75-84	0	M	6939
+Hunter Valley exc Newcastle	75-84	1	F	1001
+Hunter Valley exc Newcastle	75-84	1	M	933
+Hunter Valley exc Newcastle	85+		F	546
+Hunter Valley exc Newcastle	85+		M	290
+Hunter Valley exc Newcastle	85+	0	F	2959
+Hunter Valley exc Newcastle	85+	0	M	1767
+Hunter Valley exc Newcastle	85+	1	F	159
+Hunter Valley exc Newcastle	85+	1	M	201
+Illawarra	15-19		F	526
+Illawarra	15-19		M	517
+Illawarra	15-19	0	F	8396
+Illawarra	15-19	0	M	8756
+Illawarra	15-19	1	F	502
+Illawarra	15-19	1	M	428
+Illawarra	20-24		F	526
+Illawarra	20-24		M	593
+Illawarra	20-24	0	F	9217
+Illawarra	20-24	0	M	9684
+Illawarra	20-24	1	F	752
+Illawarra	20-24	1	M	557
+Illawarra	25-34		F	1025
+Illawarra	25-34		M	1089
+Illawarra	25-34	0	F	17086
+Illawarra	25-34	0	M	17499
+Illawarra	25-34	1	F	1979
+Illawarra	25-34	1	M	1317
+Illawarra	35-44		F	918
+Illawarra	35-44		M	937
+Illawarra	35-44	0	F	15685
+Illawarra	35-44	0	M	15953
+Illawarra	35-44	1	F	3178
+Illawarra	35-44	1	M	1897
+Illawarra	45-54		F	771
+Illawarra	45-54		M	878
+Illawarra	45-54	0	F	14973
+Illawarra	45-54	0	M	15338
+Illawarra	45-54	1	F	4418
+Illawarra	45-54	1	M	2895
+Illawarra	55-64		F	699
+Illawarra	55-64		M	767
+Illawarra	55-64	0	F	14332
+Illawarra	55-64	0	M	14840
+Illawarra	55-64	1	F	5130
+Illawarra	55-64	1	M	3381
+Illawarra	65-74		F	769
+Illawarra	65-74		M	738
+Illawarra	65-74	0	F	13254
+Illawarra	65-74	0	M	12680
+Illawarra	65-74	1	F	2816
+Illawarra	65-74	1	M	2055
+Illawarra	75-84		F	844
+Illawarra	75-84		M	687
+Illawarra	75-84	0	F	8651
+Illawarra	75-84	0	M	7376
+Illawarra	75-84	1	F	1122
+Illawarra	75-84	1	M	1062
+Illawarra	85+		F	891
+Illawarra	85+		M	522
+Illawarra	85+	0	F	3924
+Illawarra	85+	0	M	2329
+Illawarra	85+	1	F	223
+Illawarra	85+	1	M	332
+Mid North Coast	15-19		F	539
+Mid North Coast	15-19		M	634
+Mid North Coast	15-19	0	F	5065
+Mid North Coast	15-19	0	M	5321
+Mid North Coast	15-19	1	F	335
+Mid North Coast	15-19	1	M	310
+Mid North Coast	20-24		F	335
+Mid North Coast	20-24		M	512
+Mid North Coast	20-24	0	F	3803
+Mid North Coast	20-24	0	M	4023
+Mid North Coast	20-24	1	F	386
+Mid North Coast	20-24	1	M	301
+Mid North Coast	25-34		F	823
+Mid North Coast	25-34		M	1066
+Mid North Coast	25-34	0	F	8041
+Mid North Coast	25-34	0	M	7718
+Mid North Coast	25-34	1	F	1353
+Mid North Coast	25-34	1	M	768
+Mid North Coast	35-44		F	809
+Mid North Coast	35-44		M	1005
+Mid North Coast	35-44	0	F	8259
+Mid North Coast	35-44	0	M	8094
+Mid North Coast	35-44	1	F	2240
+Mid North Coast	35-44	1	M	1217
+Mid North Coast	45-54		F	814
+Mid North Coast	45-54		M	955
+Mid North Coast	45-54	0	F	9960
+Mid North Coast	45-54	0	M	9961
+Mid North Coast	45-54	1	F	3237
+Mid North Coast	45-54	1	M	1879
+Mid North Coast	55-64		F	974
+Mid North Coast	55-64		M	1119
+Mid North Coast	55-64	0	F	13073
+Mid North Coast	55-64	0	M	12813
+Mid North Coast	55-64	1	F	4342
+Mid North Coast	55-64	1	M	2475
+Mid North Coast	65-74		F	1157
+Mid North Coast	65-74		M	1207
+Mid North Coast	65-74	0	F	14579
+Mid North Coast	65-74	0	M	15226
+Mid North Coast	65-74	1	F	3160
+Mid North Coast	65-74	1	M	2205
+Mid North Coast	75-84		F	1095
+Mid North Coast	75-84		M	884
+Mid North Coast	75-84	0	F	9250
+Mid North Coast	75-84	0	M	8776
+Mid North Coast	75-84	1	F	1308
+Mid North Coast	75-84	1	M	1252
+Mid North Coast	85+		F	883
+Mid North Coast	85+		M	481
+Mid North Coast	85+	0	F	3987
+Mid North Coast	85+	0	M	2571
+Mid North Coast	85+	1	F	265
+Mid North Coast	85+	1	M	343
+Murray	15-19		F	341
+Murray	15-19		M	377
+Murray	15-19	0	F	2960
+Murray	15-19	0	M	3066
+Murray	15-19	1	F	189
+Murray	15-19	1	M	170
+Murray	20-24		F	246
+Murray	20-24		M	283
+Murray	20-24	0	F	2570
+Murray	20-24	0	M	2705
+Murray	20-24	1	F	256
+Murray	20-24	1	M	160
+Murray	25-34		F	566
+Murray	25-34		M	615
+Murray	25-34	0	F	5598
+Murray	25-34	0	M	5674
+Murray	25-34	1	F	787
+Murray	25-34	1	M	454
+Murray	35-44		F	558
+Murray	35-44		M	574
+Murray	35-44	0	F	5246
+Murray	35-44	0	M	5247
+Murray	35-44	1	F	1246
+Murray	35-44	1	M	702
+Murray	45-54		F	521
+Murray	45-54		M	627
+Murray	45-54	0	F	5446
+Murray	45-54	0	M	5615
+Murray	45-54	1	F	1616
+Murray	45-54	1	M	985
+Murray	55-64		F	608
+Murray	55-64		M	647
+Murray	55-64	0	F	6058
+Murray	55-64	0	M	6437
+Murray	55-64	1	F	2078
+Murray	55-64	1	M	1197
+Murray	65-74		F	578
+Murray	65-74		M	660
+Murray	65-74	0	F	6119
+Murray	65-74	0	M	6605
+Murray	65-74	1	F	1312
+Murray	65-74	1	M	881
+Murray	75-84		F	573
+Murray	75-84		M	412
+Murray	75-84	0	F	3772
+Murray	75-84	0	M	3502
+Murray	75-84	1	F	550
+Murray	75-84	1	M	478
+Murray	85+		F	278
+Murray	85+		M	201
+Murray	85+	0	F	1654
+Murray	85+	0	M	1041
+Murray	85+	1	F	104
+Murray	85+	1	M	132
+New England and North West	15-19		F	784
+New England and North West	15-19		M	742
+New England and North West	15-19	0	F	4644
+New England and North West	15-19	0	M	4735
+New England and North West	15-19	1	F	365
+New England and North West	15-19	1	M	288
+New England and North West	20-24		F	620
+New England and North West	20-24		M	689
+New England and North West	20-24	0	F	4055
+New England and North West	20-24	0	M	4205
+New England and North West	20-24	1	F	368
+New England and North West	20-24	1	M	273
+New England and North West	25-34		F	1147
+New England and North West	25-34		M	1228
+New England and North West	25-34	0	F	8944
+New England and North West	25-34	0	M	8645
+New England and North West	25-34	1	F	1215
+New England and North West	25-34	1	M	771
+New England and North West	35-44		F	1040
+New England and North West	35-44		M	1096
+New England and North West	35-44	0	F	7741
+New England and North West	35-44	0	M	7738
+New England and North West	35-44	1	F	1706
+New England and North West	35-44	1	M	1017
+New England and North West	45-54		F	1067
+New England and North West	45-54		M	1148
+New England and North West	45-54	0	F	7838
+New England and North West	45-54	0	M	8188
+New England and North West	45-54	1	F	2388
+New England and North West	45-54	1	M	1396
+New England and North West	55-64		F	1056
+New England and North West	55-64		M	1143
+New England and North West	55-64	0	F	8626
+New England and North West	55-64	0	M	9157
+New England and North West	55-64	1	F	2871
+New England and North West	55-64	1	M	1741
+New England and North West	65-74		F	926
+New England and North West	65-74		M	1023
+New England and North West	65-74	0	F	8084
+New England and North West	65-74	0	M	8646
+New England and North West	65-74	1	F	1727
+New England and North West	65-74	1	M	1167
+New England and North West	75-84		F	817
+New England and North West	75-84		M	700
+New England and North West	75-84	0	F	5407
+New England and North West	75-84	0	M	4793
+New England and North West	75-84	1	F	755
+New England and North West	75-84	1	M	675
+New England and North West	85+		F	490
+New England and North West	85+		M	293
+New England and North West	85+	0	F	2264
+New England and North West	85+	0	M	1326
+New England and North West	85+	1	F	144
+New England and North West	85+	1	M	155
+Newcastle and Lake Macquarie	15-19		F	597
+Newcastle and Lake Macquarie	15-19		M	625
+Newcastle and Lake Macquarie	15-19	0	F	9863
+Newcastle and Lake Macquarie	15-19	0	M	10348
+Newcastle and Lake Macquarie	15-19	1	F	559
+Newcastle and Lake Macquarie	15-19	1	M	475
+Newcastle and Lake Macquarie	20-24		F	673
+Newcastle and Lake Macquarie	20-24		M	812
+Newcastle and Lake Macquarie	20-24	0	F	11524
+Newcastle and Lake Macquarie	20-24	0	M	11964
+Newcastle and Lake Macquarie	20-24	1	F	820
+Newcastle and Lake Macquarie	20-24	1	M	617
+Newcastle and Lake Macquarie	25-34		F	1194
+Newcastle and Lake Macquarie	25-34		M	1401
+Newcastle and Lake Macquarie	25-34	0	F	22496
+Newcastle and Lake Macquarie	25-34	0	M	22783
+Newcastle and Lake Macquarie	25-34	1	F	2514
+Newcastle and Lake Macquarie	25-34	1	M	1611
+Newcastle and Lake Macquarie	35-44		F	1028
+Newcastle and Lake Macquarie	35-44		M	1204
+Newcastle and Lake Macquarie	35-44	0	F	19729
+Newcastle and Lake Macquarie	35-44	0	M	20190
+Newcastle and Lake Macquarie	35-44	1	F	3991
+Newcastle and Lake Macquarie	35-44	1	M	2405
+Newcastle and Lake Macquarie	45-54		F	898
+Newcastle and Lake Macquarie	45-54		M	1085
+Newcastle and Lake Macquarie	45-54	0	F	18218
+Newcastle and Lake Macquarie	45-54	0	M	19172
+Newcastle and Lake Macquarie	45-54	1	F	5488
+Newcastle and Lake Macquarie	45-54	1	M	3320
+Newcastle and Lake Macquarie	55-64		F	892
+Newcastle and Lake Macquarie	55-64		M	1009
+Newcastle and Lake Macquarie	55-64	0	F	17389
+Newcastle and Lake Macquarie	55-64	0	M	17932
+Newcastle and Lake Macquarie	55-64	1	F	6278
+Newcastle and Lake Macquarie	55-64	1	M	3929
+Newcastle and Lake Macquarie	65-74		F	1081
+Newcastle and Lake Macquarie	65-74		M	980
+Newcastle and Lake Macquarie	65-74	0	F	16809
+Newcastle and Lake Macquarie	65-74	0	M	16084
+Newcastle and Lake Macquarie	65-74	1	F	3936
+Newcastle and Lake Macquarie	65-74	1	M	2777
+Newcastle and Lake Macquarie	75-84		F	1180
+Newcastle and Lake Macquarie	75-84		M	832
+Newcastle and Lake Macquarie	75-84	0	F	10986
+Newcastle and Lake Macquarie	75-84	0	M	9333
+Newcastle and Lake Macquarie	75-84	1	F	1612
+Newcastle and Lake Macquarie	75-84	1	M	1378
+Newcastle and Lake Macquarie	85+		F	1175
+Newcastle and Lake Macquarie	85+		M	572
+Newcastle and Lake Macquarie	85+	0	F	5391
+Newcastle and Lake Macquarie	85+	0	M	3013
+Newcastle and Lake Macquarie	85+	1	F	318
+Newcastle and Lake Macquarie	85+	1	M	408
+Richmond - Tweed	15-19		F	627
+Richmond - Tweed	15-19		M	698
+Richmond - Tweed	15-19	0	F	5698
+Richmond - Tweed	15-19	0	M	6071
+Richmond - Tweed	15-19	1	F	346
+Richmond - Tweed	15-19	1	M	296
+Richmond - Tweed	20-24		F	512
+Richmond - Tweed	20-24		M	519
+Richmond - Tweed	20-24	0	F	4654
+Richmond - Tweed	20-24	0	M	4841
+Richmond - Tweed	20-24	1	F	419
+Richmond - Tweed	20-24	1	M	326
+Richmond - Tweed	25-34		F	1234
+Richmond - Tweed	25-34		M	1210
+Richmond - Tweed	25-34	0	F	10999
+Richmond - Tweed	25-34	0	M	10169
+Richmond - Tweed	25-34	1	F	1339
+Richmond - Tweed	25-34	1	M	820
+Richmond - Tweed	35-44		F	1312
+Richmond - Tweed	35-44		M	1328
+Richmond - Tweed	35-44	0	F	12004
+Richmond - Tweed	35-44	0	M	11485
+Richmond - Tweed	35-44	1	F	2495
+Richmond - Tweed	35-44	1	M	1374
+Richmond - Tweed	45-54		F	1244
+Richmond - Tweed	45-54		M	1331
+Richmond - Tweed	45-54	0	F	12469
+Richmond - Tweed	45-54	0	M	12375
+Richmond - Tweed	45-54	1	F	3634
+Richmond - Tweed	45-54	1	M	2120
+Richmond - Tweed	55-64		F	1261
+Richmond - Tweed	55-64		M	1342
+Richmond - Tweed	55-64	0	F	13609
+Richmond - Tweed	55-64	0	M	13816
+Richmond - Tweed	55-64	1	F	4702
+Richmond - Tweed	55-64	1	M	2773
+Richmond - Tweed	65-74		F	1151
+Richmond - Tweed	65-74		M	1217
+Richmond - Tweed	65-74	0	F	13754
+Richmond - Tweed	65-74	0	M	14012
+Richmond - Tweed	65-74	1	F	3041
+Richmond - Tweed	65-74	1	M	2061
+Richmond - Tweed	75-84		F	970
+Richmond - Tweed	75-84		M	767
+Richmond - Tweed	75-84	0	F	8013
+Richmond - Tweed	75-84	0	M	7252
+Richmond - Tweed	75-84	1	F	1231
+Richmond - Tweed	75-84	1	M	988
+Richmond - Tweed	85+		F	879
+Richmond - Tweed	85+		M	464
+Richmond - Tweed	85+	0	F	3995
+Richmond - Tweed	85+	0	M	2444
+Richmond - Tweed	85+	1	F	247
+Richmond - Tweed	85+	1	M	316
+Riverina	15-19		F	433
+Riverina	15-19		M	526
+Riverina	15-19	0	F	4336
+Riverina	15-19	0	M	4630
+Riverina	15-19	1	F	311
+Riverina	15-19	1	M	236
+Riverina	20-24		F	386
+Riverina	20-24		M	586
+Riverina	20-24	0	F	4177
+Riverina	20-24	0	M	4273
+Riverina	20-24	1	F	367
+Riverina	20-24	1	M	242
+Riverina	25-34		F	740
+Riverina	25-34		M	1145
+Riverina	25-34	0	F	8558
+Riverina	25-34	0	M	8784
+Riverina	25-34	1	F	1095
+Riverina	25-34	1	M	637
+Riverina	35-44		F	682
+Riverina	35-44		M	1038
+Riverina	35-44	0	F	7345
+Riverina	35-44	0	M	7510
+Riverina	35-44	1	F	1575
+Riverina	35-44	1	M	911
+Riverina	45-54		F	651
+Riverina	45-54		M	962
+Riverina	45-54	0	F	7001
+Riverina	45-54	0	M	7406
+Riverina	45-54	1	F	2101
+Riverina	45-54	1	M	1230
+Riverina	55-64		F	678
+Riverina	55-64		M	777
+Riverina	55-64	0	F	7235
+Riverina	55-64	0	M	7869
+Riverina	55-64	1	F	2402
+Riverina	55-64	1	M	1462
+Riverina	65-74		F	636
+Riverina	65-74		M	667
+Riverina	65-74	0	F	6489
+Riverina	65-74	0	M	6816
+Riverina	65-74	1	F	1428
+Riverina	65-74	1	M	998
+Riverina	75-84		F	559
+Riverina	75-84		M	484
+Riverina	75-84	0	F	4207
+Riverina	75-84	0	M	3745
+Riverina	75-84	1	F	561
+Riverina	75-84	1	M	538
+Riverina	85+		F	394
+Riverina	85+		M	222
+Riverina	85+	0	F	2149
+Riverina	85+	0	M	1241
+Riverina	85+	1	F	112
+Riverina	85+	1	M	134
+Southern Highlands and Shoalhaven	15-19		F	326
+Southern Highlands and Shoalhaven	15-19		M	348
+Southern Highlands and Shoalhaven	15-19	0	F	3523
+Southern Highlands and Shoalhaven	15-19	0	M	3789
+Southern Highlands and Shoalhaven	15-19	1	F	227
+Southern Highlands and Shoalhaven	15-19	1	M	205
+Southern Highlands and Shoalhaven	20-24		F	237
+Southern Highlands and Shoalhaven	20-24		M	335
+Southern Highlands and Shoalhaven	20-24	0	F	2823
+Southern Highlands and Shoalhaven	20-24	0	M	3065
+Southern Highlands and Shoalhaven	20-24	1	F	227
+Southern Highlands and Shoalhaven	20-24	1	M	204
+Southern Highlands and Shoalhaven	25-34		F	513
+Southern Highlands and Shoalhaven	25-34		M	794
+Southern Highlands and Shoalhaven	25-34	0	F	6502
+Southern Highlands and Shoalhaven	25-34	0	M	6573
+Southern Highlands and Shoalhaven	25-34	1	F	850
+Southern Highlands and Shoalhaven	25-34	1	M	520
+Southern Highlands and Shoalhaven	35-44		F	517
+Southern Highlands and Shoalhaven	35-44		M	772
+Southern Highlands and Shoalhaven	35-44	0	F	6464
+Southern Highlands and Shoalhaven	35-44	0	M	6510
+Southern Highlands and Shoalhaven	35-44	1	F	1394
+Southern Highlands and Shoalhaven	35-44	1	M	790
+Southern Highlands and Shoalhaven	45-54		F	551
+Southern Highlands and Shoalhaven	45-54		M	733
+Southern Highlands and Shoalhaven	45-54	0	F	7221
+Southern Highlands and Shoalhaven	45-54	0	M	7221
+Southern Highlands and Shoalhaven	45-54	1	F	2048
+Southern Highlands and Shoalhaven	45-54	1	M	1250
+Southern Highlands and Shoalhaven	55-64		F	600
+Southern Highlands and Shoalhaven	55-64		M	685
+Southern Highlands and Shoalhaven	55-64	0	F	8812
+Southern Highlands and Shoalhaven	55-64	0	M	8742
+Southern Highlands and Shoalhaven	55-64	1	F	2766
+Southern Highlands and Shoalhaven	55-64	1	M	1673
+Southern Highlands and Shoalhaven	65-74		F	624
+Southern Highlands and Shoalhaven	65-74		M	649
+Southern Highlands and Shoalhaven	65-74	0	F	10234
+Southern Highlands and Shoalhaven	65-74	0	M	9838
+Southern Highlands and Shoalhaven	65-74	1	F	2064
+Southern Highlands and Shoalhaven	65-74	1	M	1434
+Southern Highlands and Shoalhaven	75-84		F	614
+Southern Highlands and Shoalhaven	75-84		M	508
+Southern Highlands and Shoalhaven	75-84	0	F	6173
+Southern Highlands and Shoalhaven	75-84	0	M	5916
+Southern Highlands and Shoalhaven	75-84	1	F	929
+Southern Highlands and Shoalhaven	75-84	1	M	850
+Southern Highlands and Shoalhaven	85+		F	453
+Southern Highlands and Shoalhaven	85+		M	272
+Southern Highlands and Shoalhaven	85+	0	F	2466
+Southern Highlands and Shoalhaven	85+	0	M	1678
+Southern Highlands and Shoalhaven	85+	1	F	167
+Southern Highlands and Shoalhaven	85+	1	M	218
+Sydney - Baulkham Hills and Hawkesbury	15-19		F	251
+Sydney - Baulkham Hills and Hawkesbury	15-19		M	311
+Sydney - Baulkham Hills and Hawkesbury	15-19	0	F	8099
+Sydney - Baulkham Hills and Hawkesbury	15-19	0	M	8823
+Sydney - Baulkham Hills and Hawkesbury	15-19	1	F	387
+Sydney - Baulkham Hills and Hawkesbury	15-19	1	M	408
+Sydney - Baulkham Hills and Hawkesbury	20-24		F	206
+Sydney - Baulkham Hills and Hawkesbury	20-24		M	278
+Sydney - Baulkham Hills and Hawkesbury	20-24	0	F	6761
+Sydney - Baulkham Hills and Hawkesbury	20-24	0	M	7565
+Sydney - Baulkham Hills and Hawkesbury	20-24	1	F	451
+Sydney - Baulkham Hills and Hawkesbury	20-24	1	M	426
+Sydney - Baulkham Hills and Hawkesbury	25-34		F	528
+Sydney - Baulkham Hills and Hawkesbury	25-34		M	498
+Sydney - Baulkham Hills and Hawkesbury	25-34	0	F	11628
+Sydney - Baulkham Hills and Hawkesbury	25-34	0	M	11452
+Sydney - Baulkham Hills and Hawkesbury	25-34	1	F	1084
+Sydney - Baulkham Hills and Hawkesbury	25-34	1	M	689
+Sydney - Baulkham Hills and Hawkesbury	35-44		F	661
+Sydney - Baulkham Hills and Hawkesbury	35-44		M	662
+Sydney - Baulkham Hills and Hawkesbury	35-44	0	F	17256
+Sydney - Baulkham Hills and Hawkesbury	35-44	0	M	16391
+Sydney - Baulkham Hills and Hawkesbury	35-44	1	F	2554
+Sydney - Baulkham Hills and Hawkesbury	35-44	1	M	1685
+Sydney - Baulkham Hills and Hawkesbury	45-54		F	507
+Sydney - Baulkham Hills and Hawkesbury	45-54		M	566
+Sydney - Baulkham Hills and Hawkesbury	45-54	0	F	15407
+Sydney - Baulkham Hills and Hawkesbury	45-54	0	M	15609
+Sydney - Baulkham Hills and Hawkesbury	45-54	1	F	3451
+Sydney - Baulkham Hills and Hawkesbury	45-54	1	M	2221
+Sydney - Baulkham Hills and Hawkesbury	55-64		F	443
+Sydney - Baulkham Hills and Hawkesbury	55-64		M	414
+Sydney - Baulkham Hills and Hawkesbury	55-64	0	F	12216
+Sydney - Baulkham Hills and Hawkesbury	55-64	0	M	12734
+Sydney - Baulkham Hills and Hawkesbury	55-64	1	F	3226
+Sydney - Baulkham Hills and Hawkesbury	55-64	1	M	2109
+Sydney - Baulkham Hills and Hawkesbury	65-74		F	402
+Sydney - Baulkham Hills and Hawkesbury	65-74		M	384
+Sydney - Baulkham Hills and Hawkesbury	65-74	0	F	10309
+Sydney - Baulkham Hills and Hawkesbury	65-74	0	M	10073
+Sydney - Baulkham Hills and Hawkesbury	65-74	1	F	1836
+Sydney - Baulkham Hills and Hawkesbury	65-74	1	M	1279
+Sydney - Baulkham Hills and Hawkesbury	75-84		F	433
+Sydney - Baulkham Hills and Hawkesbury	75-84		M	338
+Sydney - Baulkham Hills and Hawkesbury	75-84	0	F	5714
+Sydney - Baulkham Hills and Hawkesbury	75-84	0	M	5327
+Sydney - Baulkham Hills and Hawkesbury	75-84	1	F	697
+Sydney - Baulkham Hills and Hawkesbury	75-84	1	M	616
+Sydney - Baulkham Hills and Hawkesbury	85+		F	512
+Sydney - Baulkham Hills and Hawkesbury	85+		M	323
+Sydney - Baulkham Hills and Hawkesbury	85+	0	F	2378
+Sydney - Baulkham Hills and Hawkesbury	85+	0	M	1516
+Sydney - Baulkham Hills and Hawkesbury	85+	1	F	129
+Sydney - Baulkham Hills and Hawkesbury	85+	1	M	165
+Sydney - Blacktown	15-19		F	774
+Sydney - Blacktown	15-19		M	898
+Sydney - Blacktown	15-19	0	F	10402
+Sydney - Blacktown	15-19	0	M	11301
+Sydney - Blacktown	15-19	1	F	617
+Sydney - Blacktown	15-19	1	M	515
+Sydney - Blacktown	20-24		F	869
+Sydney - Blacktown	20-24		M	1248
+Sydney - Blacktown	20-24	0	F	10984
+Sydney - Blacktown	20-24	0	M	12068
+Sydney - Blacktown	20-24	1	F	824
+Sydney - Blacktown	20-24	1	M	692
+Sydney - Blacktown	25-34		F	2268
+Sydney - Blacktown	25-34		M	2873
+Sydney - Blacktown	25-34	0	F	25988
+Sydney - Blacktown	25-34	0	M	24646
+Sydney - Blacktown	25-34	1	F	2728
+Sydney - Blacktown	25-34	1	M	1721
+Sydney - Blacktown	35-44		F	2146
+Sydney - Blacktown	35-44		M	2526
+Sydney - Blacktown	35-44	0	F	27468
+Sydney - Blacktown	35-44	0	M	28850
+Sydney - Blacktown	35-44	1	F	4350
+Sydney - Blacktown	35-44	1	M	2990
+Sydney - Blacktown	45-54		F	1296
+Sydney - Blacktown	45-54		M	1590
+Sydney - Blacktown	45-54	0	F	18627
+Sydney - Blacktown	45-54	0	M	19898
+Sydney - Blacktown	45-54	1	F	3907
+Sydney - Blacktown	45-54	1	M	2632
+Sydney - Blacktown	55-64		F	938
+Sydney - Blacktown	55-64		M	1065
+Sydney - Blacktown	55-64	0	F	15386
+Sydney - Blacktown	55-64	0	M	15574
+Sydney - Blacktown	55-64	1	F	3092
+Sydney - Blacktown	55-64	1	M	2042
+Sydney - Blacktown	65-74		F	808
+Sydney - Blacktown	65-74		M	701
+Sydney - Blacktown	65-74	0	F	11848
+Sydney - Blacktown	65-74	0	M	10876
+Sydney - Blacktown	65-74	1	F	1746
+Sydney - Blacktown	65-74	1	M	1269
+Sydney - Blacktown	75-84		F	538
+Sydney - Blacktown	75-84		M	442
+Sydney - Blacktown	75-84	0	F	5577
+Sydney - Blacktown	75-84	0	M	4820
+Sydney - Blacktown	75-84	1	F	578
+Sydney - Blacktown	75-84	1	M	583
+Sydney - Blacktown	85+		F	370
+Sydney - Blacktown	85+		M	192
+Sydney - Blacktown	85+	0	F	2320
+Sydney - Blacktown	85+	0	M	1244
+Sydney - Blacktown	85+	1	F	91
+Sydney - Blacktown	85+	1	M	132
+Sydney - City and Inner South	15-19		F	340
+Sydney - City and Inner South	15-19		M	334
+Sydney - City and Inner South	15-19	0	F	4622
+Sydney - City and Inner South	15-19	0	M	4449
+Sydney - City and Inner South	15-19	1	F	226
+Sydney - City and Inner South	15-19	1	M	202
+Sydney - City and Inner South	20-24		F	1209
+Sydney - City and Inner South	20-24		M	1289
+Sydney - City and Inner South	20-24	0	F	14284
+Sydney - City and Inner South	20-24	0	M	13316
+Sydney - City and Inner South	20-24	1	F	544
+Sydney - City and Inner South	20-24	1	M	515
+Sydney - City and Inner South	25-34		F	3298
+Sydney - City and Inner South	25-34		M	3770
+Sydney - City and Inner South	25-34	0	F	41842
+Sydney - City and Inner South	25-34	0	M	43371
+Sydney - City and Inner South	25-34	1	F	1942
+Sydney - City and Inner South	25-34	1	M	1595
+Sydney - City and Inner South	35-44		F	1721
+Sydney - City and Inner South	35-44		M	2209
+Sydney - City and Inner South	35-44	0	F	23306
+Sydney - City and Inner South	35-44	0	M	27570
+Sydney - City and Inner South	35-44	1	F	2406
+Sydney - City and Inner South	35-44	1	M	1948
+Sydney - City and Inner South	45-54		F	987
+Sydney - City and Inner South	45-54		M	1463
+Sydney - City and Inner South	45-54	0	F	13640
+Sydney - City and Inner South	45-54	0	M	16845
+Sydney - City and Inner South	45-54	1	F	2921
+Sydney - City and Inner South	45-54	1	M	2256
+Sydney - City and Inner South	55-64		F	803
+Sydney - City and Inner South	55-64		M	1192
+Sydney - City and Inner South	55-64	0	F	10355
+Sydney - City and Inner South	55-64	0	M	12535
+Sydney - City and Inner South	55-64	1	F	2516
+Sydney - City and Inner South	55-64	1	M	1895
+Sydney - City and Inner South	65-74		F	643
+Sydney - City and Inner South	65-74		M	827
+Sydney - City and Inner South	65-74	0	F	8072
+Sydney - City and Inner South	65-74	0	M	8357
+Sydney - City and Inner South	65-74	1	F	1397
+Sydney - City and Inner South	65-74	1	M	930
+Sydney - City and Inner South	75-84		F	562
+Sydney - City and Inner South	75-84		M	566
+Sydney - City and Inner South	75-84	0	F	4456
+Sydney - City and Inner South	75-84	0	M	4132
+Sydney - City and Inner South	75-84	1	F	566
+Sydney - City and Inner South	75-84	1	M	438
+Sydney - City and Inner South	85+		F	453
+Sydney - City and Inner South	85+		M	243
+Sydney - City and Inner South	85+	0	F	1755
+Sydney - City and Inner South	85+	0	M	1199
+Sydney - City and Inner South	85+	1	F	87
+Sydney - City and Inner South	85+	1	M	122
+Sydney - Eastern Suburbs	15-19		F	308
+Sydney - Eastern Suburbs	15-19		M	381
+Sydney - Eastern Suburbs	15-19	0	F	5496
+Sydney - Eastern Suburbs	15-19	0	M	5735
+Sydney - Eastern Suburbs	15-19	1	F	251
+Sydney - Eastern Suburbs	15-19	1	M	273
+Sydney - Eastern Suburbs	20-24		F	497
+Sydney - Eastern Suburbs	20-24		M	594
+Sydney - Eastern Suburbs	20-24	0	F	7406
+Sydney - Eastern Suburbs	20-24	0	M	6733
+Sydney - Eastern Suburbs	20-24	1	F	464
+Sydney - Eastern Suburbs	20-24	1	M	379
+Sydney - Eastern Suburbs	25-34		F	1658
+Sydney - Eastern Suburbs	25-34		M	1950
+Sydney - Eastern Suburbs	25-34	0	F	23744
+Sydney - Eastern Suburbs	25-34	0	M	20865
+Sydney - Eastern Suburbs	25-34	1	F	1224
+Sydney - Eastern Suburbs	25-34	1	M	896
+Sydney - Eastern Suburbs	35-44		F	1091
+Sydney - Eastern Suburbs	35-44		M	1413
+Sydney - Eastern Suburbs	35-44	0	F	17273
+Sydney - Eastern Suburbs	35-44	0	M	16666
+Sydney - Eastern Suburbs	35-44	1	F	2114
+Sydney - Eastern Suburbs	35-44	1	M	1423
+Sydney - Eastern Suburbs	45-54		F	789
+Sydney - Eastern Suburbs	45-54		M	1051
+Sydney - Eastern Suburbs	45-54	0	F	13477
+Sydney - Eastern Suburbs	45-54	0	M	13380
+Sydney - Eastern Suburbs	45-54	1	F	3230
+Sydney - Eastern Suburbs	45-54	1	M	2103
+Sydney - Eastern Suburbs	55-64		F	574
+Sydney - Eastern Suburbs	55-64		M	781
+Sydney - Eastern Suburbs	55-64	0	F	9984
+Sydney - Eastern Suburbs	55-64	0	M	10172
+Sydney - Eastern Suburbs	55-64	1	F	3191
+Sydney - Eastern Suburbs	55-64	1	M	2174
+Sydney - Eastern Suburbs	65-74		F	610
+Sydney - Eastern Suburbs	65-74		M	593
+Sydney - Eastern Suburbs	65-74	0	F	8954
+Sydney - Eastern Suburbs	65-74	0	M	8278
+Sydney - Eastern Suburbs	65-74	1	F	1730
+Sydney - Eastern Suburbs	65-74	1	M	1093
+Sydney - Eastern Suburbs	75-84		F	744
+Sydney - Eastern Suburbs	75-84		M	556
+Sydney - Eastern Suburbs	75-84	0	F	6021
+Sydney - Eastern Suburbs	75-84	0	M	5060
+Sydney - Eastern Suburbs	75-84	1	F	872
+Sydney - Eastern Suburbs	75-84	1	M	596
+Sydney - Eastern Suburbs	85+		F	997
+Sydney - Eastern Suburbs	85+		M	508
+Sydney - Eastern Suburbs	85+	0	F	2796
+Sydney - Eastern Suburbs	85+	0	M	1819
+Sydney - Eastern Suburbs	85+	1	F	187
+Sydney - Eastern Suburbs	85+	1	M	221
+Sydney - Inner South West	15-19		F	1060
+Sydney - Inner South West	15-19		M	1169
+Sydney - Inner South West	15-19	0	F	14245
+Sydney - Inner South West	15-19	0	M	15571
+Sydney - Inner South West	15-19	1	F	829
+Sydney - Inner South West	15-19	1	M	798
+Sydney - Inner South West	20-24		F	1452
+Sydney - Inner South West	20-24		M	1798
+Sydney - Inner South West	20-24	0	F	17526
+Sydney - Inner South West	20-24	0	M	19489
+Sydney - Inner South West	20-24	1	F	1348
+Sydney - Inner South West	20-24	1	M	1124
+Sydney - Inner South West	25-34		F	3689
+Sydney - Inner South West	25-34		M	4286
+Sydney - Inner South West	25-34	0	F	39920
+Sydney - Inner South West	25-34	0	M	42032
+Sydney - Inner South West	25-34	1	F	3815
+Sydney - Inner South West	25-34	1	M	2738
+Sydney - Inner South West	35-44		F	2893
+Sydney - Inner South West	35-44		M	3217
+Sydney - Inner South West	35-44	0	F	33272
+Sydney - Inner South West	35-44	0	M	34992
+Sydney - Inner South West	35-44	1	F	6054
+Sydney - Inner South West	35-44	1	M	4001
+Sydney - Inner South West	45-54		F	2305
+Sydney - Inner South West	45-54		M	2297
+Sydney - Inner South West	45-54	0	F	28632
+Sydney - Inner South West	45-54	0	M	28713
+Sydney - Inner South West	45-54	1	F	7410
+Sydney - Inner South West	45-54	1	M	4973
+Sydney - Inner South West	55-64		F	1881
+Sydney - Inner South West	55-64		M	2018
+Sydney - Inner South West	55-64	0	F	26501
+Sydney - Inner South West	55-64	0	M	27025
+Sydney - Inner South West	55-64	1	F	6728
+Sydney - Inner South West	55-64	1	M	4583
+Sydney - Inner South West	65-74		F	1520
+Sydney - Inner South West	65-74		M	1494
+Sydney - Inner South West	65-74	0	F	21084
+Sydney - Inner South West	65-74	0	M	20302
+Sydney - Inner South West	65-74	1	F	3635
+Sydney - Inner South West	65-74	1	M	2508
+Sydney - Inner South West	75-84		F	1511
+Sydney - Inner South West	75-84		M	1312
+Sydney - Inner South West	75-84	0	F	13175
+Sydney - Inner South West	75-84	0	M	11602
+Sydney - Inner South West	75-84	1	F	1663
+Sydney - Inner South West	75-84	1	M	1356
+Sydney - Inner South West	85+		F	1818
+Sydney - Inner South West	85+		M	942
+Sydney - Inner South West	85+	0	F	6656
+Sydney - Inner South West	85+	0	M	4516
+Sydney - Inner South West	85+	1	F	363
+Sydney - Inner South West	85+	1	M	502
+Sydney - Inner West	15-19		F	281
+Sydney - Inner West	15-19		M	280
+Sydney - Inner West	15-19	0	F	6076
+Sydney - Inner West	15-19	0	M	6289
+Sydney - Inner West	15-19	1	F	300
+Sydney - Inner West	15-19	1	M	303
+Sydney - Inner West	20-24		F	633
+Sydney - Inner West	20-24		M	868
+Sydney - Inner West	20-24	0	F	9619
+Sydney - Inner West	20-24	0	M	10273
+Sydney - Inner West	20-24	1	F	581
+Sydney - Inner West	20-24	1	M	490
+Sydney - Inner West	25-34		F	1741
+Sydney - Inner West	25-34		M	1939
+Sydney - Inner West	25-34	0	F	25366
+Sydney - Inner West	25-34	0	M	25334
+Sydney - Inner West	25-34	1	F	1588
+Sydney - Inner West	25-34	1	M	1197
+Sydney - Inner West	35-44		F	1125
+Sydney - Inner West	35-44		M	1263
+Sydney - Inner West	35-44	0	F	19752
+Sydney - Inner West	35-44	0	M	19898
+Sydney - Inner West	35-44	1	F	2582
+Sydney - Inner West	35-44	1	M	1864
+Sydney - Inner West	45-54		F	772
+Sydney - Inner West	45-54		M	797
+Sydney - Inner West	45-54	0	F	16012
+Sydney - Inner West	45-54	0	M	15322
+Sydney - Inner West	45-54	1	F	3999
+Sydney - Inner West	45-54	1	M	2436
+Sydney - Inner West	55-64		F	665
+Sydney - Inner West	55-64		M	695
+Sydney - Inner West	55-64	0	F	13218
+Sydney - Inner West	55-64	0	M	12844
+Sydney - Inner West	55-64	1	F	3729
+Sydney - Inner West	55-64	1	M	2452
+Sydney - Inner West	65-74		F	571
+Sydney - Inner West	65-74		M	549
+Sydney - Inner West	65-74	0	F	10832
+Sydney - Inner West	65-74	0	M	9755
+Sydney - Inner West	65-74	1	F	2050
+Sydney - Inner West	65-74	1	M	1242
+Sydney - Inner West	75-84		F	560
+Sydney - Inner West	75-84		M	435
+Sydney - Inner West	75-84	0	F	6503
+Sydney - Inner West	75-84	0	M	5438
+Sydney - Inner West	75-84	1	F	841
+Sydney - Inner West	75-84	1	M	633
+Sydney - Inner West	85+		F	682
+Sydney - Inner West	85+		M	314
+Sydney - Inner West	85+	0	F	3431
+Sydney - Inner West	85+	0	M	2154
+Sydney - Inner West	85+	1	F	185
+Sydney - Inner West	85+	1	M	231
+Sydney - North Sydney and Hornsby	15-19		F	334
+Sydney - North Sydney and Hornsby	15-19		M	341
+Sydney - North Sydney and Hornsby	15-19	0	F	10886
+Sydney - North Sydney and Hornsby	15-19	0	M	11711
+Sydney - North Sydney and Hornsby	15-19	1	F	514
+Sydney - North Sydney and Hornsby	15-19	1	M	497
+Sydney - North Sydney and Hornsby	20-24		F	353
+Sydney - North Sydney and Hornsby	20-24		M	421
+Sydney - North Sydney and Hornsby	20-24	0	F	9957
+Sydney - North Sydney and Hornsby	20-24	0	M	10353
+Sydney - North Sydney and Hornsby	20-24	1	F	613
+Sydney - North Sydney and Hornsby	20-24	1	M	603
+Sydney - North Sydney and Hornsby	25-34		F	1123
+Sydney - North Sydney and Hornsby	25-34		M	1128
+Sydney - North Sydney and Hornsby	25-34	0	F	24831
+Sydney - North Sydney and Hornsby	25-34	0	M	22666
+Sydney - North Sydney and Hornsby	25-34	1	F	1475
+Sydney - North Sydney and Hornsby	25-34	1	M	1115
+Sydney - North Sydney and Hornsby	35-44		F	1202
+Sydney - North Sydney and Hornsby	35-44		M	1171
+Sydney - North Sydney and Hornsby	35-44	0	F	30282
+Sydney - North Sydney and Hornsby	35-44	0	M	27768
+Sydney - North Sydney and Hornsby	35-44	1	F	3604
+Sydney - North Sydney and Hornsby	35-44	1	M	2432
+Sydney - North Sydney and Hornsby	45-54		F	920
+Sydney - North Sydney and Hornsby	45-54		M	865
+Sydney - North Sydney and Hornsby	45-54	0	F	25428
+Sydney - North Sydney and Hornsby	45-54	0	M	24404
+Sydney - North Sydney and Hornsby	45-54	1	F	5563
+Sydney - North Sydney and Hornsby	45-54	1	M	3421
+Sydney - North Sydney and Hornsby	55-64		F	711
+Sydney - North Sydney and Hornsby	55-64		M	701
+Sydney - North Sydney and Hornsby	55-64	0	F	19141
+Sydney - North Sydney and Hornsby	55-64	0	M	19003
+Sydney - North Sydney and Hornsby	55-64	1	F	5406
+Sydney - North Sydney and Hornsby	55-64	1	M	3545
+Sydney - North Sydney and Hornsby	65-74		F	731
+Sydney - North Sydney and Hornsby	65-74		M	607
+Sydney - North Sydney and Hornsby	65-74	0	F	16771
+Sydney - North Sydney and Hornsby	65-74	0	M	14956
+Sydney - North Sydney and Hornsby	65-74	1	F	3215
+Sydney - North Sydney and Hornsby	65-74	1	M	2116
+Sydney - North Sydney and Hornsby	75-84		F	705
+Sydney - North Sydney and Hornsby	75-84		M	493
+Sydney - North Sydney and Hornsby	75-84	0	F	10846
+Sydney - North Sydney and Hornsby	75-84	0	M	9290
+Sydney - North Sydney and Hornsby	75-84	1	F	1545
+Sydney - North Sydney and Hornsby	75-84	1	M	1209
+Sydney - North Sydney and Hornsby	85+		F	875
+Sydney - North Sydney and Hornsby	85+		M	370
+Sydney - North Sydney and Hornsby	85+	0	F	5443
+Sydney - North Sydney and Hornsby	85+	0	M	3370
+Sydney - North Sydney and Hornsby	85+	1	F	359
+Sydney - North Sydney and Hornsby	85+	1	M	423
+Sydney - Northern Beaches	15-19		F	243
+Sydney - Northern Beaches	15-19		M	285
+Sydney - Northern Beaches	15-19	0	F	7257
+Sydney - Northern Beaches	15-19	0	M	7872
+Sydney - Northern Beaches	15-19	1	F	311
+Sydney - Northern Beaches	15-19	1	M	298
+Sydney - Northern Beaches	20-24		F	248
+Sydney - Northern Beaches	20-24		M	267
+Sydney - Northern Beaches	20-24	0	F	5919
+Sydney - Northern Beaches	20-24	0	M	6588
+Sydney - Northern Beaches	20-24	1	F	399
+Sydney - Northern Beaches	20-24	1	M	321
+Sydney - Northern Beaches	25-34		F	715
+Sydney - Northern Beaches	25-34		M	678
+Sydney - Northern Beaches	25-34	0	F	13235
+Sydney - Northern Beaches	25-34	0	M	12692
+Sydney - Northern Beaches	25-34	1	F	903
+Sydney - Northern Beaches	25-34	1	M	661
+Sydney - Northern Beaches	35-44		F	683
+Sydney - Northern Beaches	35-44		M	725
+Sydney - Northern Beaches	35-44	0	F	15883
+Sydney - Northern Beaches	35-44	0	M	15015
+Sydney - Northern Beaches	35-44	1	F	1965
+Sydney - Northern Beaches	35-44	1	M	1243
+Sydney - Northern Beaches	45-54		F	657
+Sydney - Northern Beaches	45-54		M	652
+Sydney - Northern Beaches	45-54	0	F	16236
+Sydney - Northern Beaches	45-54	0	M	16541
+Sydney - Northern Beaches	45-54	1	F	3740
+Sydney - Northern Beaches	45-54	1	M	2181
+Sydney - Northern Beaches	55-64		F	506
+Sydney - Northern Beaches	55-64		M	581
+Sydney - Northern Beaches	55-64	0	F	12109
+Sydney - Northern Beaches	55-64	0	M	12977
+Sydney - Northern Beaches	55-64	1	F	3819
+Sydney - Northern Beaches	55-64	1	M	2484
+Sydney - Northern Beaches	65-74		F	440
+Sydney - Northern Beaches	65-74		M	450
+Sydney - Northern Beaches	65-74	0	F	10294
+Sydney - Northern Beaches	65-74	0	M	9722
+Sydney - Northern Beaches	65-74	1	F	1969
+Sydney - Northern Beaches	65-74	1	M	1343
+Sydney - Northern Beaches	75-84		F	559
+Sydney - Northern Beaches	75-84		M	379
+Sydney - Northern Beaches	75-84	0	F	7438
+Sydney - Northern Beaches	75-84	0	M	6438
+Sydney - Northern Beaches	75-84	1	F	944
+Sydney - Northern Beaches	75-84	1	M	743
+Sydney - Northern Beaches	85+		F	683
+Sydney - Northern Beaches	85+		M	301
+Sydney - Northern Beaches	85+	0	F	3600
+Sydney - Northern Beaches	85+	0	M	2196
+Sydney - Northern Beaches	85+	1	F	222
+Sydney - Northern Beaches	85+	1	M	250
+Sydney - Outer South West	15-19		F	570
+Sydney - Outer South West	15-19		M	624
+Sydney - Outer South West	15-19	0	F	8290
+Sydney - Outer South West	15-19	0	M	8914
+Sydney - Outer South West	15-19	1	F	521
+Sydney - Outer South West	15-19	1	M	383
+Sydney - Outer South West	20-24		F	511
+Sydney - Outer South West	20-24		M	587
+Sydney - Outer South West	20-24	0	F	7896
+Sydney - Outer South West	20-24	0	M	8448
+Sydney - Outer South West	20-24	1	F	617
+Sydney - Outer South West	20-24	1	M	496
+Sydney - Outer South West	25-34		F	1328
+Sydney - Outer South West	25-34		M	1227
+Sydney - Outer South West	25-34	0	F	17964
+Sydney - Outer South West	25-34	0	M	17071
+Sydney - Outer South West	25-34	1	F	2309
+Sydney - Outer South West	25-34	1	M	1302
+Sydney - Outer South West	35-44		F	1258
+Sydney - Outer South West	35-44		M	1302
+Sydney - Outer South West	35-44	0	F	17231
+Sydney - Outer South West	35-44	0	M	17663
+Sydney - Outer South West	35-44	1	F	3604
+Sydney - Outer South West	35-44	1	M	2242
+Sydney - Outer South West	45-54		F	876
+Sydney - Outer South West	45-54		M	994
+Sydney - Outer South West	45-54	0	F	14040
+Sydney - Outer South West	45-54	0	M	14936
+Sydney - Outer South West	45-54	1	F	3648
+Sydney - Outer South West	45-54	1	M	2203
+Sydney - Outer South West	55-64		F	721
+Sydney - Outer South West	55-64		M	721
+Sydney - Outer South West	55-64	0	F	12881
+Sydney - Outer South West	55-64	0	M	12864
+Sydney - Outer South West	55-64	1	F	3206
+Sydney - Outer South West	55-64	1	M	1861
+Sydney - Outer South West	65-74		F	697
+Sydney - Outer South West	65-74		M	602
+Sydney - Outer South West	65-74	0	F	10281
+Sydney - Outer South West	65-74	0	M	9836
+Sydney - Outer South West	65-74	1	F	1777
+Sydney - Outer South West	65-74	1	M	1272
+Sydney - Outer South West	75-84		F	671
+Sydney - Outer South West	75-84		M	523
+Sydney - Outer South West	75-84	0	F	4835
+Sydney - Outer South West	75-84	0	M	4313
+Sydney - Outer South West	75-84	1	F	594
+Sydney - Outer South West	75-84	1	M	582
+Sydney - Outer South West	85+		F	591
+Sydney - Outer South West	85+		M	221
+Sydney - Outer South West	85+	0	F	1703
+Sydney - Outer South West	85+	0	M	964
+Sydney - Outer South West	85+	1	F	77
+Sydney - Outer South West	85+	1	M	123
+Sydney - Outer West and Blue Mountains	15-19		F	539
+Sydney - Outer West and Blue Mountains	15-19		M	668
+Sydney - Outer West and Blue Mountains	15-19	0	F	8818
+Sydney - Outer West and Blue Mountains	15-19	0	M	9410
+Sydney - Outer West and Blue Mountains	15-19	1	F	523
+Sydney - Outer West and Blue Mountains	15-19	1	M	464
+Sydney - Outer West and Blue Mountains	20-24		F	655
+Sydney - Outer West and Blue Mountains	20-24		M	730
+Sydney - Outer West and Blue Mountains	20-24	0	F	8645
+Sydney - Outer West and Blue Mountains	20-24	0	M	9339
+Sydney - Outer West and Blue Mountains	20-24	1	F	689
+Sydney - Outer West and Blue Mountains	20-24	1	M	524
+Sydney - Outer West and Blue Mountains	25-34		F	1619
+Sydney - Outer West and Blue Mountains	25-34		M	1677
+Sydney - Outer West and Blue Mountains	25-34	0	F	19625
+Sydney - Outer West and Blue Mountains	25-34	0	M	19212
+Sydney - Outer West and Blue Mountains	25-34	1	F	2301
+Sydney - Outer West and Blue Mountains	25-34	1	M	1369
+Sydney - Outer West and Blue Mountains	35-44		F	1384
+Sydney - Outer West and Blue Mountains	35-44		M	1579
+Sydney - Outer West and Blue Mountains	35-44	0	F	18279
+Sydney - Outer West and Blue Mountains	35-44	0	M	18612
+Sydney - Outer West and Blue Mountains	35-44	1	F	3651
+Sydney - Outer West and Blue Mountains	35-44	1	M	2240
+Sydney - Outer West and Blue Mountains	45-54		F	1106
+Sydney - Outer West and Blue Mountains	45-54		M	1241
+Sydney - Outer West and Blue Mountains	45-54	0	F	16182
+Sydney - Outer West and Blue Mountains	45-54	0	M	16857
+Sydney - Outer West and Blue Mountains	45-54	1	F	4322
+Sydney - Outer West and Blue Mountains	45-54	1	M	2598
+Sydney - Outer West and Blue Mountains	55-64		F	793
+Sydney - Outer West and Blue Mountains	55-64		M	902
+Sydney - Outer West and Blue Mountains	55-64	0	F	15183
+Sydney - Outer West and Blue Mountains	55-64	0	M	15282
+Sydney - Outer West and Blue Mountains	55-64	1	F	4171
+Sydney - Outer West and Blue Mountains	55-64	1	M	2428
+Sydney - Outer West and Blue Mountains	65-74		F	765
+Sydney - Outer West and Blue Mountains	65-74		M	711
+Sydney - Outer West and Blue Mountains	65-74	0	F	13209
+Sydney - Outer West and Blue Mountains	65-74	0	M	12406
+Sydney - Outer West and Blue Mountains	65-74	1	F	2277
+Sydney - Outer West and Blue Mountains	65-74	1	M	1686
+Sydney - Outer West and Blue Mountains	75-84		F	720
+Sydney - Outer West and Blue Mountains	75-84		M	536
+Sydney - Outer West and Blue Mountains	75-84	0	F	6806
+Sydney - Outer West and Blue Mountains	75-84	0	M	5758
+Sydney - Outer West and Blue Mountains	75-84	1	F	776
+Sydney - Outer West and Blue Mountains	75-84	1	M	754
+Sydney - Outer West and Blue Mountains	85+		F	638
+Sydney - Outer West and Blue Mountains	85+		M	251
+Sydney - Outer West and Blue Mountains	85+	0	F	2607
+Sydney - Outer West and Blue Mountains	85+	0	M	1429
+Sydney - Outer West and Blue Mountains	85+	1	F	132
+Sydney - Outer West and Blue Mountains	85+	1	M	182
+Sydney - Parramatta	15-19		F	879
+Sydney - Parramatta	15-19		M	956
+Sydney - Parramatta	15-19	0	F	10582
+Sydney - Parramatta	15-19	0	M	11567
+Sydney - Parramatta	15-19	1	F	645
+Sydney - Parramatta	15-19	1	M	550
+Sydney - Parramatta	20-24		F	1321
+Sydney - Parramatta	20-24		M	1944
+Sydney - Parramatta	20-24	0	F	14361
+Sydney - Parramatta	20-24	0	M	16524
+Sydney - Parramatta	20-24	1	F	1033
+Sydney - Parramatta	20-24	1	M	865
+Sydney - Parramatta	25-34		F	3741
+Sydney - Parramatta	25-34		M	5139
+Sydney - Parramatta	25-34	0	F	37392
+Sydney - Parramatta	25-34	0	M	40561
+Sydney - Parramatta	25-34	1	F	3193
+Sydney - Parramatta	25-34	1	M	2339
+Sydney - Parramatta	35-44		F	2926
+Sydney - Parramatta	35-44		M	3946
+Sydney - Parramatta	35-44	0	F	30314
+Sydney - Parramatta	35-44	0	M	34627
+Sydney - Parramatta	35-44	1	F	4635
+Sydney - Parramatta	35-44	1	M	3403
+Sydney - Parramatta	45-54		F	1772
+Sydney - Parramatta	45-54		M	2350
+Sydney - Parramatta	45-54	0	F	21157
+Sydney - Parramatta	45-54	0	M	22515
+Sydney - Parramatta	45-54	1	F	4728
+Sydney - Parramatta	45-54	1	M	3092
+Sydney - Parramatta	55-64		F	1455
+Sydney - Parramatta	55-64		M	1694
+Sydney - Parramatta	55-64	0	F	19171
+Sydney - Parramatta	55-64	0	M	19433
+Sydney - Parramatta	55-64	1	F	4070
+Sydney - Parramatta	55-64	1	M	2772
+Sydney - Parramatta	65-74		F	1063
+Sydney - Parramatta	65-74		M	1121
+Sydney - Parramatta	65-74	0	F	14437
+Sydney - Parramatta	65-74	0	M	14005
+Sydney - Parramatta	65-74	1	F	2315
+Sydney - Parramatta	65-74	1	M	1579
+Sydney - Parramatta	75-84		F	869
+Sydney - Parramatta	75-84		M	708
+Sydney - Parramatta	75-84	0	F	8235
+Sydney - Parramatta	75-84	0	M	7369
+Sydney - Parramatta	75-84	1	F	957
+Sydney - Parramatta	75-84	1	M	875
+Sydney - Parramatta	85+		F	749
+Sydney - Parramatta	85+		M	488
+Sydney - Parramatta	85+	0	F	3749
+Sydney - Parramatta	85+	0	M	2432
+Sydney - Parramatta	85+	1	F	180
+Sydney - Parramatta	85+	1	M	275
+Sydney - Ryde	15-19		F	145
+Sydney - Ryde	15-19		M	170
+Sydney - Ryde	15-19	0	F	4649
+Sydney - Ryde	15-19	0	M	4918
+Sydney - Ryde	15-19	1	F	207
+Sydney - Ryde	15-19	1	M	234
+Sydney - Ryde	20-24		F	285
+Sydney - Ryde	20-24		M	287
+Sydney - Ryde	20-24	0	F	5717
+Sydney - Ryde	20-24	0	M	6002
+Sydney - Ryde	20-24	1	F	323
+Sydney - Ryde	20-24	1	M	335
+Sydney - Ryde	25-34		F	832
+Sydney - Ryde	25-34		M	884
+Sydney - Ryde	25-34	0	F	14780
+Sydney - Ryde	25-34	0	M	14146
+Sydney - Ryde	25-34	1	F	984
+Sydney - Ryde	25-34	1	M	734
+Sydney - Ryde	35-44		F	679
+Sydney - Ryde	35-44		M	740
+Sydney - Ryde	35-44	0	F	13873
+Sydney - Ryde	35-44	0	M	13623
+Sydney - Ryde	35-44	1	F	1794
+Sydney - Ryde	35-44	1	M	1266
+Sydney - Ryde	45-54		F	406
+Sydney - Ryde	45-54		M	458
+Sydney - Ryde	45-54	0	F	10202
+Sydney - Ryde	45-54	0	M	9999
+Sydney - Ryde	45-54	1	F	2287
+Sydney - Ryde	45-54	1	M	1573
+Sydney - Ryde	55-64		F	387
+Sydney - Ryde	55-64		M	428
+Sydney - Ryde	55-64	0	F	9092
+Sydney - Ryde	55-64	0	M	8745
+Sydney - Ryde	55-64	1	F	2425
+Sydney - Ryde	55-64	1	M	1654
+Sydney - Ryde	65-74		F	366
+Sydney - Ryde	65-74		M	300
+Sydney - Ryde	65-74	0	F	7435
+Sydney - Ryde	65-74	0	M	6923
+Sydney - Ryde	65-74	1	F	1425
+Sydney - Ryde	65-74	1	M	992
+Sydney - Ryde	75-84		F	387
+Sydney - Ryde	75-84		M	296
+Sydney - Ryde	75-84	0	F	4400
+Sydney - Ryde	75-84	0	M	3635
+Sydney - Ryde	75-84	1	F	590
+Sydney - Ryde	75-84	1	M	463
+Sydney - Ryde	85+		F	577
+Sydney - Ryde	85+		M	271
+Sydney - Ryde	85+	0	F	2442
+Sydney - Ryde	85+	0	M	1500
+Sydney - Ryde	85+	1	F	149
+Sydney - Ryde	85+	1	M	190
+Sydney - South West	15-19		F	1013
+Sydney - South West	15-19		M	1163
+Sydney - South West	15-19	0	F	13701
+Sydney - South West	15-19	0	M	14754
+Sydney - South West	15-19	1	F	820
+Sydney - South West	15-19	1	M	668
+Sydney - South West	20-24		F	1012
+Sydney - South West	20-24		M	1155
+Sydney - South West	20-24	0	F	13799
+Sydney - South West	20-24	0	M	14575
+Sydney - South West	20-24	1	F	1161
+Sydney - South West	20-24	1	M	977
+Sydney - South West	25-34		F	2466
+Sydney - South West	25-34		M	2456
+Sydney - South West	25-34	0	F	28727
+Sydney - South West	25-34	0	M	28131
+Sydney - South West	25-34	1	F	3646
+Sydney - South West	25-34	1	M	2585
+Sydney - South West	35-44		F	2296
+Sydney - South West	35-44		M	2395
+Sydney - South West	35-44	0	F	26139
+Sydney - South West	35-44	0	M	26031
+Sydney - South West	35-44	1	F	5246
+Sydney - South West	35-44	1	M	3358
+Sydney - South West	45-54		F	1777
+Sydney - South West	45-54		M	1870
+Sydney - South West	45-54	0	F	23086
+Sydney - South West	45-54	0	M	23552
+Sydney - South West	45-54	1	F	5691
+Sydney - South West	45-54	1	M	3536
+Sydney - South West	55-64		F	1582
+Sydney - South West	55-64		M	1797
+Sydney - South West	55-64	0	F	21098
+Sydney - South West	55-64	0	M	22364
+Sydney - South West	55-64	1	F	4892
+Sydney - South West	55-64	1	M	2989
+Sydney - South West	65-74		F	1197
+Sydney - South West	65-74		M	1168
+Sydney - South West	65-74	0	F	15618
+Sydney - South West	65-74	0	M	15074
+Sydney - South West	65-74	1	F	2525
+Sydney - South West	65-74	1	M	1679
+Sydney - South West	75-84		F	1013
+Sydney - South West	75-84		M	885
+Sydney - South West	75-84	0	F	7903
+Sydney - South West	75-84	0	M	7100
+Sydney - South West	75-84	1	F	828
+Sydney - South West	75-84	1	M	755
+Sydney - South West	85+		F	882
+Sydney - South West	85+		M	553
+Sydney - South West	85+	0	F	3290
+Sydney - South West	85+	0	M	2111
+Sydney - South West	85+	1	F	154
+Sydney - South West	85+	1	M	203
+Sydney - Sutherland	15-19		F	198
+Sydney - Sutherland	15-19		M	223
+Sydney - Sutherland	15-19	0	F	6241
+Sydney - Sutherland	15-19	0	M	6709
+Sydney - Sutherland	15-19	1	F	330
+Sydney - Sutherland	15-19	1	M	307
+Sydney - Sutherland	20-24		F	175
+Sydney - Sutherland	20-24		M	213
+Sydney - Sutherland	20-24	0	F	5714
+Sydney - Sutherland	20-24	0	M	6111
+Sydney - Sutherland	20-24	1	F	405
+Sydney - Sutherland	20-24	1	M	300
+Sydney - Sutherland	25-34		F	539
+Sydney - Sutherland	25-34		M	577
+Sydney - Sutherland	25-34	0	F	11942
+Sydney - Sutherland	25-34	0	M	11581
+Sydney - Sutherland	25-34	1	F	973
+Sydney - Sutherland	25-34	1	M	728
+Sydney - Sutherland	35-44		F	545
+Sydney - Sutherland	35-44		M	572
+Sydney - Sutherland	35-44	0	F	13220
+Sydney - Sutherland	35-44	0	M	12798
+Sydney - Sutherland	35-44	1	F	2095
+Sydney - Sutherland	35-44	1	M	1266
+Sydney - Sutherland	45-54		F	476
+Sydney - Sutherland	45-54		M	550
+Sydney - Sutherland	45-54	0	F	12592
+Sydney - Sutherland	45-54	0	M	12862
+Sydney - Sutherland	45-54	1	F	3344
+Sydney - Sutherland	45-54	1	M	2000
+Sydney - Sutherland	55-64		F	362
+Sydney - Sutherland	55-64		M	443
+Sydney - Sutherland	55-64	0	F	10734
+Sydney - Sutherland	55-64	0	M	10997
+Sydney - Sutherland	55-64	1	F	3539
+Sydney - Sutherland	55-64	1	M	2390
+Sydney - Sutherland	65-74		F	399
+Sydney - Sutherland	65-74		M	365
+Sydney - Sutherland	65-74	0	F	9641
+Sydney - Sutherland	65-74	0	M	9194
+Sydney - Sutherland	65-74	1	F	1907
+Sydney - Sutherland	65-74	1	M	1372
+Sydney - Sutherland	75-84		F	522
+Sydney - Sutherland	75-84		M	362
+Sydney - Sutherland	75-84	0	F	6237
+Sydney - Sutherland	75-84	0	M	5282
+Sydney - Sutherland	75-84	1	F	762
+Sydney - Sutherland	75-84	1	M	675
+Sydney - Sutherland	85+		F	776
+Sydney - Sutherland	85+		M	307
+Sydney - Sutherland	85+	0	F	3019
+Sydney - Sutherland	85+	0	M	1881
+Sydney - Sutherland	85+	1	F	190
+Sydney - Sutherland	85+	1	M	253
+No usual address (NSW)	15-19		F	90
+No usual address (NSW)	15-19		M	97
+No usual address (NSW)	15-19	0	F	172
+No usual address (NSW)	15-19	0	M	151
+No usual address (NSW)	15-19	1	F	17
+No usual address (NSW)	15-19	1	M	11
+No usual address (NSW)	20-24		F	132
+No usual address (NSW)	20-24		M	135
+No usual address (NSW)	20-24	0	F	265
+No usual address (NSW)	20-24	0	M	255
+No usual address (NSW)	20-24	1	F	18
+No usual address (NSW)	20-24	1	M	20
+No usual address (NSW)	25-34		F	339
+No usual address (NSW)	25-34		M	423
+No usual address (NSW)	25-34	0	F	616
+No usual address (NSW)	25-34	0	M	689
+No usual address (NSW)	25-34	1	F	76
+No usual address (NSW)	25-34	1	M	51
+No usual address (NSW)	35-44		F	285
+No usual address (NSW)	35-44		M	491
+No usual address (NSW)	35-44	0	F	392
+No usual address (NSW)	35-44	0	M	541
+No usual address (NSW)	35-44	1	F	70
+No usual address (NSW)	35-44	1	M	72
+No usual address (NSW)	45-54		F	210
+No usual address (NSW)	45-54		M	442
+No usual address (NSW)	45-54	0	F	365
+No usual address (NSW)	45-54	0	M	500
+No usual address (NSW)	45-54	1	F	93
+No usual address (NSW)	45-54	1	M	67
+No usual address (NSW)	55-64		F	147
+No usual address (NSW)	55-64		M	317
+No usual address (NSW)	55-64	0	F	464
+No usual address (NSW)	55-64	0	M	544
+No usual address (NSW)	55-64	1	F	95
+No usual address (NSW)	55-64	1	M	84
+No usual address (NSW)	65-74		F	59
+No usual address (NSW)	65-74		M	138
+No usual address (NSW)	65-74	0	F	301
+No usual address (NSW)	65-74	0	M	465
+No usual address (NSW)	65-74	1	F	41
+No usual address (NSW)	65-74	1	M	54
+No usual address (NSW)	75-84		F	22
+No usual address (NSW)	75-84		M	40
+No usual address (NSW)	75-84	0	F	77
+No usual address (NSW)	75-84	0	M	122
+No usual address (NSW)	75-84	1	F	8
+No usual address (NSW)	75-84	1	M	15
+No usual address (NSW)	85+		F	12
+No usual address (NSW)	85+		M	4
+No usual address (NSW)	85+	0	F	19
+No usual address (NSW)	85+	0	M	11
+Ballarat	15-19		F	369
+Ballarat	15-19		M	364
+Ballarat	15-19	0	F	4269
+Ballarat	15-19	0	M	4577
+Ballarat	15-19	1	F	289
+Ballarat	15-19	1	M	256
+Ballarat	20-24		F	298
+Ballarat	20-24		M	339
+Ballarat	20-24	0	F	4024
+Ballarat	20-24	0	M	4167
+Ballarat	20-24	1	F	388
+Ballarat	20-24	1	M	290
+Ballarat	25-34		F	641
+Ballarat	25-34		M	712
+Ballarat	25-34	0	F	8582
+Ballarat	25-34	0	M	8786
+Ballarat	25-34	1	F	1255
+Ballarat	25-34	1	M	731
+Ballarat	35-44		F	596
+Ballarat	35-44		M	686
+Ballarat	35-44	0	F	8155
+Ballarat	35-44	0	M	7988
+Ballarat	35-44	1	F	1954
+Ballarat	35-44	1	M	1126
+Ballarat	45-54		F	642
+Ballarat	45-54		M	759
+Ballarat	45-54	0	F	8181
+Ballarat	45-54	0	M	8484
+Ballarat	45-54	1	F	2765
+Ballarat	45-54	1	M	1669
+Ballarat	55-64		F	598
+Ballarat	55-64		M	711
+Ballarat	55-64	0	F	8201
+Ballarat	55-64	0	M	8496
+Ballarat	55-64	1	F	3111
+Ballarat	55-64	1	M	1839
+Ballarat	65-74		F	645
+Ballarat	65-74		M	690
+Ballarat	65-74	0	F	8210
+Ballarat	65-74	0	M	8110
+Ballarat	65-74	1	F	2016
+Ballarat	65-74	1	M	1372
+Ballarat	75-84		F	565
+Ballarat	75-84		M	516
+Ballarat	75-84	0	F	4590
+Ballarat	75-84	0	M	4196
+Ballarat	75-84	1	F	711
+Ballarat	75-84	1	M	631
+Ballarat	85+		F	441
+Ballarat	85+		M	261
+Ballarat	85+	0	F	2132
+Ballarat	85+	0	M	1221
+Ballarat	85+	1	F	115
+Ballarat	85+	1	M	140
+Bendigo	15-19		F	330
+Bendigo	15-19		M	368
+Bendigo	15-19	0	F	4037
+Bendigo	15-19	0	M	4141
+Bendigo	15-19	1	F	287
+Bendigo	15-19	1	M	224
+Bendigo	20-24		F	251
+Bendigo	20-24		M	330
+Bendigo	20-24	0	F	3740
+Bendigo	20-24	0	M	3841
+Bendigo	20-24	1	F	363
+Bendigo	20-24	1	M	273
+Bendigo	25-34		F	628
+Bendigo	25-34		M	852
+Bendigo	25-34	0	F	8170
+Bendigo	25-34	0	M	7930
+Bendigo	25-34	1	F	1201
+Bendigo	25-34	1	M	687
+Bendigo	35-44		F	646
+Bendigo	35-44		M	769
+Bendigo	35-44	0	F	7821
+Bendigo	35-44	0	M	7652
+Bendigo	35-44	1	F	1901
+Bendigo	35-44	1	M	1104
+Bendigo	45-54		F	653
+Bendigo	45-54		M	781
+Bendigo	45-54	0	F	7754
+Bendigo	45-54	0	M	8006
+Bendigo	45-54	1	F	2635
+Bendigo	45-54	1	M	1508
+Bendigo	55-64		F	656
+Bendigo	55-64		M	747
+Bendigo	55-64	0	F	8073
+Bendigo	55-64	0	M	8165
+Bendigo	55-64	1	F	3060
+Bendigo	55-64	1	M	1789
+Bendigo	65-74		F	648
+Bendigo	65-74		M	683
+Bendigo	65-74	0	F	7946
+Bendigo	65-74	0	M	8009
+Bendigo	65-74	1	F	1996
+Bendigo	65-74	1	M	1332
+Bendigo	75-84		F	582
+Bendigo	75-84		M	511
+Bendigo	75-84	0	F	4495
+Bendigo	75-84	0	M	4222
+Bendigo	75-84	1	F	761
+Bendigo	75-84	1	M	611
+Bendigo	85+		F	531
+Bendigo	85+		M	285
+Bendigo	85+	0	F	2099
+Bendigo	85+	0	M	1326
+Bendigo	85+	1	F	110
+Bendigo	85+	1	M	162
+Geelong	15-19		F	520
+Geelong	15-19		M	553
+Geelong	15-19	0	F	7985
+Geelong	15-19	0	M	8463
+Geelong	15-19	1	F	460
+Geelong	15-19	1	M	392
+Geelong	20-24		F	525
+Geelong	20-24		M	703
+Geelong	20-24	0	F	8351
+Geelong	20-24	0	M	8801
+Geelong	20-24	1	F	658
+Geelong	20-24	1	M	507
+Geelong	25-34		F	1104
+Geelong	25-34		M	1660
+Geelong	25-34	0	F	18595
+Geelong	25-34	0	M	18872
+Geelong	25-34	1	F	2157
+Geelong	25-34	1	M	1340
+Geelong	35-44		F	1089
+Geelong	35-44		M	1394
+Geelong	35-44	0	F	17265
+Geelong	35-44	0	M	16921
+Geelong	35-44	1	F	3560
+Geelong	35-44	1	M	2049
+Geelong	45-54		F	927
+Geelong	45-54		M	1181
+Geelong	45-54	0	F	15120
+Geelong	45-54	0	M	15596
+Geelong	45-54	1	F	5010
+Geelong	45-54	1	M	2893
+Geelong	55-64		F	894
+Geelong	55-64		M	999
+Geelong	55-64	0	F	14460
+Geelong	55-64	0	M	14462
+Geelong	55-64	1	F	5576
+Geelong	55-64	1	M	3196
+Geelong	65-74		F	1044
+Geelong	65-74		M	999
+Geelong	65-74	0	F	14734
+Geelong	65-74	0	M	14031
+Geelong	65-74	1	F	3432
+Geelong	65-74	1	M	2365
+Geelong	75-84		F	928
+Geelong	75-84		M	708
+Geelong	75-84	0	F	8508
+Geelong	75-84	0	M	7355
+Geelong	75-84	1	F	1308
+Geelong	75-84	1	M	1103
+Geelong	85+		F	713
+Geelong	85+		M	393
+Geelong	85+	0	F	4000
+Geelong	85+	0	M	2355
+Geelong	85+	1	F	185
+Geelong	85+	1	M	300
+Hume	15-19		F	469
+Hume	15-19		M	496
+Hume	15-19	0	F	4267
+Hume	15-19	0	M	4749
+Hume	15-19	1	F	314
+Hume	15-19	1	M	271
+Hume	20-24		F	338
+Hume	20-24		M	394
+Hume	20-24	0	F	3429
+Hume	20-24	0	M	3944
+Hume	20-24	1	F	347
+Hume	20-24	1	M	255
+Hume	25-34		F	713
+Hume	25-34		M	794
+Hume	25-34	0	F	8032
+Hume	25-34	0	M	8206
+Hume	25-34	1	F	1141
+Hume	25-34	1	M	704
+Hume	35-44		F	725
+Hume	35-44		M	796
+Hume	35-44	0	F	8034
+Hume	35-44	0	M	7932
+Hume	35-44	1	F	1964
+Hume	35-44	1	M	1126
+Hume	45-54		F	790
+Hume	45-54		M	823
+Hume	45-54	0	F	8543
+Hume	45-54	0	M	8859
+Hume	45-54	1	F	2860
+Hume	45-54	1	M	1587
+Hume	55-64		F	866
+Hume	55-64		M	951
+Hume	55-64	0	F	9693
+Hume	55-64	0	M	10112
+Hume	55-64	1	F	3279
+Hume	55-64	1	M	2004
+Hume	65-74		F	793
+Hume	65-74		M	910
+Hume	65-74	0	F	9401
+Hume	65-74	0	M	10092
+Hume	65-74	1	F	2222
+Hume	65-74	1	M	1546
+Hume	75-84		F	674
+Hume	75-84		M	572
+Hume	75-84	0	F	5387
+Hume	75-84	0	M	5242
+Hume	75-84	1	F	892
+Hume	75-84	1	M	738
+Hume	85+		F	429
+Hume	85+		M	233
+Hume	85+	0	F	2481
+Hume	85+	0	M	1526
+Hume	85+	1	F	139
+Hume	85+	1	M	180
+Latrobe - Gippsland	15-19		F	737
+Latrobe - Gippsland	15-19		M	787
+Latrobe - Gippsland	15-19	0	F	6522
+Latrobe - Gippsland	15-19	0	M	6933
+Latrobe - Gippsland	15-19	1	F	534
+Latrobe - Gippsland	15-19	1	M	399
+Latrobe - Gippsland	20-24		F	505
+Latrobe - Gippsland	20-24		M	604
+Latrobe - Gippsland	20-24	0	F	5580
+Latrobe - Gippsland	20-24	0	M	6010
+Latrobe - Gippsland	20-24	1	F	581
+Latrobe - Gippsland	20-24	1	M	465
+Latrobe - Gippsland	25-34		F	1293
+Latrobe - Gippsland	25-34		M	1545
+Latrobe - Gippsland	25-34	0	F	13480
+Latrobe - Gippsland	25-34	0	M	13201
+Latrobe - Gippsland	25-34	1	F	2011
+Latrobe - Gippsland	25-34	1	M	1187
+Latrobe - Gippsland	35-44		F	1318
+Latrobe - Gippsland	35-44		M	1576
+Latrobe - Gippsland	35-44	0	F	12358
+Latrobe - Gippsland	35-44	0	M	12404
+Latrobe - Gippsland	35-44	1	F	3078
+Latrobe - Gippsland	35-44	1	M	1800
+Latrobe - Gippsland	45-54		F	1249
+Latrobe - Gippsland	45-54		M	1423
+Latrobe - Gippsland	45-54	0	F	13177
+Latrobe - Gippsland	45-54	0	M	13384
+Latrobe - Gippsland	45-54	1	F	4417
+Latrobe - Gippsland	45-54	1	M	2521
+Latrobe - Gippsland	55-64		F	1397
+Latrobe - Gippsland	55-64		M	1519
+Latrobe - Gippsland	55-64	0	F	15892
+Latrobe - Gippsland	55-64	0	M	16281
+Latrobe - Gippsland	55-64	1	F	5730
+Latrobe - Gippsland	55-64	1	M	3371
+Latrobe - Gippsland	65-74		F	1513
+Latrobe - Gippsland	65-74		M	1557
+Latrobe - Gippsland	65-74	0	F	16649
+Latrobe - Gippsland	65-74	0	M	17383
+Latrobe - Gippsland	65-74	1	F	3701
+Latrobe - Gippsland	65-74	1	M	2728
+Latrobe - Gippsland	75-84		F	1189
+Latrobe - Gippsland	75-84		M	1061
+Latrobe - Gippsland	75-84	0	F	9140
+Latrobe - Gippsland	75-84	0	M	8882
+Latrobe - Gippsland	75-84	1	F	1463
+Latrobe - Gippsland	75-84	1	M	1353
+Latrobe - Gippsland	85+		F	732
+Latrobe - Gippsland	85+		M	515
+Latrobe - Gippsland	85+	0	F	3774
+Latrobe - Gippsland	85+	0	M	2400
+Latrobe - Gippsland	85+	1	F	202
+Latrobe - Gippsland	85+	1	M	301
+Melbourne - Inner	15-19		F	663
+Melbourne - Inner	15-19		M	620
+Melbourne - Inner	15-19	0	F	10995
+Melbourne - Inner	15-19	0	M	10090
+Melbourne - Inner	15-19	1	F	562
+Melbourne - Inner	15-19	1	M	488
+Melbourne - Inner	20-24		F	1957
+Melbourne - Inner	20-24		M	1788
+Melbourne - Inner	20-24	0	F	27190
+Melbourne - Inner	20-24	0	M	23716
+Melbourne - Inner	20-24	1	F	1529
+Melbourne - Inner	20-24	1	M	1131
+Melbourne - Inner	25-34		F	5245
+Melbourne - Inner	25-34		M	5356
+Melbourne - Inner	25-34	0	F	75149
+Melbourne - Inner	25-34	0	M	71341
+Melbourne - Inner	25-34	1	F	4805
+Melbourne - Inner	25-34	1	M	3625
+Melbourne - Inner	35-44		F	2864
+Melbourne - Inner	35-44		M	3285
+Melbourne - Inner	35-44	0	F	41920
+Melbourne - Inner	35-44	0	M	43792
+Melbourne - Inner	35-44	1	F	5326
+Melbourne - Inner	35-44	1	M	3899
+Melbourne - Inner	45-54		F	1879
+Melbourne - Inner	45-54		M	2217
+Melbourne - Inner	45-54	0	F	26807
+Melbourne - Inner	45-54	0	M	28014
+Melbourne - Inner	45-54	1	F	7937
+Melbourne - Inner	45-54	1	M	5146
+Melbourne - Inner	55-64		F	1497
+Melbourne - Inner	55-64		M	1753
+Melbourne - Inner	55-64	0	F	19950
+Melbourne - Inner	55-64	0	M	21067
+Melbourne - Inner	55-64	1	F	7655
+Melbourne - Inner	55-64	1	M	5192
+Melbourne - Inner	65-74		F	1193
+Melbourne - Inner	65-74		M	1212
+Melbourne - Inner	65-74	0	F	16368
+Melbourne - Inner	65-74	0	M	15506
+Melbourne - Inner	65-74	1	F	4040
+Melbourne - Inner	65-74	1	M	2533
+Melbourne - Inner	75-84		F	961
+Melbourne - Inner	75-84		M	833
+Melbourne - Inner	75-84	0	F	9873
+Melbourne - Inner	75-84	0	M	8411
+Melbourne - Inner	75-84	1	F	1610
+Melbourne - Inner	75-84	1	M	1168
+Melbourne - Inner	85+		F	766
+Melbourne - Inner	85+		M	472
+Melbourne - Inner	85+	0	F	4988
+Melbourne - Inner	85+	0	M	2949
+Melbourne - Inner	85+	1	F	324
+Melbourne - Inner	85+	1	M	384
+Melbourne - Inner East	15-19		F	365
+Melbourne - Inner East	15-19		M	393
+Melbourne - Inner East	15-19	0	F	10705
+Melbourne - Inner East	15-19	0	M	11166
+Melbourne - Inner East	15-19	1	F	539
+Melbourne - Inner East	15-19	1	M	551
+Melbourne - Inner East	20-24		F	562
+Melbourne - Inner East	20-24		M	615
+Melbourne - Inner East	20-24	0	F	11650
+Melbourne - Inner East	20-24	0	M	12621
+Melbourne - Inner East	20-24	1	F	849
+Melbourne - Inner East	20-24	1	M	774
+Melbourne - Inner East	25-34		F	1160
+Melbourne - Inner East	25-34		M	1339
+Melbourne - Inner East	25-34	0	F	21450
+Melbourne - Inner East	25-34	0	M	21620
+Melbourne - Inner East	25-34	1	F	1785
+Melbourne - Inner East	25-34	1	M	1420
+Melbourne - Inner East	35-44		F	902
+Melbourne - Inner East	35-44		M	900
+Melbourne - Inner East	35-44	0	F	20854
+Melbourne - Inner East	35-44	0	M	19562
+Melbourne - Inner East	35-44	1	F	3438
+Melbourne - Inner East	35-44	1	M	2207
+Melbourne - Inner East	45-54		F	816
+Melbourne - Inner East	45-54		M	861
+Melbourne - Inner East	45-54	0	F	19650
+Melbourne - Inner East	45-54	0	M	18827
+Melbourne - Inner East	45-54	1	F	6387
+Melbourne - Inner East	45-54	1	M	3942
+Melbourne - Inner East	55-64		F	695
+Melbourne - Inner East	55-64		M	642
+Melbourne - Inner East	55-64	0	F	16314
+Melbourne - Inner East	55-64	0	M	16286
+Melbourne - Inner East	55-64	1	F	6496
+Melbourne - Inner East	55-64	1	M	4259
+Melbourne - Inner East	65-74		F	699
+Melbourne - Inner East	65-74		M	556
+Melbourne - Inner East	65-74	0	F	14621
+Melbourne - Inner East	65-74	0	M	13125
+Melbourne - Inner East	65-74	1	F	3816
+Melbourne - Inner East	65-74	1	M	2429
+Melbourne - Inner East	75-84		F	699
+Melbourne - Inner East	75-84		M	522
+Melbourne - Inner East	75-84	0	F	11156
+Melbourne - Inner East	75-84	0	M	8868
+Melbourne - Inner East	75-84	1	F	1823
+Melbourne - Inner East	75-84	1	M	1459
+Melbourne - Inner East	85+		F	728
+Melbourne - Inner East	85+		M	382
+Melbourne - Inner East	85+	0	F	6360
+Melbourne - Inner East	85+	0	M	3808
+Melbourne - Inner East	85+	1	F	419
+Melbourne - Inner East	85+	1	M	572
+Melbourne - Inner South	15-19		F	404
+Melbourne - Inner South	15-19		M	417
+Melbourne - Inner South	15-19	0	F	11358
+Melbourne - Inner South	15-19	0	M	11853
+Melbourne - Inner South	15-19	1	F	579
+Melbourne - Inner South	15-19	1	M	503
+Melbourne - Inner South	20-24		F	414
+Melbourne - Inner South	20-24		M	490
+Melbourne - Inner South	20-24	0	F	10690
+Melbourne - Inner South	20-24	0	M	11144
+Melbourne - Inner South	20-24	1	F	870
+Melbourne - Inner South	20-24	1	M	793
+Melbourne - Inner South	25-34		F	1231
+Melbourne - Inner South	25-34		M	1352
+Melbourne - Inner South	25-34	0	F	23510
+Melbourne - Inner South	25-34	0	M	22685
+Melbourne - Inner South	25-34	1	F	2032
+Melbourne - Inner South	25-34	1	M	1541
+Melbourne - Inner South	35-44		F	1137
+Melbourne - Inner South	35-44		M	1157
+Melbourne - Inner South	35-44	0	F	25319
+Melbourne - Inner South	35-44	0	M	23919
+Melbourne - Inner South	35-44	1	F	3964
+Melbourne - Inner South	35-44	1	M	2648
+Melbourne - Inner South	45-54		F	1003
+Melbourne - Inner South	45-54		M	1023
+Melbourne - Inner South	45-54	0	F	23872
+Melbourne - Inner South	45-54	0	M	23756
+Melbourne - Inner South	45-54	1	F	7680
+Melbourne - Inner South	45-54	1	M	4688
+Melbourne - Inner South	55-64		F	795
+Melbourne - Inner South	55-64		M	787
+Melbourne - Inner South	55-64	0	F	18188
+Melbourne - Inner South	55-64	0	M	18840
+Melbourne - Inner South	55-64	1	F	7523
+Melbourne - Inner South	55-64	1	M	4735
+Melbourne - Inner South	65-74		F	970
+Melbourne - Inner South	65-74		M	716
+Melbourne - Inner South	65-74	0	F	16411
+Melbourne - Inner South	65-74	0	M	15104
+Melbourne - Inner South	65-74	1	F	4184
+Melbourne - Inner South	65-74	1	M	2684
+Melbourne - Inner South	75-84		F	889
+Melbourne - Inner South	75-84		M	651
+Melbourne - Inner South	75-84	0	F	10924
+Melbourne - Inner South	75-84	0	M	8742
+Melbourne - Inner South	75-84	1	F	1706
+Melbourne - Inner South	75-84	1	M	1290
+Melbourne - Inner South	85+		F	865
+Melbourne - Inner South	85+		M	382
+Melbourne - Inner South	85+	0	F	6676
+Melbourne - Inner South	85+	0	M	3548
+Melbourne - Inner South	85+	1	F	368
+Melbourne - Inner South	85+	1	M	495
+Melbourne - North East	15-19		F	686
+Melbourne - North East	15-19		M	814
+Melbourne - North East	15-19	0	F	13175
+Melbourne - North East	15-19	0	M	14269
+Melbourne - North East	15-19	1	F	772
+Melbourne - North East	15-19	1	M	692
+Melbourne - North East	20-24		F	767
+Melbourne - North East	20-24		M	1048
+Melbourne - North East	20-24	0	F	13856
+Melbourne - North East	20-24	0	M	15349
+Melbourne - North East	20-24	1	F	1244
+Melbourne - North East	20-24	1	M	971
+Melbourne - North East	25-34		F	2070
+Melbourne - North East	25-34		M	2302
+Melbourne - North East	25-34	0	F	34500
+Melbourne - North East	25-34	0	M	34600
+Melbourne - North East	25-34	1	F	3827
+Melbourne - North East	25-34	1	M	2598
+Melbourne - North East	35-44		F	1779
+Melbourne - North East	35-44		M	2025
+Melbourne - North East	35-44	0	F	33468
+Melbourne - North East	35-44	0	M	34416
+Melbourne - North East	35-44	1	F	6357
+Melbourne - North East	35-44	1	M	4168
+Melbourne - North East	45-54		F	1401
+Melbourne - North East	45-54		M	1550
+Melbourne - North East	45-54	0	F	25958
+Melbourne - North East	45-54	0	M	27854
+Melbourne - North East	45-54	1	F	8712
+Melbourne - North East	45-54	1	M	5246
+Melbourne - North East	55-64		F	1188
+Melbourne - North East	55-64		M	1258
+Melbourne - North East	55-64	0	F	21491
+Melbourne - North East	55-64	0	M	22183
+Melbourne - North East	55-64	1	F	8316
+Melbourne - North East	55-64	1	M	5068
+Melbourne - North East	65-74		F	1165
+Melbourne - North East	65-74		M	1066
+Melbourne - North East	65-74	0	F	18310
+Melbourne - North East	65-74	0	M	17344
+Melbourne - North East	65-74	1	F	4487
+Melbourne - North East	65-74	1	M	2985
+Melbourne - North East	75-84		F	951
+Melbourne - North East	75-84		M	792
+Melbourne - North East	75-84	0	F	11018
+Melbourne - North East	75-84	0	M	9441
+Melbourne - North East	75-84	1	F	1656
+Melbourne - North East	75-84	1	M	1447
+Melbourne - North East	85+		F	819
+Melbourne - North East	85+		M	496
+Melbourne - North East	85+	0	F	5298
+Melbourne - North East	85+	0	M	3138
+Melbourne - North East	85+	1	F	319
+Melbourne - North East	85+	1	M	437
+Melbourne - North West	15-19		F	714
+Melbourne - North West	15-19		M	835
+Melbourne - North West	15-19	0	F	10563
+Melbourne - North West	15-19	0	M	11530
+Melbourne - North West	15-19	1	F	712
+Melbourne - North West	15-19	1	M	579
+Melbourne - North West	20-24		F	774
+Melbourne - North West	20-24		M	1007
+Melbourne - North West	20-24	0	F	10878
+Melbourne - North West	20-24	0	M	12442
+Melbourne - North West	20-24	1	F	1118
+Melbourne - North West	20-24	1	M	759
+Melbourne - North West	25-34		F	2091
+Melbourne - North West	25-34		M	2541
+Melbourne - North West	25-34	0	F	27558
+Melbourne - North West	25-34	0	M	28337
+Melbourne - North West	25-34	1	F	3638
+Melbourne - North West	25-34	1	M	2311
+Melbourne - North West	35-44		F	1815
+Melbourne - North West	35-44		M	2081
+Melbourne - North West	35-44	0	F	24632
+Melbourne - North West	35-44	0	M	26349
+Melbourne - North West	35-44	1	F	5351
+Melbourne - North West	35-44	1	M	3379
+Melbourne - North West	45-54		F	1382
+Melbourne - North West	45-54		M	1506
+Melbourne - North West	45-54	0	F	18973
+Melbourne - North West	45-54	0	M	20192
+Melbourne - North West	45-54	1	F	6379
+Melbourne - North West	45-54	1	M	3803
+Melbourne - North West	55-64		F	1026
+Melbourne - North West	55-64		M	1145
+Melbourne - North West	55-64	0	F	15864
+Melbourne - North West	55-64	0	M	17141
+Melbourne - North West	55-64	1	F	5701
+Melbourne - North West	55-64	1	M	3433
+Melbourne - North West	65-74		F	826
+Melbourne - North West	65-74		M	738
+Melbourne - North West	65-74	0	F	12908
+Melbourne - North West	65-74	0	M	11968
+Melbourne - North West	65-74	1	F	2937
+Melbourne - North West	65-74	1	M	1968
+Melbourne - North West	75-84		F	748
+Melbourne - North West	75-84		M	602
+Melbourne - North West	75-84	0	F	8133
+Melbourne - North West	75-84	0	M	6807
+Melbourne - North West	75-84	1	F	1189
+Melbourne - North West	75-84	1	M	1027
+Melbourne - North West	85+		F	543
+Melbourne - North West	85+		M	308
+Melbourne - North West	85+	0	F	3960
+Melbourne - North West	85+	0	M	2472
+Melbourne - North West	85+	1	F	211
+Melbourne - North West	85+	1	M	320
+Melbourne - Outer East	15-19		F	537
+Melbourne - Outer East	15-19		M	588
+Melbourne - Outer East	15-19	0	F	13418
+Melbourne - Outer East	15-19	0	M	14863
+Melbourne - Outer East	15-19	1	F	727
+Melbourne - Outer East	15-19	1	M	676
+Melbourne - Outer East	20-24		F	525
+Melbourne - Outer East	20-24		M	632
+Melbourne - Outer East	20-24	0	F	12746
+Melbourne - Outer East	20-24	0	M	14173
+Melbourne - Outer East	20-24	1	F	1144
+Melbourne - Outer East	20-24	1	M	863
+Melbourne - Outer East	25-34		F	1301
+Melbourne - Outer East	25-34		M	1462
+Melbourne - Outer East	25-34	0	F	27599
+Melbourne - Outer East	25-34	0	M	27852
+Melbourne - Outer East	25-34	1	F	3339
+Melbourne - Outer East	25-34	1	M	2090
+Melbourne - Outer East	35-44		F	1325
+Melbourne - Outer East	35-44		M	1361
+Melbourne - Outer East	35-44	0	F	29688
+Melbourne - Outer East	35-44	0	M	29490
+Melbourne - Outer East	35-44	1	F	5829
+Melbourne - Outer East	35-44	1	M	3686
+Melbourne - Outer East	45-54		F	1115
+Melbourne - Outer East	45-54		M	1359
+Melbourne - Outer East	45-54	0	F	27067
+Melbourne - Outer East	45-54	0	M	27755
+Melbourne - Outer East	45-54	1	F	8579
+Melbourne - Outer East	45-54	1	M	5189
+Melbourne - Outer East	55-64		F	1052
+Melbourne - Outer East	55-64		M	1040
+Melbourne - Outer East	55-64	0	F	23788
+Melbourne - Outer East	55-64	0	M	24763
+Melbourne - Outer East	55-64	1	F	8946
+Melbourne - Outer East	55-64	1	M	5460
+Melbourne - Outer East	65-74		F	1070
+Melbourne - Outer East	65-74		M	909
+Melbourne - Outer East	65-74	0	F	21438
+Melbourne - Outer East	65-74	0	M	19975
+Melbourne - Outer East	65-74	1	F	5226
+Melbourne - Outer East	65-74	1	M	3447
+Melbourne - Outer East	75-84		F	1131
+Melbourne - Outer East	75-84		M	818
+Melbourne - Outer East	75-84	0	F	13249
+Melbourne - Outer East	75-84	0	M	11163
+Melbourne - Outer East	75-84	1	F	1992
+Melbourne - Outer East	75-84	1	M	1742
+Melbourne - Outer East	85+		F	1032
+Melbourne - Outer East	85+		M	507
+Melbourne - Outer East	85+	0	F	5936
+Melbourne - Outer East	85+	0	M	3529
+Melbourne - Outer East	85+	1	F	305
+Melbourne - Outer East	85+	1	M	495
+Melbourne - South East	15-19		F	1381
+Melbourne - South East	15-19		M	1465
+Melbourne - South East	15-19	0	F	22387
+Melbourne - South East	15-19	0	M	23987
+Melbourne - South East	15-19	1	F	1227
+Melbourne - South East	15-19	1	M	1096
+Melbourne - South East	20-24		F	1666
+Melbourne - South East	20-24		M	2147
+Melbourne - South East	20-24	0	F	25071
+Melbourne - South East	20-24	0	M	28181
+Melbourne - South East	20-24	1	F	2026
+Melbourne - South East	20-24	1	M	1622
+Melbourne - South East	25-34		F	4288
+Melbourne - South East	25-34		M	5303
+Melbourne - South East	25-34	0	F	55870
+Melbourne - South East	25-34	0	M	59447
+Melbourne - South East	25-34	1	F	6279
+Melbourne - South East	25-34	1	M	4185
+Melbourne - South East	35-44		F	3338
+Melbourne - South East	35-44		M	3846
+Melbourne - South East	35-44	0	F	51533
+Melbourne - South East	35-44	0	M	54145
+Melbourne - South East	35-44	1	F	9147
+Melbourne - South East	35-44	1	M	6150
+Melbourne - South East	45-54		F	2497
+Melbourne - South East	45-54		M	2690
+Melbourne - South East	45-54	0	F	40219
+Melbourne - South East	45-54	0	M	42420
+Melbourne - South East	45-54	1	F	10650
+Melbourne - South East	45-54	1	M	6774
+Melbourne - South East	55-64		F	2023
+Melbourne - South East	55-64		M	2106
+Melbourne - South East	55-64	0	F	32993
+Melbourne - South East	55-64	0	M	34942
+Melbourne - South East	55-64	1	F	9655
+Melbourne - South East	55-64	1	M	6016
+Melbourne - South East	65-74		F	1737
+Melbourne - South East	65-74		M	1519
+Melbourne - South East	65-74	0	F	26934
+Melbourne - South East	65-74	0	M	25432
+Melbourne - South East	65-74	1	F	5815
+Melbourne - South East	65-74	1	M	3863
+Melbourne - South East	75-84		F	1494
+Melbourne - South East	75-84		M	1256
+Melbourne - South East	75-84	0	F	16883
+Melbourne - South East	75-84	0	M	14648
+Melbourne - South East	75-84	1	F	2404
+Melbourne - South East	75-84	1	M	2088
+Melbourne - South East	85+		F	1153
+Melbourne - South East	85+		M	642
+Melbourne - South East	85+	0	F	8196
+Melbourne - South East	85+	0	M	5030
+Melbourne - South East	85+	1	F	421
+Melbourne - South East	85+	1	M	657
+Melbourne - West	15-19		F	1512
+Melbourne - West	15-19		M	1703
+Melbourne - West	15-19	0	F	20388
+Melbourne - West	15-19	0	M	21541
+Melbourne - West	15-19	1	F	1177
+Melbourne - West	15-19	1	M	980
+Melbourne - West	20-24		F	1795
+Melbourne - West	20-24		M	2619
+Melbourne - West	20-24	0	F	21495
+Melbourne - West	20-24	0	M	24184
+Melbourne - West	20-24	1	F	1816
+Melbourne - West	20-24	1	M	1424
+Melbourne - West	25-34		F	5500
+Melbourne - West	25-34		M	7047
+Melbourne - West	25-34	0	F	59912
+Melbourne - West	25-34	0	M	59549
+Melbourne - West	25-34	1	F	6792
+Melbourne - West	25-34	1	M	4216
+Melbourne - West	35-44		F	4411
+Melbourne - West	35-44		M	5795
+Melbourne - West	35-44	0	F	56937
+Melbourne - West	35-44	0	M	60682
+Melbourne - West	35-44	1	F	10283
+Melbourne - West	35-44	1	M	7005
+Melbourne - West	45-54		F	2806
+Melbourne - West	45-54		M	3419
+Melbourne - West	45-54	0	F	38788
+Melbourne - West	45-54	0	M	41435
+Melbourne - West	45-54	1	F	10599
+Melbourne - West	45-54	1	M	6669
+Melbourne - West	55-64		F	2031
+Melbourne - West	55-64		M	2299
+Melbourne - West	55-64	0	F	30341
+Melbourne - West	55-64	0	M	31522
+Melbourne - West	55-64	1	F	8832
+Melbourne - West	55-64	1	M	5561
+Melbourne - West	65-74		F	1623
+Melbourne - West	65-74		M	1614
+Melbourne - West	65-74	0	F	23450
+Melbourne - West	65-74	0	M	22809
+Melbourne - West	65-74	1	F	4947
+Melbourne - West	65-74	1	M	3325
+Melbourne - West	75-84		F	1125
+Melbourne - West	75-84		M	1043
+Melbourne - West	75-84	0	F	11985
+Melbourne - West	75-84	0	M	10428
+Melbourne - West	75-84	1	F	1589
+Melbourne - West	75-84	1	M	1498
+Melbourne - West	85+		F	835
+Melbourne - West	85+		M	416
+Melbourne - West	85+	0	F	5333
+Melbourne - West	85+	0	M	3024
+Melbourne - West	85+	1	F	276
+Melbourne - West	85+	1	M	379
+Mornington Peninsula	15-19		F	577
+Mornington Peninsula	15-19		M	560
+Mornington Peninsula	15-19	0	F	7273
+Mornington Peninsula	15-19	0	M	8192
+Mornington Peninsula	15-19	1	F	437
+Mornington Peninsula	15-19	1	M	398
+Mornington Peninsula	20-24		F	443
+Mornington Peninsula	20-24		M	436
+Mornington Peninsula	20-24	0	F	6444
+Mornington Peninsula	20-24	0	M	7102
+Mornington Peninsula	20-24	1	F	570
+Mornington Peninsula	20-24	1	M	400
+Mornington Peninsula	25-34		F	1022
+Mornington Peninsula	25-34		M	1078
+Mornington Peninsula	25-34	0	F	14264
+Mornington Peninsula	25-34	0	M	14274
+Mornington Peninsula	25-34	1	F	1877
+Mornington Peninsula	25-34	1	M	1125
+Mornington Peninsula	35-44		F	1068
+Mornington Peninsula	35-44		M	1114
+Mornington Peninsula	35-44	0	F	15100
+Mornington Peninsula	35-44	0	M	14868
+Mornington Peninsula	35-44	1	F	3411
+Mornington Peninsula	35-44	1	M	1967
+Mornington Peninsula	45-54		F	1093
+Mornington Peninsula	45-54		M	1232
+Mornington Peninsula	45-54	0	F	15614
+Mornington Peninsula	45-54	0	M	15941
+Mornington Peninsula	45-54	1	F	4899
+Mornington Peninsula	45-54	1	M	2819
+Mornington Peninsula	55-64		F	980
+Mornington Peninsula	55-64		M	1056
+Mornington Peninsula	55-64	0	F	14600
+Mornington Peninsula	55-64	0	M	14875
+Mornington Peninsula	55-64	1	F	5421
+Mornington Peninsula	55-64	1	M	3207
+Mornington Peninsula	65-74		F	1107
+Mornington Peninsula	65-74		M	995
+Mornington Peninsula	65-74	0	F	15015
+Mornington Peninsula	65-74	0	M	14028
+Mornington Peninsula	65-74	1	F	3546
+Mornington Peninsula	65-74	1	M	2349
+Mornington Peninsula	75-84		F	1136
+Mornington Peninsula	75-84		M	864
+Mornington Peninsula	75-84	0	F	9861
+Mornington Peninsula	75-84	0	M	8594
+Mornington Peninsula	75-84	1	F	1423
+Mornington Peninsula	75-84	1	M	1198
+Mornington Peninsula	85+		F	970
+Mornington Peninsula	85+		M	539
+Mornington Peninsula	85+	0	F	4129
+Mornington Peninsula	85+	0	M	2747
+Mornington Peninsula	85+	1	F	279
+Mornington Peninsula	85+	1	M	384
+North West	15-19		F	386
+North West	15-19		M	473
+North West	15-19	0	F	3326
+North West	15-19	0	M	3713
+North West	15-19	1	F	242
+North West	15-19	1	M	203
+North West	20-24		F	311
+North West	20-24		M	371
+North West	20-24	0	F	3116
+North West	20-24	0	M	3534
+North West	20-24	1	F	325
+North West	20-24	1	M	237
+North West	25-34		F	781
+North West	25-34		M	1057
+North West	25-34	0	F	7595
+North West	25-34	0	M	7840
+North West	25-34	1	F	1085
+North West	25-34	1	M	661
+North West	35-44		F	740
+North West	35-44		M	947
+North West	35-44	0	F	6357
+North West	35-44	0	M	6638
+North West	35-44	1	F	1541
+North West	35-44	1	M	875
+North West	45-54		F	693
+North West	45-54		M	929
+North West	45-54	0	F	6738
+North West	45-54	0	M	6997
+North West	45-54	1	F	2160
+North West	45-54	1	M	1266
+North West	55-64		F	748
+North West	55-64		M	983
+North West	55-64	0	F	7457
+North West	55-64	0	M	8414
+North West	55-64	1	F	2740
+North West	55-64	1	M	1706
+North West	65-74		F	733
+North West	65-74		M	911
+North West	65-74	0	F	7020
+North West	65-74	0	M	7615
+North West	65-74	1	F	1657
+North West	65-74	1	M	1216
+North West	75-84		F	686
+North West	75-84		M	626
+North West	75-84	0	F	4550
+North West	75-84	0	M	4162
+North West	75-84	1	F	686
+North West	75-84	1	M	549
+North West	85+		F	477
+North West	85+		M	296
+North West	85+	0	F	2428
+North West	85+	0	M	1444
+North West	85+	1	F	135
+North West	85+	1	M	165
+Shepparton	15-19		F	358
+Shepparton	15-19		M	419
+Shepparton	15-19	0	F	3157
+Shepparton	15-19	0	M	3623
+Shepparton	15-19	1	F	230
+Shepparton	15-19	1	M	191
+Shepparton	20-24		F	264
+Shepparton	20-24		M	320
+Shepparton	20-24	0	F	2878
+Shepparton	20-24	0	M	3028
+Shepparton	20-24	1	F	288
+Shepparton	20-24	1	M	236
+Shepparton	25-34		F	666
+Shepparton	25-34		M	771
+Shepparton	25-34	0	F	6454
+Shepparton	25-34	0	M	6423
+Shepparton	25-34	1	F	972
+Shepparton	25-34	1	M	557
+Shepparton	35-44		F	630
+Shepparton	35-44		M	683
+Shepparton	35-44	0	F	5743
+Shepparton	35-44	0	M	5820
+Shepparton	35-44	1	F	1429
+Shepparton	35-44	1	M	795
+Shepparton	45-54		F	592
+Shepparton	45-54		M	710
+Shepparton	45-54	0	F	5968
+Shepparton	45-54	0	M	6569
+Shepparton	45-54	1	F	2069
+Shepparton	45-54	1	M	1198
+Shepparton	55-64		F	623
+Shepparton	55-64		M	693
+Shepparton	55-64	0	F	6577
+Shepparton	55-64	0	M	7083
+Shepparton	55-64	1	F	2258
+Shepparton	55-64	1	M	1378
+Shepparton	65-74		F	611
+Shepparton	65-74		M	647
+Shepparton	65-74	0	F	6402
+Shepparton	65-74	0	M	6709
+Shepparton	65-74	1	F	1536
+Shepparton	65-74	1	M	1025
+Shepparton	75-84		F	599
+Shepparton	75-84		M	529
+Shepparton	75-84	0	F	4003
+Shepparton	75-84	0	M	3910
+Shepparton	75-84	1	F	587
+Shepparton	75-84	1	M	565
+Shepparton	85+		F	396
+Shepparton	85+		M	230
+Shepparton	85+	0	F	1886
+Shepparton	85+	0	M	1243
+Shepparton	85+	1	F	102
+Shepparton	85+	1	M	127
+Warrnambool and South West	15-19		F	324
+Warrnambool and South West	15-19		M	371
+Warrnambool and South West	15-19	0	F	2995
+Warrnambool and South West	15-19	0	M	3290
+Warrnambool and South West	15-19	1	F	215
+Warrnambool and South West	15-19	1	M	160
+Warrnambool and South West	20-24		F	169
+Warrnambool and South West	20-24		M	228
+Warrnambool and South West	20-24	0	F	2415
+Warrnambool and South West	20-24	0	M	2707
+Warrnambool and South West	20-24	1	F	252
+Warrnambool and South West	20-24	1	M	176
+Warrnambool and South West	25-34		F	437
+Warrnambool and South West	25-34		M	515
+Warrnambool and South West	25-34	0	F	5701
+Warrnambool and South West	25-34	0	M	5939
+Warrnambool and South West	25-34	1	F	822
+Warrnambool and South West	25-34	1	M	497
+Warrnambool and South West	35-44		F	493
+Warrnambool and South West	35-44		M	502
+Warrnambool and South West	35-44	0	F	5399
+Warrnambool and South West	35-44	0	M	5482
+Warrnambool and South West	35-44	1	F	1308
+Warrnambool and South West	35-44	1	M	736
+Warrnambool and South West	45-54		F	464
+Warrnambool and South West	45-54		M	561
+Warrnambool and South West	45-54	0	F	5950
+Warrnambool and South West	45-54	0	M	6207
+Warrnambool and South West	45-54	1	F	1961
+Warrnambool and South West	45-54	1	M	1134
+Warrnambool and South West	55-64		F	538
+Warrnambool and South West	55-64		M	547
+Warrnambool and South West	55-64	0	F	6611
+Warrnambool and South West	55-64	0	M	6981
+Warrnambool and South West	55-64	1	F	2490
+Warrnambool and South West	55-64	1	M	1530
+Warrnambool and South West	65-74		F	551
+Warrnambool and South West	65-74		M	575
+Warrnambool and South West	65-74	0	F	6517
+Warrnambool and South West	65-74	0	M	6889
+Warrnambool and South West	65-74	1	F	1492
+Warrnambool and South West	65-74	1	M	1059
+Warrnambool and South West	75-84		F	485
+Warrnambool and South West	75-84		M	409
+Warrnambool and South West	75-84	0	F	3846
+Warrnambool and South West	75-84	0	M	3498
+Warrnambool and South West	75-84	1	F	581
+Warrnambool and South West	75-84	1	M	477
+Warrnambool and South West	85+		F	352
+Warrnambool and South West	85+		M	196
+Warrnambool and South West	85+	0	F	1938
+Warrnambool and South West	85+	0	M	1093
+Warrnambool and South West	85+	1	F	91
+Warrnambool and South West	85+	1	M	127
+Migratory - Offshore - Shipping (Vic.)	35-44		M	9
+Migratory - Offshore - Shipping (Vic.)	35-44	0	M	4
+Migratory - Offshore - Shipping (Vic.)	45-54		M	3
+Migratory - Offshore - Shipping (Vic.)	55-64		F	3
+Migratory - Offshore - Shipping (Vic.)	55-64		M	7
+Migratory - Offshore - Shipping (Vic.)	55-64	0	M	3
+No usual address (Vic.)	15-19		F	91
+No usual address (Vic.)	15-19		M	97
+No usual address (Vic.)	15-19	0	F	127
+No usual address (Vic.)	15-19	0	M	130
+No usual address (Vic.)	15-19	1	F	12
+No usual address (Vic.)	15-19	1	M	6
+No usual address (Vic.)	20-24		F	92
+No usual address (Vic.)	20-24		M	127
+No usual address (Vic.)	20-24	0	F	195
+No usual address (Vic.)	20-24	0	M	199
+No usual address (Vic.)	20-24	1	F	34
+No usual address (Vic.)	20-24	1	M	26
+No usual address (Vic.)	25-34		F	310
+No usual address (Vic.)	25-34		M	391
+No usual address (Vic.)	25-34	0	F	485
+No usual address (Vic.)	25-34	0	M	506
+No usual address (Vic.)	25-34	1	F	79
+No usual address (Vic.)	25-34	1	M	46
+No usual address (Vic.)	35-44		F	346
+No usual address (Vic.)	35-44		M	524
+No usual address (Vic.)	35-44	0	F	304
+No usual address (Vic.)	35-44	0	M	422
+No usual address (Vic.)	35-44	1	F	82
+No usual address (Vic.)	35-44	1	M	56
+No usual address (Vic.)	45-54		F	181
+No usual address (Vic.)	45-54		M	467
+No usual address (Vic.)	45-54	0	F	220
+No usual address (Vic.)	45-54	0	M	366
+No usual address (Vic.)	45-54	1	F	81
+No usual address (Vic.)	45-54	1	M	81
+No usual address (Vic.)	55-64		F	118
+No usual address (Vic.)	55-64		M	295
+No usual address (Vic.)	55-64	0	F	229
+No usual address (Vic.)	55-64	0	M	290
+No usual address (Vic.)	55-64	1	F	79
+No usual address (Vic.)	55-64	1	M	57
+No usual address (Vic.)	65-74		F	62
+No usual address (Vic.)	65-74		M	132
+No usual address (Vic.)	65-74	0	F	133
+No usual address (Vic.)	65-74	0	M	225
+No usual address (Vic.)	65-74	1	F	23
+No usual address (Vic.)	65-74	1	M	36
+No usual address (Vic.)	75-84		F	7
+No usual address (Vic.)	75-84		M	30
+No usual address (Vic.)	75-84	0	F	47
+No usual address (Vic.)	75-84	0	M	61
+No usual address (Vic.)	75-84	1	F	5
+No usual address (Vic.)	75-84	1	M	5
+No usual address (Vic.)	85+		F	9
+No usual address (Vic.)	85+		M	6
+No usual address (Vic.)	85+	0	F	13
+No usual address (Vic.)	85+	0	M	4
+Brisbane - East	15-19		F	273
+Brisbane - East	15-19		M	270
+Brisbane - East	15-19	0	F	6539
+Brisbane - East	15-19	0	M	7261
+Brisbane - East	15-19	1	F	329
+Brisbane - East	15-19	1	M	327
+Brisbane - East	20-24		F	250
+Brisbane - East	20-24		M	300
+Brisbane - East	20-24	0	F	5209
+Brisbane - East	20-24	0	M	5968
+Brisbane - East	20-24	1	F	368
+Brisbane - East	20-24	1	M	338
+Brisbane - East	25-34		F	539
+Brisbane - East	25-34		M	613
+Brisbane - East	25-34	0	F	11218
+Brisbane - East	25-34	0	M	10892
+Brisbane - East	25-34	1	F	1222
+Brisbane - East	25-34	1	M	725
+Brisbane - East	35-44		F	604
+Brisbane - East	35-44		M	648
+Brisbane - East	35-44	0	F	13349
+Brisbane - East	35-44	0	M	12984
+Brisbane - East	35-44	1	F	2552
+Brisbane - East	35-44	1	M	1372
+Brisbane - East	45-54		F	609
+Brisbane - East	45-54		M	722
+Brisbane - East	45-54	0	F	13597
+Brisbane - East	45-54	0	M	13572
+Brisbane - East	45-54	1	F	3521
+Brisbane - East	45-54	1	M	1932
+Brisbane - East	55-64		F	542
+Brisbane - East	55-64		M	611
+Brisbane - East	55-64	0	F	12096
+Brisbane - East	55-64	0	M	12291
+Brisbane - East	55-64	1	F	3717
+Brisbane - East	55-64	1	M	2207
+Brisbane - East	65-74		F	555
+Brisbane - East	65-74		M	568
+Brisbane - East	65-74	0	F	10786
+Brisbane - East	65-74	0	M	10282
+Brisbane - East	65-74	1	F	2341
+Brisbane - East	65-74	1	M	1620
+Brisbane - East	75-84		F	615
+Brisbane - East	75-84		M	448
+Brisbane - East	75-84	0	F	6095
+Brisbane - East	75-84	0	M	5441
+Brisbane - East	75-84	1	F	919
+Brisbane - East	75-84	1	M	780
+Brisbane - East	85+		F	701
+Brisbane - East	85+		M	347
+Brisbane - East	85+	0	F	2479
+Brisbane - East	85+	0	M	1500
+Brisbane - East	85+	1	F	134
+Brisbane - East	85+	1	M	199
+Brisbane - North	15-19		F	214
+Brisbane - North	15-19		M	245
+Brisbane - North	15-19	0	F	5447
+Brisbane - North	15-19	0	M	5755
+Brisbane - North	15-19	1	F	283
+Brisbane - North	15-19	1	M	262
+Brisbane - North	20-24		F	329
+Brisbane - North	20-24		M	399
+Brisbane - North	20-24	0	F	6397
+Brisbane - North	20-24	0	M	6271
+Brisbane - North	20-24	1	F	426
+Brisbane - North	20-24	1	M	304
+Brisbane - North	25-34		F	842
+Brisbane - North	25-34		M	1001
+Brisbane - North	25-34	0	F	15709
+Brisbane - North	25-34	0	M	15088
+Brisbane - North	25-34	1	F	1294
+Brisbane - North	25-34	1	M	859
+Brisbane - North	35-44		F	623
+Brisbane - North	35-44		M	810
+Brisbane - North	35-44	0	F	14479
+Brisbane - North	35-44	0	M	14677
+Brisbane - North	35-44	1	F	2255
+Brisbane - North	35-44	1	M	1403
+Brisbane - North	45-54		F	460
+Brisbane - North	45-54		M	622
+Brisbane - North	45-54	0	F	11631
+Brisbane - North	45-54	0	M	11887
+Brisbane - North	45-54	1	F	2963
+Brisbane - North	45-54	1	M	1848
+Brisbane - North	55-64		F	383
+Brisbane - North	55-64		M	447
+Brisbane - North	55-64	0	F	9227
+Brisbane - North	55-64	0	M	9321
+Brisbane - North	55-64	1	F	2813
+Brisbane - North	55-64	1	M	1817
+Brisbane - North	65-74		F	386
+Brisbane - North	65-74		M	389
+Brisbane - North	65-74	0	F	7727
+Brisbane - North	65-74	0	M	7222
+Brisbane - North	65-74	1	F	1681
+Brisbane - North	65-74	1	M	1050
+Brisbane - North	75-84		F	422
+Brisbane - North	75-84		M	331
+Brisbane - North	75-84	0	F	5355
+Brisbane - North	75-84	0	M	4002
+Brisbane - North	75-84	1	F	825
+Brisbane - North	75-84	1	M	602
+Brisbane - North	85+		F	591
+Brisbane - North	85+		M	236
+Brisbane - North	85+	0	F	2931
+Brisbane - North	85+	0	M	1566
+Brisbane - North	85+	1	F	161
+Brisbane - North	85+	1	M	178
+Brisbane - South	15-19		F	410
+Brisbane - South	15-19		M	436
+Brisbane - South	15-19	0	F	9587
+Brisbane - South	15-19	0	M	9921
+Brisbane - South	15-19	1	F	489
+Brisbane - South	15-19	1	M	435
+Brisbane - South	20-24		F	710
+Brisbane - South	20-24		M	839
+Brisbane - South	20-24	0	F	12674
+Brisbane - South	20-24	0	M	12988
+Brisbane - South	20-24	1	F	759
+Brisbane - South	20-24	1	M	608
+Brisbane - South	25-34		F	1600
+Brisbane - South	25-34		M	1894
+Brisbane - South	25-34	0	F	27673
+Brisbane - South	25-34	0	M	27770
+Brisbane - South	25-34	1	F	2168
+Brisbane - South	25-34	1	M	1546
+Brisbane - South	35-44		F	1207
+Brisbane - South	35-44		M	1383
+Brisbane - South	35-44	0	F	24991
+Brisbane - South	35-44	0	M	24919
+Brisbane - South	35-44	1	F	3670
+Brisbane - South	35-44	1	M	2388
+Brisbane - South	45-54		F	810
+Brisbane - South	45-54		M	1016
+Brisbane - South	45-54	0	F	18277
+Brisbane - South	45-54	0	M	18727
+Brisbane - South	45-54	1	F	4486
+Brisbane - South	45-54	1	M	2860
+Brisbane - South	55-64		F	691
+Brisbane - South	55-64		M	777
+Brisbane - South	55-64	0	F	14249
+Brisbane - South	55-64	0	M	14337
+Brisbane - South	55-64	1	F	4157
+Brisbane - South	55-64	1	M	2596
+Brisbane - South	65-74		F	508
+Brisbane - South	65-74		M	547
+Brisbane - South	65-74	0	F	11402
+Brisbane - South	65-74	0	M	10596
+Brisbane - South	65-74	1	F	2354
+Brisbane - South	65-74	1	M	1617
+Brisbane - South	75-84		F	505
+Brisbane - South	75-84		M	371
+Brisbane - South	75-84	0	F	6799
+Brisbane - South	75-84	0	M	5731
+Brisbane - South	75-84	1	F	951
+Brisbane - South	75-84	1	M	808
+Brisbane - South	85+		F	442
+Brisbane - South	85+		M	183
+Brisbane - South	85+	0	F	3571
+Brisbane - South	85+	0	M	1949
+Brisbane - South	85+	1	F	173
+Brisbane - South	85+	1	M	231
+Brisbane - West	15-19		F	187
+Brisbane - West	15-19		M	195
+Brisbane - West	15-19	0	F	6541
+Brisbane - West	15-19	0	M	6895
+Brisbane - West	15-19	1	F	266
+Brisbane - West	15-19	1	M	275
+Brisbane - West	20-24		F	218
+Brisbane - West	20-24		M	355
+Brisbane - West	20-24	0	F	6067
+Brisbane - West	20-24	0	M	6655
+Brisbane - West	20-24	1	F	339
+Brisbane - West	20-24	1	M	282
+Brisbane - West	25-34		F	406
+Brisbane - West	25-34		M	492
+Brisbane - West	25-34	0	F	9622
+Brisbane - West	25-34	0	M	9435
+Brisbane - West	25-34	1	F	771
+Brisbane - West	25-34	1	M	551
+Brisbane - West	35-44		F	401
+Brisbane - West	35-44		M	434
+Brisbane - West	35-44	0	F	11969
+Brisbane - West	35-44	0	M	11226
+Brisbane - West	35-44	1	F	1806
+Brisbane - West	35-44	1	M	1134
+Brisbane - West	45-54		F	302
+Brisbane - West	45-54		M	381
+Brisbane - West	45-54	0	F	10840
+Brisbane - West	45-54	0	M	10773
+Brisbane - West	45-54	1	F	2697
+Brisbane - West	45-54	1	M	1691
+Brisbane - West	55-64		F	245
+Brisbane - West	55-64		M	306
+Brisbane - West	55-64	0	F	7593
+Brisbane - West	55-64	0	M	7717
+Brisbane - West	55-64	1	F	2470
+Brisbane - West	55-64	1	M	1525
+Brisbane - West	65-74		F	238
+Brisbane - West	65-74		M	225
+Brisbane - West	65-74	0	F	6866
+Brisbane - West	65-74	0	M	6310
+Brisbane - West	65-74	1	F	1618
+Brisbane - West	65-74	1	M	1047
+Brisbane - West	75-84		F	238
+Brisbane - West	75-84		M	164
+Brisbane - West	75-84	0	F	4223
+Brisbane - West	75-84	0	M	3717
+Brisbane - West	75-84	1	F	664
+Brisbane - West	75-84	1	M	553
+Brisbane - West	85+		F	255
+Brisbane - West	85+		M	123
+Brisbane - West	85+	0	F	2163
+Brisbane - West	85+	0	M	1159
+Brisbane - West	85+	1	F	105
+Brisbane - West	85+	1	M	162
+Brisbane Inner City	15-19		F	411
+Brisbane Inner City	15-19		M	343
+Brisbane Inner City	15-19	0	F	7303
+Brisbane Inner City	15-19	0	M	7191
+Brisbane Inner City	15-19	1	F	332
+Brisbane Inner City	15-19	1	M	295
+Brisbane Inner City	20-24		F	997
+Brisbane Inner City	20-24		M	887
+Brisbane Inner City	20-24	0	F	14696
+Brisbane Inner City	20-24	0	M	12942
+Brisbane Inner City	20-24	1	F	685
+Brisbane Inner City	20-24	1	M	471
+Brisbane Inner City	25-34		F	2110
+Brisbane Inner City	25-34		M	2392
+Brisbane Inner City	25-34	0	F	29156
+Brisbane Inner City	25-34	0	M	29006
+Brisbane Inner City	25-34	1	F	1551
+Brisbane Inner City	25-34	1	M	1271
+Brisbane Inner City	35-44		F	1184
+Brisbane Inner City	35-44		M	1509
+Brisbane Inner City	35-44	0	F	19000
+Brisbane Inner City	35-44	0	M	20044
+Brisbane Inner City	35-44	1	F	2152
+Brisbane Inner City	35-44	1	M	1521
+Brisbane Inner City	45-54		F	792
+Brisbane Inner City	45-54		M	1095
+Brisbane Inner City	45-54	0	F	14828
+Brisbane Inner City	45-54	0	M	15728
+Brisbane Inner City	45-54	1	F	3328
+Brisbane Inner City	45-54	1	M	2152
+Brisbane Inner City	55-64		F	641
+Brisbane Inner City	55-64		M	778
+Brisbane Inner City	55-64	0	F	10090
+Brisbane Inner City	55-64	0	M	11061
+Brisbane Inner City	55-64	1	F	3125
+Brisbane Inner City	55-64	1	M	2104
+Brisbane Inner City	65-74		F	465
+Brisbane Inner City	65-74		M	552
+Brisbane Inner City	65-74	0	F	7173
+Brisbane Inner City	65-74	0	M	7316
+Brisbane Inner City	65-74	1	F	1589
+Brisbane Inner City	65-74	1	M	1079
+Brisbane Inner City	75-84		F	359
+Brisbane Inner City	75-84		M	344
+Brisbane Inner City	75-84	0	F	3849
+Brisbane Inner City	75-84	0	M	3463
+Brisbane Inner City	75-84	1	F	505
+Brisbane Inner City	75-84	1	M	430
+Brisbane Inner City	85+		F	262
+Brisbane Inner City	85+		M	154
+Brisbane Inner City	85+	0	F	1864
+Brisbane Inner City	85+	0	M	1040
+Brisbane Inner City	85+	1	F	82
+Brisbane Inner City	85+	1	M	113
+Cairns	15-19		F	779
+Cairns	15-19		M	913
+Cairns	15-19	0	F	6110
+Cairns	15-19	0	M	6579
+Cairns	15-19	1	F	403
+Cairns	15-19	1	M	315
+Cairns	20-24		F	776
+Cairns	20-24		M	851
+Cairns	20-24	0	F	5114
+Cairns	20-24	0	M	5378
+Cairns	20-24	1	F	359
+Cairns	20-24	1	M	297
+Cairns	25-34		F	1938
+Cairns	25-34		M	2123
+Cairns	25-34	0	F	13010
+Cairns	25-34	0	M	12226
+Cairns	25-34	1	F	1371
+Cairns	25-34	1	M	806
+Cairns	35-44		F	1600
+Cairns	35-44		M	1756
+Cairns	35-44	0	F	13092
+Cairns	35-44	0	M	12098
+Cairns	35-44	1	F	2316
+Cairns	35-44	1	M	1319
+Cairns	45-54		F	1484
+Cairns	45-54		M	1832
+Cairns	45-54	0	F	13330
+Cairns	45-54	0	M	13316
+Cairns	45-54	1	F	3186
+Cairns	45-54	1	M	1905
+Cairns	55-64		F	1318
+Cairns	55-64		M	1619
+Cairns	55-64	0	F	12728
+Cairns	55-64	0	M	13491
+Cairns	55-64	1	F	3212
+Cairns	55-64	1	M	2064
+Cairns	65-74		F	1091
+Cairns	65-74		M	1346
+Cairns	65-74	0	F	10288
+Cairns	65-74	0	M	11322
+Cairns	65-74	1	F	2050
+Cairns	65-74	1	M	1484
+Cairns	75-84		F	737
+Cairns	75-84		M	739
+Cairns	75-84	0	F	5276
+Cairns	75-84	0	M	5456
+Cairns	75-84	1	F	796
+Cairns	75-84	1	M	645
+Cairns	85+		F	434
+Cairns	85+		M	313
+Cairns	85+	0	F	2010
+Cairns	85+	0	M	1444
+Cairns	85+	1	F	121
+Cairns	85+	1	M	168
+Darling Downs - Maranoa	15-19		F	401
+Darling Downs - Maranoa	15-19		M	444
+Darling Downs - Maranoa	15-19	0	F	2948
+Darling Downs - Maranoa	15-19	0	M	3256
+Darling Downs - Maranoa	15-19	1	F	207
+Darling Downs - Maranoa	15-19	1	M	178
+Darling Downs - Maranoa	20-24		F	328
+Darling Downs - Maranoa	20-24		M	423
+Darling Downs - Maranoa	20-24	0	F	2576
+Darling Downs - Maranoa	20-24	0	M	2827
+Darling Downs - Maranoa	20-24	1	F	207
+Darling Downs - Maranoa	20-24	1	M	170
+Darling Downs - Maranoa	25-34		F	737
+Darling Downs - Maranoa	25-34		M	899
+Darling Downs - Maranoa	25-34	0	F	5743
+Darling Downs - Maranoa	25-34	0	M	5701
+Darling Downs - Maranoa	25-34	1	F	716
+Darling Downs - Maranoa	25-34	1	M	413
+Darling Downs - Maranoa	35-44		F	663
+Darling Downs - Maranoa	35-44		M	699
+Darling Downs - Maranoa	35-44	0	F	5447
+Darling Downs - Maranoa	35-44	0	M	5242
+Darling Downs - Maranoa	35-44	1	F	1176
+Darling Downs - Maranoa	35-44	1	M	694
+Darling Downs - Maranoa	45-54		F	727
+Darling Downs - Maranoa	45-54		M	821
+Darling Downs - Maranoa	45-54	0	F	5955
+Darling Downs - Maranoa	45-54	0	M	6186
+Darling Downs - Maranoa	45-54	1	F	1679
+Darling Downs - Maranoa	45-54	1	M	988
+Darling Downs - Maranoa	55-64		F	700
+Darling Downs - Maranoa	55-64		M	869
+Darling Downs - Maranoa	55-64	0	F	6300
+Darling Downs - Maranoa	55-64	0	M	6876
+Darling Downs - Maranoa	55-64	1	F	1880
+Darling Downs - Maranoa	55-64	1	M	1204
+Darling Downs - Maranoa	65-74		F	637
+Darling Downs - Maranoa	65-74		M	716
+Darling Downs - Maranoa	65-74	0	F	5688
+Darling Downs - Maranoa	65-74	0	M	6479
+Darling Downs - Maranoa	65-74	1	F	1130
+Darling Downs - Maranoa	65-74	1	M	866
+Darling Downs - Maranoa	75-84		F	538
+Darling Downs - Maranoa	75-84		M	480
+Darling Downs - Maranoa	75-84	0	F	3449
+Darling Downs - Maranoa	75-84	0	M	3451
+Darling Downs - Maranoa	75-84	1	F	473
+Darling Downs - Maranoa	75-84	1	M	439
+Darling Downs - Maranoa	85+		F	293
+Darling Downs - Maranoa	85+		M	194
+Darling Downs - Maranoa	85+	0	F	1378
+Darling Downs - Maranoa	85+	0	M	924
+Darling Downs - Maranoa	85+	1	F	85
+Darling Downs - Maranoa	85+	1	M	114
+Central Queensland	15-19		F	626
+Central Queensland	15-19		M	721
+Central Queensland	15-19	0	F	5885
+Central Queensland	15-19	0	M	6474
+Central Queensland	15-19	1	F	340
+Central Queensland	15-19	1	M	303
+Central Queensland	20-24		F	559
+Central Queensland	20-24		M	810
+Central Queensland	20-24	0	F	5337
+Central Queensland	20-24	0	M	5468
+Central Queensland	20-24	1	F	377
+Central Queensland	20-24	1	M	263
+Central Queensland	25-34		F	1245
+Central Queensland	25-34		M	2006
+Central Queensland	25-34	0	F	12046
+Central Queensland	25-34	0	M	11790
+Central Queensland	25-34	1	F	1454
+Central Queensland	25-34	1	M	805
+Central Queensland	35-44		F	1186
+Central Queensland	35-44		M	2075
+Central Queensland	35-44	0	F	11336
+Central Queensland	35-44	0	M	11536
+Central Queensland	35-44	1	F	2329
+Central Queensland	35-44	1	M	1283
+Central Queensland	45-54		F	1093
+Central Queensland	45-54		M	1866
+Central Queensland	45-54	0	F	10909
+Central Queensland	45-54	0	M	11437
+Central Queensland	45-54	1	F	2645
+Central Queensland	45-54	1	M	1574
+Central Queensland	55-64		F	1000
+Central Queensland	55-64		M	1607
+Central Queensland	55-64	0	F	10510
+Central Queensland	55-64	0	M	11737
+Central Queensland	55-64	1	F	2973
+Central Queensland	55-64	1	M	1873
+Central Queensland	65-74		F	751
+Central Queensland	65-74		M	967
+Central Queensland	65-74	0	F	7746
+Central Queensland	65-74	0	M	8794
+Central Queensland	65-74	1	F	1548
+Central Queensland	65-74	1	M	1214
+Central Queensland	75-84		F	596
+Central Queensland	75-84		M	537
+Central Queensland	75-84	0	F	4392
+Central Queensland	75-84	0	M	4052
+Central Queensland	75-84	1	F	628
+Central Queensland	75-84	1	M	549
+Central Queensland	85+		F	398
+Central Queensland	85+		M	235
+Central Queensland	85+	0	F	1674
+Central Queensland	85+	0	M	1094
+Central Queensland	85+	1	F	113
+Central Queensland	85+	1	M	142
+Gold Coast	15-19		F	1132
+Gold Coast	15-19		M	1177
+Gold Coast	15-19	0	F	16390
+Gold Coast	15-19	0	M	17067
+Gold Coast	15-19	1	F	842
+Gold Coast	15-19	1	M	705
+Gold Coast	20-24		F	1517
+Gold Coast	20-24		M	1491
+Gold Coast	20-24	0	F	17929
+Gold Coast	20-24	0	M	17177
+Gold Coast	20-24	1	F	1034
+Gold Coast	20-24	1	M	776
+Gold Coast	25-34		F	3588
+Gold Coast	25-34		M	3769
+Gold Coast	25-34	0	F	38552
+Gold Coast	25-34	0	M	36326
+Gold Coast	25-34	1	F	3364
+Gold Coast	25-34	1	M	2081
+Gold Coast	35-44		F	2899
+Gold Coast	35-44		M	3043
+Gold Coast	35-44	0	F	36277
+Gold Coast	35-44	0	M	35262
+Gold Coast	35-44	1	F	5971
+Gold Coast	35-44	1	M	3410
+Gold Coast	45-54		F	2543
+Gold Coast	45-54		M	2810
+Gold Coast	45-54	0	F	34378
+Gold Coast	45-54	0	M	34256
+Gold Coast	45-54	1	F	7806
+Gold Coast	45-54	1	M	4559
+Gold Coast	55-64		F	2102
+Gold Coast	55-64		M	2180
+Gold Coast	55-64	0	F	29764
+Gold Coast	55-64	0	M	29283
+Gold Coast	55-64	1	F	7792
+Gold Coast	55-64	1	M	4496
+Gold Coast	65-74		F	1899
+Gold Coast	65-74		M	1905
+Gold Coast	65-74	0	F	26776
+Gold Coast	65-74	0	M	25321
+Gold Coast	65-74	1	F	5147
+Gold Coast	65-74	1	M	3233
+Gold Coast	75-84		F	1804
+Gold Coast	75-84		M	1424
+Gold Coast	75-84	0	F	15372
+Gold Coast	75-84	0	M	14331
+Gold Coast	75-84	1	F	2155
+Gold Coast	75-84	1	M	1917
+Gold Coast	85+		F	1581
+Gold Coast	85+		M	791
+Gold Coast	85+	0	F	5961
+Gold Coast	85+	0	M	3928
+Gold Coast	85+	1	F	343
+Gold Coast	85+	1	M	465
+Ipswich	15-19		F	851
+Ipswich	15-19		M	984
+Ipswich	15-19	0	F	10225
+Ipswich	15-19	0	M	10637
+Ipswich	15-19	1	F	708
+Ipswich	15-19	1	M	585
+Ipswich	20-24		F	889
+Ipswich	20-24		M	1366
+Ipswich	20-24	0	F	9975
+Ipswich	20-24	0	M	10211
+Ipswich	20-24	1	F	801
+Ipswich	20-24	1	M	685
+Ipswich	25-34		F	2075
+Ipswich	25-34		M	3420
+Ipswich	25-34	0	F	22541
+Ipswich	25-34	0	M	21503
+Ipswich	25-34	1	F	2970
+Ipswich	25-34	1	M	1617
+Ipswich	35-44		F	1746
+Ipswich	35-44		M	2805
+Ipswich	35-44	0	F	20049
+Ipswich	35-44	0	M	20132
+Ipswich	35-44	1	F	4185
+Ipswich	35-44	1	M	2468
+Ipswich	45-54		F	1332
+Ipswich	45-54		M	1915
+Ipswich	45-54	0	F	17411
+Ipswich	45-54	0	M	17896
+Ipswich	45-54	1	F	4571
+Ipswich	45-54	1	M	2735
+Ipswich	55-64		F	1025
+Ipswich	55-64		M	1283
+Ipswich	55-64	0	F	14684
+Ipswich	55-64	0	M	15509
+Ipswich	55-64	1	F	4257
+Ipswich	55-64	1	M	2647
+Ipswich	65-74		F	816
+Ipswich	65-74		M	852
+Ipswich	65-74	0	F	11249
+Ipswich	65-74	0	M	11181
+Ipswich	65-74	1	F	2391
+Ipswich	65-74	1	M	1699
+Ipswich	75-84		F	713
+Ipswich	75-84		M	562
+Ipswich	75-84	0	F	6245
+Ipswich	75-84	0	M	5436
+Ipswich	75-84	1	F	859
+Ipswich	75-84	1	M	835
+Ipswich	85+		F	468
+Ipswich	85+		M	259
+Ipswich	85+	0	F	2297
+Ipswich	85+	0	M	1417
+Ipswich	85+	1	F	113
+Ipswich	85+	1	M	181
+Logan - Beaudesert	15-19		F	937
+Logan - Beaudesert	15-19		M	1093
+Logan - Beaudesert	15-19	0	F	9959
+Logan - Beaudesert	15-19	0	M	10809
+Logan - Beaudesert	15-19	1	F	676
+Logan - Beaudesert	15-19	1	M	567
+Logan - Beaudesert	20-24		F	957
+Logan - Beaudesert	20-24		M	1028
+Logan - Beaudesert	20-24	0	F	9768
+Logan - Beaudesert	20-24	0	M	10278
+Logan - Beaudesert	20-24	1	F	849
+Logan - Beaudesert	20-24	1	M	630
+Logan - Beaudesert	25-34		F	2246
+Logan - Beaudesert	25-34		M	2269
+Logan - Beaudesert	25-34	0	F	21151
+Logan - Beaudesert	25-34	0	M	21024
+Logan - Beaudesert	25-34	1	F	2914
+Logan - Beaudesert	25-34	1	M	1703
+Logan - Beaudesert	35-44		F	1871
+Logan - Beaudesert	35-44		M	2042
+Logan - Beaudesert	35-44	0	F	18901
+Logan - Beaudesert	35-44	0	M	19320
+Logan - Beaudesert	35-44	1	F	4199
+Logan - Beaudesert	35-44	1	M	2457
+Logan - Beaudesert	45-54		F	1455
+Logan - Beaudesert	45-54		M	1660
+Logan - Beaudesert	45-54	0	F	16962
+Logan - Beaudesert	45-54	0	M	17640
+Logan - Beaudesert	45-54	1	F	4365
+Logan - Beaudesert	45-54	1	M	2505
+Logan - Beaudesert	55-64		F	998
+Logan - Beaudesert	55-64		M	1176
+Logan - Beaudesert	55-64	0	F	14634
+Logan - Beaudesert	55-64	0	M	15003
+Logan - Beaudesert	55-64	1	F	3957
+Logan - Beaudesert	55-64	1	M	2291
+Logan - Beaudesert	65-74		F	924
+Logan - Beaudesert	65-74		M	805
+Logan - Beaudesert	65-74	0	F	12324
+Logan - Beaudesert	65-74	0	M	11866
+Logan - Beaudesert	65-74	1	F	2414
+Logan - Beaudesert	65-74	1	M	1621
+Logan - Beaudesert	75-84		F	696
+Logan - Beaudesert	75-84		M	515
+Logan - Beaudesert	75-84	0	F	6182
+Logan - Beaudesert	75-84	0	M	5715
+Logan - Beaudesert	75-84	1	F	836
+Logan - Beaudesert	75-84	1	M	861
+Logan - Beaudesert	85+		F	429
+Logan - Beaudesert	85+		M	210
+Logan - Beaudesert	85+	0	F	2231
+Logan - Beaudesert	85+	0	M	1368
+Logan - Beaudesert	85+	1	F	97
+Logan - Beaudesert	85+	1	M	152
+Mackay - Isaac - Whitsunday	15-19		F	517
+Mackay - Isaac - Whitsunday	15-19		M	554
+Mackay - Isaac - Whitsunday	15-19	0	F	4292
+Mackay - Isaac - Whitsunday	15-19	0	M	4622
+Mackay - Isaac - Whitsunday	15-19	1	F	215
+Mackay - Isaac - Whitsunday	15-19	1	M	200
+Mackay - Isaac - Whitsunday	20-24		F	684
+Mackay - Isaac - Whitsunday	20-24		M	881
+Mackay - Isaac - Whitsunday	20-24	0	F	4245
+Mackay - Isaac - Whitsunday	20-24	0	M	4297
+Mackay - Isaac - Whitsunday	20-24	1	F	244
+Mackay - Isaac - Whitsunday	20-24	1	M	185
+Mackay - Isaac - Whitsunday	25-34		F	1542
+Mackay - Isaac - Whitsunday	25-34		M	2378
+Mackay - Isaac - Whitsunday	25-34	0	F	10145
+Mackay - Isaac - Whitsunday	25-34	0	M	9708
+Mackay - Isaac - Whitsunday	25-34	1	F	949
+Mackay - Isaac - Whitsunday	25-34	1	M	521
+Mackay - Isaac - Whitsunday	35-44		F	1196
+Mackay - Isaac - Whitsunday	35-44		M	2077
+Mackay - Isaac - Whitsunday	35-44	0	F	9387
+Mackay - Isaac - Whitsunday	35-44	0	M	9541
+Mackay - Isaac - Whitsunday	35-44	1	F	1514
+Mackay - Isaac - Whitsunday	35-44	1	M	919
+Mackay - Isaac - Whitsunday	45-54		F	1141
+Mackay - Isaac - Whitsunday	45-54		M	2076
+Mackay - Isaac - Whitsunday	45-54	0	F	8793
+Mackay - Isaac - Whitsunday	45-54	0	M	9581
+Mackay - Isaac - Whitsunday	45-54	1	F	1894
+Mackay - Isaac - Whitsunday	45-54	1	M	1102
+Mackay - Isaac - Whitsunday	55-64		F	1003
+Mackay - Isaac - Whitsunday	55-64		M	1718
+Mackay - Isaac - Whitsunday	55-64	0	F	8251
+Mackay - Isaac - Whitsunday	55-64	0	M	9382
+Mackay - Isaac - Whitsunday	55-64	1	F	2021
+Mackay - Isaac - Whitsunday	55-64	1	M	1246
+Mackay - Isaac - Whitsunday	65-74		F	627
+Mackay - Isaac - Whitsunday	65-74		M	883
+Mackay - Isaac - Whitsunday	65-74	0	F	5795
+Mackay - Isaac - Whitsunday	65-74	0	M	6727
+Mackay - Isaac - Whitsunday	65-74	1	F	1137
+Mackay - Isaac - Whitsunday	65-74	1	M	825
+Mackay - Isaac - Whitsunday	75-84		F	439
+Mackay - Isaac - Whitsunday	75-84		M	456
+Mackay - Isaac - Whitsunday	75-84	0	F	3015
+Mackay - Isaac - Whitsunday	75-84	0	M	3027
+Mackay - Isaac - Whitsunday	75-84	1	F	427
+Mackay - Isaac - Whitsunday	75-84	1	M	376
+Mackay - Isaac - Whitsunday	85+		F	233
+Mackay - Isaac - Whitsunday	85+		M	159
+Mackay - Isaac - Whitsunday	85+	0	F	1251
+Mackay - Isaac - Whitsunday	85+	0	M	796
+Mackay - Isaac - Whitsunday	85+	1	F	69
+Mackay - Isaac - Whitsunday	85+	1	M	87
+Moreton Bay - North	15-19		F	526
+Moreton Bay - North	15-19		M	557
+Moreton Bay - North	15-19	0	F	6701
+Moreton Bay - North	15-19	0	M	7201
+Moreton Bay - North	15-19	1	F	450
+Moreton Bay - North	15-19	1	M	366
+Moreton Bay - North	20-24		F	492
+Moreton Bay - North	20-24		M	727
+Moreton Bay - North	20-24	0	F	5955
+Moreton Bay - North	20-24	0	M	6342
+Moreton Bay - North	20-24	1	F	535
+Moreton Bay - North	20-24	1	M	392
+Moreton Bay - North	25-34		F	1052
+Moreton Bay - North	25-34		M	1717
+Moreton Bay - North	25-34	0	F	12293
+Moreton Bay - North	25-34	0	M	12019
+Moreton Bay - North	25-34	1	F	1918
+Moreton Bay - North	25-34	1	M	1034
+Moreton Bay - North	35-44		F	996
+Moreton Bay - North	35-44		M	1481
+Moreton Bay - North	35-44	0	F	12100
+Moreton Bay - North	35-44	0	M	11945
+Moreton Bay - North	35-44	1	F	3129
+Moreton Bay - North	35-44	1	M	1532
+Moreton Bay - North	45-54		F	965
+Moreton Bay - North	45-54		M	1235
+Moreton Bay - North	45-54	0	F	12884
+Moreton Bay - North	45-54	0	M	13091
+Moreton Bay - North	45-54	1	F	3794
+Moreton Bay - North	45-54	1	M	2086
+Moreton Bay - North	55-64		F	797
+Moreton Bay - North	55-64		M	914
+Moreton Bay - North	55-64	0	F	13059
+Moreton Bay - North	55-64	0	M	12799
+Moreton Bay - North	55-64	1	F	3834
+Moreton Bay - North	55-64	1	M	2164
+Moreton Bay - North	65-74		F	850
+Moreton Bay - North	65-74		M	853
+Moreton Bay - North	65-74	0	F	13616
+Moreton Bay - North	65-74	0	M	12781
+Moreton Bay - North	65-74	1	F	2953
+Moreton Bay - North	65-74	1	M	1923
+Moreton Bay - North	75-84		F	766
+Moreton Bay - North	75-84		M	678
+Moreton Bay - North	75-84	0	F	7831
+Moreton Bay - North	75-84	0	M	7195
+Moreton Bay - North	75-84	1	F	1145
+Moreton Bay - North	75-84	1	M	1041
+Moreton Bay - North	85+		F	544
+Moreton Bay - North	85+		M	281
+Moreton Bay - North	85+	0	F	2909
+Moreton Bay - North	85+	0	M	1962
+Moreton Bay - North	85+	1	F	167
+Moreton Bay - North	85+	1	M	218
+Moreton Bay - South	15-19		F	270
+Moreton Bay - South	15-19		M	298
+Moreton Bay - South	15-19	0	F	6463
+Moreton Bay - South	15-19	0	M	6822
+Moreton Bay - South	15-19	1	F	400
+Moreton Bay - South	15-19	1	M	298
+Moreton Bay - South	20-24		F	283
+Moreton Bay - South	20-24		M	317
+Moreton Bay - South	20-24	0	F	5780
+Moreton Bay - South	20-24	0	M	6008
+Moreton Bay - South	20-24	1	F	378
+Moreton Bay - South	20-24	1	M	299
+Moreton Bay - South	25-34		F	717
+Moreton Bay - South	25-34		M	784
+Moreton Bay - South	25-34	0	F	13061
+Moreton Bay - South	25-34	0	M	12427
+Moreton Bay - South	25-34	1	F	1395
+Moreton Bay - South	25-34	1	M	795
+Moreton Bay - South	35-44		F	649
+Moreton Bay - South	35-44		M	720
+Moreton Bay - South	35-44	0	F	13578
+Moreton Bay - South	35-44	0	M	13300
+Moreton Bay - South	35-44	1	F	2540
+Moreton Bay - South	35-44	1	M	1487
+Moreton Bay - South	45-54		F	494
+Moreton Bay - South	45-54		M	613
+Moreton Bay - South	45-54	0	F	12060
+Moreton Bay - South	45-54	0	M	12444
+Moreton Bay - South	45-54	1	F	3081
+Moreton Bay - South	45-54	1	M	1712
+Moreton Bay - South	55-64		F	329
+Moreton Bay - South	55-64		M	397
+Moreton Bay - South	55-64	0	F	8935
+Moreton Bay - South	55-64	0	M	9009
+Moreton Bay - South	55-64	1	F	2590
+Moreton Bay - South	55-64	1	M	1571
+Moreton Bay - South	65-74		F	317
+Moreton Bay - South	65-74		M	301
+Moreton Bay - South	65-74	0	F	7027
+Moreton Bay - South	65-74	0	M	6598
+Moreton Bay - South	65-74	1	F	1558
+Moreton Bay - South	65-74	1	M	1161
+Moreton Bay - South	75-84		F	290
+Moreton Bay - South	75-84		M	189
+Moreton Bay - South	75-84	0	F	3646
+Moreton Bay - South	75-84	0	M	3251
+Moreton Bay - South	75-84	1	F	540
+Moreton Bay - South	75-84	1	M	500
+Moreton Bay - South	85+		F	218
+Moreton Bay - South	85+		M	104
+Moreton Bay - South	85+	0	F	1328
+Moreton Bay - South	85+	0	M	716
+Moreton Bay - South	85+	1	F	58
+Moreton Bay - South	85+	1	M	107
+Queensland - Outback	15-19		F	342
+Queensland - Outback	15-19		M	425
+Queensland - Outback	15-19	0	F	1791
+Queensland - Outback	15-19	0	M	1995
+Queensland - Outback	15-19	1	F	132
+Queensland - Outback	15-19	1	M	111
+Queensland - Outback	20-24		F	350
+Queensland - Outback	20-24		M	556
+Queensland - Outback	20-24	0	F	2166
+Queensland - Outback	20-24	0	M	2153
+Queensland - Outback	20-24	1	F	144
+Queensland - Outback	20-24	1	M	95
+Queensland - Outback	25-34		F	734
+Queensland - Outback	25-34		M	1337
+Queensland - Outback	25-34	0	F	4844
+Queensland - Outback	25-34	0	M	4675
+Queensland - Outback	25-34	1	F	493
+Queensland - Outback	25-34	1	M	310
+Queensland - Outback	35-44		F	579
+Queensland - Outback	35-44		M	1023
+Queensland - Outback	35-44	0	F	3842
+Queensland - Outback	35-44	0	M	3794
+Queensland - Outback	35-44	1	F	612
+Queensland - Outback	35-44	1	M	352
+Queensland - Outback	45-54		F	613
+Queensland - Outback	45-54		M	903
+Queensland - Outback	45-54	0	F	3581
+Queensland - Outback	45-54	0	M	3834
+Queensland - Outback	45-54	1	F	661
+Queensland - Outback	45-54	1	M	432
+Queensland - Outback	55-64		F	590
+Queensland - Outback	55-64		M	758
+Queensland - Outback	55-64	0	F	3412
+Queensland - Outback	55-64	0	M	3948
+Queensland - Outback	55-64	1	F	630
+Queensland - Outback	55-64	1	M	440
+Queensland - Outback	65-74		F	337
+Queensland - Outback	65-74		M	455
+Queensland - Outback	65-74	0	F	2002
+Queensland - Outback	65-74	0	M	2571
+Queensland - Outback	65-74	1	F	349
+Queensland - Outback	65-74	1	M	262
+Queensland - Outback	75-84		F	204
+Queensland - Outback	75-84		M	236
+Queensland - Outback	75-84	0	F	974
+Queensland - Outback	75-84	0	M	1144
+Queensland - Outback	75-84	1	F	115
+Queensland - Outback	75-84	1	M	96
+Queensland - Outback	85+		F	65
+Queensland - Outback	85+		M	60
+Queensland - Outback	85+	0	F	329
+Queensland - Outback	85+	0	M	244
+Queensland - Outback	85+	1	F	22
+Queensland - Outback	85+	1	M	22
+Sunshine Coast	15-19		F	639
+Sunshine Coast	15-19		M	675
+Sunshine Coast	15-19	0	F	10228
+Sunshine Coast	15-19	0	M	10594
+Sunshine Coast	15-19	1	F	492
+Sunshine Coast	15-19	1	M	495
+Sunshine Coast	20-24		F	619
+Sunshine Coast	20-24		M	653
+Sunshine Coast	20-24	0	F	8620
+Sunshine Coast	20-24	0	M	8381
+Sunshine Coast	20-24	1	F	528
+Sunshine Coast	20-24	1	M	430
+Sunshine Coast	25-34		F	1429
+Sunshine Coast	25-34		M	1567
+Sunshine Coast	25-34	0	F	18625
+Sunshine Coast	25-34	0	M	17434
+Sunshine Coast	25-34	1	F	1807
+Sunshine Coast	25-34	1	M	1067
+Sunshine Coast	35-44		F	1431
+Sunshine Coast	35-44		M	1669
+Sunshine Coast	35-44	0	F	20440
+Sunshine Coast	35-44	0	M	19257
+Sunshine Coast	35-44	1	F	3668
+Sunshine Coast	35-44	1	M	1902
+Sunshine Coast	45-54		F	1401
+Sunshine Coast	45-54		M	1729
+Sunshine Coast	45-54	0	F	21721
+Sunshine Coast	45-54	0	M	20995
+Sunshine Coast	45-54	1	F	5275
+Sunshine Coast	45-54	1	M	3004
+Sunshine Coast	55-64		F	1341
+Sunshine Coast	55-64		M	1379
+Sunshine Coast	55-64	0	F	21625
+Sunshine Coast	55-64	0	M	20498
+Sunshine Coast	55-64	1	F	6157
+Sunshine Coast	55-64	1	M	3282
+Sunshine Coast	65-74		F	1255
+Sunshine Coast	65-74		M	1252
+Sunshine Coast	65-74	0	F	20783
+Sunshine Coast	65-74	0	M	19883
+Sunshine Coast	65-74	1	F	4174
+Sunshine Coast	65-74	1	M	2712
+Sunshine Coast	75-84		F	1191
+Sunshine Coast	75-84		M	936
+Sunshine Coast	75-84	0	F	12340
+Sunshine Coast	75-84	0	M	11357
+Sunshine Coast	75-84	1	F	1797
+Sunshine Coast	75-84	1	M	1580
+Sunshine Coast	85+		F	1009
+Sunshine Coast	85+		M	551
+Sunshine Coast	85+	0	F	4974
+Sunshine Coast	85+	0	M	3382
+Sunshine Coast	85+	1	F	312
+Sunshine Coast	85+	1	M	439
+Toowoomba	15-19		F	307
+Toowoomba	15-19		M	356
+Toowoomba	15-19	0	F	4821
+Toowoomba	15-19	0	M	4921
+Toowoomba	15-19	1	F	300
+Toowoomba	15-19	1	M	282
+Toowoomba	20-24		F	359
+Toowoomba	20-24		M	355
+Toowoomba	20-24	0	F	4572
+Toowoomba	20-24	0	M	4482
+Toowoomba	20-24	1	F	299
+Toowoomba	20-24	1	M	245
+Toowoomba	25-34		F	599
+Toowoomba	25-34		M	756
+Toowoomba	25-34	0	F	9470
+Toowoomba	25-34	0	M	9186
+Toowoomba	25-34	1	F	1095
+Toowoomba	25-34	1	M	613
+Toowoomba	35-44		F	527
+Toowoomba	35-44		M	585
+Toowoomba	35-44	0	F	7944
+Toowoomba	35-44	0	M	7866
+Toowoomba	35-44	1	F	1737
+Toowoomba	35-44	1	M	924
+Toowoomba	45-54		F	431
+Toowoomba	45-54		M	592
+Toowoomba	45-54	0	F	7577
+Toowoomba	45-54	0	M	7346
+Toowoomba	45-54	1	F	2094
+Toowoomba	45-54	1	M	1251
+Toowoomba	55-64		F	449
+Toowoomba	55-64		M	487
+Toowoomba	55-64	0	F	6975
+Toowoomba	55-64	0	M	6960
+Toowoomba	55-64	1	F	2302
+Toowoomba	55-64	1	M	1294
+Toowoomba	65-74		F	439
+Toowoomba	65-74		M	422
+Toowoomba	65-74	0	F	6650
+Toowoomba	65-74	0	M	6094
+Toowoomba	65-74	1	F	1482
+Toowoomba	65-74	1	M	984
+Toowoomba	75-84		F	437
+Toowoomba	75-84		M	301
+Toowoomba	75-84	0	F	4343
+Toowoomba	75-84	0	M	3565
+Toowoomba	75-84	1	F	695
+Toowoomba	75-84	1	M	558
+Toowoomba	85+		F	279
+Toowoomba	85+		M	151
+Toowoomba	85+	0	F	2086
+Toowoomba	85+	0	M	1112
+Toowoomba	85+	1	F	93
+Toowoomba	85+	1	M	163
+Townsville	15-19		F	656
+Townsville	15-19		M	783
+Townsville	15-19	0	F	6649
+Townsville	15-19	0	M	6579
+Townsville	15-19	1	F	386
+Townsville	15-19	1	M	347
+Townsville	20-24		F	715
+Townsville	20-24		M	1434
+Townsville	20-24	0	F	6851
+Townsville	20-24	0	M	7205
+Townsville	20-24	1	F	482
+Townsville	20-24	1	M	370
+Townsville	25-34		F	1484
+Townsville	25-34		M	2189
+Townsville	25-34	0	F	12957
+Townsville	25-34	0	M	13199
+Townsville	25-34	1	F	1430
+Townsville	25-34	1	M	904
+Townsville	35-44		F	1240
+Townsville	35-44		M	1791
+Townsville	35-44	0	F	11580
+Townsville	35-44	0	M	11183
+Townsville	35-44	1	F	2357
+Townsville	35-44	1	M	1306
+Townsville	45-54		F	1149
+Townsville	45-54		M	1583
+Townsville	45-54	0	F	11384
+Townsville	45-54	0	M	11517
+Townsville	45-54	1	F	2770
+Townsville	45-54	1	M	1668
+Townsville	55-64		F	864
+Townsville	55-64		M	1259
+Townsville	55-64	0	F	10494
+Townsville	55-64	0	M	11084
+Townsville	55-64	1	F	3007
+Townsville	55-64	1	M	1799
+Townsville	65-74		F	696
+Townsville	65-74		M	834
+Townsville	65-74	0	F	8412
+Townsville	65-74	0	M	8967
+Townsville	65-74	1	F	1828
+Townsville	65-74	1	M	1273
+Townsville	75-84		F	535
+Townsville	75-84		M	491
+Townsville	75-84	0	F	4707
+Townsville	75-84	0	M	4319
+Townsville	75-84	1	F	718
+Townsville	75-84	1	M	639
+Townsville	85+		F	336
+Townsville	85+		M	199
+Townsville	85+	0	F	1974
+Townsville	85+	0	M	1132
+Townsville	85+	1	F	93
+Townsville	85+	1	M	124
+Wide Bay	15-19		F	683
+Wide Bay	15-19		M	850
+Wide Bay	15-19	0	F	6931
+Wide Bay	15-19	0	M	7499
+Wide Bay	15-19	1	F	467
+Wide Bay	15-19	1	M	478
+Wide Bay	20-24		F	508
+Wide Bay	20-24		M	680
+Wide Bay	20-24	0	F	5542
+Wide Bay	20-24	0	M	5780
+Wide Bay	20-24	1	F	538
+Wide Bay	20-24	1	M	425
+Wide Bay	25-34		F	1212
+Wide Bay	25-34		M	1550
+Wide Bay	25-34	0	F	11581
+Wide Bay	25-34	0	M	11481
+Wide Bay	25-34	1	F	1906
+Wide Bay	25-34	1	M	1073
+Wide Bay	35-44		F	1114
+Wide Bay	35-44		M	1499
+Wide Bay	35-44	0	F	11640
+Wide Bay	35-44	0	M	11265
+Wide Bay	35-44	1	F	3222
+Wide Bay	35-44	1	M	1644
+Wide Bay	45-54		F	1348
+Wide Bay	45-54		M	1675
+Wide Bay	45-54	0	F	13927
+Wide Bay	45-54	0	M	13880
+Wide Bay	45-54	1	F	4393
+Wide Bay	45-54	1	M	2495
+Wide Bay	55-64		F	1528
+Wide Bay	55-64		M	1737
+Wide Bay	55-64	0	F	17326
+Wide Bay	55-64	0	M	17358
+Wide Bay	55-64	1	F	5576
+Wide Bay	55-64	1	M	3278
+Wide Bay	65-74		F	1617
+Wide Bay	65-74		M	1736
+Wide Bay	65-74	0	F	18469
+Wide Bay	65-74	0	M	19586
+Wide Bay	65-74	1	F	4256
+Wide Bay	65-74	1	M	2983
+Wide Bay	75-84		F	1328
+Wide Bay	75-84		M	1178
+Wide Bay	75-84	0	F	10576
+Wide Bay	75-84	0	M	10874
+Wide Bay	75-84	1	F	1638
+Wide Bay	75-84	1	M	1655
+Wide Bay	85+		F	640
+Wide Bay	85+		M	431
+Wide Bay	85+	0	F	3922
+Wide Bay	85+	0	M	2681
+Wide Bay	85+	1	F	252
+Wide Bay	85+	1	M	331
+Migratory - Offshore - Shipping (Qld)	20-24		F	4
+Migratory - Offshore - Shipping (Qld)	20-24		M	9
+Migratory - Offshore - Shipping (Qld)	20-24	0	M	4
+Migratory - Offshore - Shipping (Qld)	25-34		F	13
+Migratory - Offshore - Shipping (Qld)	25-34		M	30
+Migratory - Offshore - Shipping (Qld)	25-34	0	F	3
+Migratory - Offshore - Shipping (Qld)	25-34	0	M	8
+Migratory - Offshore - Shipping (Qld)	35-44		F	5
+Migratory - Offshore - Shipping (Qld)	35-44		M	45
+Migratory - Offshore - Shipping (Qld)	35-44	0	M	14
+Migratory - Offshore - Shipping (Qld)	45-54		M	31
+Migratory - Offshore - Shipping (Qld)	45-54	0	M	12
+Migratory - Offshore - Shipping (Qld)	55-64		M	3
+No usual address (Qld)	15-19		F	61
+No usual address (Qld)	15-19		M	70
+No usual address (Qld)	15-19	0	F	214
+No usual address (Qld)	15-19	0	M	193
+No usual address (Qld)	15-19	1	F	15
+No usual address (Qld)	15-19	1	M	9
+No usual address (Qld)	20-24		F	127
+No usual address (Qld)	20-24		M	153
+No usual address (Qld)	20-24	0	F	339
+No usual address (Qld)	20-24	0	M	271
+No usual address (Qld)	20-24	1	F	19
+No usual address (Qld)	20-24	1	M	12
+No usual address (Qld)	25-34		F	369
+No usual address (Qld)	25-34		M	408
+No usual address (Qld)	25-34	0	F	896
+No usual address (Qld)	25-34	0	M	839
+No usual address (Qld)	25-34	1	F	79
+No usual address (Qld)	25-34	1	M	58
+No usual address (Qld)	35-44		F	270
+No usual address (Qld)	35-44		M	467
+No usual address (Qld)	35-44	0	F	527
+No usual address (Qld)	35-44	0	M	652
+No usual address (Qld)	35-44	1	F	89
+No usual address (Qld)	35-44	1	M	66
+No usual address (Qld)	45-54		F	222
+No usual address (Qld)	45-54		M	403
+No usual address (Qld)	45-54	0	F	556
+No usual address (Qld)	45-54	0	M	575
+No usual address (Qld)	45-54	1	F	112
+No usual address (Qld)	45-54	1	M	59
+No usual address (Qld)	55-64		F	195
+No usual address (Qld)	55-64		M	313
+No usual address (Qld)	55-64	0	F	827
+No usual address (Qld)	55-64	0	M	879
+No usual address (Qld)	55-64	1	F	156
+No usual address (Qld)	55-64	1	M	102
+No usual address (Qld)	65-74		F	113
+No usual address (Qld)	65-74		M	214
+No usual address (Qld)	65-74	0	F	674
+No usual address (Qld)	65-74	0	M	952
+No usual address (Qld)	65-74	1	F	83
+No usual address (Qld)	65-74	1	M	96
+No usual address (Qld)	75-84		F	24
+No usual address (Qld)	75-84		M	42
+No usual address (Qld)	75-84	0	F	131
+No usual address (Qld)	75-84	0	M	207
+No usual address (Qld)	75-84	1	F	9
+No usual address (Qld)	75-84	1	M	29
+No usual address (Qld)	85+		F	3
+No usual address (Qld)	85+		M	8
+No usual address (Qld)	85+	0	F	22
+No usual address (Qld)	85+	0	M	16
+Adelaide - Central and Hills	15-19		F	370
+Adelaide - Central and Hills	15-19		M	338
+Adelaide - Central and Hills	15-19	0	F	8266
+Adelaide - Central and Hills	15-19	0	M	8522
+Adelaide - Central and Hills	15-19	1	F	428
+Adelaide - Central and Hills	15-19	1	M	375
+Adelaide - Central and Hills	20-24		F	459
+Adelaide - Central and Hills	20-24		M	516
+Adelaide - Central and Hills	20-24	0	F	9771
+Adelaide - Central and Hills	20-24	0	M	10095
+Adelaide - Central and Hills	20-24	1	F	601
+Adelaide - Central and Hills	20-24	1	M	506
+Adelaide - Central and Hills	25-34		F	909
+Adelaide - Central and Hills	25-34		M	1123
+Adelaide - Central and Hills	25-34	0	F	18301
+Adelaide - Central and Hills	25-34	0	M	18360
+Adelaide - Central and Hills	25-34	1	F	1442
+Adelaide - Central and Hills	25-34	1	M	1059
+Adelaide - Central and Hills	35-44		F	671
+Adelaide - Central and Hills	35-44		M	925
+Adelaide - Central and Hills	35-44	0	F	17274
+Adelaide - Central and Hills	35-44	0	M	16846
+Adelaide - Central and Hills	35-44	1	F	2788
+Adelaide - Central and Hills	35-44	1	M	1818
+Adelaide - Central and Hills	45-54		F	639
+Adelaide - Central and Hills	45-54		M	821
+Adelaide - Central and Hills	45-54	0	F	15372
+Adelaide - Central and Hills	45-54	0	M	16003
+Adelaide - Central and Hills	45-54	1	F	4624
+Adelaide - Central and Hills	45-54	1	M	2928
+Adelaide - Central and Hills	55-64		F	597
+Adelaide - Central and Hills	55-64		M	703
+Adelaide - Central and Hills	55-64	0	F	13655
+Adelaide - Central and Hills	55-64	0	M	14219
+Adelaide - Central and Hills	55-64	1	F	5492
+Adelaide - Central and Hills	55-64	1	M	3433
+Adelaide - Central and Hills	65-74		F	645
+Adelaide - Central and Hills	65-74		M	588
+Adelaide - Central and Hills	65-74	0	F	13707
+Adelaide - Central and Hills	65-74	0	M	12829
+Adelaide - Central and Hills	65-74	1	F	3380
+Adelaide - Central and Hills	65-74	1	M	2211
+Adelaide - Central and Hills	75-84		F	599
+Adelaide - Central and Hills	75-84		M	435
+Adelaide - Central and Hills	75-84	0	F	9003
+Adelaide - Central and Hills	75-84	0	M	7364
+Adelaide - Central and Hills	75-84	1	F	1479
+Adelaide - Central and Hills	75-84	1	M	1162
+Adelaide - Central and Hills	85+		F	486
+Adelaide - Central and Hills	85+		M	270
+Adelaide - Central and Hills	85+	0	F	5057
+Adelaide - Central and Hills	85+	0	M	2809
+Adelaide - Central and Hills	85+	1	F	259
+Adelaide - Central and Hills	85+	1	M	352
+Adelaide - North	15-19		F	688
+Adelaide - North	15-19		M	749
+Adelaide - North	15-19	0	F	11483
+Adelaide - North	15-19	0	M	12445
+Adelaide - North	15-19	1	F	664
+Adelaide - North	15-19	1	M	611
+Adelaide - North	20-24		F	684
+Adelaide - North	20-24		M	891
+Adelaide - North	20-24	0	F	12638
+Adelaide - North	20-24	0	M	14187
+Adelaide - North	20-24	1	F	1061
+Adelaide - North	20-24	1	M	893
+Adelaide - North	25-34		F	1714
+Adelaide - North	25-34		M	2067
+Adelaide - North	25-34	0	F	28080
+Adelaide - North	25-34	0	M	29473
+Adelaide - North	25-34	1	F	3880
+Adelaide - North	25-34	1	M	2291
+Adelaide - North	35-44		F	1426
+Adelaide - North	35-44		M	1900
+Adelaide - North	35-44	0	F	24345
+Adelaide - North	35-44	0	M	26387
+Adelaide - North	35-44	1	F	5445
+Adelaide - North	35-44	1	M	3292
+Adelaide - North	45-54		F	1170
+Adelaide - North	45-54		M	1475
+Adelaide - North	45-54	0	F	20681
+Adelaide - North	45-54	0	M	22395
+Adelaide - North	45-54	1	F	5938
+Adelaide - North	45-54	1	M	3722
+Adelaide - North	55-64		F	950
+Adelaide - North	55-64		M	1084
+Adelaide - North	55-64	0	F	19549
+Adelaide - North	55-64	0	M	20200
+Adelaide - North	55-64	1	F	6168
+Adelaide - North	55-64	1	M	3914
+Adelaide - North	65-74		F	931
+Adelaide - North	65-74		M	914
+Adelaide - North	65-74	0	F	16777
+Adelaide - North	65-74	0	M	15655
+Adelaide - North	65-74	1	F	3574
+Adelaide - North	65-74	1	M	2515
+Adelaide - North	75-84		F	908
+Adelaide - North	75-84		M	646
+Adelaide - North	75-84	0	F	10497
+Adelaide - North	75-84	0	M	8595
+Adelaide - North	75-84	1	F	1393
+Adelaide - North	75-84	1	M	1294
+Adelaide - North	85+		F	652
+Adelaide - North	85+		M	382
+Adelaide - North	85+	0	F	4676
+Adelaide - North	85+	0	M	2852
+Adelaide - North	85+	1	F	229
+Adelaide - North	85+	1	M	332
+Adelaide - South	15-19		F	393
+Adelaide - South	15-19		M	434
+Adelaide - South	15-19	0	F	9470
+Adelaide - South	15-19	0	M	10028
+Adelaide - South	15-19	1	F	528
+Adelaide - South	15-19	1	M	449
+Adelaide - South	20-24		F	401
+Adelaide - South	20-24		M	457
+Adelaide - South	20-24	0	F	9881
+Adelaide - South	20-24	0	M	10123
+Adelaide - South	20-24	1	F	760
+Adelaide - South	20-24	1	M	600
+Adelaide - South	25-34		F	897
+Adelaide - South	25-34		M	1059
+Adelaide - South	25-34	0	F	20619
+Adelaide - South	25-34	0	M	20536
+Adelaide - South	25-34	1	F	2223
+Adelaide - South	25-34	1	M	1482
+Adelaide - South	35-44		F	863
+Adelaide - South	35-44		M	975
+Adelaide - South	35-44	0	F	20548
+Adelaide - South	35-44	0	M	20209
+Adelaide - South	35-44	1	F	3953
+Adelaide - South	35-44	1	M	2405
+Adelaide - South	45-54		F	774
+Adelaide - South	45-54		M	971
+Adelaide - South	45-54	0	F	18440
+Adelaide - South	45-54	0	M	19349
+Adelaide - South	45-54	1	F	5388
+Adelaide - South	45-54	1	M	3221
+Adelaide - South	55-64		F	792
+Adelaide - South	55-64		M	859
+Adelaide - South	55-64	0	F	17758
+Adelaide - South	55-64	0	M	17767
+Adelaide - South	55-64	1	F	6404
+Adelaide - South	55-64	1	M	3885
+Adelaide - South	65-74		F	820
+Adelaide - South	65-74		M	754
+Adelaide - South	65-74	0	F	17774
+Adelaide - South	65-74	0	M	16474
+Adelaide - South	65-74	1	F	4235
+Adelaide - South	65-74	1	M	2913
+Adelaide - South	75-84		F	734
+Adelaide - South	75-84		M	557
+Adelaide - South	75-84	0	F	10468
+Adelaide - South	75-84	0	M	9033
+Adelaide - South	75-84	1	F	1601
+Adelaide - South	75-84	1	M	1347
+Adelaide - South	85+		F	562
+Adelaide - South	85+		M	305
+Adelaide - South	85+	0	F	5651
+Adelaide - South	85+	0	M	3194
+Adelaide - South	85+	1	F	268
+Adelaide - South	85+	1	M	390
+Adelaide - West	15-19		F	215
+Adelaide - West	15-19		M	294
+Adelaide - West	15-19	0	F	5302
+Adelaide - West	15-19	0	M	5660
+Adelaide - West	15-19	1	F	315
+Adelaide - West	15-19	1	M	265
+Adelaide - West	20-24		F	350
+Adelaide - West	20-24		M	397
+Adelaide - West	20-24	0	F	7280
+Adelaide - West	20-24	0	M	7492
+Adelaide - West	20-24	1	F	577
+Adelaide - West	20-24	1	M	432
+Adelaide - West	25-34		F	800
+Adelaide - West	25-34		M	980
+Adelaide - West	25-34	0	F	16616
+Adelaide - West	25-34	0	M	17077
+Adelaide - West	25-34	1	F	1624
+Adelaide - West	25-34	1	M	1111
+Adelaide - West	35-44		F	677
+Adelaide - West	35-44		M	760
+Adelaide - West	35-44	0	F	13309
+Adelaide - West	35-44	0	M	13780
+Adelaide - West	35-44	1	F	2442
+Adelaide - West	35-44	1	M	1625
+Adelaide - West	45-54		F	529
+Adelaide - West	45-54		M	713
+Adelaide - West	45-54	0	F	11805
+Adelaide - West	45-54	0	M	12377
+Adelaide - West	45-54	1	F	3474
+Adelaide - West	45-54	1	M	2260
+Adelaide - West	55-64		F	536
+Adelaide - West	55-64		M	663
+Adelaide - West	55-64	0	F	11151
+Adelaide - West	55-64	0	M	11864
+Adelaide - West	55-64	1	F	4109
+Adelaide - West	55-64	1	M	2653
+Adelaide - West	65-74		F	487
+Adelaide - West	65-74		M	440
+Adelaide - West	65-74	0	F	10025
+Adelaide - West	65-74	0	M	9285
+Adelaide - West	65-74	1	F	2300
+Adelaide - West	65-74	1	M	1512
+Adelaide - West	75-84		F	461
+Adelaide - West	75-84		M	333
+Adelaide - West	75-84	0	F	6759
+Adelaide - West	75-84	0	M	5243
+Adelaide - West	75-84	1	F	932
+Adelaide - West	75-84	1	M	712
+Adelaide - West	85+		F	279
+Adelaide - West	85+		M	177
+Adelaide - West	85+	0	F	4198
+Adelaide - West	85+	0	M	2372
+Adelaide - West	85+	1	F	214
+Adelaide - West	85+	1	M	279
+Barossa - Yorke - Mid North	15-19		F	231
+Barossa - Yorke - Mid North	15-19		M	284
+Barossa - Yorke - Mid North	15-19	0	F	2451
+Barossa - Yorke - Mid North	15-19	0	M	2693
+Barossa - Yorke - Mid North	15-19	1	F	156
+Barossa - Yorke - Mid North	15-19	1	M	159
+Barossa - Yorke - Mid North	20-24		F	135
+Barossa - Yorke - Mid North	20-24		M	179
+Barossa - Yorke - Mid North	20-24	0	F	2052
+Barossa - Yorke - Mid North	20-24	0	M	2297
+Barossa - Yorke - Mid North	20-24	1	F	163
+Barossa - Yorke - Mid North	20-24	1	M	158
+Barossa - Yorke - Mid North	25-34		F	349
+Barossa - Yorke - Mid North	25-34		M	363
+Barossa - Yorke - Mid North	25-34	0	F	4389
+Barossa - Yorke - Mid North	25-34	0	M	4633
+Barossa - Yorke - Mid North	25-34	1	F	616
+Barossa - Yorke - Mid North	25-34	1	M	341
+Barossa - Yorke - Mid North	35-44		F	362
+Barossa - Yorke - Mid North	35-44		M	424
+Barossa - Yorke - Mid North	35-44	0	F	4598
+Barossa - Yorke - Mid North	35-44	0	M	4625
+Barossa - Yorke - Mid North	35-44	1	F	1116
+Barossa - Yorke - Mid North	35-44	1	M	604
+Barossa - Yorke - Mid North	45-54		F	443
+Barossa - Yorke - Mid North	45-54		M	512
+Barossa - Yorke - Mid North	45-54	0	F	5289
+Barossa - Yorke - Mid North	45-54	0	M	5514
+Barossa - Yorke - Mid North	45-54	1	F	1574
+Barossa - Yorke - Mid North	45-54	1	M	965
+Barossa - Yorke - Mid North	55-64		F	523
+Barossa - Yorke - Mid North	55-64		M	594
+Barossa - Yorke - Mid North	55-64	0	F	6374
+Barossa - Yorke - Mid North	55-64	0	M	7162
+Barossa - Yorke - Mid North	55-64	1	F	2107
+Barossa - Yorke - Mid North	55-64	1	M	1305
+Barossa - Yorke - Mid North	65-74		F	514
+Barossa - Yorke - Mid North	65-74		M	543
+Barossa - Yorke - Mid North	65-74	0	F	6463
+Barossa - Yorke - Mid North	65-74	0	M	7015
+Barossa - Yorke - Mid North	65-74	1	F	1410
+Barossa - Yorke - Mid North	65-74	1	M	1102
+Barossa - Yorke - Mid North	75-84		F	415
+Barossa - Yorke - Mid North	75-84		M	390
+Barossa - Yorke - Mid North	75-84	0	F	3843
+Barossa - Yorke - Mid North	75-84	0	M	3737
+Barossa - Yorke - Mid North	75-84	1	F	536
+Barossa - Yorke - Mid North	75-84	1	M	485
+Barossa - Yorke - Mid North	85+		F	236
+Barossa - Yorke - Mid North	85+		M	175
+Barossa - Yorke - Mid North	85+	0	F	1673
+Barossa - Yorke - Mid North	85+	0	M	1035
+Barossa - Yorke - Mid North	85+	1	F	63
+Barossa - Yorke - Mid North	85+	1	M	120
+South Australia - Outback	15-19		F	255
+South Australia - Outback	15-19		M	256
+South Australia - Outback	15-19	0	F	1747
+South Australia - Outback	15-19	0	M	2004
+South Australia - Outback	15-19	1	F	119
+South Australia - Outback	15-19	1	M	110
+South Australia - Outback	20-24		F	168
+South Australia - Outback	20-24		M	295
+South Australia - Outback	20-24	0	F	1709
+South Australia - Outback	20-24	0	M	1813
+South Australia - Outback	20-24	1	F	150
+South Australia - Outback	20-24	1	M	112
+South Australia - Outback	25-34		F	462
+South Australia - Outback	25-34		M	836
+South Australia - Outback	25-34	0	F	4290
+South Australia - Outback	25-34	0	M	4404
+South Australia - Outback	25-34	1	F	564
+South Australia - Outback	25-34	1	M	324
+South Australia - Outback	35-44		F	387
+South Australia - Outback	35-44		M	695
+South Australia - Outback	35-44	0	F	3589
+South Australia - Outback	35-44	0	M	3827
+South Australia - Outback	35-44	1	F	743
+South Australia - Outback	35-44	1	M	449
+South Australia - Outback	45-54		F	450
+South Australia - Outback	45-54		M	678
+South Australia - Outback	45-54	0	F	3817
+South Australia - Outback	45-54	0	M	4126
+South Australia - Outback	45-54	1	F	1034
+South Australia - Outback	45-54	1	M	657
+South Australia - Outback	55-64		F	413
+South Australia - Outback	55-64		M	542
+South Australia - Outback	55-64	0	F	3923
+South Australia - Outback	55-64	0	M	4659
+South Australia - Outback	55-64	1	F	1166
+South Australia - Outback	55-64	1	M	801
+South Australia - Outback	65-74		F	340
+South Australia - Outback	65-74		M	377
+South Australia - Outback	65-74	0	F	3305
+South Australia - Outback	65-74	0	M	3753
+South Australia - Outback	65-74	1	F	685
+South Australia - Outback	65-74	1	M	495
+South Australia - Outback	75-84		F	237
+South Australia - Outback	75-84		M	265
+South Australia - Outback	75-84	0	F	2046
+South Australia - Outback	75-84	0	M	1935
+South Australia - Outback	75-84	1	F	273
+South Australia - Outback	75-84	1	M	250
+South Australia - Outback	85+		F	138
+South Australia - Outback	85+		M	96
+South Australia - Outback	85+	0	F	845
+South Australia - Outback	85+	0	M	558
+South Australia - Outback	85+	1	F	47
+South Australia - Outback	85+	1	M	74
+South Australia - South East	15-19		F	403
+South Australia - South East	15-19		M	489
+South Australia - South East	15-19	0	F	4161
+South Australia - South East	15-19	0	M	4617
+South Australia - South East	15-19	1	F	291
+South Australia - South East	15-19	1	M	264
+South Australia - South East	20-24		F	278
+South Australia - South East	20-24		M	414
+South Australia - South East	20-24	0	F	3467
+South Australia - South East	20-24	0	M	3909
+South Australia - South East	20-24	1	F	321
+South Australia - South East	20-24	1	M	265
+South Australia - South East	25-34		F	617
+South Australia - South East	25-34		M	1095
+South Australia - South East	25-34	0	F	7848
+South Australia - South East	25-34	0	M	8038
+South Australia - South East	25-34	1	F	1083
+South Australia - South East	25-34	1	M	696
+South Australia - South East	35-44		F	629
+South Australia - South East	35-44		M	1134
+South Australia - South East	35-44	0	F	7701
+South Australia - South East	35-44	0	M	7911
+South Australia - South East	35-44	1	F	1684
+South Australia - South East	35-44	1	M	993
+South Australia - South East	45-54		F	727
+South Australia - South East	45-54		M	1076
+South Australia - South East	45-54	0	F	8732
+South Australia - South East	45-54	0	M	9409
+South Australia - South East	45-54	1	F	2541
+South Australia - South East	45-54	1	M	1549
+South Australia - South East	55-64		F	802
+South Australia - South East	55-64		M	1042
+South Australia - South East	55-64	0	F	10281
+South Australia - South East	55-64	0	M	11010
+South Australia - South East	55-64	1	F	3435
+South Australia - South East	55-64	1	M	2100
+South Australia - South East	65-74		F	901
+South Australia - South East	65-74		M	1007
+South Australia - South East	65-74	0	F	11160
+South Australia - South East	65-74	0	M	11917
+South Australia - South East	65-74	1	F	2513
+South Australia - South East	65-74	1	M	1739
+South Australia - South East	75-84		F	740
+South Australia - South East	75-84		M	675
+South Australia - South East	75-84	0	F	6798
+South Australia - South East	75-84	0	M	6487
+South Australia - South East	75-84	1	F	978
+South Australia - South East	75-84	1	M	954
+South Australia - South East	85+		F	437
+South Australia - South East	85+		M	255
+South Australia - South East	85+	0	F	2929
+South Australia - South East	85+	0	M	1939
+South Australia - South East	85+	1	F	180
+South Australia - South East	85+	1	M	244
+Migratory - Offshore - Shipping (SA)	45-54		M	6
+No usual address (SA)	15-19		F	19
+No usual address (SA)	15-19		M	14
+No usual address (SA)	15-19	0	F	76
+No usual address (SA)	15-19	0	M	50
+No usual address (SA)	15-19	1	F	13
+No usual address (SA)	15-19	1	M	9
+No usual address (SA)	20-24		F	19
+No usual address (SA)	20-24		M	27
+No usual address (SA)	20-24	0	F	75
+No usual address (SA)	20-24	0	M	78
+No usual address (SA)	20-24	1	F	13
+No usual address (SA)	20-24	1	M	6
+No usual address (SA)	25-34		F	74
+No usual address (SA)	25-34		M	88
+No usual address (SA)	25-34	0	F	196
+No usual address (SA)	25-34	0	M	216
+No usual address (SA)	25-34	1	F	32
+No usual address (SA)	25-34	1	M	23
+No usual address (SA)	35-44		F	82
+No usual address (SA)	35-44		M	95
+No usual address (SA)	35-44	0	F	131
+No usual address (SA)	35-44	0	M	169
+No usual address (SA)	35-44	1	F	32
+No usual address (SA)	35-44	1	M	24
+No usual address (SA)	45-54		F	45
+No usual address (SA)	45-54		M	95
+No usual address (SA)	45-54	0	F	111
+No usual address (SA)	45-54	0	M	176
+No usual address (SA)	45-54	1	F	23
+No usual address (SA)	45-54	1	M	28
+No usual address (SA)	55-64		F	27
+No usual address (SA)	55-64		M	102
+No usual address (SA)	55-64	0	F	143
+No usual address (SA)	55-64	0	M	194
+No usual address (SA)	55-64	1	F	29
+No usual address (SA)	55-64	1	M	20
+No usual address (SA)	65-74		F	17
+No usual address (SA)	65-74		M	46
+No usual address (SA)	65-74	0	F	101
+No usual address (SA)	65-74	0	M	149
+No usual address (SA)	65-74	1	F	23
+No usual address (SA)	65-74	1	M	17
+No usual address (SA)	75-84		F	4
+No usual address (SA)	75-84		M	5
+No usual address (SA)	75-84	0	F	20
+No usual address (SA)	75-84	0	M	24
+No usual address (SA)	75-84	1	F	4
+No usual address (SA)	75-84	1	M	4
+No usual address (SA)	85+	0	F	4
+No usual address (SA)	85+	1	M	4
+Bunbury	15-19		F	385
+Bunbury	15-19		M	390
+Bunbury	15-19	0	F	4709
+Bunbury	15-19	0	M	4977
+Bunbury	15-19	1	F	275
+Bunbury	15-19	1	M	220
+Bunbury	20-24		F	277
+Bunbury	20-24		M	323
+Bunbury	20-24	0	F	3293
+Bunbury	20-24	0	M	3680
+Bunbury	20-24	1	F	201
+Bunbury	20-24	1	M	171
+Bunbury	25-34		F	683
+Bunbury	25-34		M	1078
+Bunbury	25-34	0	F	8626
+Bunbury	25-34	0	M	8171
+Bunbury	25-34	1	F	905
+Bunbury	25-34	1	M	503
+Bunbury	35-44		F	736
+Bunbury	35-44		M	1176
+Bunbury	35-44	0	F	9962
+Bunbury	35-44	0	M	9418
+Bunbury	35-44	1	F	1797
+Bunbury	35-44	1	M	946
+Bunbury	45-54		F	731
+Bunbury	45-54		M	1221
+Bunbury	45-54	0	F	9915
+Bunbury	45-54	0	M	9967
+Bunbury	45-54	1	F	2391
+Bunbury	45-54	1	M	1321
+Bunbury	55-64		F	719
+Bunbury	55-64		M	933
+Bunbury	55-64	0	F	9768
+Bunbury	55-64	0	M	9945
+Bunbury	55-64	1	F	2884
+Bunbury	55-64	1	M	1625
+Bunbury	65-74		F	704
+Bunbury	65-74		M	786
+Bunbury	65-74	0	F	9100
+Bunbury	65-74	0	M	9501
+Bunbury	65-74	1	F	1787
+Bunbury	65-74	1	M	1213
+Bunbury	75-84		F	554
+Bunbury	75-84		M	449
+Bunbury	75-84	0	F	4737
+Bunbury	75-84	0	M	4598
+Bunbury	75-84	1	F	708
+Bunbury	75-84	1	M	600
+Bunbury	85+		F	349
+Bunbury	85+		M	227
+Bunbury	85+	0	F	1907
+Bunbury	85+	0	M	1216
+Bunbury	85+	1	F	122
+Bunbury	85+	1	M	158
+Mandurah	15-19		F	206
+Mandurah	15-19		M	192
+Mandurah	15-19	0	F	2624
+Mandurah	15-19	0	M	2686
+Mandurah	15-19	1	F	146
+Mandurah	15-19	1	M	139
+Mandurah	20-24		F	183
+Mandurah	20-24		M	208
+Mandurah	20-24	0	F	2313
+Mandurah	20-24	0	M	2278
+Mandurah	20-24	1	F	190
+Mandurah	20-24	1	M	137
+Mandurah	25-34		F	359
+Mandurah	25-34		M	484
+Mandurah	25-34	0	F	4802
+Mandurah	25-34	0	M	4396
+Mandurah	25-34	1	F	557
+Mandurah	25-34	1	M	297
+Mandurah	35-44		F	379
+Mandurah	35-44		M	588
+Mandurah	35-44	0	F	4955
+Mandurah	35-44	0	M	4599
+Mandurah	35-44	1	F	919
+Mandurah	35-44	1	M	464
+Mandurah	45-54		F	376
+Mandurah	45-54		M	573
+Mandurah	45-54	0	F	5222
+Mandurah	45-54	0	M	5111
+Mandurah	45-54	1	F	1237
+Mandurah	45-54	1	M	632
+Mandurah	55-64		F	350
+Mandurah	55-64		M	461
+Mandurah	55-64	0	F	5606
+Mandurah	55-64	0	M	5487
+Mandurah	55-64	1	F	1611
+Mandurah	55-64	1	M	820
+Mandurah	65-74		F	364
+Mandurah	65-74		M	424
+Mandurah	65-74	0	F	6146
+Mandurah	65-74	0	M	5968
+Mandurah	65-74	1	F	1220
+Mandurah	65-74	1	M	774
+Mandurah	75-84		F	413
+Mandurah	75-84		M	332
+Mandurah	75-84	0	F	3810
+Mandurah	75-84	0	M	3694
+Mandurah	75-84	1	F	522
+Mandurah	75-84	1	M	473
+Mandurah	85+		F	329
+Mandurah	85+		M	176
+Mandurah	85+	0	F	1358
+Mandurah	85+	0	M	982
+Mandurah	85+	1	F	108
+Mandurah	85+	1	M	141
+Perth - Inner	15-19		F	210
+Perth - Inner	15-19		M	177
+Perth - Inner	15-19	0	F	4722
+Perth - Inner	15-19	0	M	4654
+Perth - Inner	15-19	1	F	208
+Perth - Inner	15-19	1	M	198
+Perth - Inner	20-24		F	445
+Perth - Inner	20-24		M	418
+Perth - Inner	20-24	0	F	6136
+Perth - Inner	20-24	0	M	5647
+Perth - Inner	20-24	1	F	344
+Perth - Inner	20-24	1	M	273
+Perth - Inner	25-34		F	985
+Perth - Inner	25-34		M	1364
+Perth - Inner	25-34	0	F	13852
+Perth - Inner	25-34	0	M	13572
+Perth - Inner	25-34	1	F	834
+Perth - Inner	25-34	1	M	624
+Perth - Inner	35-44		F	608
+Perth - Inner	35-44		M	902
+Perth - Inner	35-44	0	F	11054
+Perth - Inner	35-44	0	M	11477
+Perth - Inner	35-44	1	F	1316
+Perth - Inner	35-44	1	M	855
+Perth - Inner	45-54		F	448
+Perth - Inner	45-54		M	682
+Perth - Inner	45-54	0	F	9059
+Perth - Inner	45-54	0	M	9547
+Perth - Inner	45-54	1	F	2270
+Perth - Inner	45-54	1	M	1345
+Perth - Inner	55-64		F	412
+Perth - Inner	55-64		M	578
+Perth - Inner	55-64	0	F	7168
+Perth - Inner	55-64	0	M	7872
+Perth - Inner	55-64	1	F	2738
+Perth - Inner	55-64	1	M	1670
+Perth - Inner	65-74		F	445
+Perth - Inner	65-74		M	480
+Perth - Inner	65-74	0	F	6359
+Perth - Inner	65-74	0	M	6500
+Perth - Inner	65-74	1	F	1593
+Perth - Inner	65-74	1	M	1037
+Perth - Inner	75-84		F	375
+Perth - Inner	75-84		M	360
+Perth - Inner	75-84	0	F	3900
+Perth - Inner	75-84	0	M	3617
+Perth - Inner	75-84	1	F	653
+Perth - Inner	75-84	1	M	463
+Perth - Inner	85+		F	347
+Perth - Inner	85+		M	194
+Perth - Inner	85+	0	F	2256
+Perth - Inner	85+	0	M	1279
+Perth - Inner	85+	1	F	166
+Perth - Inner	85+	1	M	165
+Perth - North East	15-19		F	380
+Perth - North East	15-19		M	423
+Perth - North East	15-19	0	F	6761
+Perth - North East	15-19	0	M	7474
+Perth - North East	15-19	1	F	419
+Perth - North East	15-19	1	M	355
+Perth - North East	20-24		F	445
+Perth - North East	20-24		M	680
+Perth - North East	20-24	0	F	7055
+Perth - North East	20-24	0	M	7504
+Perth - North East	20-24	1	F	489
+Perth - North East	20-24	1	M	395
+Perth - North East	25-34		F	1213
+Perth - North East	25-34		M	2087
+Perth - North East	25-34	0	F	17926
+Perth - North East	25-34	0	M	17183
+Perth - North East	25-34	1	F	1750
+Perth - North East	25-34	1	M	1081
+Perth - North East	35-44		F	1023
+Perth - North East	35-44		M	1927
+Perth - North East	35-44	0	F	16578
+Perth - North East	35-44	0	M	16974
+Perth - North East	35-44	1	F	2637
+Perth - North East	35-44	1	M	1602
+Perth - North East	45-54		F	857
+Perth - North East	45-54		M	1501
+Perth - North East	45-54	0	F	14138
+Perth - North East	45-54	0	M	14390
+Perth - North East	45-54	1	F	3370
+Perth - North East	45-54	1	M	2032
+Perth - North East	55-64		F	641
+Perth - North East	55-64		M	1071
+Perth - North East	55-64	0	F	12074
+Perth - North East	55-64	0	M	12755
+Perth - North East	55-64	1	F	3559
+Perth - North East	55-64	1	M	2030
+Perth - North East	65-74		F	537
+Perth - North East	65-74		M	571
+Perth - North East	65-74	0	F	9630
+Perth - North East	65-74	0	M	9482
+Perth - North East	65-74	1	F	2012
+Perth - North East	65-74	1	M	1296
+Perth - North East	75-84		F	485
+Perth - North East	75-84		M	412
+Perth - North East	75-84	0	F	5258
+Perth - North East	75-84	0	M	4699
+Perth - North East	75-84	1	F	726
+Perth - North East	75-84	1	M	661
+Perth - North East	85+		F	383
+Perth - North East	85+		M	236
+Perth - North East	85+	0	F	2273
+Perth - North East	85+	0	M	1322
+Perth - North East	85+	1	F	110
+Perth - North East	85+	1	M	168
+Perth - North West	15-19		F	721
+Perth - North West	15-19		M	737
+Perth - North West	15-19	0	F	15212
+Perth - North West	15-19	0	M	16386
+Perth - North West	15-19	1	F	724
+Perth - North West	15-19	1	M	653
+Perth - North West	20-24		F	770
+Perth - North West	20-24		M	1014
+Perth - North West	20-24	0	F	15174
+Perth - North West	20-24	0	M	15803
+Perth - North West	20-24	1	F	978
+Perth - North West	20-24	1	M	763
+Perth - North West	25-34		F	2110
+Perth - North West	25-34		M	2694
+Perth - North West	25-34	0	F	35902
+Perth - North West	25-34	0	M	33959
+Perth - North West	25-34	1	F	2964
+Perth - North West	25-34	1	M	1767
+Perth - North West	35-44		F	1813
+Perth - North West	35-44		M	2624
+Perth - North West	35-44	0	F	36140
+Perth - North West	35-44	0	M	35490
+Perth - North West	35-44	1	F	5081
+Perth - North West	35-44	1	M	2974
+Perth - North West	45-54		F	1426
+Perth - North West	45-54		M	2237
+Perth - North West	45-54	0	F	31150
+Perth - North West	45-54	0	M	31785
+Perth - North West	45-54	1	F	6815
+Perth - North West	45-54	1	M	4101
+Perth - North West	55-64		F	1136
+Perth - North West	55-64		M	1608
+Perth - North West	55-64	0	F	25692
+Perth - North West	55-64	0	M	26017
+Perth - North West	55-64	1	F	7154
+Perth - North West	55-64	1	M	4175
+Perth - North West	65-74		F	1107
+Perth - North West	65-74		M	981
+Perth - North West	65-74	0	F	21566
+Perth - North West	65-74	0	M	20339
+Perth - North West	65-74	1	F	4506
+Perth - North West	65-74	1	M	2900
+Perth - North West	75-84		F	1030
+Perth - North West	75-84		M	756
+Perth - North West	75-84	0	F	12410
+Perth - North West	75-84	0	M	10460
+Perth - North West	75-84	1	F	1656
+Perth - North West	75-84	1	M	1352
+Perth - North West	85+		F	755
+Perth - North West	85+		M	439
+Perth - North West	85+	0	F	5685
+Perth - North West	85+	0	M	3283
+Perth - North West	85+	1	F	325
+Perth - North West	85+	1	M	441
+Perth - South East	15-19		F	764
+Perth - South East	15-19		M	837
+Perth - South East	15-19	0	F	13355
+Perth - South East	15-19	0	M	14126
+Perth - South East	15-19	1	F	729
+Perth - South East	15-19	1	M	643
+Perth - South East	20-24		F	1017
+Perth - South East	20-24		M	1375
+Perth - South East	20-24	0	F	15350
+Perth - South East	20-24	0	M	16464
+Perth - South East	20-24	1	F	1040
+Perth - South East	20-24	1	M	755
+Perth - South East	25-34		F	2570
+Perth - South East	25-34		M	3563
+Perth - South East	25-34	0	F	34885
+Perth - South East	25-34	0	M	34652
+Perth - South East	25-34	1	F	3135
+Perth - South East	25-34	1	M	2021
+Perth - South East	35-44		F	2092
+Perth - South East	35-44		M	3142
+Perth - South East	35-44	0	F	33035
+Perth - South East	35-44	0	M	33951
+Perth - South East	35-44	1	F	4948
+Perth - South East	35-44	1	M	3217
+Perth - South East	45-54		F	1522
+Perth - South East	45-54		M	2449
+Perth - South East	45-54	0	F	25107
+Perth - South East	45-54	0	M	27096
+Perth - South East	45-54	1	F	5820
+Perth - South East	45-54	1	M	3533
+Perth - South East	55-64		F	1233
+Perth - South East	55-64		M	1754
+Perth - South East	55-64	0	F	21429
+Perth - South East	55-64	0	M	22394
+Perth - South East	55-64	1	F	5985
+Perth - South East	55-64	1	M	3492
+Perth - South East	65-74		F	1063
+Perth - South East	65-74		M	1056
+Perth - South East	65-74	0	F	18212
+Perth - South East	65-74	0	M	17705
+Perth - South East	65-74	1	F	3882
+Perth - South East	65-74	1	M	2542
+Perth - South East	75-84		F	1040
+Perth - South East	75-84		M	750
+Perth - South East	75-84	0	F	9970
+Perth - South East	75-84	0	M	8895
+Perth - South East	75-84	1	F	1418
+Perth - South East	75-84	1	M	1149
+Perth - South East	85+		F	960
+Perth - South East	85+		M	517
+Perth - South East	85+	0	F	4410
+Perth - South East	85+	0	M	2707
+Perth - South East	85+	1	F	245
+Perth - South East	85+	1	M	312
+Perth - South West	15-19		F	620
+Perth - South West	15-19		M	676
+Perth - South West	15-19	0	F	11760
+Perth - South West	15-19	0	M	12248
+Perth - South West	15-19	1	F	611
+Perth - South West	15-19	1	M	535
+Perth - South West	20-24		F	714
+Perth - South West	20-24		M	1045
+Perth - South West	20-24	0	F	11863
+Perth - South West	20-24	0	M	11919
+Perth - South West	20-24	1	F	823
+Perth - South West	20-24	1	M	612
+Perth - South West	25-34		F	1685
+Perth - South West	25-34		M	2753
+Perth - South West	25-34	0	F	26723
+Perth - South West	25-34	0	M	25328
+Perth - South West	25-34	1	F	2390
+Perth - South West	25-34	1	M	1438
+Perth - South West	35-44		F	1395
+Perth - South West	35-44		M	2641
+Perth - South West	35-44	0	F	26915
+Perth - South West	35-44	0	M	26056
+Perth - South West	35-44	1	F	4177
+Perth - South West	35-44	1	M	2376
+Perth - South West	45-54		F	1183
+Perth - South West	45-54		M	2005
+Perth - South West	45-54	0	F	23124
+Perth - South West	45-54	0	M	23653
+Perth - South West	45-54	1	F	5624
+Perth - South West	45-54	1	M	3157
+Perth - South West	55-64		F	977
+Perth - South West	55-64		M	1437
+Perth - South West	55-64	0	F	19395
+Perth - South West	55-64	0	M	19885
+Perth - South West	55-64	1	F	5987
+Perth - South West	55-64	1	M	3531
+Perth - South West	65-74		F	917
+Perth - South West	65-74		M	918
+Perth - South West	65-74	0	F	16163
+Perth - South West	65-74	0	M	15355
+Perth - South West	65-74	1	F	3587
+Perth - South West	65-74	1	M	2325
+Perth - South West	75-84		F	899
+Perth - South West	75-84		M	716
+Perth - South West	75-84	0	F	9156
+Perth - South West	75-84	0	M	8107
+Perth - South West	75-84	1	F	1277
+Perth - South West	75-84	1	M	1207
+Perth - South West	85+		F	821
+Perth - South West	85+		M	465
+Perth - South West	85+	0	F	4258
+Perth - South West	85+	0	M	2611
+Perth - South West	85+	1	F	253
+Perth - South West	85+	1	M	346
+Western Australia - Wheat Belt	15-19		F	365
+Western Australia - Wheat Belt	15-19		M	441
+Western Australia - Wheat Belt	15-19	0	F	2907
+Western Australia - Wheat Belt	15-19	0	M	3229
+Western Australia - Wheat Belt	15-19	1	F	177
+Western Australia - Wheat Belt	15-19	1	M	200
+Western Australia - Wheat Belt	20-24		F	265
+Western Australia - Wheat Belt	20-24		M	375
+Western Australia - Wheat Belt	20-24	0	F	2184
+Western Australia - Wheat Belt	20-24	0	M	2572
+Western Australia - Wheat Belt	20-24	1	F	161
+Western Australia - Wheat Belt	20-24	1	M	157
+Western Australia - Wheat Belt	25-34		F	619
+Western Australia - Wheat Belt	25-34		M	1033
+Western Australia - Wheat Belt	25-34	0	F	5516
+Western Australia - Wheat Belt	25-34	0	M	5620
+Western Australia - Wheat Belt	25-34	1	F	642
+Western Australia - Wheat Belt	25-34	1	M	389
+Western Australia - Wheat Belt	35-44		F	686
+Western Australia - Wheat Belt	35-44		M	1069
+Western Australia - Wheat Belt	35-44	0	F	5853
+Western Australia - Wheat Belt	35-44	0	M	5882
+Western Australia - Wheat Belt	35-44	1	F	1157
+Western Australia - Wheat Belt	35-44	1	M	637
+Western Australia - Wheat Belt	45-54		F	809
+Western Australia - Wheat Belt	45-54		M	1077
+Western Australia - Wheat Belt	45-54	0	F	6621
+Western Australia - Wheat Belt	45-54	0	M	6939
+Western Australia - Wheat Belt	45-54	1	F	1683
+Western Australia - Wheat Belt	45-54	1	M	1011
+Western Australia - Wheat Belt	55-64		F	835
+Western Australia - Wheat Belt	55-64		M	1112
+Western Australia - Wheat Belt	55-64	0	F	7566
+Western Australia - Wheat Belt	55-64	0	M	8210
+Western Australia - Wheat Belt	55-64	1	F	2112
+Western Australia - Wheat Belt	55-64	1	M	1377
+Western Australia - Wheat Belt	65-74		F	761
+Western Australia - Wheat Belt	65-74		M	872
+Western Australia - Wheat Belt	65-74	0	F	6871
+Western Australia - Wheat Belt	65-74	0	M	7872
+Western Australia - Wheat Belt	65-74	1	F	1373
+Western Australia - Wheat Belt	65-74	1	M	1003
+Western Australia - Wheat Belt	75-84		F	574
+Western Australia - Wheat Belt	75-84		M	532
+Western Australia - Wheat Belt	75-84	0	F	3712
+Western Australia - Wheat Belt	75-84	0	M	3884
+Western Australia - Wheat Belt	75-84	1	F	550
+Western Australia - Wheat Belt	75-84	1	M	474
+Western Australia - Wheat Belt	85+		F	302
+Western Australia - Wheat Belt	85+		M	208
+Western Australia - Wheat Belt	85+	0	F	1491
+Western Australia - Wheat Belt	85+	0	M	1066
+Western Australia - Wheat Belt	85+	1	F	98
+Western Australia - Wheat Belt	85+	1	M	145
+Western Australia - Outback (North)	15-19		F	399
+Western Australia - Outback (North)	15-19		M	452
+Western Australia - Outback (North)	15-19	0	F	1781
+Western Australia - Outback (North)	15-19	0	M	1953
+Western Australia - Outback (North)	15-19	1	F	121
+Western Australia - Outback (North)	15-19	1	M	115
+Western Australia - Outback (North)	20-24		F	457
+Western Australia - Outback (North)	20-24		M	623
+Western Australia - Outback (North)	20-24	0	F	1892
+Western Australia - Outback (North)	20-24	0	M	1976
+Western Australia - Outback (North)	20-24	1	F	186
+Western Australia - Outback (North)	20-24	1	M	135
+Western Australia - Outback (North)	25-34		F	1443
+Western Australia - Outback (North)	25-34		M	2001
+Western Australia - Outback (North)	25-34	0	F	6360
+Western Australia - Outback (North)	25-34	0	M	6321
+Western Australia - Outback (North)	25-34	1	F	564
+Western Australia - Outback (North)	25-34	1	M	392
+Western Australia - Outback (North)	35-44		F	1135
+Western Australia - Outback (North)	35-44		M	1889
+Western Australia - Outback (North)	35-44	0	F	5465
+Western Australia - Outback (North)	35-44	0	M	6262
+Western Australia - Outback (North)	35-44	1	F	684
+Western Australia - Outback (North)	35-44	1	M	525
+Western Australia - Outback (North)	45-54		F	877
+Western Australia - Outback (North)	45-54		M	1534
+Western Australia - Outback (North)	45-54	0	F	3902
+Western Australia - Outback (North)	45-54	0	M	5017
+Western Australia - Outback (North)	45-54	1	F	597
+Western Australia - Outback (North)	45-54	1	M	391
+Western Australia - Outback (North)	55-64		F	617
+Western Australia - Outback (North)	55-64		M	1113
+Western Australia - Outback (North)	55-64	0	F	2829
+Western Australia - Outback (North)	55-64	0	M	3797
+Western Australia - Outback (North)	55-64	1	F	393
+Western Australia - Outback (North)	55-64	1	M	284
+Western Australia - Outback (North)	65-74		F	239
+Western Australia - Outback (North)	65-74		M	364
+Western Australia - Outback (North)	65-74	0	F	1114
+Western Australia - Outback (North)	65-74	0	M	1438
+Western Australia - Outback (North)	65-74	1	F	166
+Western Australia - Outback (North)	65-74	1	M	119
+Western Australia - Outback (North)	75-84		F	83
+Western Australia - Outback (North)	75-84		M	99
+Western Australia - Outback (North)	75-84	0	F	319
+Western Australia - Outback (North)	75-84	0	M	381
+Western Australia - Outback (North)	75-84	1	F	44
+Western Australia - Outback (North)	75-84	1	M	32
+Western Australia - Outback (North)	85+		F	32
+Western Australia - Outback (North)	85+		M	19
+Western Australia - Outback (North)	85+	0	F	74
+Western Australia - Outback (North)	85+	0	M	68
+Western Australia - Outback (North)	85+	1	F	5
+Western Australia - Outback (North)	85+	1	M	4
+Western Australia - Outback (South)	15-19		F	433
+Western Australia - Outback (South)	15-19		M	469
+Western Australia - Outback (South)	15-19	0	F	2554
+Western Australia - Outback (South)	15-19	0	M	2828
+Western Australia - Outback (South)	15-19	1	F	136
+Western Australia - Outback (South)	15-19	1	M	139
+Western Australia - Outback (South)	20-24		F	439
+Western Australia - Outback (South)	20-24		M	642
+Western Australia - Outback (South)	20-24	0	F	2563
+Western Australia - Outback (South)	20-24	0	M	2745
+Western Australia - Outback (South)	20-24	1	F	154
+Western Australia - Outback (South)	20-24	1	M	125
+Western Australia - Outback (South)	25-34		F	955
+Western Australia - Outback (South)	25-34		M	1569
+Western Australia - Outback (South)	25-34	0	F	6139
+Western Australia - Outback (South)	25-34	0	M	6374
+Western Australia - Outback (South)	25-34	1	F	582
+Western Australia - Outback (South)	25-34	1	M	336
+Western Australia - Outback (South)	35-44		F	981
+Western Australia - Outback (South)	35-44		M	1406
+Western Australia - Outback (South)	35-44	0	F	5677
+Western Australia - Outback (South)	35-44	0	M	6028
+Western Australia - Outback (South)	35-44	1	F	948
+Western Australia - Outback (South)	35-44	1	M	537
+Western Australia - Outback (South)	45-54		F	832
+Western Australia - Outback (South)	45-54		M	1393
+Western Australia - Outback (South)	45-54	0	F	5803
+Western Australia - Outback (South)	45-54	0	M	6407
+Western Australia - Outback (South)	45-54	1	F	1128
+Western Australia - Outback (South)	45-54	1	M	703
+Western Australia - Outback (South)	55-64		F	758
+Western Australia - Outback (South)	55-64		M	1144
+Western Australia - Outback (South)	55-64	0	F	5477
+Western Australia - Outback (South)	55-64	0	M	6476
+Western Australia - Outback (South)	55-64	1	F	1240
+Western Australia - Outback (South)	55-64	1	M	834
+Western Australia - Outback (South)	65-74		F	571
+Western Australia - Outback (South)	65-74		M	724
+Western Australia - Outback (South)	65-74	0	F	4087
+Western Australia - Outback (South)	65-74	0	M	4748
+Western Australia - Outback (South)	65-74	1	F	713
+Western Australia - Outback (South)	65-74	1	M	523
+Western Australia - Outback (South)	75-84		F	357
+Western Australia - Outback (South)	75-84		M	402
+Western Australia - Outback (South)	75-84	0	F	2104
+Western Australia - Outback (South)	75-84	0	M	2155
+Western Australia - Outback (South)	75-84	1	F	273
+Western Australia - Outback (South)	75-84	1	M	262
+Western Australia - Outback (South)	85+		F	176
+Western Australia - Outback (South)	85+		M	118
+Western Australia - Outback (South)	85+	0	F	788
+Western Australia - Outback (South)	85+	0	M	544
+Western Australia - Outback (South)	85+	1	F	56
+Western Australia - Outback (South)	85+	1	M	72
+Migratory - Offshore - Shipping (WA)	15-19		M	7
+Migratory - Offshore - Shipping (WA)	15-19	0	M	3
+Migratory - Offshore - Shipping (WA)	20-24		F	5
+Migratory - Offshore - Shipping (WA)	20-24		M	13
+Migratory - Offshore - Shipping (WA)	20-24	0	F	5
+Migratory - Offshore - Shipping (WA)	20-24	0	M	9
+Migratory - Offshore - Shipping (WA)	25-34		F	3
+Migratory - Offshore - Shipping (WA)	25-34		M	44
+Migratory - Offshore - Shipping (WA)	25-34	0	F	8
+Migratory - Offshore - Shipping (WA)	25-34	0	M	54
+Migratory - Offshore - Shipping (WA)	35-44		F	3
+Migratory - Offshore - Shipping (WA)	35-44		M	71
+Migratory - Offshore - Shipping (WA)	35-44	0	F	9
+Migratory - Offshore - Shipping (WA)	35-44	0	M	82
+Migratory - Offshore - Shipping (WA)	35-44	1	M	6
+Migratory - Offshore - Shipping (WA)	45-54		F	8
+Migratory - Offshore - Shipping (WA)	45-54		M	46
+Migratory - Offshore - Shipping (WA)	45-54	0	F	5
+Migratory - Offshore - Shipping (WA)	45-54	0	M	54
+Migratory - Offshore - Shipping (WA)	55-64		M	20
+Migratory - Offshore - Shipping (WA)	55-64	0	F	5
+Migratory - Offshore - Shipping (WA)	55-64	0	M	30
+Migratory - Offshore - Shipping (WA)	65-74		M	4
+Migratory - Offshore - Shipping (WA)	65-74	0	F	5
+Migratory - Offshore - Shipping (WA)	65-74	0	M	6
+No usual address (WA)	15-19		F	60
+No usual address (WA)	15-19		M	44
+No usual address (WA)	15-19	0	F	74
+No usual address (WA)	15-19	0	M	65
+No usual address (WA)	15-19	1	F	12
+No usual address (WA)	15-19	1	M	12
+No usual address (WA)	20-24		F	103
+No usual address (WA)	20-24		M	133
+No usual address (WA)	20-24	0	F	141
+No usual address (WA)	20-24	0	M	157
+No usual address (WA)	20-24	1	F	12
+No usual address (WA)	20-24	1	M	14
+No usual address (WA)	25-34		F	266
+No usual address (WA)	25-34		M	391
+No usual address (WA)	25-34	0	F	404
+No usual address (WA)	25-34	0	M	402
+No usual address (WA)	25-34	1	F	21
+No usual address (WA)	25-34	1	M	27
+No usual address (WA)	35-44		F	284
+No usual address (WA)	35-44		M	531
+No usual address (WA)	35-44	0	F	277
+No usual address (WA)	35-44	0	M	359
+No usual address (WA)	35-44	1	F	55
+No usual address (WA)	35-44	1	M	38
+No usual address (WA)	45-54		F	219
+No usual address (WA)	45-54		M	514
+No usual address (WA)	45-54	0	F	213
+No usual address (WA)	45-54	0	M	297
+No usual address (WA)	45-54	1	F	38
+No usual address (WA)	45-54	1	M	36
+No usual address (WA)	55-64		F	160
+No usual address (WA)	55-64		M	331
+No usual address (WA)	55-64	0	F	278
+No usual address (WA)	55-64	0	M	303
+No usual address (WA)	55-64	1	F	43
+No usual address (WA)	55-64	1	M	29
+No usual address (WA)	65-74		F	95
+No usual address (WA)	65-74		M	152
+No usual address (WA)	65-74	0	F	197
+No usual address (WA)	65-74	0	M	269
+No usual address (WA)	65-74	1	F	24
+No usual address (WA)	65-74	1	M	25
+No usual address (WA)	75-84		F	14
+No usual address (WA)	75-84		M	48
+No usual address (WA)	75-84	0	F	23
+No usual address (WA)	75-84	0	M	64
+No usual address (WA)	75-84	1	M	3
+No usual address (WA)	85+		F	12
+No usual address (WA)	85+		M	9
+No usual address (WA)	85+	0	F	5
+No usual address (WA)	85+	0	M	7
+Hobart	15-19		F	371
+Hobart	15-19		M	385
+Hobart	15-19	0	F	5733
+Hobart	15-19	0	M	6192
+Hobart	15-19	1	F	349
+Hobart	15-19	1	M	302
+Hobart	20-24		F	365
+Hobart	20-24		M	415
+Hobart	20-24	0	F	6468
+Hobart	20-24	0	M	6678
+Hobart	20-24	1	F	507
+Hobart	20-24	1	M	387
+Hobart	25-34		F	1019
+Hobart	25-34		M	1245
+Hobart	25-34	0	F	17103
+Hobart	25-34	0	M	17497
+Hobart	25-34	1	F	1718
+Hobart	25-34	1	M	1182
+Hobart	35-44		F	730
+Hobart	35-44		M	930
+Hobart	35-44	0	F	12991
+Hobart	35-44	0	M	13093
+Hobart	35-44	1	F	2531
+Hobart	35-44	1	M	1384
+Hobart	45-54		F	582
+Hobart	45-54		M	752
+Hobart	45-54	0	F	11610
+Hobart	45-54	0	M	11550
+Hobart	45-54	1	F	3244
+Hobart	45-54	1	M	1917
+Hobart	55-64		F	587
+Hobart	55-64		M	652
+Hobart	55-64	0	F	11284
+Hobart	55-64	0	M	11291
+Hobart	55-64	1	F	3798
+Hobart	55-64	1	M	2330
+Hobart	65-74		F	667
+Hobart	65-74		M	608
+Hobart	65-74	0	F	10666
+Hobart	65-74	0	M	10084
+Hobart	65-74	1	F	2468
+Hobart	65-74	1	M	1639
+Hobart	75-84		F	577
+Hobart	75-84		M	458
+Hobart	75-84	0	F	6475
+Hobart	75-84	0	M	5281
+Hobart	75-84	1	F	980
+Hobart	75-84	1	M	827
+Hobart	85+		F	355
+Hobart	85+		M	192
+Hobart	85+	0	F	2997
+Hobart	85+	0	M	1707
+Hobart	85+	1	F	165
+Hobart	85+	1	M	208
+Launceston and North East	15-19		F	247
+Launceston and North East	15-19		M	294
+Launceston and North East	15-19	0	F	3539
+Launceston and North East	15-19	0	M	3740
+Launceston and North East	15-19	1	F	229
+Launceston and North East	15-19	1	M	198
+Launceston and North East	20-24		F	264
+Launceston and North East	20-24		M	321
+Launceston and North East	20-24	0	F	3565
+Launceston and North East	20-24	0	M	3822
+Launceston and North East	20-24	1	F	291
+Launceston and North East	20-24	1	M	226
+Launceston and North East	25-34		F	510
+Launceston and North East	25-34		M	644
+Launceston and North East	25-34	0	F	8031
+Launceston and North East	25-34	0	M	8491
+Launceston and North East	25-34	1	F	985
+Launceston and North East	25-34	1	M	635
+Launceston and North East	35-44		F	432
+Launceston and North East	35-44		M	487
+Launceston and North East	35-44	0	F	6935
+Launceston and North East	35-44	0	M	6881
+Launceston and North East	35-44	1	F	1450
+Launceston and North East	35-44	1	M	789
+Launceston and North East	45-54		F	436
+Launceston and North East	45-54		M	512
+Launceston and North East	45-54	0	F	7417
+Launceston and North East	45-54	0	M	7350
+Launceston and North East	45-54	1	F	2055
+Launceston and North East	45-54	1	M	1192
+Launceston and North East	55-64		F	524
+Launceston and North East	55-64		M	554
+Launceston and North East	55-64	0	F	7804
+Launceston and North East	55-64	0	M	8170
+Launceston and North East	55-64	1	F	2494
+Launceston and North East	55-64	1	M	1389
+Launceston and North East	65-74		F	577
+Launceston and North East	65-74		M	594
+Launceston and North East	65-74	0	F	7476
+Launceston and North East	65-74	0	M	7608
+Launceston and North East	65-74	1	F	1592
+Launceston and North East	65-74	1	M	1099
+Launceston and North East	75-84		F	477
+Launceston and North East	75-84		M	381
+Launceston and North East	75-84	0	F	4503
+Launceston and North East	75-84	0	M	4053
+Launceston and North East	75-84	1	F	619
+Launceston and North East	75-84	1	M	563
+Launceston and North East	85+		F	297
+Launceston and North East	85+		M	188
+Launceston and North East	85+	0	F	1861
+Launceston and North East	85+	0	M	1156
+Launceston and North East	85+	1	F	112
+Launceston and North East	85+	1	M	126
+South East	15-19		F	89
+South East	15-19		M	136
+South East	15-19	0	F	795
+South East	15-19	0	M	947
+South East	15-19	1	F	50
+South East	15-19	1	M	61
+South East	20-24		F	73
+South East	20-24		M	82
+South East	20-24	0	F	681
+South East	20-24	0	M	806
+South East	20-24	1	F	52
+South East	20-24	1	M	51
+South East	25-34		F	174
+South East	25-34		M	170
+South East	25-34	0	F	1645
+South East	25-34	0	M	1654
+South East	25-34	1	F	226
+South East	25-34	1	M	150
+South East	35-44		F	160
+South East	35-44		M	175
+South East	35-44	0	F	1769
+South East	35-44	0	M	1855
+South East	35-44	1	F	465
+South East	35-44	1	M	243
+South East	45-54		F	184
+South East	45-54		M	184
+South East	45-54	0	F	1948
+South East	45-54	0	M	2216
+South East	45-54	1	F	588
+South East	45-54	1	M	365
+South East	55-64		F	246
+South East	55-64		M	277
+South East	55-64	0	F	2593
+South East	55-64	0	M	2842
+South East	55-64	1	F	769
+South East	55-64	1	M	504
+South East	65-74		F	221
+South East	65-74		M	291
+South East	65-74	0	F	2348
+South East	65-74	0	M	2741
+South East	65-74	1	F	466
+South East	65-74	1	M	410
+South East	75-84		F	157
+South East	75-84		M	152
+South East	75-84	0	F	1012
+South East	75-84	0	M	1237
+South East	75-84	1	F	134
+South East	75-84	1	M	165
+South East	85+		F	62
+South East	85+		M	62
+South East	85+	0	F	306
+South East	85+	0	M	250
+South East	85+	1	F	25
+South East	85+	1	M	31
+West and North West	15-19		F	232
+West and North West	15-19		M	273
+West and North West	15-19	0	F	2696
+West and North West	15-19	0	M	2833
+West and North West	15-19	1	F	168
+West and North West	15-19	1	M	136
+West and North West	20-24		F	165
+West and North West	20-24		M	201
+West and North West	20-24	0	F	2513
+West and North West	20-24	0	M	2610
+West and North West	20-24	1	F	226
+West and North West	20-24	1	M	149
+West and North West	25-34		F	404
+West and North West	25-34		M	435
+West and North West	25-34	0	F	5570
+West and North West	25-34	0	M	5742
+West and North West	25-34	1	F	820
+West and North West	25-34	1	M	390
+West and North West	35-44		F	363
+West and North West	35-44		M	432
+West and North West	35-44	0	F	4939
+West and North West	35-44	0	M	4849
+West and North West	35-44	1	F	1198
+West and North West	35-44	1	M	665
+West and North West	45-54		F	412
+West and North West	45-54		M	492
+West and North West	45-54	0	F	5712
+West and North West	45-54	0	M	5729
+West and North West	45-54	1	F	1600
+West and North West	45-54	1	M	946
+West and North West	55-64		F	434
+West and North West	55-64		M	486
+West and North West	55-64	0	F	6356
+West and North West	55-64	0	M	6565
+West and North West	55-64	1	F	2030
+West and North West	55-64	1	M	1211
+West and North West	65-74		F	472
+West and North West	65-74		M	508
+West and North West	65-74	0	F	5955
+West and North West	65-74	0	M	6022
+West and North West	65-74	1	F	1348
+West and North West	65-74	1	M	946
+West and North West	75-84		F	427
+West and North West	75-84		M	354
+West and North West	75-84	0	F	3537
+West and North West	75-84	0	M	3248
+West and North West	75-84	1	F	504
+West and North West	75-84	1	M	498
+West and North West	85+		F	186
+West and North West	85+		M	152
+West and North West	85+	0	F	1487
+West and North West	85+	0	M	881
+West and North West	85+	1	F	72
+West and North West	85+	1	M	98
+Migratory - Offshore - Shipping (Tas.)	35-44	0	M	3
+Migratory - Offshore - Shipping (Tas.)	45-54	0	M	3
+No usual address (Tas.)	15-19		F	11
+No usual address (Tas.)	15-19		M	9
+No usual address (Tas.)	15-19	0	F	36
+No usual address (Tas.)	15-19	0	M	25
+No usual address (Tas.)	15-19	1	F	7
+No usual address (Tas.)	15-19	1	M	5
+No usual address (Tas.)	20-24		F	10
+No usual address (Tas.)	20-24		M	9
+No usual address (Tas.)	20-24	0	F	36
+No usual address (Tas.)	20-24	0	M	54
+No usual address (Tas.)	20-24	1	F	8
+No usual address (Tas.)	20-24	1	M	4
+No usual address (Tas.)	25-34		F	11
+No usual address (Tas.)	25-34		M	40
+No usual address (Tas.)	25-34	0	F	74
+No usual address (Tas.)	25-34	0	M	88
+No usual address (Tas.)	25-34	1	F	13
+No usual address (Tas.)	25-34	1	M	6
+No usual address (Tas.)	35-44		F	21
+No usual address (Tas.)	35-44		M	29
+No usual address (Tas.)	35-44	0	F	62
+No usual address (Tas.)	35-44	0	M	69
+No usual address (Tas.)	35-44	1	F	15
+No usual address (Tas.)	35-44	1	M	11
+No usual address (Tas.)	45-54		F	17
+No usual address (Tas.)	45-54		M	29
+No usual address (Tas.)	45-54	0	F	48
+No usual address (Tas.)	45-54	0	M	87
+No usual address (Tas.)	45-54	1	F	12
+No usual address (Tas.)	45-54	1	M	12
+No usual address (Tas.)	55-64		F	27
+No usual address (Tas.)	55-64		M	32
+No usual address (Tas.)	55-64	0	F	60
+No usual address (Tas.)	55-64	0	M	61
+No usual address (Tas.)	55-64	1	F	17
+No usual address (Tas.)	55-64	1	M	11
+No usual address (Tas.)	65-74		F	33
+No usual address (Tas.)	65-74		M	48
+No usual address (Tas.)	65-74	0	F	38
+No usual address (Tas.)	65-74	0	M	48
+No usual address (Tas.)	65-74	1	F	6
+No usual address (Tas.)	75-84		F	4
+No usual address (Tas.)	75-84		M	4
+No usual address (Tas.)	75-84	0	F	7
+No usual address (Tas.)	75-84	0	M	13
+No usual address (Tas.)	75-84	1	F	3
+Darwin	15-19		F	378
+Darwin	15-19		M	427
+Darwin	15-19	0	F	3139
+Darwin	15-19	0	M	3318
+Darwin	15-19	1	F	223
+Darwin	15-19	1	M	170
+Darwin	20-24		F	429
+Darwin	20-24		M	722
+Darwin	20-24	0	F	3518
+Darwin	20-24	0	M	4001
+Darwin	20-24	1	F	198
+Darwin	20-24	1	M	180
+Darwin	25-34		F	1280
+Darwin	25-34		M	1754
+Darwin	25-34	0	F	10932
+Darwin	25-34	0	M	10387
+Darwin	25-34	1	F	983
+Darwin	25-34	1	M	609
+Darwin	35-44		F	1050
+Darwin	35-44		M	1388
+Darwin	35-44	0	F	8912
+Darwin	35-44	0	M	8616
+Darwin	35-44	1	F	1319
+Darwin	35-44	1	M	819
+Darwin	45-54		F	790
+Darwin	45-54		M	1169
+Darwin	45-54	0	F	6926
+Darwin	45-54	0	M	7279
+Darwin	45-54	1	F	1330
+Darwin	45-54	1	M	914
+Darwin	55-64		F	607
+Darwin	55-64		M	770
+Darwin	55-64	0	F	5364
+Darwin	55-64	0	M	6043
+Darwin	55-64	1	F	1166
+Darwin	55-64	1	M	685
+Darwin	65-74		F	405
+Darwin	65-74		M	496
+Darwin	65-74	0	F	3449
+Darwin	65-74	0	M	3934
+Darwin	65-74	1	F	658
+Darwin	65-74	1	M	427
+Darwin	75-84		F	197
+Darwin	75-84		M	197
+Darwin	75-84	0	F	1393
+Darwin	75-84	0	M	1463
+Darwin	75-84	1	F	187
+Darwin	75-84	1	M	162
+Darwin	85+		F	80
+Darwin	85+		M	51
+Darwin	85+	0	F	352
+Darwin	85+	0	M	283
+Darwin	85+	1	F	28
+Darwin	85+	1	M	33
+Northern Territory - Outback	15-19		F	388
+Northern Territory - Outback	15-19		M	457
+Northern Territory - Outback	15-19	0	F	2399
+Northern Territory - Outback	15-19	0	M	2659
+Northern Territory - Outback	15-19	1	F	277
+Northern Territory - Outback	15-19	1	M	250
+Northern Territory - Outback	20-24		F	321
+Northern Territory - Outback	20-24		M	493
+Northern Territory - Outback	20-24	0	F	2524
+Northern Territory - Outback	20-24	0	M	2533
+Northern Territory - Outback	20-24	1	F	374
+Northern Territory - Outback	20-24	1	M	303
+Northern Territory - Outback	25-34		F	926
+Northern Territory - Outback	25-34		M	1222
+Northern Territory - Outback	25-34	0	F	6572
+Northern Territory - Outback	25-34	0	M	5985
+Northern Territory - Outback	25-34	1	F	892
+Northern Territory - Outback	25-34	1	M	663
+Northern Territory - Outback	35-44		F	739
+Northern Territory - Outback	35-44		M	987
+Northern Territory - Outback	35-44	0	F	4963
+Northern Territory - Outback	35-44	0	M	4918
+Northern Territory - Outback	35-44	1	F	903
+Northern Territory - Outback	35-44	1	M	608
+Northern Territory - Outback	45-54		F	618
+Northern Territory - Outback	45-54		M	770
+Northern Territory - Outback	45-54	0	F	4184
+Northern Territory - Outback	45-54	0	M	4079
+Northern Territory - Outback	45-54	1	F	794
+Northern Territory - Outback	45-54	1	M	514
+Northern Territory - Outback	55-64		F	507
+Northern Territory - Outback	55-64		M	642
+Northern Territory - Outback	55-64	0	F	3394
+Northern Territory - Outback	55-64	0	M	3460
+Northern Territory - Outback	55-64	1	F	611
+Northern Territory - Outback	55-64	1	M	386
+Northern Territory - Outback	65-74		F	278
+Northern Territory - Outback	65-74		M	338
+Northern Territory - Outback	65-74	0	F	1753
+Northern Territory - Outback	65-74	0	M	1974
+Northern Territory - Outback	65-74	1	F	270
+Northern Territory - Outback	65-74	1	M	191
+Northern Territory - Outback	75-84		F	88
+Northern Territory - Outback	75-84		M	115
+Northern Territory - Outback	75-84	0	F	561
+Northern Territory - Outback	75-84	0	M	617
+Northern Territory - Outback	75-84	1	F	75
+Northern Territory - Outback	75-84	1	M	45
+Northern Territory - Outback	85+		F	27
+Northern Territory - Outback	85+		M	17
+Northern Territory - Outback	85+	0	F	163
+Northern Territory - Outback	85+	0	M	103
+Northern Territory - Outback	85+	1	F	13
+Northern Territory - Outback	85+	1	M	9
+Migratory - Offshore - Shipping (NT)	15-19	0	M	5
+Migratory - Offshore - Shipping (NT)	20-24	0	F	3
+Migratory - Offshore - Shipping (NT)	20-24	0	M	6
+Migratory - Offshore - Shipping (NT)	25-34		M	3
+Migratory - Offshore - Shipping (NT)	25-34	0	F	3
+Migratory - Offshore - Shipping (NT)	25-34	0	M	12
+Migratory - Offshore - Shipping (NT)	35-44		M	4
+Migratory - Offshore - Shipping (NT)	35-44	0	M	13
+Migratory - Offshore - Shipping (NT)	45-54		M	5
+Migratory - Offshore - Shipping (NT)	45-54	0	F	3
+Migratory - Offshore - Shipping (NT)	45-54	0	M	9
+Migratory - Offshore - Shipping (NT)	45-54	1	M	6
+Migratory - Offshore - Shipping (NT)	55-64		M	3
+Migratory - Offshore - Shipping (NT)	55-64	0	M	10
+No usual address (NT)	15-19		F	31
+No usual address (NT)	15-19		M	15
+No usual address (NT)	15-19	0	F	29
+No usual address (NT)	15-19	0	M	11
+No usual address (NT)	20-24		F	38
+No usual address (NT)	20-24		M	48
+No usual address (NT)	20-24	0	F	59
+No usual address (NT)	20-24	0	M	35
+No usual address (NT)	20-24	1	F	5
+No usual address (NT)	25-34		F	137
+No usual address (NT)	25-34		M	104
+No usual address (NT)	25-34	0	F	215
+No usual address (NT)	25-34	0	M	181
+No usual address (NT)	25-34	1	F	15
+No usual address (NT)	25-34	1	M	10
+No usual address (NT)	35-44		F	103
+No usual address (NT)	35-44		M	129
+No usual address (NT)	35-44	0	F	143
+No usual address (NT)	35-44	0	M	167
+No usual address (NT)	35-44	1	F	17
+No usual address (NT)	35-44	1	M	9
+No usual address (NT)	45-54		F	122
+No usual address (NT)	45-54		M	150
+No usual address (NT)	45-54	0	F	144
+No usual address (NT)	45-54	0	M	156
+No usual address (NT)	45-54	1	F	14
+No usual address (NT)	45-54	1	M	12
+No usual address (NT)	55-64		F	108
+No usual address (NT)	55-64		M	115
+No usual address (NT)	55-64	0	F	158
+No usual address (NT)	55-64	0	M	178
+No usual address (NT)	55-64	1	F	17
+No usual address (NT)	55-64	1	M	6
+No usual address (NT)	65-74		F	33
+No usual address (NT)	65-74		M	53
+No usual address (NT)	65-74	0	F	81
+No usual address (NT)	65-74	0	M	141
+No usual address (NT)	65-74	1	F	4
+No usual address (NT)	65-74	1	M	9
+No usual address (NT)	75-84		M	11
+No usual address (NT)	75-84	0	F	13
+No usual address (NT)	75-84	0	M	24
+No usual address (NT)	85+	0	M	4
+Australian Capital Territory	15-19		F	669
+Australian Capital Territory	15-19		M	686
+Australian Capital Territory	15-19	0	F	11543
+Australian Capital Territory	15-19	0	M	12064
+Australian Capital Territory	15-19	1	F	689
+Australian Capital Territory	15-19	1	M	640
+Australian Capital Territory	20-24		F	1016
+Australian Capital Territory	20-24		M	1137
+Australian Capital Territory	20-24	0	F	15123
+Australian Capital Territory	20-24	0	M	15064
+Australian Capital Territory	20-24	1	F	998
+Australian Capital Territory	20-24	1	M	845
+Australian Capital Territory	25-34		F	1910
+Australian Capital Territory	25-34		M	2334
+Australian Capital Territory	25-34	0	F	34232
+Australian Capital Territory	25-34	0	M	34215
+Australian Capital Territory	25-34	1	F	2852
+Australian Capital Territory	25-34	1	M	2085
+Australian Capital Territory	35-44		F	1317
+Australian Capital Territory	35-44		M	1652
+Australian Capital Territory	35-44	0	F	28981
+Australian Capital Territory	35-44	0	M	29424
+Australian Capital Territory	35-44	1	F	4708
+Australian Capital Territory	35-44	1	M	3202
+Australian Capital Territory	45-54		F	944
+Australian Capital Territory	45-54		M	1185
+Australian Capital Territory	45-54	0	F	21674
+Australian Capital Territory	45-54	0	M	22650
+Australian Capital Territory	45-54	1	F	5728
+Australian Capital Territory	45-54	1	M	3954
+Australian Capital Territory	55-64		F	719
+Australian Capital Territory	55-64		M	883
+Australian Capital Territory	55-64	0	F	17139
+Australian Capital Territory	55-64	0	M	17243
+Australian Capital Territory	55-64	1	F	5604
+Australian Capital Territory	55-64	1	M	3740
+Australian Capital Territory	65-74		F	756
+Australian Capital Territory	65-74		M	690
+Australian Capital Territory	65-74	0	F	14714
+Australian Capital Territory	65-74	0	M	13619
+Australian Capital Territory	65-74	1	F	3548
+Australian Capital Territory	65-74	1	M	2308
+Australian Capital Territory	75-84		F	624
+Australian Capital Territory	75-84		M	505
+Australian Capital Territory	75-84	0	F	8411
+Australian Capital Territory	75-84	0	M	6964
+Australian Capital Territory	75-84	1	F	1528
+Australian Capital Territory	75-84	1	M	1315
+Australian Capital Territory	85+		F	490
+Australian Capital Territory	85+		M	274
+Australian Capital Territory	85+	0	F	3543
+Australian Capital Territory	85+	0	M	2242
+Australian Capital Territory	85+	1	F	282
+Australian Capital Territory	85+	1	M	357
+No usual address (ACT)	15-19		M	4
+No usual address (ACT)	15-19	0	F	34
+No usual address (ACT)	15-19	0	M	16
+No usual address (ACT)	15-19	1	F	3
+No usual address (ACT)	15-19	1	M	3
+No usual address (ACT)	20-24		F	4
+No usual address (ACT)	20-24		M	7
+No usual address (ACT)	20-24	0	F	38
+No usual address (ACT)	20-24	0	M	31
+No usual address (ACT)	20-24	1	F	4
+No usual address (ACT)	20-24	1	M	5
+No usual address (ACT)	25-34		F	5
+No usual address (ACT)	25-34		M	10
+No usual address (ACT)	25-34	0	F	35
+No usual address (ACT)	25-34	0	M	40
+No usual address (ACT)	25-34	1	F	7
+No usual address (ACT)	25-34	1	M	10
+No usual address (ACT)	35-44		F	7
+No usual address (ACT)	35-44		M	30
+No usual address (ACT)	35-44	0	F	23
+No usual address (ACT)	35-44	0	M	34
+No usual address (ACT)	35-44	1	F	7
+No usual address (ACT)	35-44	1	M	4
+No usual address (ACT)	45-54		F	7
+No usual address (ACT)	45-54		M	19
+No usual address (ACT)	45-54	0	F	23
+No usual address (ACT)	45-54	0	M	29
+No usual address (ACT)	45-54	1	M	5
+No usual address (ACT)	55-64		F	8
+No usual address (ACT)	55-64		M	16
+No usual address (ACT)	55-64	0	F	26
+No usual address (ACT)	55-64	0	M	19
+No usual address (ACT)	55-64	1	F	4
+No usual address (ACT)	55-64	1	M	3
+No usual address (ACT)	65-74		F	4
+No usual address (ACT)	65-74		M	9
+No usual address (ACT)	65-74	0	F	4
+No usual address (ACT)	65-74	0	M	14
+No usual address (ACT)	65-74	1	F	5
+No usual address (ACT)	75-84		M	4
+No usual address (ACT)	75-84	0	F	4
+Other Territories	15-19		F	19
+Other Territories	15-19		M	17
+Other Territories	15-19	0	F	83
+Other Territories	15-19	0	M	69
+Other Territories	15-19	1	F	9
+Other Territories	15-19	1	M	5
+Other Territories	20-24		F	13
+Other Territories	20-24		M	43
+Other Territories	20-24	0	F	82
+Other Territories	20-24	0	M	65
+Other Territories	20-24	1	F	11
+Other Territories	20-24	1	M	4
+Other Territories	25-34		F	52
+Other Territories	25-34		M	163
+Other Territories	25-34	0	F	170
+Other Territories	25-34	0	M	166
+Other Territories	25-34	1	F	18
+Other Territories	25-34	1	M	6
+Other Territories	35-44		F	51
+Other Territories	35-44		M	105
+Other Territories	35-44	0	F	226
+Other Territories	35-44	0	M	201
+Other Territories	35-44	1	F	27
+Other Territories	35-44	1	M	23
+Other Territories	45-54		F	42
+Other Territories	45-54		M	86
+Other Territories	45-54	0	F	219
+Other Territories	45-54	0	M	232
+Other Territories	45-54	1	F	51
+Other Territories	45-54	1	M	29
+Other Territories	55-64		F	47
+Other Territories	55-64		M	62
+Other Territories	55-64	0	F	275
+Other Territories	55-64	0	M	283
+Other Territories	55-64	1	F	64
+Other Territories	55-64	1	M	41
+Other Territories	65-74		F	32
+Other Territories	65-74		M	48
+Other Territories	65-74	0	F	202
+Other Territories	65-74	0	M	247
+Other Territories	65-74	1	F	36
+Other Territories	65-74	1	M	28
+Other Territories	75-84		F	22
+Other Territories	75-84		M	24
+Other Territories	75-84	0	F	94
+Other Territories	75-84	0	M	91
+Other Territories	75-84	1	F	16
+Other Territories	75-84	1	M	11
+Other Territories	85+		F	7
+Other Territories	85+		M	3
+Other Territories	85+	0	F	27
+Other Territories	85+	0	M	26
+Other Territories	85+	1	M	4

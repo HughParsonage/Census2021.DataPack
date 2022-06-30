@@ -1,0 +1,374 @@
+SA4_NAME16	PrivateDwelling	Sex	persons
+Capital Region	0	F	12379
+Capital Region	0	M	14620
+Capital Region	1	F	110231
+Capital Region	1	M	108345
+Central Coast	0	F	10620
+Central Coast	0	M	9238
+Central Coast	1	F	167893
+Central Coast	1	M	158003
+Central West	0	F	9439
+Central West	0	M	11805
+Central West	1	F	97647
+Central West	1	M	95395
+Coffs Harbour - Grafton	0	F	6866
+Coffs Harbour - Grafton	0	M	7516
+Coffs Harbour - Grafton	1	F	68816
+Coffs Harbour - Grafton	1	M	64798
+Far West and Orana	0	F	8153
+Far West and Orana	0	M	9135
+Far West and Orana	1	F	51007
+Far West and Orana	1	M	49251
+Hunter Valley exc Newcastle	0	F	7943
+Hunter Valley exc Newcastle	0	M	10667
+Hunter Valley exc Newcastle	1	F	138693
+Hunter Valley exc Newcastle	1	M	133955
+Illawarra	0	F	8355
+Illawarra	0	M	7785
+Illawarra	1	F	150730
+Illawarra	1	M	145296
+Mid North Coast	0	F	10192
+Mid North Coast	0	M	10308
+Mid North Coast	1	F	108801
+Mid North Coast	1	M	102003
+Murray	0	F	5679
+Murray	0	M	5937
+Murray	1	F	56525
+Murray	1	M	54508
+New England and North West	0	F	10931
+New England and North West	0	M	11608
+New England and North West	1	F	83762
+New England and North West	1	M	80689
+Newcastle and Lake Macquarie	0	F	10983
+Newcastle and Lake Macquarie	0	M	10176
+Newcastle and Lake Macquarie	1	F	186948
+Newcastle and Lake Macquarie	1	M	178655
+Richmond - Tweed	0	F	12574
+Richmond - Tweed	0	M	12065
+Richmond - Tweed	1	F	121031
+Richmond - Tweed	1	M	113185
+Riverina	0	F	7709
+Riverina	0	M	9928
+Riverina	1	F	74923
+Riverina	1	M	72367
+Southern Highlands and Shoalhaven	0	F	6392
+Southern Highlands and Shoalhaven	0	M	7109
+Southern Highlands and Shoalhaven	1	F	76259
+Southern Highlands and Shoalhaven	1	M	72164
+Sydney - Baulkham Hills and Hawkesbury	0	F	4406
+Sydney - Baulkham Hills and Hawkesbury	0	M	3744
+Sydney - Baulkham Hills and Hawkesbury	1	F	129044
+Sydney - Baulkham Hills and Hawkesbury	1	M	126435
+Sydney - Blacktown	0	F	10470
+Sydney - Blacktown	0	M	11322
+Sydney - Blacktown	1	F	190326
+Sydney - Blacktown	1	M	188426
+Sydney - City and Inner South	0	F	15216
+Sydney - City and Inner South	0	M	21126
+Sydney - City and Inner South	1	F	145636
+Sydney - City and Inner South	1	M	152509
+Sydney - Eastern Suburbs	0	F	8870
+Sydney - Eastern Suburbs	0	M	9721
+Sydney - Eastern Suburbs	1	F	124051
+Sydney - Eastern Suburbs	1	M	114061
+Sydney - Inner South West	0	F	17368
+Sydney - Inner South West	0	M	16909
+Sydney - Inner South West	1	F	284886
+Sydney - Inner South West	1	M	283304
+Sydney - Inner West	0	F	7950
+Sydney - Inner West	0	M	7882
+Sydney - Inner West	1	F	147305
+Sydney - Inner West	1	M	139643
+Sydney - North Sydney and Hornsby	0	F	9232
+Sydney - North Sydney and Hornsby	0	M	7660
+Sydney - North Sydney and Hornsby	1	F	208927
+Sydney - North Sydney and Hornsby	1	M	194518
+Sydney - Northern Beaches	0	F	5482
+Sydney - Northern Beaches	0	M	4691
+Sydney - Northern Beaches	1	F	127790
+Sydney - Northern Beaches	1	M	122663
+Sydney - Outer South West	0	F	7462
+Sydney - Outer South West	0	M	6814
+Sydney - Outer South West	1	F	143214
+Sydney - Outer South West	1	M	138830
+Sydney - Outer West and Blue Mountains	0	F	9481
+Sydney - Outer West and Blue Mountains	0	M	9240
+Sydney - Outer West and Blue Mountains	1	F	159281
+Sydney - Outer West and Blue Mountains	1	M	153599
+Sydney - Parramatta	0	F	14953
+Sydney - Parramatta	0	M	17679
+Sydney - Parramatta	1	F	226591
+Sydney - Parramatta	1	M	233746
+Sydney - Ryde	0	F	4752
+Sydney - Ryde	0	M	4386
+Sydney - Ryde	1	F	98310
+Sydney - Ryde	1	M	93404
+Sydney - South West	0	F	12342
+Sydney - South West	0	M	12880
+Sydney - South West	1	F	226718
+Sydney - South West	1	M	221578
+Sydney - Sutherland	0	F	4306
+Sydney - Sutherland	0	M	3571
+Sydney - Sutherland	1	F	112280
+Sydney - Sutherland	1	M	107474
+Migratory - Offshore - Shipping (NSW)	0	F	4
+Migratory - Offshore - Shipping (NSW)	0	M	31
+Ballarat	0	F	6275
+Ballarat	0	M	6267
+Ballarat	1	F	82079
+Ballarat	1	M	78034
+Bendigo	0	F	6255
+Bendigo	0	M	6410
+Bendigo	1	F	79251
+Bendigo	1	M	74880
+Geelong	0	F	10981
+Geelong	0	M	11139
+Geelong	1	F	155603
+Geelong	1	M	147167
+Hume	0	F	9924
+Hume	0	M	10587
+Hume	1	F	85160
+Hume	1	M	81810
+Latrobe - Gippsland	0	F	12625
+Latrobe - Gippsland	0	M	13226
+Latrobe - Gippsland	1	F	139275
+Latrobe - Gippsland	1	M	133235
+Melbourne - Inner	0	F	25113
+Melbourne - Inner	0	M	26727
+Melbourne - Inner	1	F	289100
+Melbourne - Inner	1	M	272802
+Melbourne - Inner East	0	F	9111
+Melbourne - Inner East	0	M	7881
+Melbourne - Inner East	1	F	182809
+Melbourne - Inner East	1	M	170376
+Melbourne - Inner South	0	F	9704
+Melbourne - Inner South	0	M	7830
+Melbourne - Inner South	1	F	207209
+Melbourne - Inner South	1	M	193241
+Melbourne - North East	0	F	12265
+Melbourne - North East	0	M	11875
+Melbourne - North East	1	F	260424
+Melbourne - North East	1	M	253827
+Melbourne - North West	0	F	9996
+Melbourne - North West	0	M	10297
+Melbourne - North West	1	F	202468
+Melbourne - North West	1	M	199830
+Melbourne - Outer East	0	F	10433
+Melbourne - Outer East	0	M	9155
+Melbourne - Outer East	1	F	252036
+Melbourne - Outer East	1	M	241888
+Melbourne - South East	0	F	21939
+Melbourne - South East	0	M	21977
+Melbourne - South East	1	F	407312
+Melbourne - South East	1	M	406194
+Melbourne - West	0	F	21658
+Melbourne - West	0	M	24885
+Melbourne - West	1	F	402962
+Melbourne - West	1	M	400459
+Mornington Peninsula	0	F	10928
+Mornington Peninsula	0	M	10517
+Mornington Peninsula	1	F	146753
+Mornington Peninsula	1	M	137999
+North West	0	F	7074
+North West	0	M	8060
+North West	1	F	70734
+North West	1	M	69508
+Shepparton	0	F	5646
+Shepparton	0	M	5959
+Shepparton	1	F	63177
+Shepparton	1	M	61920
+Warrnambool and South West	0	F	5088
+Warrnambool and South West	0	M	5067
+Warrnambool and South West	1	F	59434
+Warrnambool and South West	1	M	57580
+Migratory - Offshore - Shipping (Vic.)	0	F	72
+Migratory - Offshore - Shipping (Vic.)	0	M	493
+Brisbane - East	0	F	4795
+Brisbane - East	0	M	4105
+Brisbane - East	1	F	117137
+Brisbane - East	1	M	111251
+Brisbane - North	0	F	5243
+Brisbane - North	0	M	4936
+Brisbane - North	1	F	109879
+Brisbane - North	1	M	103465
+Brisbane - South	0	F	8494
+Brisbane - South	0	M	8081
+Brisbane - South	1	F	179623
+Brisbane - South	1	M	173181
+Brisbane - West	0	F	4317
+Brisbane - West	0	M	3980
+Brisbane - West	1	F	91265
+Brisbane - West	1	M	87180
+Brisbane Inner City	0	F	14397
+Brisbane Inner City	0	M	15842
+Brisbane Inner City	1	F	135307
+Brisbane Inner City	1	M	131057
+Cairns	0	F	19731
+Cairns	0	M	20956
+Cairns	1	F	114824
+Cairns	1	M	110662
+Darling Downs - Maranoa	0	F	7475
+Darling Downs - Maranoa	0	M	10220
+Darling Downs - Maranoa	1	F	57369
+Darling Downs - Maranoa	1	M	56503
+Central Queensland	0	F	12853
+Central Queensland	0	M	19659
+Central Queensland	1	F	102799
+Central Queensland	1	M	100320
+Gold Coast	0	F	26159
+Gold Coast	0	M	24737
+Gold Coast	1	F	306049
+Gold Coast	1	M	286843
+Ipswich	0	F	10312
+Ipswich	0	M	13959
+Ipswich	1	F	173676
+Ipswich	1	M	167096
+Logan - Beaudesert	0	F	11469
+Logan - Beaudesert	0	M	11200
+Logan - Beaudesert	1	F	169721
+Logan - Beaudesert	1	M	164696
+Mackay - Isaac - Whitsunday	0	F	15097
+Mackay - Isaac - Whitsunday	0	M	25940
+Mackay - Isaac - Whitsunday	1	F	77861
+Mackay - Isaac - Whitsunday	1	M	76798
+Moreton Bay - North	0	F	8126
+Moreton Bay - North	0	M	8929
+Moreton Bay - North	1	F	126903
+Moreton Bay - North	1	M	118426
+Moreton Bay - South	0	F	3465
+Moreton Bay - South	0	M	2977
+Moreton Bay - South	1	F	106389
+Moreton Bay - South	1	M	102250
+Queensland - Outback	0	F	11563
+Queensland - Outback	0	M	17479
+Queensland - Outback	1	F	33647
+Queensland - Outback	1	M	33966
+Sunshine Coast	0	F	17036
+Sunshine Coast	0	M	15715
+Sunshine Coast	1	F	192464
+Sunshine Coast	1	M	176607
+Toowoomba	0	F	6104
+Toowoomba	0	M	6015
+Toowoomba	1	F	77863
+Toowoomba	1	M	71516
+Townsville	0	F	13185
+Townsville	0	M	15959
+Townsville	1	F	106667
+Townsville	1	M	102225
+Wide Bay	0	F	14789
+Wide Bay	0	M	16106
+Wide Bay	1	F	143428
+Wide Bay	1	M	137051
+Migratory - Offshore - Shipping (Qld)	0	F	54
+Migratory - Offshore - Shipping (Qld)	0	M	303
+Migratory - Offshore - Shipping (Qld)	1	M	3
+Adelaide - Central and Hills	0	F	10957
+Adelaide - Central and Hills	0	M	10398
+Adelaide - Central and Hills	1	F	149961
+Adelaide - Central and Hills	1	M	141372
+Adelaide - North	0	F	10114
+Adelaide - North	0	M	10045
+Adelaide - North	1	F	217607
+Adelaide - North	1	M	214166
+Adelaide - South	0	F	8829
+Adelaide - South	0	M	7300
+Adelaide - South	1	F	182132
+Adelaide - South	1	M	171638
+Adelaide - West	0	F	5754
+Adelaide - West	0	M	5246
+Adelaide - West	1	F	118030
+Adelaide - West	1	M	113029
+Barossa - Yorke - Mid North	0	F	5024
+Barossa - Yorke - Mid North	0	M	4966
+Barossa - Yorke - Mid North	1	F	52173
+Barossa - Yorke - Mid North	1	M	51918
+South Australia - Outback	0	F	6217
+South Australia - Outback	0	M	11772
+South Australia - Outback	1	F	36302
+South Australia - Outback	1	M	36277
+South Australia - South East	0	F	8047
+South Australia - South East	0	M	9515
+South Australia - South East	1	F	87937
+South Australia - South East	1	M	86517
+Migratory - Offshore - Shipping (SA)	0	M	34
+Bunbury	0	F	7585
+Bunbury	0	M	8570
+Bunbury	1	F	86518
+Bunbury	1	M	81463
+Mandurah	0	F	2875
+Mandurah	0	M	2408
+Mandurah	1	F	51101
+Mandurah	1	M	45947
+Perth - Inner	0	F	9582
+Perth - Inner	0	M	10343
+Perth - Inner	1	F	83278
+Perth - Inner	1	M	79956
+Perth - North East	0	F	6048
+Perth - North East	0	M	7695
+Perth - North East	1	F	130751
+Perth - North East	1	M	125819
+Perth - North West	0	F	11070
+Perth - North West	0	M	9907
+Perth - North West	1	F	278923
+Perth - North West	1	M	263014
+Perth - South East	0	F	13073
+Perth - South East	0	M	14153
+Perth - South East	1	F	249577
+Perth - South East	1	M	243088
+Perth - South West	0	F	10634
+Perth - South West	0	M	11576
+Perth - South West	1	F	212103
+Perth - South West	1	M	198345
+Western Australia - Wheat Belt	0	F	7824
+Western Australia - Wheat Belt	0	M	11001
+Western Australia - Wheat Belt	1	F	58974
+Western Australia - Wheat Belt	1	M	58420
+Western Australia - Outback (North)	0	F	20934
+Western Australia - Outback (North)	0	M	43144
+Western Australia - Outback (North)	1	F	34161
+Western Australia - Outback (North)	1	M	34583
+Western Australia - Outback (South)	0	F	15536
+Western Australia - Outback (South)	0	M	27857
+Western Australia - Outback (South)	1	F	49060
+Western Australia - Outback (South)	1	M	49216
+Migratory - Offshore - Shipping (WA)	0	F	390
+Migratory - Offshore - Shipping (WA)	0	M	2846
+Migratory - Offshore - Shipping (WA)	1	F	4
+Migratory - Offshore - Shipping (WA)	1	M	10
+Hobart	0	F	7740
+Hobart	0	M	7714
+Hobart	1	F	118198
+Hobart	1	M	112094
+Launceston and North East	0	F	5339
+Launceston and North East	0	M	5380
+Launceston and North East	1	F	71141
+Launceston and North East	1	M	68358
+South East	0	F	1907
+South East	0	M	2111
+South East	1	F	18382
+South East	1	M	19094
+West and North West	0	F	4238
+West and North West	0	M	4393
+West and North West	1	F	54568
+West and North West	1	M	51835
+Migratory - Offshore - Shipping (Tas.)	0	F	72
+Migratory - Offshore - Shipping (Tas.)	0	M	294
+Darwin	0	F	12623
+Darwin	0	M	15258
+Darwin	1	F	63473
+Darwin	1	M	61798
+Northern Territory - Outback	0	F	13244
+Northern Territory - Outback	0	M	16663
+Northern Territory - Outback	1	F	39351
+Northern Territory - Outback	1	M	38411
+Migratory - Offshore - Shipping (NT)	0	F	65
+Migratory - Offshore - Shipping (NT)	0	M	407
+Migratory - Offshore - Shipping (NT)	1	M	8
+Australian Capital Territory	0	F	13671
+Australian Capital Territory	0	M	14221
+Australian Capital Territory	1	F	215447
+Australian Capital Territory	1	M	208970
+Other Territories	0	F	696
+Other Territories	0	M	1079
+Other Territories	1	F	1844
+Other Territories	1	M	1809
