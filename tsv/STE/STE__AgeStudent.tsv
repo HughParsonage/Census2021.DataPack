@@ -1,0 +1,46 @@
+STE_NAME16	AgeStudent	students
+New South Wales	0-4	140571
+New South Wales	5-14	934058
+New South Wales	15-19	358292
+New South Wales	20-24	211751
+New South Wales	25+	341293
+Victoria	0-4	111427
+Victoria	5-14	742983
+Victoria	15-19	297321
+Victoria	20-24	187761
+Victoria	25+	282639
+Queensland	0-4	80491
+Queensland	5-14	623623
+Queensland	15-19	227616
+Queensland	20-24	106754
+Queensland	25+	204931
+South Australia	0-4	25059
+South Australia	5-14	197755
+South Australia	15-19	77030
+South Australia	20-24	43796
+South Australia	25+	71855
+Western Australia	0-4	44806
+Western Australia	5-14	321317
+Western Australia	15-19	115171
+Western Australia	20-24	58150
+Western Australia	25+	99637
+Tasmania	0-4	7179
+Tasmania	5-14	60119
+Tasmania	15-19	22224
+Tasmania	20-24	9504
+Tasmania	25+	24158
+Northern Territory	0-4	4107
+Northern Territory	5-14	28906
+Northern Territory	15-19	7684
+Northern Territory	20-24	2933
+Northern Territory	25+	11352
+Australian Capital Territory	0-4	7881
+Australian Capital Territory	5-14	53824
+Australian Capital Territory	15-19	21638
+Australian Capital Territory	20-24	17284
+Australian Capital Territory	25+	28234
+Other Territories	0-4	66
+Other Territories	5-14	486
+Other Territories	15-19	115
+Other Territories	20-24	38
+Other Territories	25+	114

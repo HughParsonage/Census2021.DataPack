@@ -1,0 +1,764 @@
+STE_NAME16	Age.min	persons
+New South Wales	0	91509
+New South Wales	1	93238
+New South Wales	2	93583
+New South Wales	3	93627
+New South Wales	4	96089
+New South Wales	5	99138
+New South Wales	6	98424
+New South Wales	7	99869
+New South Wales	8	101396
+New South Wales	9	101990
+New South Wales	10	100410
+New South Wales	11	101468
+New South Wales	12	100073
+New South Wales	13	99931
+New South Wales	14	99256
+New South Wales	15	95677
+New South Wales	16	92918
+New South Wales	17	90621
+New South Wales	18	89717
+New South Wales	19	88965
+New South Wales	20	94113
+New South Wales	21	98754
+New South Wales	22	98930
+New South Wales	23	100484
+New South Wales	24	103908
+New South Wales	25	106275
+New South Wales	26	110143
+New South Wales	27	111391
+New South Wales	28	113275
+New South Wales	29	114884
+New South Wales	30	117902
+New South Wales	31	118750
+New South Wales	32	117558
+New South Wales	33	115879
+New South Wales	34	115966
+New South Wales	35	116722
+New South Wales	36	116750
+New South Wales	37	116300
+New South Wales	38	116834
+New South Wales	39	113578
+New South Wales	40	111647
+New South Wales	41	106089
+New South Wales	42	104059
+New South Wales	43	101025
+New South Wales	44	100170
+New South Wales	45	99953
+New South Wales	46	100565
+New South Wales	47	102648
+New South Wales	48	104859
+New South Wales	49	108891
+New South Wales	50	109997
+New South Wales	51	100667
+New South Wales	52	99908
+New South Wales	53	95435
+New South Wales	54	94023
+New South Wales	55	93845
+New South Wales	56	95435
+New South Wales	57	99038
+New South Wales	58	101361
+New South Wales	59	100478
+New South Wales	60	99507
+New South Wales	61	95763
+New South Wales	62	93592
+New South Wales	63	92756
+New South Wales	64	90011
+New South Wales	65	87653
+New South Wales	66	85725
+New South Wales	67	82951
+New South Wales	68	81985
+New South Wales	69	78177
+New South Wales	70	77199
+New South Wales	71	75518
+New South Wales	72	72514
+New South Wales	73	72453
+New South Wales	74	74554
+New South Wales	75	61558
+New South Wales	76	58095
+New South Wales	77	54837
+New South Wales	78	47875
+New South Wales	79	45745
+New South Wales	80	183409
+New South Wales	85	110697
+New South Wales	90	55803
+New South Wales	95	15488
+New South Wales	100	1912
+Victoria	0	73078
+Victoria	1	74289
+Victoria	2	74874
+Victoria	3	75963
+Victoria	4	77699
+Victoria	5	80605
+Victoria	6	79890
+Victoria	7	80286
+Victoria	8	81297
+Victoria	9	80094
+Victoria	10	78020
+Victoria	11	79384
+Victoria	12	77920
+Victoria	13	77951
+Victoria	14	78121
+Victoria	15	75127
+Victoria	16	72251
+Victoria	17	71937
+Victoria	18	71508
+Victoria	19	72381
+Victoria	20	77087
+Victoria	21	80888
+Victoria	22	81344
+Victoria	23	83133
+Victoria	24	87877
+Victoria	25	91481
+Victoria	26	95022
+Victoria	27	95647
+Victoria	28	96423
+Victoria	29	96971
+Victoria	30	99747
+Victoria	31	100974
+Victoria	32	99752
+Victoria	33	100003
+Victoria	34	99485
+Victoria	35	100039
+Victoria	36	99805
+Victoria	37	97644
+Victoria	38	97801
+Victoria	39	94638
+Victoria	40	92051
+Victoria	41	87302
+Victoria	42	85041
+Victoria	43	82867
+Victoria	44	81549
+Victoria	45	81035
+Victoria	46	82025
+Victoria	47	83018
+Victoria	48	83451
+Victoria	49	87002
+Victoria	50	89119
+Victoria	51	83211
+Victoria	52	82736
+Victoria	53	79165
+Victoria	54	76128
+Victoria	55	75840
+Victoria	56	75868
+Victoria	57	77049
+Victoria	58	78051
+Victoria	59	77103
+Victoria	60	76414
+Victoria	61	73719
+Victoria	62	72877
+Victoria	63	70658
+Victoria	64	68970
+Victoria	65	68067
+Victoria	66	65995
+Victoria	67	63434
+Victoria	68	62669
+Victoria	69	60394
+Victoria	70	59232
+Victoria	71	57883
+Victoria	72	55303
+Victoria	73	55245
+Victoria	74	57332
+Victoria	75	46944
+Victoria	76	43534
+Victoria	77	40942
+Victoria	78	36166
+Victoria	79	35615
+Victoria	80	141601
+Victoria	85	86024
+Victoria	90	43190
+Victoria	95	11839
+Victoria	100	1423
+Queensland	0	55887
+Queensland	1	57822
+Queensland	2	58538
+Queensland	3	59308
+Queensland	4	60898
+Queensland	5	64136
+Queensland	6	64560
+Queensland	7	66216
+Queensland	8	66979
+Queensland	9	67420
+Queensland	10	67540
+Queensland	11	68815
+Queensland	12	69031
+Queensland	13	68947
+Queensland	14	68230
+Queensland	15	66267
+Queensland	16	63972
+Queensland	17	62030
+Queensland	18	60048
+Queensland	19	61190
+Queensland	20	63685
+Queensland	21	64289
+Queensland	22	64163
+Queensland	23	65347
+Queensland	24	66251
+Queensland	25	67706
+Queensland	26	69469
+Queensland	27	69671
+Queensland	28	70063
+Queensland	29	70782
+Queensland	30	71838
+Queensland	31	71904
+Queensland	32	70387
+Queensland	33	69986
+Queensland	34	69919
+Queensland	35	71464
+Queensland	36	71431
+Queensland	37	71095
+Queensland	38	72869
+Queensland	39	70264
+Queensland	40	69621
+Queensland	41	66659
+Queensland	42	65752
+Queensland	43	64133
+Queensland	44	64532
+Queensland	45	65113
+Queensland	46	65891
+Queensland	47	67594
+Queensland	48	69978
+Queensland	49	71712
+Queensland	50	73354
+Queensland	51	67987
+Queensland	52	66341
+Queensland	53	63434
+Queensland	54	62731
+Queensland	55	61389
+Queensland	56	61970
+Queensland	57	64208
+Queensland	58	64648
+Queensland	59	64145
+Queensland	60	63891
+Queensland	61	60959
+Queensland	62	59640
+Queensland	63	58042
+Queensland	64	56386
+Queensland	65	55476
+Queensland	66	54029
+Queensland	67	52389
+Queensland	68	51852
+Queensland	69	50765
+Queensland	70	49514
+Queensland	71	48666
+Queensland	72	47011
+Queensland	73	45770
+Queensland	74	47988
+Queensland	75	38925
+Queensland	76	37353
+Queensland	77	34118
+Queensland	78	29434
+Queensland	79	28548
+Queensland	80	106611
+Queensland	85	59583
+Queensland	90	28897
+Queensland	95	7703
+Queensland	100	952
+South Australia	0	18435
+South Australia	1	18533
+South Australia	2	18711
+South Australia	3	19108
+South Australia	4	19437
+South Australia	5	20435
+South Australia	6	20284
+South Australia	7	20781
+South Australia	8	20957
+South Australia	9	21300
+South Australia	10	20734
+South Australia	11	21118
+South Australia	12	21075
+South Australia	13	21190
+South Australia	14	21044
+South Australia	15	20377
+South Australia	16	19743
+South Australia	17	19820
+South Australia	18	19438
+South Australia	19	19776
+South Australia	20	20713
+South Australia	21	21687
+South Australia	22	21833
+South Australia	23	22147
+South Australia	24	22795
+South Australia	25	23339
+South Australia	26	23853
+South Australia	27	23176
+South Australia	28	23519
+South Australia	29	23310
+South Australia	30	23664
+South Australia	31	23689
+South Australia	32	23588
+South Australia	33	23553
+South Australia	34	23599
+South Australia	35	24027
+South Australia	36	24009
+South Australia	37	24123
+South Australia	38	23845
+South Australia	39	22996
+South Australia	40	22692
+South Australia	41	21653
+South Australia	42	21286
+South Australia	43	20831
+South Australia	44	21196
+South Australia	45	20960
+South Australia	46	21292
+South Australia	47	21639
+South Australia	48	22298
+South Australia	49	23523
+South Australia	50	24286
+South Australia	51	23197
+South Australia	52	23048
+South Australia	53	22552
+South Australia	54	21843
+South Australia	55	22138
+South Australia	56	22589
+South Australia	57	22995
+South Australia	58	23355
+South Australia	59	23226
+South Australia	60	23691
+South Australia	61	22899
+South Australia	62	22671
+South Australia	63	21898
+South Australia	64	21683
+South Australia	65	21260
+South Australia	66	20742
+South Australia	67	20330
+South Australia	68	20315
+South Australia	69	19654
+South Australia	70	19404
+South Australia	71	19069
+South Australia	72	18401
+South Australia	73	17909
+South Australia	74	19257
+South Australia	75	15499
+South Australia	76	14554
+South Australia	77	13367
+South Australia	78	12102
+South Australia	79	11462
+South Australia	80	45666
+South Australia	85	27812
+South Australia	90	14581
+South Australia	95	4353
+South Australia	100	571
+Western Australia	0	30846
+Western Australia	1	31834
+Western Australia	2	32290
+Western Australia	3	32934
+Western Australia	4	33849
+Western Australia	5	34850
+Western Australia	6	34300
+Western Australia	7	34478
+Western Australia	8	34659
+Western Australia	9	34363
+Western Australia	10	34541
+Western Australia	11	34513
+Western Australia	12	33793
+Western Australia	13	34436
+Western Australia	14	34096
+Western Australia	15	32715
+Western Australia	16	31122
+Western Australia	17	30554
+Western Australia	18	29533
+Western Australia	19	29332
+Western Australia	20	30557
+Western Australia	21	31397
+Western Australia	22	31998
+Western Australia	23	32066
+Western Australia	24	32805
+Western Australia	25	33766
+Western Australia	26	35043
+Western Australia	27	35455
+Western Australia	28	35545
+Western Australia	29	36239
+Western Australia	30	38120
+Western Australia	31	38897
+Western Australia	32	39446
+Western Australia	33	39652
+Western Australia	34	40198
+Western Australia	35	40766
+Western Australia	36	40627
+Western Australia	37	40354
+Western Australia	38	40253
+Western Australia	39	38900
+Western Australia	40	38349
+Western Australia	41	36245
+Western Australia	42	35558
+Western Australia	43	34495
+Western Australia	44	33938
+Western Australia	45	34250
+Western Australia	46	34262
+Western Australia	47	34262
+Western Australia	48	35004
+Western Australia	49	36858
+Western Australia	50	37681
+Western Australia	51	35087
+Western Australia	52	35019
+Western Australia	53	33385
+Western Australia	54	32458
+Western Australia	55	32362
+Western Australia	56	32254
+Western Australia	57	32848
+Western Australia	58	33023
+Western Australia	59	32284
+Western Australia	60	32093
+Western Australia	61	30902
+Western Australia	62	30164
+Western Australia	63	29101
+Western Australia	64	28407
+Western Australia	65	28615
+Western Australia	66	27146
+Western Australia	67	26051
+Western Australia	68	25575
+Western Australia	69	24801
+Western Australia	70	24217
+Western Australia	71	23307
+Western Australia	72	22614
+Western Australia	73	22048
+Western Australia	74	23001
+Western Australia	75	17719
+Western Australia	76	16704
+Western Australia	77	15984
+Western Australia	78	13817
+Western Australia	79	13794
+Western Australia	80	53115
+Western Australia	85	30899
+Western Australia	90	14681
+Western Australia	95	4008
+Western Australia	100	515
+Tasmania	0	5487
+Tasmania	1	5651
+Tasmania	2	5659
+Tasmania	3	5626
+Tasmania	4	5852
+Tasmania	5	6136
+Tasmania	6	6104
+Tasmania	7	6292
+Tasmania	8	6345
+Tasmania	9	6270
+Tasmania	10	6568
+Tasmania	11	6422
+Tasmania	12	6821
+Tasmania	13	6682
+Tasmania	14	6725
+Tasmania	15	6484
+Tasmania	16	6253
+Tasmania	17	5935
+Tasmania	18	5739
+Tasmania	19	5659
+Tasmania	20	5898
+Tasmania	21	6003
+Tasmania	22	6219
+Tasmania	23	6226
+Tasmania	24	6676
+Tasmania	25	7131
+Tasmania	26	7783
+Tasmania	27	7991
+Tasmania	28	7930
+Tasmania	29	7919
+Tasmania	30	8024
+Tasmania	31	7878
+Tasmania	32	7548
+Tasmania	33	7302
+Tasmania	34	7158
+Tasmania	35	7170
+Tasmania	36	7147
+Tasmania	37	6924
+Tasmania	38	6693
+Tasmania	39	6774
+Tasmania	40	6529
+Tasmania	41	6227
+Tasmania	42	6306
+Tasmania	43	6159
+Tasmania	44	6015
+Tasmania	45	6285
+Tasmania	46	6365
+Tasmania	47	6550
+Tasmania	48	6819
+Tasmania	49	7216
+Tasmania	50	7624
+Tasmania	51	7205
+Tasmania	52	7278
+Tasmania	53	6999
+Tasmania	54	6874
+Tasmania	55	6673
+Tasmania	56	7047
+Tasmania	57	7616
+Tasmania	58	7653
+Tasmania	59	8001
+Tasmania	60	8049
+Tasmania	61	7781
+Tasmania	62	7662
+Tasmania	63	7488
+Tasmania	64	7413
+Tasmania	65	7365
+Tasmania	66	7084
+Tasmania	67	6910
+Tasmania	68	6927
+Tasmania	69	6859
+Tasmania	70	6598
+Tasmania	71	6524
+Tasmania	72	6116
+Tasmania	73	6087
+Tasmania	74	6535
+Tasmania	75	5087
+Tasmania	76	4716
+Tasmania	77	4572
+Tasmania	78	3884
+Tasmania	79	3763
+Tasmania	80	14617
+Tasmania	85	8140
+Tasmania	90	3800
+Tasmania	95	951
+Tasmania	100	100
+Northern Territory	0	3055
+Northern Territory	1	3339
+Northern Territory	2	3236
+Northern Territory	3	3244
+Northern Territory	4	3344
+Northern Territory	5	3362
+Northern Territory	6	3485
+Northern Territory	7	3301
+Northern Territory	8	3291
+Northern Territory	9	3398
+Northern Territory	10	3292
+Northern Territory	11	3286
+Northern Territory	12	3139
+Northern Territory	13	3089
+Northern Territory	14	3031
+Northern Territory	15	2928
+Northern Territory	16	2827
+Northern Territory	17	2786
+Northern Territory	18	2849
+Northern Territory	19	2792
+Northern Territory	20	2981
+Northern Territory	21	2900
+Northern Territory	22	3113
+Northern Territory	23	3338
+Northern Territory	24	3458
+Northern Territory	25	3945
+Northern Territory	26	4099
+Northern Territory	27	4220
+Northern Territory	28	4333
+Northern Territory	29	4339
+Northern Territory	30	4711
+Northern Territory	31	4507
+Northern Territory	32	4323
+Northern Territory	33	4252
+Northern Territory	34	4161
+Northern Territory	35	4187
+Northern Territory	36	3982
+Northern Territory	37	3945
+Northern Territory	38	3771
+Northern Territory	39	3506
+Northern Territory	40	3779
+Northern Territory	41	3287
+Northern Territory	42	3309
+Northern Territory	43	3055
+Northern Territory	44	2994
+Northern Territory	45	3102
+Northern Territory	46	2881
+Northern Territory	47	2976
+Northern Territory	48	3042
+Northern Territory	49	3059
+Northern Territory	50	3375
+Northern Territory	51	3077
+Northern Territory	52	2942
+Northern Territory	53	2781
+Northern Territory	54	2741
+Northern Territory	55	2746
+Northern Territory	56	2600
+Northern Territory	57	2549
+Northern Territory	58	2627
+Northern Territory	59	2548
+Northern Territory	60	2569
+Northern Territory	61	2232
+Northern Territory	62	2230
+Northern Territory	63	2086
+Northern Territory	64	2038
+Northern Territory	65	1932
+Northern Territory	66	1779
+Northern Territory	67	1717
+Northern Territory	68	1568
+Northern Territory	69	1441
+Northern Territory	70	1432
+Northern Territory	71	1338
+Northern Territory	72	1152
+Northern Territory	73	1079
+Northern Territory	74	1068
+Northern Territory	75	828
+Northern Territory	76	710
+Northern Territory	77	636
+Northern Territory	78	566
+Northern Territory	79	548
+Northern Territory	80	1876
+Northern Territory	85	761
+Northern Territory	90	323
+Northern Territory	95	71
+Northern Territory	100	9
+Australian Capital Territory	0	5121
+Australian Capital Territory	1	5306
+Australian Capital Territory	2	5322
+Australian Capital Territory	3	5262
+Australian Capital Territory	4	5664
+Australian Capital Territory	5	5824
+Australian Capital Territory	6	5894
+Australian Capital Territory	7	5869
+Australian Capital Territory	8	5888
+Australian Capital Territory	9	5686
+Australian Capital Territory	10	5635
+Australian Capital Territory	11	5724
+Australian Capital Territory	12	5364
+Australian Capital Territory	13	5200
+Australian Capital Territory	14	5170
+Australian Capital Territory	15	5081
+Australian Capital Territory	16	4730
+Australian Capital Territory	17	4708
+Australian Capital Territory	18	5712
+Australian Capital Territory	19	6119
+Australian Capital Territory	20	6315
+Australian Capital Territory	21	6709
+Australian Capital Territory	22	6878
+Australian Capital Territory	23	7132
+Australian Capital Territory	24	7230
+Australian Capital Territory	25	7385
+Australian Capital Territory	26	7845
+Australian Capital Territory	27	7984
+Australian Capital Territory	28	8090
+Australian Capital Territory	29	7971
+Australian Capital Territory	30	7933
+Australian Capital Territory	31	7939
+Australian Capital Territory	32	7619
+Australian Capital Territory	33	7456
+Australian Capital Territory	34	7512
+Australian Capital Territory	35	7534
+Australian Capital Territory	36	7574
+Australian Capital Territory	37	7501
+Australian Capital Territory	38	7326
+Australian Capital Territory	39	7299
+Australian Capital Territory	40	7069
+Australian Capital Territory	41	6587
+Australian Capital Territory	42	6434
+Australian Capital Territory	43	6044
+Australian Capital Territory	44	6012
+Australian Capital Territory	45	5725
+Australian Capital Territory	46	5972
+Australian Capital Territory	47	5763
+Australian Capital Territory	48	5894
+Australian Capital Territory	49	5936
+Australian Capital Territory	50	6055
+Australian Capital Territory	51	5557
+Australian Capital Territory	52	5353
+Australian Capital Territory	53	5102
+Australian Capital Territory	54	4856
+Australian Capital Territory	55	4866
+Australian Capital Territory	56	4804
+Australian Capital Territory	57	4768
+Australian Capital Territory	58	4681
+Australian Capital Territory	59	4803
+Australian Capital Territory	60	4611
+Australian Capital Territory	61	4435
+Australian Capital Territory	62	4253
+Australian Capital Territory	63	4142
+Australian Capital Territory	64	4040
+Australian Capital Territory	65	3924
+Australian Capital Territory	66	3645
+Australian Capital Territory	67	3667
+Australian Capital Territory	68	3713
+Australian Capital Territory	69	3567
+Australian Capital Territory	70	3534
+Australian Capital Territory	71	3484
+Australian Capital Territory	72	3291
+Australian Capital Territory	73	3344
+Australian Capital Territory	74	3505
+Australian Capital Territory	75	2838
+Australian Capital Territory	76	2488
+Australian Capital Territory	77	2352
+Australian Capital Territory	78	2038
+Australian Capital Territory	79	2043
+Australian Capital Territory	80	7598
+Australian Capital Territory	85	4437
+Australian Capital Territory	90	2067
+Australian Capital Territory	95	617
+Australian Capital Territory	100	59
+Other Territories	0	43
+Other Territories	1	38
+Other Territories	2	54
+Other Territories	3	50
+Other Territories	4	51
+Other Territories	5	59
+Other Territories	6	59
+Other Territories	7	71
+Other Territories	8	50
+Other Territories	9	65
+Other Territories	10	62
+Other Territories	11	56
+Other Territories	12	66
+Other Territories	13	58
+Other Territories	14	53
+Other Territories	15	49
+Other Territories	16	43
+Other Territories	17	39
+Other Territories	18	33
+Other Territories	19	25
+Other Territories	20	29
+Other Territories	21	31
+Other Territories	22	34
+Other Territories	23	60
+Other Territories	24	63
+Other Territories	25	44
+Other Territories	26	51
+Other Territories	27	62
+Other Territories	28	56
+Other Territories	29	67
+Other Territories	30	57
+Other Territories	31	54
+Other Territories	32	52
+Other Territories	33	77
+Other Territories	34	67
+Other Territories	35	62
+Other Territories	36	57
+Other Territories	37	81
+Other Territories	38	82
+Other Territories	39	69
+Other Territories	40	61
+Other Territories	41	62
+Other Territories	42	63
+Other Territories	43	58
+Other Territories	44	46
+Other Territories	45	51
+Other Territories	46	47
+Other Territories	47	73
+Other Territories	48	68
+Other Territories	49	70
+Other Territories	50	78
+Other Territories	51	74
+Other Territories	52	76
+Other Territories	53	65
+Other Territories	54	61
+Other Territories	55	80
+Other Territories	56	67
+Other Territories	57	77
+Other Territories	58	74
+Other Territories	59	93
+Other Territories	60	71
+Other Territories	61	84
+Other Territories	62	75
+Other Territories	63	80
+Other Territories	64	75
+Other Territories	65	70
+Other Territories	66	76
+Other Territories	67	52
+Other Territories	68	60
+Other Territories	69	59
+Other Territories	70	71
+Other Territories	71	80
+Other Territories	72	56
+Other Territories	73	40
+Other Territories	74	25
+Other Territories	75	34
+Other Territories	76	37
+Other Territories	77	24
+Other Territories	78	33
+Other Territories	79	24
+Other Territories	80	106
+Other Territories	85	46
+Other Territories	90	22

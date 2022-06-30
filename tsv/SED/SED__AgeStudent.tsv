@@ -1,0 +1,2208 @@
+SED_NAME16	AgeStudent	students
+Albury	0-4	1469
+Albury	5-14	9752
+Albury	15-19	3557
+Albury	20-24	1344
+Albury	25+	2827
+Auburn	0-4	1764
+Auburn	5-14	11206
+Auburn	15-19	4350
+Auburn	20-24	5646
+Auburn	25+	8086
+Ballina	0-4	1185
+Ballina	5-14	8550
+Ballina	15-19	2952
+Ballina	20-24	934
+Ballina	25+	3322
+Balmain	0-4	1410
+Balmain	5-14	7669
+Balmain	15-19	2863
+Balmain	20-24	3218
+Balmain	25+	5624
+Bankstown	0-4	1700
+Bankstown	5-14	11718
+Bankstown	15-19	4873
+Bankstown	20-24	2974
+Bankstown	25+	4044
+Barwon	0-4	1186
+Barwon	5-14	8015
+Barwon	15-19	2316
+Barwon	20-24	577
+Barwon	25+	1785
+Bathurst	0-4	1302
+Bathurst	5-14	9410
+Bathurst	15-19	3429
+Bathurst	20-24	1321
+Bathurst	25+	2505
+Baulkham Hills	0-4	1742
+Baulkham Hills	5-14	12646
+Baulkham Hills	15-19	4842
+Baulkham Hills	20-24	2908
+Baulkham Hills	25+	3308
+Bega	0-4	900
+Bega	5-14	7142
+Bega	15-19	2473
+Bega	20-24	547
+Bega	25+	1918
+Blacktown	0-4	1587
+Blacktown	5-14	10710
+Blacktown	15-19	3991
+Blacktown	20-24	3094
+Blacktown	25+	4814
+Blue Mountains	0-4	1211
+Blue Mountains	5-14	8548
+Blue Mountains	15-19	3427
+Blue Mountains	20-24	1302
+Blue Mountains	25+	3134
+Cabramatta	0-4	997
+Cabramatta	5-14	9461
+Cabramatta	15-19	4765
+Cabramatta	20-24	2787
+Cabramatta	25+	2972
+Camden	0-4	3454
+Camden	5-14	19564
+Camden	15-19	6523
+Camden	20-24	2704
+Camden	25+	4331
+Campbelltown	0-4	1505
+Campbelltown	5-14	10684
+Campbelltown	15-19	3826
+Campbelltown	20-24	1761
+Campbelltown	25+	2919
+Canterbury	0-4	1464
+Canterbury	5-14	9186
+Canterbury	15-19	4065
+Canterbury	20-24	3140
+Canterbury	25+	4910
+Castle Hill	0-4	2193
+Castle Hill	5-14	15990
+Castle Hill	15-19	6703
+Castle Hill	20-24	3286
+Castle Hill	25+	3815
+Cessnock	0-4	1840
+Cessnock	5-14	11347
+Cessnock	15-19	3480
+Cessnock	20-24	1274
+Cessnock	25+	2757
+Charlestown	0-4	1535
+Charlestown	5-14	9726
+Charlestown	15-19	3485
+Charlestown	20-24	1763
+Charlestown	25+	2824
+Clarence	0-4	1103
+Clarence	5-14	8256
+Clarence	15-19	2580
+Clarence	20-24	655
+Clarence	25+	1948
+Coffs Harbour	0-4	1280
+Coffs Harbour	5-14	9194
+Coffs Harbour	15-19	3133
+Coffs Harbour	20-24	1031
+Coffs Harbour	25+	2887
+Coogee	0-4	1408
+Coogee	5-14	8083
+Coogee	15-19	3014
+Coogee	20-24	2230
+Coogee	25+	4878
+Cootamundra	0-4	1152
+Cootamundra	5-14	8288
+Cootamundra	15-19	2717
+Cootamundra	20-24	656
+Cootamundra	25+	1592
+Cronulla	0-4	1541
+Cronulla	5-14	9343
+Cronulla	15-19	4213
+Cronulla	20-24	1948
+Cronulla	25+	2434
+Davidson	0-4	1503
+Davidson	5-14	12456
+Davidson	15-19	5541
+Davidson	20-24	2746
+Davidson	25+	2661
+Drummoyne	0-4	1427
+Drummoyne	5-14	8282
+Drummoyne	15-19	3475
+Drummoyne	20-24	2233
+Drummoyne	25+	3841
+Dubbo	0-4	1625
+Dubbo	5-14	10383
+Dubbo	15-19	3018
+Dubbo	20-24	886
+Dubbo	25+	2528
+East Hills	0-4	1562
+East Hills	5-14	10517
+East Hills	15-19	4519
+East Hills	20-24	2325
+East Hills	25+	2757
+Epping	0-4	1465
+Epping	5-14	12259
+Epping	15-19	5236
+Epping	20-24	3185
+Epping	25+	3962
+Fairfield	0-4	1192
+Fairfield	5-14	11086
+Fairfield	15-19	5098
+Fairfield	20-24	2782
+Fairfield	25+	3953
+Gosford	0-4	1326
+Gosford	5-14	8126
+Gosford	15-19	2924
+Gosford	20-24	1363
+Gosford	25+	2965
+Goulburn	0-4	1311
+Goulburn	5-14	9450
+Goulburn	15-19	3399
+Goulburn	20-24	1069
+Goulburn	25+	2599
+Granville	0-4	1829
+Granville	5-14	11911
+Granville	15-19	4390
+Granville	20-24	3944
+Granville	25+	5594
+Hawkesbury	0-4	1438
+Hawkesbury	5-14	9765
+Hawkesbury	15-19	3902
+Hawkesbury	20-24	1605
+Hawkesbury	25+	2291
+Heathcote	0-4	1722
+Heathcote	5-14	10047
+Heathcote	15-19	4096
+Heathcote	20-24	1841
+Heathcote	25+	2597
+Heffron	0-4	1547
+Heffron	5-14	6941
+Heffron	15-19	3410
+Heffron	20-24	7387
+Heffron	25+	10434
+Holsworthy	0-4	1724
+Holsworthy	5-14	12725
+Holsworthy	15-19	5133
+Holsworthy	20-24	2527
+Holsworthy	25+	3102
+Hornsby	0-4	1588
+Hornsby	5-14	11292
+Hornsby	15-19	4766
+Hornsby	20-24	2600
+Hornsby	25+	3639
+Keira	0-4	1596
+Keira	5-14	10285
+Keira	15-19	4537
+Keira	20-24	2878
+Keira	25+	3435
+Kiama	0-4	1540
+Kiama	5-14	9047
+Kiama	15-19	3275
+Kiama	20-24	1256
+Kiama	25+	2450
+Kogarah	0-4	1395
+Kogarah	5-14	8847
+Kogarah	15-19	3744
+Kogarah	20-24	4562
+Kogarah	25+	5791
+Ku-ring-gai	0-4	1623
+Ku-ring-gai	5-14	11880
+Ku-ring-gai	15-19	5501
+Ku-ring-gai	20-24	2897
+Ku-ring-gai	25+	3497
+Lake Macquarie	0-4	1412
+Lake Macquarie	5-14	8750
+Lake Macquarie	15-19	3167
+Lake Macquarie	20-24	1477
+Lake Macquarie	25+	2512
+Lakemba	0-4	1719
+Lakemba	5-14	12505
+Lakemba	15-19	4822
+Lakemba	20-24	3160
+Lakemba	25+	4993
+Lane Cove	0-4	1662
+Lane Cove	5-14	10481
+Lane Cove	15-19	4407
+Lane Cove	20-24	2651
+Lane Cove	25+	4163
+Lismore	0-4	1038
+Lismore	5-14	8314
+Lismore	15-19	2947
+Lismore	20-24	947
+Lismore	25+	2717
+Liverpool	0-4	1441
+Liverpool	5-14	12577
+Liverpool	15-19	5249
+Liverpool	20-24	2853
+Liverpool	25+	3961
+Londonderry	0-4	2686
+Londonderry	5-14	17225
+Londonderry	15-19	5010
+Londonderry	20-24	2165
+Londonderry	25+	4160
+Macquarie Fields	0-4	2283
+Macquarie Fields	5-14	15626
+Macquarie Fields	15-19	5267
+Macquarie Fields	20-24	2727
+Macquarie Fields	25+	4628
+Maitland	0-4	1969
+Maitland	5-14	12352
+Maitland	15-19	3989
+Maitland	20-24	1737
+Maitland	25+	3387
+Manly	0-4	1653
+Manly	5-14	10288
+Manly	15-19	4217
+Manly	20-24	2142
+Manly	25+	3485
+Maroubra	0-4	1514
+Maroubra	5-14	9380
+Maroubra	15-19	3873
+Maroubra	20-24	2693
+Maroubra	25+	4179
+Miranda	0-4	1597
+Miranda	5-14	9640
+Miranda	15-19	3992
+Miranda	20-24	1847
+Miranda	25+	2641
+Monaro	0-4	1479
+Monaro	5-14	10035
+Monaro	15-19	3484
+Monaro	20-24	1462
+Monaro	25+	3738
+Mount Druitt	0-4	1612
+Mount Druitt	5-14	13167
+Mount Druitt	15-19	4847
+Mount Druitt	20-24	2463
+Mount Druitt	25+	3504
+Mulgoa	0-4	1825
+Mulgoa	5-14	12441
+Mulgoa	15-19	5118
+Mulgoa	20-24	2220
+Mulgoa	25+	2530
+Murray	0-4	1343
+Murray	5-14	9706
+Murray	15-19	3436
+Murray	20-24	855
+Murray	25+	2029
+Myall Lakes	0-4	985
+Myall Lakes	5-14	7515
+Myall Lakes	15-19	2443
+Myall Lakes	20-24	581
+Myall Lakes	25+	1733
+Newcastle	0-4	1230
+Newcastle	5-14	7463
+Newcastle	15-19	2830
+Newcastle	20-24	3056
+Newcastle	25+	4560
+Newtown	0-4	792
+Newtown	5-14	4393
+Newtown	15-19	2534
+Newtown	20-24	5286
+Newtown	25+	7305
+North Shore	0-4	1105
+North Shore	5-14	6437
+North Shore	15-19	2766
+North Shore	20-24	2038
+North Shore	25+	4289
+Northern Tablelands	0-4	1234
+Northern Tablelands	5-14	8804
+Northern Tablelands	15-19	3214
+Northern Tablelands	20-24	1465
+Northern Tablelands	25+	2823
+Oatley	0-4	1337
+Oatley	5-14	8972
+Oatley	15-19	4057
+Oatley	20-24	2586
+Oatley	25+	3051
+Orange	0-4	1494
+Orange	5-14	10789
+Orange	15-19	3450
+Orange	20-24	1093
+Orange	25+	2593
+Oxley	0-4	1132
+Oxley	5-14	8220
+Oxley	15-19	2737
+Oxley	20-24	646
+Oxley	25+	2129
+Parramatta	0-4	2095
+Parramatta	5-14	12293
+Parramatta	15-19	4089
+Parramatta	20-24	4265
+Parramatta	25+	7045
+Penrith	0-4	1591
+Penrith	5-14	10119
+Penrith	15-19	3589
+Penrith	20-24	1890
+Penrith	25+	3196
+Pittwater	0-4	1321
+Pittwater	5-14	9114
+Pittwater	15-19	4004
+Pittwater	20-24	1820
+Pittwater	25+	2180
+Port Macquarie	0-4	1064
+Port Macquarie	5-14	8316
+Port Macquarie	15-19	3312
+Port Macquarie	20-24	1227
+Port Macquarie	25+	2600
+Port Stephens	0-4	1104
+Port Stephens	5-14	8409
+Port Stephens	15-19	3002
+Port Stephens	20-24	991
+Port Stephens	25+	2037
+Prospect	0-4	1553
+Prospect	5-14	11417
+Prospect	15-19	4404
+Prospect	20-24	2440
+Prospect	25+	3402
+Riverstone	0-4	3018
+Riverstone	5-14	19450
+Riverstone	15-19	6421
+Riverstone	20-24	3379
+Riverstone	25+	4798
+Rockdale	0-4	1463
+Rockdale	5-14	8046
+Rockdale	15-19	3421
+Rockdale	20-24	3598
+Rockdale	25+	6328
+Ryde	0-4	1739
+Ryde	5-14	9792
+Ryde	15-19	3985
+Ryde	20-24	4160
+Ryde	25+	6691
+Seven Hills	0-4	1696
+Seven Hills	5-14	10600
+Seven Hills	15-19	3936
+Seven Hills	20-24	2479
+Seven Hills	25+	3951
+Shellharbour	0-4	1736
+Shellharbour	5-14	10854
+Shellharbour	15-19	4131
+Shellharbour	20-24	1566
+Shellharbour	25+	2657
+South Coast	0-4	1210
+South Coast	5-14	7553
+South Coast	15-19	2517
+South Coast	20-24	728
+South Coast	25+	2043
+Strathfield	0-4	1387
+Strathfield	5-14	8649
+Strathfield	15-19	4063
+Strathfield	20-24	6888
+Strathfield	25+	7671
+Summer Hill	0-4	1112
+Summer Hill	5-14	6895
+Summer Hill	15-19	2910
+Summer Hill	20-24	2835
+Summer Hill	25+	5360
+Swansea	0-4	1292
+Swansea	5-14	8307
+Swansea	15-19	2974
+Swansea	20-24	1189
+Swansea	25+	2009
+Sydney	0-4	745
+Sydney	5-14	3382
+Sydney	15-19	1655
+Sydney	20-24	3850
+Sydney	25+	10292
+Tamworth	0-4	1466
+Tamworth	5-14	10325
+Tamworth	15-19	3236
+Tamworth	20-24	857
+Tamworth	25+	2352
+Terrigal	0-4	1488
+Terrigal	5-14	9565
+Terrigal	15-19	3932
+Terrigal	20-24	1632
+Terrigal	25+	2454
+The Entrance	0-4	1438
+The Entrance	5-14	9062
+The Entrance	15-19	3288
+The Entrance	20-24	1364
+The Entrance	25+	2579
+Tweed	0-4	1202
+Tweed	5-14	8629
+Tweed	15-19	3024
+Tweed	20-24	1092
+Tweed	25+	2640
+Upper Hunter	0-4	1311
+Upper Hunter	5-14	9963
+Upper Hunter	15-19	3223
+Upper Hunter	20-24	874
+Upper Hunter	25+	2070
+Vaucluse	0-4	1344
+Vaucluse	5-14	7882
+Vaucluse	15-19	3474
+Vaucluse	20-24	2128
+Vaucluse	25+	4007
+Wagga Wagga	0-4	1624
+Wagga Wagga	5-14	10343
+Wagga Wagga	15-19	3769
+Wagga Wagga	20-24	2002
+Wagga Wagga	25+	3178
+Wakehurst	0-4	1726
+Wakehurst	5-14	10562
+Wakehurst	15-19	4584
+Wakehurst	20-24	2436
+Wakehurst	25+	3160
+Wallsend	0-4	1540
+Wallsend	5-14	9767
+Wallsend	15-19	4393
+Wallsend	20-24	3773
+Wallsend	25+	4275
+Willoughby	0-4	1683
+Willoughby	5-14	10800
+Willoughby	15-19	4261
+Willoughby	20-24	2637
+Willoughby	25+	4193
+Wollondilly	0-4	1720
+Wollondilly	5-14	10641
+Wollondilly	15-19	3957
+Wollondilly	20-24	1339
+Wollondilly	25+	2195
+Wollongong	0-4	1311
+Wollongong	5-14	7869
+Wollongong	15-19	3479
+Wollongong	20-24	3455
+Wollongong	25+	4178
+Wyong	0-4	1632
+Wyong	5-14	10179
+Wyong	15-19	3675
+Wyong	20-24	1390
+Wyong	25+	2591
+No usual address (NSW)	0-4	65
+No usual address (NSW)	5-14	425
+No usual address (NSW)	15-19	188
+No usual address (NSW)	20-24	130
+No usual address (NSW)	25+	337
+Albert Park (Southern Metropolitan)	0-4	910
+Albert Park (Southern Metropolitan)	5-14	4829
+Albert Park (Southern Metropolitan)	15-19	2135
+Albert Park (Southern Metropolitan)	20-24	2964
+Albert Park (Southern Metropolitan)	25+	6136
+Altona (Western Metropolitan)	0-4	2556
+Altona (Western Metropolitan)	5-14	16183
+Altona (Western Metropolitan)	15-19	4894
+Altona (Western Metropolitan)	20-24	2571
+Altona (Western Metropolitan)	25+	4952
+Bass (Eastern Victoria)	0-4	2352
+Bass (Eastern Victoria)	5-14	15320
+Bass (Eastern Victoria)	15-19	4635
+Bass (Eastern Victoria)	20-24	1946
+Bass (Eastern Victoria)	25+	4459
+Bayswater (Eastern Metropolitan)	0-4	1184
+Bayswater (Eastern Metropolitan)	5-14	7211
+Bayswater (Eastern Metropolitan)	15-19	2766
+Bayswater (Eastern Metropolitan)	20-24	1467
+Bayswater (Eastern Metropolitan)	25+	2466
+Bellarine (Western Victoria)	0-4	1062
+Bellarine (Western Victoria)	5-14	8058
+Bellarine (Western Victoria)	15-19	2908
+Bellarine (Western Victoria)	20-24	1071
+Bellarine (Western Victoria)	25+	2094
+Benambra (Northern Victoria)	0-4	1231
+Benambra (Northern Victoria)	5-14	8596
+Benambra (Northern Victoria)	15-19	3104
+Benambra (Northern Victoria)	20-24	1082
+Benambra (Northern Victoria)	25+	2460
+Bendigo East (Northern Victoria)	0-4	1286
+Bendigo East (Northern Victoria)	5-14	9216
+Bendigo East (Northern Victoria)	15-19	3301
+Bendigo East (Northern Victoria)	20-24	1613
+Bendigo East (Northern Victoria)	25+	2354
+Bendigo West (Northern Victoria)	0-4	860
+Bendigo West (Northern Victoria)	5-14	6759
+Bendigo West (Northern Victoria)	15-19	2457
+Bendigo West (Northern Victoria)	20-24	932
+Bendigo West (Northern Victoria)	25+	2122
+Bentleigh (Southern Metropolitan)	0-4	1262
+Bentleigh (Southern Metropolitan)	5-14	8992
+Bentleigh (Southern Metropolitan)	15-19	3950
+Bentleigh (Southern Metropolitan)	20-24	2064
+Bentleigh (Southern Metropolitan)	25+	2456
+Box Hill (Eastern Metropolitan)	0-4	1053
+Box Hill (Eastern Metropolitan)	5-14	7771
+Box Hill (Eastern Metropolitan)	15-19	4137
+Box Hill (Eastern Metropolitan)	20-24	3519
+Box Hill (Eastern Metropolitan)	25+	4283
+Brighton (Southern Metropolitan)	0-4	907
+Brighton (Southern Metropolitan)	5-14	7108
+Brighton (Southern Metropolitan)	15-19	3596
+Brighton (Southern Metropolitan)	20-24	1934
+Brighton (Southern Metropolitan)	25+	2333
+Broadmeadows (Northern Metropolitan)	0-4	1197
+Broadmeadows (Northern Metropolitan)	5-14	9092
+Broadmeadows (Northern Metropolitan)	15-19	3623
+Broadmeadows (Northern Metropolitan)	20-24	2373
+Broadmeadows (Northern Metropolitan)	25+	3655
+Brunswick (Northern Metropolitan)	0-4	989
+Brunswick (Northern Metropolitan)	5-14	5534
+Brunswick (Northern Metropolitan)	15-19	2271
+Brunswick (Northern Metropolitan)	20-24	3359
+Brunswick (Northern Metropolitan)	25+	6155
+Bulleen (Eastern Metropolitan)	0-4	1033
+Bulleen (Eastern Metropolitan)	5-14	6743
+Bulleen (Eastern Metropolitan)	15-19	3340
+Bulleen (Eastern Metropolitan)	20-24	2245
+Bulleen (Eastern Metropolitan)	25+	2785
+Bundoora (Northern Metropolitan)	0-4	1038
+Bundoora (Northern Metropolitan)	5-14	6224
+Bundoora (Northern Metropolitan)	15-19	2986
+Bundoora (Northern Metropolitan)	20-24	2497
+Bundoora (Northern Metropolitan)	25+	2934
+Buninyong (Western Victoria)	0-4	1186
+Buninyong (Western Victoria)	5-14	8499
+Buninyong (Western Victoria)	15-19	2919
+Buninyong (Western Victoria)	20-24	1317
+Buninyong (Western Victoria)	25+	2436
+Burwood (Southern Metropolitan)	0-4	1167
+Burwood (Southern Metropolitan)	5-14	7886
+Burwood (Southern Metropolitan)	15-19	4234
+Burwood (Southern Metropolitan)	20-24	3581
+Burwood (Southern Metropolitan)	25+	3458
+Carrum (South-Eastern Metropolitan)	0-4	1440
+Carrum (South-Eastern Metropolitan)	5-14	8038
+Carrum (South-Eastern Metropolitan)	15-19	2976
+Carrum (South-Eastern Metropolitan)	20-24	1307
+Carrum (South-Eastern Metropolitan)	25+	2478
+Caulfield (Southern Metropolitan)	0-4	1292
+Caulfield (Southern Metropolitan)	5-14	7079
+Caulfield (Southern Metropolitan)	15-19	3006
+Caulfield (Southern Metropolitan)	20-24	2668
+Caulfield (Southern Metropolitan)	25+	3667
+Clarinda (South-Eastern Metropolitan)	0-4	1214
+Clarinda (South-Eastern Metropolitan)	5-14	7120
+Clarinda (South-Eastern Metropolitan)	15-19	3087
+Clarinda (South-Eastern Metropolitan)	20-24	3424
+Clarinda (South-Eastern Metropolitan)	25+	4434
+Cranbourne (South-Eastern Metropolitan)	0-4	3056
+Cranbourne (South-Eastern Metropolitan)	5-14	19620
+Cranbourne (South-Eastern Metropolitan)	15-19	6082
+Cranbourne (South-Eastern Metropolitan)	20-24	3183
+Cranbourne (South-Eastern Metropolitan)	25+	5708
+Croydon (Eastern Metropolitan)	0-4	1223
+Croydon (Eastern Metropolitan)	5-14	7132
+Croydon (Eastern Metropolitan)	15-19	2731
+Croydon (Eastern Metropolitan)	20-24	1423
+Croydon (Eastern Metropolitan)	25+	2349
+Dandenong (South-Eastern Metropolitan)	0-4	1061
+Dandenong (South-Eastern Metropolitan)	5-14	8058
+Dandenong (South-Eastern Metropolitan)	15-19	3252
+Dandenong (South-Eastern Metropolitan)	20-24	2321
+Dandenong (South-Eastern Metropolitan)	25+	4054
+Eildon (Northern Victoria)	0-4	871
+Eildon (Northern Victoria)	5-14	6766
+Eildon (Northern Victoria)	15-19	2610
+Eildon (Northern Victoria)	20-24	820
+Eildon (Northern Victoria)	25+	1670
+Eltham (Eastern Metropolitan)	0-4	1212
+Eltham (Eastern Metropolitan)	5-14	7841
+Eltham (Eastern Metropolitan)	15-19	3301
+Eltham (Eastern Metropolitan)	20-24	1569
+Eltham (Eastern Metropolitan)	25+	1888
+Essendon (Western Metropolitan)	0-4	1125
+Essendon (Western Metropolitan)	5-14	7033
+Essendon (Western Metropolitan)	15-19	3138
+Essendon (Western Metropolitan)	20-24	2526
+Essendon (Western Metropolitan)	25+	3737
+Euroa (Northern Victoria)	0-4	891
+Euroa (Northern Victoria)	5-14	6706
+Euroa (Northern Victoria)	15-19	2509
+Euroa (Northern Victoria)	20-24	784
+Euroa (Northern Victoria)	25+	1708
+Evelyn (Eastern Victoria)	0-4	1213
+Evelyn (Eastern Victoria)	5-14	7327
+Evelyn (Eastern Victoria)	15-19	3102
+Evelyn (Eastern Victoria)	20-24	1333
+Evelyn (Eastern Victoria)	25+	1912
+Ferntree Gully (Eastern Metropolitan)	0-4	1024
+Ferntree Gully (Eastern Metropolitan)	5-14	6754
+Ferntree Gully (Eastern Metropolitan)	15-19	2961
+Ferntree Gully (Eastern Metropolitan)	20-24	1625
+Ferntree Gully (Eastern Metropolitan)	25+	2268
+Footscray (Western Metropolitan)	0-4	1261
+Footscray (Western Metropolitan)	5-14	7221
+Footscray (Western Metropolitan)	15-19	3031
+Footscray (Western Metropolitan)	20-24	2970
+Footscray (Western Metropolitan)	25+	5846
+Forest Hill (Eastern Metropolitan)	0-4	1047
+Forest Hill (Eastern Metropolitan)	5-14	7119
+Forest Hill (Eastern Metropolitan)	15-19	3355
+Forest Hill (Eastern Metropolitan)	20-24	2195
+Forest Hill (Eastern Metropolitan)	25+	2562
+Frankston (South-Eastern Metropolitan)	0-4	1063
+Frankston (South-Eastern Metropolitan)	5-14	6859
+Frankston (South-Eastern Metropolitan)	15-19	2678
+Frankston (South-Eastern Metropolitan)	20-24	1332
+Frankston (South-Eastern Metropolitan)	25+	2351
+Geelong (Western Victoria)	0-4	1133
+Geelong (Western Victoria)	5-14	6876
+Geelong (Western Victoria)	15-19	2707
+Geelong (Western Victoria)	20-24	1952
+Geelong (Western Victoria)	25+	3179
+Gembrook (Eastern Victoria)	0-4	1835
+Gembrook (Eastern Victoria)	5-14	11188
+Gembrook (Eastern Victoria)	15-19	4259
+Gembrook (Eastern Victoria)	20-24	1987
+Gembrook (Eastern Victoria)	25+	3129
+Gippsland East (Eastern Victoria)	0-4	837
+Gippsland East (Eastern Victoria)	5-14	6411
+Gippsland East (Eastern Victoria)	15-19	2139
+Gippsland East (Eastern Victoria)	20-24	495
+Gippsland East (Eastern Victoria)	25+	1528
+Gippsland South (Eastern Victoria)	0-4	845
+Gippsland South (Eastern Victoria)	5-14	6396
+Gippsland South (Eastern Victoria)	15-19	2332
+Gippsland South (Eastern Victoria)	20-24	597
+Gippsland South (Eastern Victoria)	25+	1486
+Hastings (Eastern Victoria)	0-4	1369
+Hastings (Eastern Victoria)	5-14	8534
+Hastings (Eastern Victoria)	15-19	3303
+Hastings (Eastern Victoria)	20-24	1324
+Hastings (Eastern Victoria)	25+	2068
+Hawthorn (Southern Metropolitan)	0-4	961
+Hawthorn (Southern Metropolitan)	5-14	6632
+Hawthorn (Southern Metropolitan)	15-19	3761
+Hawthorn (Southern Metropolitan)	20-24	3322
+Hawthorn (Southern Metropolitan)	25+	3505
+Ivanhoe (Eastern Metropolitan)	0-4	1227
+Ivanhoe (Eastern Metropolitan)	5-14	7692
+Ivanhoe (Eastern Metropolitan)	15-19	3243
+Ivanhoe (Eastern Metropolitan)	20-24	2113
+Ivanhoe (Eastern Metropolitan)	25+	3101
+Kew (Southern Metropolitan)	0-4	899
+Kew (Southern Metropolitan)	5-14	7878
+Kew (Southern Metropolitan)	15-19	4695
+Kew (Southern Metropolitan)	20-24	2929
+Kew (Southern Metropolitan)	25+	2628
+Keysborough (South-Eastern Metropolitan)	0-4	1225
+Keysborough (South-Eastern Metropolitan)	5-14	8684
+Keysborough (South-Eastern Metropolitan)	15-19	4030
+Keysborough (South-Eastern Metropolitan)	20-24	2692
+Keysborough (South-Eastern Metropolitan)	25+	3046
+Kororoit (Western Metropolitan)	0-4	1939
+Kororoit (Western Metropolitan)	5-14	14371
+Kororoit (Western Metropolitan)	15-19	5301
+Kororoit (Western Metropolitan)	20-24	2830
+Kororoit (Western Metropolitan)	25+	4068
+Lara (Western Victoria)	0-4	1150
+Lara (Western Victoria)	5-14	7677
+Lara (Western Victoria)	15-19	3197
+Lara (Western Victoria)	20-24	1451
+Lara (Western Victoria)	25+	2425
+Lowan (Western Victoria)	0-4	875
+Lowan (Western Victoria)	5-14	6295
+Lowan (Western Victoria)	15-19	2256
+Lowan (Western Victoria)	20-24	530
+Lowan (Western Victoria)	25+	1339
+Macedon (Northern Victoria)	0-4	1020
+Macedon (Northern Victoria)	5-14	8188
+Macedon (Northern Victoria)	15-19	3119
+Macedon (Northern Victoria)	20-24	946
+Macedon (Northern Victoria)	25+	1917
+Malvern (Southern Metropolitan)	0-4	902
+Malvern (Southern Metropolitan)	5-14	5854
+Malvern (Southern Metropolitan)	15-19	3220
+Malvern (Southern Metropolitan)	20-24	2756
+Malvern (Southern Metropolitan)	25+	2828
+Melbourne (Northern Metropolitan)	0-4	892
+Melbourne (Northern Metropolitan)	5-14	4607
+Melbourne (Northern Metropolitan)	15-19	4926
+Melbourne (Northern Metropolitan)	20-24	14828
+Melbourne (Northern Metropolitan)	25+	15314
+Melton (Western Victoria)	0-4	2178
+Melton (Western Victoria)	5-14	14135
+Melton (Western Victoria)	15-19	4243
+Melton (Western Victoria)	20-24	1780
+Melton (Western Victoria)	25+	3521
+Mildura (Northern Victoria)	0-4	1075
+Mildura (Northern Victoria)	5-14	7518
+Mildura (Northern Victoria)	15-19	2547
+Mildura (Northern Victoria)	20-24	759
+Mildura (Northern Victoria)	25+	1838
+Mill Park (Northern Metropolitan)	0-4	1332
+Mill Park (Northern Metropolitan)	5-14	8774
+Mill Park (Northern Metropolitan)	15-19	3767
+Mill Park (Northern Metropolitan)	20-24	2064
+Mill Park (Northern Metropolitan)	25+	2902
+Monbulk (Eastern Victoria)	0-4	1073
+Monbulk (Eastern Victoria)	5-14	7422
+Monbulk (Eastern Victoria)	15-19	3011
+Monbulk (Eastern Victoria)	20-24	1286
+Monbulk (Eastern Victoria)	25+	1935
+Mordialloc (South-Eastern Metropolitan)	0-4	1250
+Mordialloc (South-Eastern Metropolitan)	5-14	8255
+Mordialloc (South-Eastern Metropolitan)	15-19	3455
+Mordialloc (South-Eastern Metropolitan)	20-24	1654
+Mordialloc (South-Eastern Metropolitan)	25+	2260
+Mornington (Eastern Victoria)	0-4	1089
+Mornington (Eastern Victoria)	5-14	8328
+Mornington (Eastern Victoria)	15-19	3550
+Mornington (Eastern Victoria)	20-24	1300
+Mornington (Eastern Victoria)	25+	1681
+Morwell (Eastern Victoria)	0-4	1042
+Morwell (Eastern Victoria)	5-14	7627
+Morwell (Eastern Victoria)	15-19	2720
+Morwell (Eastern Victoria)	20-24	961
+Morwell (Eastern Victoria)	25+	2029
+Mount Waverley (Eastern Metropolitan)	0-4	1011
+Mount Waverley (Eastern Metropolitan)	5-14	8089
+Mount Waverley (Eastern Metropolitan)	15-19	3956
+Mount Waverley (Eastern Metropolitan)	20-24	2830
+Mount Waverley (Eastern Metropolitan)	25+	3078
+Mulgrave (South-Eastern Metropolitan)	0-4	969
+Mulgrave (South-Eastern Metropolitan)	5-14	6682
+Mulgrave (South-Eastern Metropolitan)	15-19	2976
+Mulgrave (South-Eastern Metropolitan)	20-24	2188
+Mulgrave (South-Eastern Metropolitan)	25+	2747
+Murray Plains (Northern Victoria)	0-4	845
+Murray Plains (Northern Victoria)	5-14	7265
+Murray Plains (Northern Victoria)	15-19	2560
+Murray Plains (Northern Victoria)	20-24	739
+Murray Plains (Northern Victoria)	25+	1455
+Narracan (Eastern Victoria)	0-4	1183
+Narracan (Eastern Victoria)	5-14	9075
+Narracan (Eastern Victoria)	15-19	3286
+Narracan (Eastern Victoria)	20-24	1133
+Narracan (Eastern Victoria)	25+	2170
+Narre Warren North (South-Eastern Metropolitan)	0-4	1145
+Narre Warren North (South-Eastern Metropolitan)	5-14	7959
+Narre Warren North (South-Eastern Metropolitan)	15-19	3441
+Narre Warren North (South-Eastern Metropolitan)	20-24	1997
+Narre Warren North (South-Eastern Metropolitan)	25+	2557
+Narre Warren South (South-Eastern Metropolitan)	0-4	1475
+Narre Warren South (South-Eastern Metropolitan)	5-14	13003
+Narre Warren South (South-Eastern Metropolitan)	15-19	5636
+Narre Warren South (South-Eastern Metropolitan)	20-24	2784
+Narre Warren South (South-Eastern Metropolitan)	25+	3542
+Nepean (Eastern Victoria)	0-4	826
+Nepean (Eastern Victoria)	5-14	5943
+Nepean (Eastern Victoria)	15-19	2251
+Nepean (Eastern Victoria)	20-24	902
+Nepean (Eastern Victoria)	25+	1575
+Niddrie (Western Metropolitan)	0-4	1050
+Niddrie (Western Metropolitan)	5-14	6946
+Niddrie (Western Metropolitan)	15-19	3108
+Niddrie (Western Metropolitan)	20-24	1620
+Niddrie (Western Metropolitan)	25+	1834
+Northcote (Northern Metropolitan)	0-4	1116
+Northcote (Northern Metropolitan)	5-14	6539
+Northcote (Northern Metropolitan)	15-19	2746
+Northcote (Northern Metropolitan)	20-24	1936
+Northcote (Northern Metropolitan)	25+	4534
+Oakleigh (Southern Metropolitan)	0-4	1137
+Oakleigh (Southern Metropolitan)	5-14	6559
+Oakleigh (Southern Metropolitan)	15-19	3445
+Oakleigh (Southern Metropolitan)	20-24	5031
+Oakleigh (Southern Metropolitan)	25+	4881
+Ovens Valley (Northern Victoria)	0-4	853
+Ovens Valley (Northern Victoria)	5-14	6542
+Ovens Valley (Northern Victoria)	15-19	2379
+Ovens Valley (Northern Victoria)	20-24	610
+Ovens Valley (Northern Victoria)	25+	1591
+Pascoe Vale (Northern Metropolitan)	0-4	1526
+Pascoe Vale (Northern Metropolitan)	5-14	7967
+Pascoe Vale (Northern Metropolitan)	15-19	3006
+Pascoe Vale (Northern Metropolitan)	20-24	2705
+Pascoe Vale (Northern Metropolitan)	25+	4622
+Polwarth (Western Victoria)	0-4	1015
+Polwarth (Western Victoria)	5-14	7464
+Polwarth (Western Victoria)	15-19	2810
+Polwarth (Western Victoria)	20-24	757
+Polwarth (Western Victoria)	25+	1563
+Prahran (Southern Metropolitan)	0-4	703
+Prahran (Southern Metropolitan)	5-14	3135
+Prahran (Southern Metropolitan)	15-19	1603
+Prahran (Southern Metropolitan)	20-24	2800
+Prahran (Southern Metropolitan)	25+	5672
+Preston (Northern Metropolitan)	0-4	1175
+Preston (Northern Metropolitan)	5-14	6239
+Preston (Northern Metropolitan)	15-19	2335
+Preston (Northern Metropolitan)	20-24	2148
+Preston (Northern Metropolitan)	25+	4255
+Richmond (Northern Metropolitan)	0-4	854
+Richmond (Northern Metropolitan)	5-14	4381
+Richmond (Northern Metropolitan)	15-19	1707
+Richmond (Northern Metropolitan)	20-24	2570
+Richmond (Northern Metropolitan)	25+	5725
+Ringwood (Eastern Metropolitan)	0-4	1371
+Ringwood (Eastern Metropolitan)	5-14	7630
+Ringwood (Eastern Metropolitan)	15-19	3043
+Ringwood (Eastern Metropolitan)	20-24	1812
+Ringwood (Eastern Metropolitan)	25+	3042
+Ripon (Western Victoria)	0-4	996
+Ripon (Western Victoria)	5-14	7013
+Ripon (Western Victoria)	15-19	2407
+Ripon (Western Victoria)	20-24	658
+Ripon (Western Victoria)	25+	1564
+Rowville (South-Eastern Metropolitan)	0-4	885
+Rowville (South-Eastern Metropolitan)	5-14	6531
+Rowville (South-Eastern Metropolitan)	15-19	3302
+Rowville (South-Eastern Metropolitan)	20-24	1855
+Rowville (South-Eastern Metropolitan)	25+	1760
+Sandringham (Southern Metropolitan)	0-4	1085
+Sandringham (Southern Metropolitan)	5-14	7420
+Sandringham (Southern Metropolitan)	15-19	3608
+Sandringham (Southern Metropolitan)	20-24	1852
+Sandringham (Southern Metropolitan)	25+	2128
+Shepparton (Northern Victoria)	0-4	1163
+Shepparton (Northern Victoria)	5-14	8946
+Shepparton (Northern Victoria)	15-19	3276
+Shepparton (Northern Victoria)	20-24	1097
+Shepparton (Northern Victoria)	25+	2253
+South Barwon (Western Victoria)	0-4	1976
+South Barwon (Western Victoria)	5-14	11925
+South Barwon (Western Victoria)	15-19	4512
+South Barwon (Western Victoria)	20-24	3234
+South Barwon (Western Victoria)	25+	3998
+South-West Coast (Western Victoria)	0-4	938
+South-West Coast (Western Victoria)	5-14	7517
+South-West Coast (Western Victoria)	15-19	2802
+South-West Coast (Western Victoria)	20-24	813
+South-West Coast (Western Victoria)	25+	1995
+St Albans (Western Metropolitan)	0-4	1004
+St Albans (Western Metropolitan)	5-14	7098
+St Albans (Western Metropolitan)	15-19	3130
+St Albans (Western Metropolitan)	20-24	2580
+St Albans (Western Metropolitan)	25+	3727
+Sunbury (Western Metropolitan)	0-4	1200
+Sunbury (Western Metropolitan)	5-14	7606
+Sunbury (Western Metropolitan)	15-19	2968
+Sunbury (Western Metropolitan)	20-24	1411
+Sunbury (Western Metropolitan)	25+	2246
+Sydenham (Western Metropolitan)	0-4	1392
+Sydenham (Western Metropolitan)	5-14	10752
+Sydenham (Western Metropolitan)	15-19	5027
+Sydenham (Western Metropolitan)	20-24	2613
+Sydenham (Western Metropolitan)	25+	2613
+Tarneit (Western Metropolitan)	0-4	3284
+Tarneit (Western Metropolitan)	5-14	20360
+Tarneit (Western Metropolitan)	15-19	5733
+Tarneit (Western Metropolitan)	20-24	4362
+Tarneit (Western Metropolitan)	25+	7424
+Thomastown (Northern Metropolitan)	0-4	1640
+Thomastown (Northern Metropolitan)	5-14	10142
+Thomastown (Northern Metropolitan)	15-19	3398
+Thomastown (Northern Metropolitan)	20-24	2356
+Thomastown (Northern Metropolitan)	25+	3778
+Warrandyte (Eastern Metropolitan)	0-4	979
+Warrandyte (Eastern Metropolitan)	5-14	8154
+Warrandyte (Eastern Metropolitan)	15-19	3840
+Warrandyte (Eastern Metropolitan)	20-24	2186
+Warrandyte (Eastern Metropolitan)	25+	2182
+Wendouree (Western Victoria)	0-4	1053
+Wendouree (Western Victoria)	5-14	7304
+Wendouree (Western Victoria)	15-19	3022
+Wendouree (Western Victoria)	20-24	1404
+Wendouree (Western Victoria)	25+	2409
+Werribee (Western Metropolitan)	0-4	1885
+Werribee (Western Metropolitan)	5-14	12002
+Werribee (Western Metropolitan)	15-19	3937
+Werribee (Western Metropolitan)	20-24	2106
+Werribee (Western Metropolitan)	25+	4113
+Williamstown (Western Metropolitan)	0-4	1595
+Williamstown (Western Metropolitan)	5-14	9080
+Williamstown (Western Metropolitan)	15-19	3023
+Williamstown (Western Metropolitan)	20-24	1746
+Williamstown (Western Metropolitan)	25+	3295
+Yan Yean (Northern Victoria)	0-4	2629
+Yan Yean (Northern Victoria)	5-14	15611
+Yan Yean (Northern Victoria)	15-19	5296
+Yan Yean (Northern Victoria)	20-24	2242
+Yan Yean (Northern Victoria)	25+	3788
+Yuroke (Northern Metropolitan)	0-4	2989
+Yuroke (Northern Metropolitan)	5-14	19658
+Yuroke (Northern Metropolitan)	15-19	6754
+Yuroke (Northern Metropolitan)	20-24	3985
+Yuroke (Northern Metropolitan)	25+	6347
+No usual address (Vic.)	0-4	63
+No usual address (Vic.)	5-14	407
+No usual address (Vic.)	15-19	140
+No usual address (Vic.)	20-24	133
+No usual address (Vic.)	25+	267
+Algester	0-4	1244
+Algester	5-14	8570
+Algester	15-19	2801
+Algester	20-24	1383
+Algester	25+	2711
+Aspley	0-4	969
+Aspley	5-14	6763
+Aspley	15-19	2785
+Aspley	20-24	1330
+Aspley	25+	2166
+Bancroft	0-4	1054
+Bancroft	5-14	8462
+Bancroft	15-19	3026
+Bancroft	20-24	966
+Bancroft	25+	2137
+Barron River	0-4	851
+Barron River	5-14	7260
+Barron River	15-19	2594
+Barron River	20-24	868
+Barron River	25+	2534
+Bonney	0-4	707
+Bonney	5-14	4811
+Bonney	15-19	2101
+Bonney	20-24	1984
+Bonney	25+	3044
+Broadwater	0-4	589
+Broadwater	5-14	4415
+Broadwater	15-19	1917
+Broadwater	20-24	845
+Broadwater	25+	1369
+Buderim	0-4	892
+Buderim	5-14	7248
+Buderim	15-19	3154
+Buderim	20-24	1478
+Buderim	25+	2389
+Bulimba	0-4	1130
+Bulimba	5-14	6916
+Bulimba	15-19	2668
+Bulimba	20-24	1705
+Bulimba	25+	2921
+Bundaberg	0-4	668
+Bundaberg	5-14	5740
+Bundaberg	15-19	1826
+Bundaberg	20-24	503
+Bundaberg	25+	1405
+Bundamba	0-4	1423
+Bundamba	5-14	11016
+Bundamba	15-19	3019
+Bundamba	20-24	1151
+Bundamba	25+	2839
+Burdekin	0-4	742
+Burdekin	5-14	6423
+Burdekin	15-19	1706
+Burdekin	20-24	379
+Burdekin	25+	1216
+Burleigh	0-4	840
+Burleigh	5-14	5515
+Burleigh	15-19	1989
+Burleigh	20-24	998
+Burleigh	25+	2217
+Burnett	0-4	482
+Burnett	5-14	5175
+Burnett	15-19	1759
+Burnett	20-24	338
+Burnett	25+	1144
+Cairns	0-4	635
+Cairns	5-14	6003
+Cairns	15-19	2141
+Cairns	20-24	832
+Cairns	25+	2932
+Callide	0-4	594
+Callide	5-14	6305
+Callide	15-19	1630
+Callide	20-24	310
+Callide	25+	1025
+Caloundra	0-4	928
+Caloundra	5-14	6411
+Caloundra	15-19	2187
+Caloundra	20-24	814
+Caloundra	25+	1933
+Capalaba	0-4	939
+Capalaba	5-14	6387
+Capalaba	15-19	2305
+Capalaba	20-24	813
+Capalaba	25+	1679
+Chatsworth	0-4	1049
+Chatsworth	5-14	7033
+Chatsworth	15-19	2785
+Chatsworth	20-24	1389
+Chatsworth	25+	2015
+Clayfield	0-4	872
+Clayfield	5-14	5376
+Clayfield	15-19	2501
+Clayfield	20-24	2205
+Clayfield	25+	3670
+Condamine	0-4	797
+Condamine	5-14	7757
+Condamine	15-19	2557
+Condamine	20-24	723
+Condamine	25+	1706
+Cook	0-4	642
+Cook	5-14	6555
+Cook	15-19	1595
+Cook	20-24	268
+Cook	25+	1266
+Coomera	0-4	2152
+Coomera	5-14	13535
+Coomera	15-19	4093
+Coomera	20-24	1619
+Coomera	25+	3445
+Cooper	0-4	872
+Cooper	5-14	6954
+Cooper	15-19	3241
+Cooper	20-24	2231
+Cooper	25+	2870
+Currumbin	0-4	800
+Currumbin	5-14	5391
+Currumbin	15-19	1950
+Currumbin	20-24	880
+Currumbin	25+	1857
+Everton	0-4	1036
+Everton	5-14	7141
+Everton	15-19	2943
+Everton	20-24	1332
+Everton	25+	2193
+Ferny Grove	0-4	1046
+Ferny Grove	5-14	7259
+Ferny Grove	15-19	2816
+Ferny Grove	20-24	1264
+Ferny Grove	25+	2401
+Gaven	0-4	856
+Gaven	5-14	6148
+Gaven	15-19	2236
+Gaven	20-24	883
+Gaven	25+	1892
+Gladstone	0-4	846
+Gladstone	5-14	7076
+Gladstone	15-19	2286
+Gladstone	20-24	460
+Gladstone	25+	1573
+Glass House	0-4	629
+Glass House	5-14	5565
+Glass House	15-19	1974
+Glass House	20-24	503
+Glass House	25+	1440
+Greenslopes	0-4	908
+Greenslopes	5-14	5677
+Greenslopes	15-19	2413
+Greenslopes	20-24	2118
+Greenslopes	25+	3153
+Gregory	0-4	611
+Gregory	5-14	5394
+Gregory	15-19	1293
+Gregory	20-24	308
+Gregory	25+	1004
+Gympie	0-4	573
+Gympie	5-14	5808
+Gympie	15-19	1972
+Gympie	20-24	394
+Gympie	25+	1280
+Hervey Bay	0-4	595
+Hervey Bay	5-14	5630
+Hervey Bay	15-19	1841
+Hervey Bay	20-24	411
+Hervey Bay	25+	1451
+Hill	0-4	540
+Hill	5-14	6119
+Hill	15-19	1951
+Hill	20-24	307
+Hill	25+	1236
+Hinchinbrook	0-4	995
+Hinchinbrook	5-14	6967
+Hinchinbrook	15-19	1925
+Hinchinbrook	20-24	568
+Hinchinbrook	25+	1609
+Inala	0-4	1034
+Inala	5-14	7960
+Inala	15-19	3194
+Inala	20-24	1651
+Inala	25+	2671
+Ipswich	0-4	857
+Ipswich	5-14	6586
+Ipswich	15-19	2189
+Ipswich	20-24	720
+Ipswich	25+	1904
+Ipswich West	0-4	890
+Ipswich West	5-14	7263
+Ipswich West	15-19	2414
+Ipswich West	20-24	766
+Ipswich West	25+	1760
+Jordan	0-4	1632
+Jordan	5-14	11474
+Jordan	15-19	3655
+Jordan	20-24	1262
+Jordan	25+	2838
+Kawana	0-4	773
+Kawana	5-14	6244
+Kawana	15-19	2402
+Kawana	20-24	852
+Kawana	25+	1799
+Keppel	0-4	781
+Keppel	5-14	6870
+Keppel	15-19	2242
+Keppel	20-24	633
+Keppel	25+	1621
+Kurwongbah	0-4	1132
+Kurwongbah	5-14	8423
+Kurwongbah	15-19	2958
+Kurwongbah	20-24	997
+Kurwongbah	25+	2041
+Lockyer	0-4	765
+Lockyer	5-14	6832
+Lockyer	15-19	2302
+Lockyer	20-24	813
+Lockyer	25+	1533
+Logan	0-4	1233
+Logan	5-14	9066
+Logan	15-19	2856
+Logan	20-24	1009
+Logan	25+	2053
+Lytton	0-4	993
+Lytton	5-14	6742
+Lytton	15-19	2513
+Lytton	20-24	982
+Lytton	25+	1903
+Macalister	0-4	1117
+Macalister	5-14	7709
+Macalister	15-19	2495
+Macalister	20-24	932
+Macalister	25+	1990
+Mackay	0-4	793
+Mackay	5-14	6597
+Mackay	15-19	2101
+Mackay	20-24	681
+Mackay	25+	1684
+Maiwar	0-4	827
+Maiwar	5-14	6460
+Maiwar	15-19	4891
+Maiwar	20-24	5864
+Maiwar	25+	5000
+Mansfield	0-4	1020
+Mansfield	5-14	7861
+Mansfield	15-19	3508
+Mansfield	20-24	2000
+Mansfield	25+	2788
+Maroochydore	0-4	564
+Maroochydore	5-14	4157
+Maroochydore	15-19	1654
+Maroochydore	20-24	962
+Maroochydore	25+	2138
+Maryborough	0-4	596
+Maryborough	5-14	5604
+Maryborough	15-19	1778
+Maryborough	20-24	330
+Maryborough	25+	1253
+McConnel	0-4	505
+McConnel	5-14	2714
+McConnel	15-19	2179
+McConnel	20-24	4558
+McConnel	25+	7327
+Mermaid Beach	0-4	821
+Mermaid Beach	5-14	5571
+Mermaid Beach	15-19	2439
+Mermaid Beach	20-24	1677
+Mermaid Beach	25+	2790
+Miller	0-4	909
+Miller	5-14	6140
+Miller	15-19	2658
+Miller	20-24	2083
+Miller	25+	2893
+Mirani	0-4	720
+Mirani	5-14	6152
+Mirani	15-19	1881
+Mirani	20-24	457
+Mirani	25+	1124
+Moggill	0-4	873
+Moggill	5-14	7864
+Moggill	15-19	3373
+Moggill	20-24	1397
+Moggill	25+	2051
+Morayfield	0-4	1010
+Morayfield	5-14	7623
+Morayfield	15-19	2408
+Morayfield	20-24	846
+Morayfield	25+	1975
+Mount Ommaney	0-4	987
+Mount Ommaney	5-14	6784
+Mount Ommaney	15-19	2819
+Mount Ommaney	20-24	1311
+Mount Ommaney	25+	2273
+Mudgeeraba	0-4	1081
+Mudgeeraba	5-14	7937
+Mudgeeraba	15-19	3146
+Mudgeeraba	20-24	1179
+Mudgeeraba	25+	2188
+Mulgrave	0-4	967
+Mulgrave	5-14	7915
+Mulgrave	15-19	2512
+Mulgrave	20-24	661
+Mulgrave	25+	1894
+Mundingburra	0-4	692
+Mundingburra	5-14	5761
+Mundingburra	15-19	2862
+Mundingburra	20-24	1880
+Mundingburra	25+	2125
+Murrumba	0-4	1504
+Murrumba	5-14	9898
+Murrumba	15-19	3003
+Murrumba	20-24	1163
+Murrumba	25+	2902
+Nanango	0-4	508
+Nanango	5-14	5709
+Nanango	15-19	1745
+Nanango	20-24	308
+Nanango	25+	1027
+Nicklin	0-4	699
+Nicklin	5-14	5839
+Nicklin	15-19	1978
+Nicklin	20-24	611
+Nicklin	25+	1649
+Ninderry	0-4	1036
+Ninderry	5-14	7652
+Ninderry	15-19	2463
+Ninderry	20-24	634
+Ninderry	25+	1863
+Noosa	0-4	537
+Noosa	5-14	5099
+Noosa	15-19	2004
+Noosa	20-24	451
+Noosa	25+	1352
+Nudgee	0-4	977
+Nudgee	5-14	5837
+Nudgee	15-19	2311
+Nudgee	20-24	1552
+Nudgee	25+	3020
+Oodgeroo	0-4	537
+Oodgeroo	5-14	5261
+Oodgeroo	15-19	2485
+Oodgeroo	20-24	849
+Oodgeroo	25+	1236
+Pine Rivers	0-4	993
+Pine Rivers	5-14	7844
+Pine Rivers	15-19	2888
+Pine Rivers	20-24	1054
+Pine Rivers	25+	2034
+Pumicestone	0-4	647
+Pumicestone	5-14	5094
+Pumicestone	15-19	1688
+Pumicestone	20-24	438
+Pumicestone	25+	1277
+Redcliffe	0-4	624
+Redcliffe	5-14	5184
+Redcliffe	15-19	1976
+Redcliffe	20-24	615
+Redcliffe	25+	1608
+Redlands	0-4	859
+Redlands	5-14	6206
+Redlands	15-19	2407
+Redlands	20-24	810
+Redlands	25+	1499
+Rockhampton	0-4	853
+Rockhampton	5-14	7020
+Rockhampton	15-19	2297
+Rockhampton	20-24	768
+Rockhampton	25+	1656
+Sandgate	0-4	1001
+Sandgate	5-14	6828
+Sandgate	15-19	2497
+Sandgate	20-24	999
+Sandgate	25+	2259
+Scenic Rim	0-4	675
+Scenic Rim	5-14	6716
+Scenic Rim	15-19	2360
+Scenic Rim	20-24	545
+Scenic Rim	25+	1284
+South Brisbane	0-4	496
+South Brisbane	5-14	4113
+South Brisbane	15-19	2928
+South Brisbane	20-24	4884
+South Brisbane	25+	6603
+Southern Downs	0-4	548
+Southern Downs	5-14	5744
+Southern Downs	15-19	1736
+Southern Downs	20-24	362
+Southern Downs	25+	1153
+Southport	0-4	727
+Southport	5-14	5381
+Southport	15-19	2776
+Southport	20-24	1991
+Southport	25+	3336
+Springwood	0-4	1040
+Springwood	5-14	7273
+Springwood	15-19	2720
+Springwood	20-24	1007
+Springwood	25+	1986
+Stafford	0-4	987
+Stafford	5-14	6234
+Stafford	15-19	2624
+Stafford	20-24	1890
+Stafford	25+	2977
+Stretton	0-4	1011
+Stretton	5-14	7948
+Stretton	15-19	2931
+Stretton	20-24	1948
+Stretton	25+	3204
+Surfers Paradise	0-4	555
+Surfers Paradise	5-14	3723
+Surfers Paradise	15-19	1759
+Surfers Paradise	20-24	1511
+Surfers Paradise	25+	3538
+Theodore	0-4	1270
+Theodore	5-14	8797
+Theodore	15-19	3091
+Theodore	20-24	1094
+Theodore	25+	2142
+Thuringowa	0-4	861
+Thuringowa	5-14	7016
+Thuringowa	15-19	2458
+Thuringowa	20-24	860
+Thuringowa	25+	1791
+Toohey	0-4	891
+Toohey	5-14	5854
+Toohey	15-19	2430
+Toohey	20-24	2546
+Toohey	25+	4012
+Toowoomba North	0-4	797
+Toowoomba North	5-14	6829
+Toowoomba North	15-19	2867
+Toowoomba North	20-24	880
+Toowoomba North	25+	2333
+Toowoomba South	0-4	928
+Toowoomba South	5-14	7054
+Toowoomba South	15-19	2539
+Toowoomba South	20-24	1401
+Toowoomba South	25+	2901
+Townsville	0-4	679
+Townsville	5-14	5301
+Townsville	15-19	1889
+Townsville	20-24	984
+Townsville	25+	2135
+Traeger	0-4	615
+Traeger	5-14	5498
+Traeger	15-19	1395
+Traeger	20-24	291
+Traeger	25+	1076
+Warrego	0-4	585
+Warrego	5-14	5492
+Warrego	15-19	1465
+Warrego	20-24	400
+Warrego	25+	955
+Waterford	0-4	1001
+Waterford	5-14	7893
+Waterford	15-19	2541
+Waterford	20-24	1052
+Waterford	25+	2325
+Whitsunday	0-4	775
+Whitsunday	5-14	6854
+Whitsunday	15-19	2129
+Whitsunday	20-24	504
+Whitsunday	25+	1563
+Woodridge	0-4	1147
+Woodridge	5-14	10590
+Woodridge	15-19	3592
+Woodridge	20-24	1189
+Woodridge	25+	2536
+No usual address (Qld)	0-4	63
+No usual address (Qld)	5-14	721
+No usual address (Qld)	15-19	212
+No usual address (Qld)	20-24	112
+No usual address (Qld)	25+	369
+Adelaide	0-4	427
+Adelaide	5-14	3072
+Adelaide	15-19	2134
+Adelaide	20-24	4013
+Adelaide	25+	3717
+Badcoe	0-4	601
+Badcoe	5-14	3684
+Badcoe	15-19	1544
+Badcoe	20-24	1796
+Badcoe	25+	2629
+Black	0-4	571
+Black	5-14	4247
+Black	15-19	1645
+Black	20-24	839
+Black	25+	1374
+Bragg	0-4	622
+Bragg	5-14	4904
+Bragg	15-19	2469
+Bragg	20-24	1282
+Bragg	25+	1657
+Chaffey	0-4	337
+Chaffey	5-14	3835
+Chaffey	15-19	1300
+Chaffey	20-24	257
+Chaffey	25+	751
+Cheltenham	0-4	606
+Cheltenham	5-14	3745
+Cheltenham	15-19	1605
+Cheltenham	20-24	1195
+Cheltenham	25+	1961
+Colton	0-4	493
+Colton	5-14	4061
+Colton	15-19	1710
+Colton	20-24	1018
+Colton	25+	1275
+Croydon	0-4	569
+Croydon	5-14	4068
+Croydon	15-19	1728
+Croydon	20-24	1731
+Croydon	25+	2695
+Davenport	0-4	571
+Davenport	5-14	4161
+Davenport	15-19	1895
+Davenport	20-24	1150
+Davenport	25+	1605
+Dunstan	0-4	493
+Dunstan	5-14	3767
+Dunstan	15-19	1947
+Dunstan	20-24	1454
+Dunstan	25+	2267
+Elder	0-4	669
+Elder	5-14	4320
+Elder	15-19	1732
+Elder	20-24	1439
+Elder	25+	2118
+Elizabeth	0-4	615
+Elizabeth	5-14	5590
+Elizabeth	15-19	1752
+Elizabeth	20-24	721
+Elizabeth	25+	1424
+Enfield	0-4	761
+Enfield	5-14	4993
+Enfield	15-19	1865
+Enfield	20-24	1523
+Enfield	25+	2647
+Finniss	0-4	270
+Finniss	5-14	2899
+Finniss	15-19	1036
+Finniss	20-24	239
+Finniss	25+	760
+Flinders	0-4	457
+Flinders	5-14	4256
+Flinders	15-19	1192
+Flinders	20-24	220
+Flinders	25+	710
+Florey	0-4	571
+Florey	5-14	4329
+Florey	15-19	1717
+Florey	20-24	1178
+Florey	25+	1959
+Frome	0-4	460
+Frome	5-14	4542
+Frome	15-19	1570
+Frome	20-24	514
+Frome	25+	844
+Gibson	0-4	508
+Gibson	5-14	3686
+Gibson	15-19	1787
+Gibson	20-24	1110
+Gibson	25+	1793
+Giles	0-4	551
+Giles	5-14	4156
+Giles	15-19	1256
+Giles	20-24	291
+Giles	25+	938
+Hammond	0-4	440
+Hammond	5-14	3982
+Hammond	15-19	1472
+Hammond	20-24	396
+Hammond	25+	929
+Hartley	0-4	563
+Hartley	5-14	4098
+Hartley	15-19	1671
+Hartley	20-24	1366
+Hartley	25+	2111
+Heysen	0-4	468
+Heysen	5-14	4394
+Heysen	15-19	1915
+Heysen	20-24	755
+Heysen	25+	1176
+Hurtle Vale	0-4	460
+Hurtle Vale	5-14	3981
+Hurtle Vale	15-19	1600
+Hurtle Vale	20-24	616
+Hurtle Vale	25+	1091
+Kaurna	0-4	634
+Kaurna	5-14	4854
+Kaurna	15-19	1636
+Kaurna	20-24	659
+Kaurna	25+	1516
+Kavel	0-4	601
+Kavel	5-14	4806
+Kavel	15-19	1777
+Kavel	20-24	709
+Kavel	25+	1399
+King	0-4	514
+King	5-14	4576
+King	15-19	1978
+King	20-24	870
+King	25+	1143
+Lee	0-4	464
+Lee	5-14	2964
+Lee	15-19	1201
+Lee	20-24	716
+Lee	25+	1164
+Light	0-4	592
+Light	5-14	4553
+Light	15-19	1624
+Light	20-24	665
+Light	25+	1222
+Mackillop	0-4	420
+Mackillop	5-14	4235
+Mackillop	15-19	1370
+Mackillop	20-24	291
+Mackillop	25+	722
+Mawson	0-4	454
+Mawson	5-14	4409
+Mawson	15-19	1445
+Mawson	20-24	446
+Mawson	25+	1060
+Morialta	0-4	566
+Morialta	5-14	4381
+Morialta	15-19	1960
+Morialta	20-24	1171
+Morialta	25+	1547
+Morphett	0-4	487
+Morphett	5-14	3045
+Morphett	15-19	1393
+Morphett	20-24	984
+Morphett	25+	1713
+Mount Gambier	0-4	498
+Mount Gambier	5-14	4148
+Mount Gambier	15-19	1476
+Mount Gambier	20-24	321
+Mount Gambier	25+	1049
+Narungga	0-4	297
+Narungga	5-14	2989
+Narungga	15-19	872
+Narungga	20-24	196
+Narungga	25+	537
+Newland	0-4	472
+Newland	5-14	3882
+Newland	15-19	1463
+Newland	20-24	768
+Newland	25+	1428
+Playford	0-4	707
+Playford	5-14	5412
+Playford	15-19	2015
+Playford	20-24	1243
+Playford	25+	1922
+Port Adelaide	0-4	503
+Port Adelaide	5-14	3391
+Port Adelaide	15-19	1327
+Port Adelaide	20-24	721
+Port Adelaide	25+	1401
+Ramsay	0-4	585
+Ramsay	5-14	5640
+Ramsay	15-19	1924
+Ramsay	20-24	841
+Ramsay	25+	1795
+Reynell	0-4	481
+Reynell	5-14	3751
+Reynell	15-19	1359
+Reynell	20-24	587
+Reynell	25+	1251
+Schubert	0-4	481
+Schubert	5-14	4479
+Schubert	15-19	1762
+Schubert	20-24	538
+Schubert	25+	946
+Stuart	0-4	408
+Stuart	5-14	3729
+Stuart	15-19	1217
+Stuart	20-24	264
+Stuart	25+	700
+Taylor	0-4	788
+Taylor	5-14	6096
+Taylor	15-19	1726
+Taylor	20-24	722
+Taylor	25+	1386
+Torrens	0-4	761
+Torrens	5-14	4551
+Torrens	15-19	1676
+Torrens	20-24	1351
+Torrens	25+	2461
+Unley	0-4	587
+Unley	5-14	4266
+Unley	15-19	1969
+Unley	20-24	1355
+Unley	25+	1851
+Waite	0-4	606
+Waite	5-14	4816
+Waite	15-19	2121
+Waite	20-24	1069
+Waite	25+	1576
+West Torrens	0-4	518
+West Torrens	5-14	3360
+West Torrens	15-19	1435
+West Torrens	20-24	1401
+West Torrens	25+	2227
+Wright	0-4	521
+Wright	5-14	4447
+Wright	15-19	1690
+Wright	20-24	775
+Wright	25+	1294
+No usual address (SA)	0-4	25
+No usual address (SA)	5-14	200
+No usual address (SA)	15-19	92
+No usual address (SA)	20-24	39
+No usual address (SA)	25+	94
+Albany (South West)	0-4	497
+Albany (South West)	5-14	4528
+Albany (South West)	15-19	1667
+Albany (South West)	20-24	276
+Albany (South West)	25+	1080
+Armadale (East Metropolitan)	0-4	922
+Armadale (East Metropolitan)	5-14	6649
+Armadale (East Metropolitan)	15-19	2007
+Armadale (East Metropolitan)	20-24	826
+Armadale (East Metropolitan)	25+	1759
+Balcatta (North Metropolitan)	0-4	708
+Balcatta (North Metropolitan)	5-14	3923
+Balcatta (North Metropolitan)	15-19	1440
+Balcatta (North Metropolitan)	20-24	1121
+Balcatta (North Metropolitan)	25+	2459
+Baldivis (South Metropolitan)	0-4	1382
+Baldivis (South Metropolitan)	5-14	9133
+Baldivis (South Metropolitan)	15-19	2663
+Baldivis (South Metropolitan)	20-24	943
+Baldivis (South Metropolitan)	25+	2232
+Bassendean (East Metropolitan)	0-4	731
+Bassendean (East Metropolitan)	5-14	5062
+Bassendean (East Metropolitan)	15-19	1803
+Bassendean (East Metropolitan)	20-24	915
+Bassendean (East Metropolitan)	25+	1662
+Bateman (South Metropolitan)	0-4	677
+Bateman (South Metropolitan)	5-14	5420
+Bateman (South Metropolitan)	15-19	2429
+Bateman (South Metropolitan)	20-24	1555
+Bateman (South Metropolitan)	25+	1676
+Belmont (East Metropolitan)	0-4	669
+Belmont (East Metropolitan)	5-14	4555
+Belmont (East Metropolitan)	15-19	1550
+Belmont (East Metropolitan)	20-24	1283
+Belmont (East Metropolitan)	25+	2596
+Bicton (South Metropolitan)	0-4	631
+Bicton (South Metropolitan)	5-14	4711
+Bicton (South Metropolitan)	15-19	2160
+Bicton (South Metropolitan)	20-24	1112
+Bicton (South Metropolitan)	25+	1395
+Bunbury (South West)	0-4	635
+Bunbury (South West)	5-14	5333
+Bunbury (South West)	15-19	1857
+Bunbury (South West)	20-24	482
+Bunbury (South West)	25+	1285
+Burns Beach (North Metropolitan)	0-4	813
+Burns Beach (North Metropolitan)	5-14	6046
+Burns Beach (North Metropolitan)	15-19	2465
+Burns Beach (North Metropolitan)	20-24	1153
+Burns Beach (North Metropolitan)	25+	1547
+Butler (North Metropolitan)	0-4	1292
+Butler (North Metropolitan)	5-14	8427
+Butler (North Metropolitan)	15-19	2620
+Butler (North Metropolitan)	20-24	994
+Butler (North Metropolitan)	25+	2052
+Cannington (South Metropolitan)	0-4	929
+Cannington (South Metropolitan)	5-14	5498
+Cannington (South Metropolitan)	15-19	1944
+Cannington (South Metropolitan)	20-24	2001
+Cannington (South Metropolitan)	25+	3285
+Carine (North Metropolitan)	0-4	788
+Carine (North Metropolitan)	5-14	6128
+Carine (North Metropolitan)	15-19	2296
+Carine (North Metropolitan)	20-24	960
+Carine (North Metropolitan)	25+	1137
+Central Wheatbelt (Agricultural)	0-4	427
+Central Wheatbelt (Agricultural)	5-14	3903
+Central Wheatbelt (Agricultural)	15-19	1060
+Central Wheatbelt (Agricultural)	20-24	213
+Central Wheatbelt (Agricultural)	25+	644
+Churchlands (North Metropolitan)	0-4	780
+Churchlands (North Metropolitan)	5-14	6272
+Churchlands (North Metropolitan)	15-19	2704
+Churchlands (North Metropolitan)	20-24	1364
+Churchlands (North Metropolitan)	25+	1960
+Cockburn (South Metropolitan)	0-4	1010
+Cockburn (South Metropolitan)	5-14	6474
+Cockburn (South Metropolitan)	15-19	2388
+Cockburn (South Metropolitan)	20-24	1191
+Cockburn (South Metropolitan)	25+	1854
+Collie-Preston (South West)	0-4	690
+Collie-Preston (South West)	5-14	5690
+Collie-Preston (South West)	15-19	1740
+Collie-Preston (South West)	20-24	334
+Collie-Preston (South West)	25+	1050
+Cottesloe (North Metropolitan)	0-4	639
+Cottesloe (North Metropolitan)	5-14	5153
+Cottesloe (North Metropolitan)	15-19	2945
+Cottesloe (North Metropolitan)	20-24	1517
+Cottesloe (North Metropolitan)	25+	1692
+Darling Range (East Metropolitan)	0-4	938
+Darling Range (East Metropolitan)	5-14	6911
+Darling Range (East Metropolitan)	15-19	2178
+Darling Range (East Metropolitan)	20-24	717
+Darling Range (East Metropolitan)	25+	1395
+Dawesville (South West)	0-4	606
+Dawesville (South West)	5-14	4700
+Dawesville (South West)	15-19	1757
+Dawesville (South West)	20-24	552
+Dawesville (South West)	25+	1094
+Forrestfield (East Metropolitan)	0-4	791
+Forrestfield (East Metropolitan)	5-14	5404
+Forrestfield (East Metropolitan)	15-19	1797
+Forrestfield (East Metropolitan)	20-24	783
+Forrestfield (East Metropolitan)	25+	1377
+Fremantle (South Metropolitan)	0-4	653
+Fremantle (South Metropolitan)	5-14	3768
+Fremantle (South Metropolitan)	15-19	1491
+Fremantle (South Metropolitan)	20-24	1047
+Fremantle (South Metropolitan)	25+	2086
+Geraldton (Agricultural)	0-4	555
+Geraldton (Agricultural)	5-14	4826
+Geraldton (Agricultural)	15-19	1540
+Geraldton (Agricultural)	20-24	347
+Geraldton (Agricultural)	25+	1168
+Hillarys (North Metropolitan)	0-4	798
+Hillarys (North Metropolitan)	5-14	5315
+Hillarys (North Metropolitan)	15-19	2108
+Hillarys (North Metropolitan)	20-24	938
+Hillarys (North Metropolitan)	25+	1329
+Jandakot (South Metropolitan)	0-4	1406
+Jandakot (South Metropolitan)	5-14	8390
+Jandakot (South Metropolitan)	15-19	2765
+Jandakot (South Metropolitan)	20-24	1436
+Jandakot (South Metropolitan)	25+	2279
+Joondalup (North Metropolitan)	0-4	632
+Joondalup (North Metropolitan)	5-14	4733
+Joondalup (North Metropolitan)	15-19	2130
+Joondalup (North Metropolitan)	20-24	1274
+Joondalup (North Metropolitan)	25+	1609
+Kalamunda (East Metropolitan)	0-4	497
+Kalamunda (East Metropolitan)	5-14	5124
+Kalamunda (East Metropolitan)	15-19	2055
+Kalamunda (East Metropolitan)	20-24	779
+Kalamunda (East Metropolitan)	25+	1146
+Kalgoorlie (Mining and Pastoral)	0-4	628
+Kalgoorlie (Mining and Pastoral)	5-14	4347
+Kalgoorlie (Mining and Pastoral)	15-19	1077
+Kalgoorlie (Mining and Pastoral)	20-24	332
+Kalgoorlie (Mining and Pastoral)	25+	1149
+Kimberley (Mining and Pastoral)	0-4	520
+Kimberley (Mining and Pastoral)	5-14	4529
+Kimberley (Mining and Pastoral)	15-19	948
+Kimberley (Mining and Pastoral)	20-24	175
+Kimberley (Mining and Pastoral)	25+	874
+Kingsley (North Metropolitan)	0-4	760
+Kingsley (North Metropolitan)	5-14	5285
+Kingsley (North Metropolitan)	15-19	2060
+Kingsley (North Metropolitan)	20-24	886
+Kingsley (North Metropolitan)	25+	1197
+Kwinana (South Metropolitan)	0-4	1156
+Kwinana (South Metropolitan)	5-14	7131
+Kwinana (South Metropolitan)	15-19	1975
+Kwinana (South Metropolitan)	20-24	863
+Kwinana (South Metropolitan)	25+	1819
+Landsdale (North Metropolitan)	0-4	1036
+Landsdale (North Metropolitan)	5-14	7231
+Landsdale (North Metropolitan)	15-19	2719
+Landsdale (North Metropolitan)	20-24	1277
+Landsdale (North Metropolitan)	25+	1559
+Mandurah (South West)	0-4	728
+Mandurah (South West)	5-14	5397
+Mandurah (South West)	15-19	1730
+Mandurah (South West)	20-24	619
+Mandurah (South West)	25+	1278
+Maylands (East Metropolitan)	0-4	757
+Maylands (East Metropolitan)	5-14	4131
+Maylands (East Metropolitan)	15-19	1491
+Maylands (East Metropolitan)	20-24	1164
+Maylands (East Metropolitan)	25+	2427
+Midland (East Metropolitan)	0-4	814
+Midland (East Metropolitan)	5-14	5150
+Midland (East Metropolitan)	15-19	1815
+Midland (East Metropolitan)	20-24	825
+Midland (East Metropolitan)	25+	1581
+Mirrabooka (East Metropolitan)	0-4	751
+Mirrabooka (East Metropolitan)	5-14	5612
+Mirrabooka (East Metropolitan)	15-19	2180
+Mirrabooka (East Metropolitan)	20-24	1351
+Mirrabooka (East Metropolitan)	25+	2306
+Moore (Agricultural)	0-4	422
+Moore (Agricultural)	5-14	3940
+Moore (Agricultural)	15-19	1131
+Moore (Agricultural)	20-24	215
+Moore (Agricultural)	25+	657
+Morley (East Metropolitan)	0-4	738
+Morley (East Metropolitan)	5-14	4521
+Morley (East Metropolitan)	15-19	1822
+Morley (East Metropolitan)	20-24	1204
+Morley (East Metropolitan)	25+	2035
+Mount Lawley (East Metropolitan)	0-4	603
+Mount Lawley (East Metropolitan)	5-14	3843
+Mount Lawley (East Metropolitan)	15-19	1706
+Mount Lawley (East Metropolitan)	20-24	1410
+Mount Lawley (East Metropolitan)	25+	2165
+Murray-Wellington (South West)	0-4	583
+Murray-Wellington (South West)	5-14	5505
+Murray-Wellington (South West)	15-19	1861
+Murray-Wellington (South West)	20-24	357
+Murray-Wellington (South West)	25+	958
+Nedlands (North Metropolitan)	0-4	682
+Nedlands (North Metropolitan)	5-14	5093
+Nedlands (North Metropolitan)	15-19	2752
+Nedlands (North Metropolitan)	20-24	2586
+Nedlands (North Metropolitan)	25+	2658
+North West Central (Mining and Pastoral)	0-4	305
+North West Central (Mining and Pastoral)	5-14	2298
+North West Central (Mining and Pastoral)	15-19	436
+North West Central (Mining and Pastoral)	20-24	100
+North West Central (Mining and Pastoral)	25+	488
+Perth (North Metropolitan)	0-4	642
+Perth (North Metropolitan)	5-14	3530
+Perth (North Metropolitan)	15-19	1351
+Perth (North Metropolitan)	20-24	2185
+Perth (North Metropolitan)	25+	4107
+Pilbara (Mining and Pastoral)	0-4	886
+Pilbara (Mining and Pastoral)	5-14	6056
+Pilbara (Mining and Pastoral)	15-19	1283
+Pilbara (Mining and Pastoral)	20-24	286
+Pilbara (Mining and Pastoral)	25+	1486
+Riverton (South Metropolitan)	0-4	708
+Riverton (South Metropolitan)	5-14	7128
+Riverton (South Metropolitan)	15-19	3130
+Riverton (South Metropolitan)	20-24	1506
+Riverton (South Metropolitan)	25+	1620
+Rockingham (South Metropolitan)	0-4	492
+Rockingham (South Metropolitan)	5-14	4047
+Rockingham (South Metropolitan)	15-19	1394
+Rockingham (South Metropolitan)	20-24	544
+Rockingham (South Metropolitan)	25+	1213
+Roe (Agricultural)	0-4	503
+Roe (Agricultural)	5-14	4314
+Roe (Agricultural)	15-19	1164
+Roe (Agricultural)	20-24	274
+Roe (Agricultural)	25+	728
+Scarborough (North Metropolitan)	0-4	806
+Scarborough (North Metropolitan)	5-14	4476
+Scarborough (North Metropolitan)	15-19	1792
+Scarborough (North Metropolitan)	20-24	1072
+Scarborough (North Metropolitan)	25+	2081
+South Perth (South Metropolitan)	0-4	638
+South Perth (South Metropolitan)	5-14	3960
+South Perth (South Metropolitan)	15-19	2108
+South Perth (South Metropolitan)	20-24	1936
+South Perth (South Metropolitan)	25+	2188
+Southern River (South Metropolitan)	0-4	1054
+Southern River (South Metropolitan)	5-14	7744
+Southern River (South Metropolitan)	15-19	2779
+Southern River (South Metropolitan)	20-24	1431
+Southern River (South Metropolitan)	25+	1871
+Swan Hills (East Metropolitan)	0-4	993
+Swan Hills (East Metropolitan)	5-14	7382
+Swan Hills (East Metropolitan)	15-19	2448
+Swan Hills (East Metropolitan)	20-24	743
+Swan Hills (East Metropolitan)	25+	1461
+Thornlie (East Metropolitan)	0-4	786
+Thornlie (East Metropolitan)	5-14	5871
+Thornlie (East Metropolitan)	15-19	2108
+Thornlie (East Metropolitan)	20-24	1154
+Thornlie (East Metropolitan)	25+	1962
+Vasse (South West)	0-4	606
+Vasse (South West)	5-14	5769
+Vasse (South West)	15-19	1731
+Vasse (South West)	20-24	308
+Vasse (South West)	25+	1210
+Victoria Park (South Metropolitan)	0-4	696
+Victoria Park (South Metropolitan)	5-14	3911
+Victoria Park (South Metropolitan)	15-19	1650
+Victoria Park (South Metropolitan)	20-24	2721
+Victoria Park (South Metropolitan)	25+	3685
+Wanneroo (North Metropolitan)	0-4	1076
+Wanneroo (North Metropolitan)	5-14	7317
+Wanneroo (North Metropolitan)	15-19	2427
+Wanneroo (North Metropolitan)	20-24	1026
+Wanneroo (North Metropolitan)	25+	1665
+Warnbro (South Metropolitan)	0-4	955
+Warnbro (South Metropolitan)	5-14	7573
+Warnbro (South Metropolitan)	15-19	2702
+Warnbro (South Metropolitan)	20-24	835
+Warnbro (South Metropolitan)	25+	1533
+Warren-Blackwood (South West)	0-4	524
+Warren-Blackwood (South West)	5-14	4845
+Warren-Blackwood (South West)	15-19	1560
+Warren-Blackwood (South West)	20-24	194
+Warren-Blackwood (South West)	25+	1003
+West Swan (East Metropolitan)	0-4	1185
+West Swan (East Metropolitan)	5-14	6986
+West Swan (East Metropolitan)	15-19	2489
+West Swan (East Metropolitan)	20-24	1177
+West Swan (East Metropolitan)	25+	2055
+Willagee (South Metropolitan)	0-4	623
+Willagee (South Metropolitan)	5-14	3989
+Willagee (South Metropolitan)	15-19	1712
+Willagee (South Metropolitan)	20-24	1236
+Willagee (South Metropolitan)	25+	1588
+No usual address (WA)	0-4	34
+No usual address (WA)	5-14	327
+No usual address (WA)	15-19	76
+No usual address (WA)	20-24	62
+No usual address (WA)	25+	169
+Migratory - Offshore - Shipping (WA)	25+	17
+Bass (Launceston)	0-4	351
+Bass (Launceston)	5-14	2609
+Bass (Launceston)	15-19	1065
+Bass (Launceston)	20-24	492
+Bass (Launceston)	25+	1143
+Bass (McIntyre)	0-4	78
+Bass (McIntyre)	5-14	822
+Bass (McIntyre)	15-19	244
+Bass (McIntyre)	20-24	53
+Bass (McIntyre)	25+	153
+Bass (Rosevears)	0-4	481
+Bass (Rosevears)	5-14	4165
+Bass (Rosevears)	15-19	1707
+Bass (Rosevears)	20-24	534
+Bass (Rosevears)	25+	1490
+Bass (Windermere)	0-4	546
+Bass (Windermere)	5-14	4343
+Bass (Windermere)	15-19	1572
+Bass (Windermere)	20-24	842
+Bass (Windermere)	25+	1843
+Braddon (Mersey)	0-4	500
+Braddon (Mersey)	5-14	4154
+Braddon (Mersey)	15-19	1510
+Braddon (Mersey)	20-24	405
+Braddon (Mersey)	25+	1119
+Braddon (Montgomery)	0-4	353
+Braddon (Montgomery)	5-14	3462
+Braddon (Montgomery)	15-19	1346
+Braddon (Montgomery)	20-24	326
+Braddon (Montgomery)	25+	934
+Braddon (Murchison)	0-4	454
+Braddon (Murchison)	5-14	4269
+Braddon (Murchison)	15-19	1431
+Braddon (Murchison)	20-24	366
+Braddon (Murchison)	25+	1055
+Clark (Derwent)	0-4	206
+Clark (Derwent)	5-14	1947
+Clark (Derwent)	15-19	689
+Clark (Derwent)	20-24	233
+Clark (Derwent)	25+	654
+Clark (Elwick)	0-4	445
+Clark (Elwick)	5-14	3527
+Clark (Elwick)	15-19	1342
+Clark (Elwick)	20-24	831
+Clark (Elwick)	25+	2665
+Clark (Hobart)	0-4	482
+Clark (Hobart)	5-14	3275
+Clark (Hobart)	15-19	1610
+Clark (Hobart)	20-24	1451
+Clark (Hobart)	25+	3202
+Clark (Huon)	0-4	4
+Clark (Huon)	5-14	46
+Clark (Huon)	15-19	14
+Clark (Huon)	20-24	3
+Clark (Huon)	25+	26
+Clark (Nelson)	0-4	269
+Clark (Nelson)	5-14	2142
+Clark (Nelson)	15-19	1110
+Clark (Nelson)	20-24	913
+Clark (Nelson)	25+	1802
+Franklin (Huon)	0-4	474
+Franklin (Huon)	5-14	4412
+Franklin (Huon)	15-19	1504
+Franklin (Huon)	20-24	411
+Franklin (Huon)	25+	1300
+Franklin (Nelson)	0-4	246
+Franklin (Nelson)	5-14	1714
+Franklin (Nelson)	15-19	698
+Franklin (Nelson)	20-24	355
+Franklin (Nelson)	25+	971
+Franklin (Pembroke)	0-4	458
+Franklin (Pembroke)	5-14	3246
+Franklin (Pembroke)	15-19	1215
+Franklin (Pembroke)	20-24	654
+Franklin (Pembroke)	25+	1647
+Franklin (Rumney)	0-4	444
+Franklin (Rumney)	5-14	3461
+Franklin (Rumney)	15-19	1146
+Franklin (Rumney)	20-24	457
+Franklin (Rumney)	25+	1074
+Lyons (Derwent)	0-4	299
+Lyons (Derwent)	5-14	2869
+Lyons (Derwent)	15-19	879
+Lyons (Derwent)	20-24	198
+Lyons (Derwent)	25+	550
+Lyons (Launceston)	0-4	126
+Lyons (Launceston)	5-14	1226
+Lyons (Launceston)	15-19	432
+Lyons (Launceston)	20-24	156
+Lyons (Launceston)	25+	297
+Lyons (McIntyre)	0-4	333
+Lyons (McIntyre)	5-14	3145
+Lyons (McIntyre)	15-19	994
+Lyons (McIntyre)	20-24	270
+Lyons (McIntyre)	25+	702
+Lyons (Montgomery)	0-4	43
+Lyons (Montgomery)	5-14	509
+Lyons (Montgomery)	15-19	182
+Lyons (Montgomery)	20-24	45
+Lyons (Montgomery)	25+	130
+Lyons (Prosser)	0-4	433
+Lyons (Prosser)	5-14	3540
+Lyons (Prosser)	15-19	1144
+Lyons (Prosser)	20-24	327
+Lyons (Prosser)	25+	993
+Lyons (Rumney)	0-4	157
+Lyons (Rumney)	5-14	1174
+Lyons (Rumney)	15-19	329
+Lyons (Rumney)	20-24	163
+Lyons (Rumney)	25+	360
+No usual address (Tas.)	0-4	6
+No usual address (Tas.)	5-14	68
+No usual address (Tas.)	15-19	36
+No usual address (Tas.)	20-24	24
+No usual address (Tas.)	25+	50
+Arafura	0-4	139
+Arafura	5-14	1250
+Arafura	15-19	309
+Arafura	20-24	21
+Arafura	25+	127
+Araluen	0-4	193
+Araluen	5-14	1295
+Araluen	15-19	364
+Araluen	20-24	82
+Araluen	25+	603
+Arnhem	0-4	204
+Arnhem	5-14	1309
+Arnhem	15-19	207
+Arnhem	20-24	32
+Arnhem	25+	156
+Barkly	0-4	160
+Barkly	5-14	1144
+Barkly	15-19	212
+Barkly	20-24	52
+Barkly	25+	173
+Blain	0-4	199
+Blain	5-14	1275
+Blain	15-19	360
+Blain	20-24	118
+Blain	25+	456
+Braitling	0-4	159
+Braitling	5-14	1076
+Braitling	15-19	312
+Braitling	20-24	69
+Braitling	25+	544
+Brennan	0-4	241
+Brennan	5-14	1358
+Brennan	15-19	399
+Brennan	20-24	136
+Brennan	25+	474
+Casuarina	0-4	170
+Casuarina	5-14	1250
+Casuarina	15-19	380
+Casuarina	20-24	300
+Casuarina	25+	830
+Daly	0-4	119
+Daly	5-14	1181
+Daly	15-19	208
+Daly	20-24	25
+Daly	25+	209
+Drysdale	0-4	162
+Drysdale	5-14	1124
+Drysdale	15-19	309
+Drysdale	20-24	116
+Drysdale	25+	396
+Fannie Bay	0-4	132
+Fannie Bay	5-14	823
+Fannie Bay	15-19	290
+Fannie Bay	20-24	120
+Fannie Bay	25+	543
+Fong Lim	0-4	113
+Fong Lim	5-14	770
+Fong Lim	15-19	258
+Fong Lim	20-24	197
+Fong Lim	25+	619
+Goyder	0-4	129
+Goyder	5-14	1160
+Goyder	15-19	368
+Goyder	20-24	86
+Goyder	25+	290
+Gwoja	0-4	121
+Gwoja	5-14	1103
+Gwoja	15-19	171
+Gwoja	20-24	46
+Gwoja	25+	123
+Johnston	0-4	159
+Johnston	5-14	1017
+Johnston	15-19	300
+Johnston	20-24	159
+Johnston	25+	652
+Karama	0-4	143
+Karama	5-14	1146
+Karama	15-19	400
+Karama	20-24	139
+Karama	25+	362
+Katherine	0-4	120
+Katherine	5-14	1057
+Katherine	15-19	208
+Katherine	20-24	73
+Katherine	25+	324
+Mulka	0-4	205
+Mulka	5-14	1437
+Mulka	15-19	349
+Mulka	20-24	34
+Mulka	25+	235
+Namatjira	0-4	170
+Namatjira	5-14	1244
+Namatjira	15-19	263
+Namatjira	20-24	58
+Namatjira	25+	340
+Nelson	0-4	127
+Nelson	5-14	1058
+Nelson	15-19	357
+Nelson	20-24	108
+Nelson	25+	305
+Nightcliff	0-4	127
+Nightcliff	5-14	855
+Nightcliff	15-19	254
+Nightcliff	20-24	164
+Nightcliff	25+	793
+Port Darwin	0-4	112
+Port Darwin	5-14	616
+Port Darwin	15-19	182
+Port Darwin	20-24	283
+Port Darwin	25+	1086
+Sanderson	0-4	161
+Sanderson	5-14	1065
+Sanderson	15-19	358
+Sanderson	20-24	126
+Sanderson	25+	403
+Spillett	0-4	328
+Spillett	5-14	1725
+Spillett	15-19	455
+Spillett	20-24	201
+Spillett	25+	690
+Wanguri	0-4	193
+Wanguri	5-14	1397
+Wanguri	15-19	391
+Wanguri	20-24	184
+Wanguri	25+	568
+No usual address (NT)	0-4	11
+No usual address (NT)	5-14	180
+No usual address (NT)	15-19	20
+No usual address (NT)	20-24	13
+No usual address (NT)	25+	56
+Migratory - Offshore - Shipping (NT)	25+	3
+Brindabella	0-4	1462
+Brindabella	5-14	10434
+Brindabella	15-19	3834
+Brindabella	20-24	1811
+Brindabella	25+	3457
+Ginninderra	0-4	1663
+Ginninderra	5-14	11017
+Ginninderra	15-19	4205
+Ginninderra	20-24	3831
+Ginninderra	25+	6358
+Kurrajong	0-4	1030
+Kurrajong	5-14	7084
+Kurrajong	15-19	5015
+Kurrajong	20-24	6339
+Kurrajong	25+	7017
+Murrumbidgee	0-4	1517
+Murrumbidgee	5-14	11102
+Murrumbidgee	15-19	3915
+Murrumbidgee	20-24	2366
+Murrumbidgee	25+	4857
+Yerrabi	0-4	2204
+Yerrabi	5-14	14164
+Yerrabi	15-19	4627
+Yerrabi	20-24	2914
+Yerrabi	25+	6521
+No usual address (ACT)	0-4	7
+No usual address (ACT)	5-14	19
+No usual address (ACT)	15-19	42
+No usual address (ACT)	20-24	29
+No usual address (ACT)	25+	21
+Unclassified (OT)	0-4	66
+Unclassified (OT)	5-14	486
+Unclassified (OT)	15-19	115
+Unclassified (OT)	20-24	38
+Unclassified (OT)	25+	113

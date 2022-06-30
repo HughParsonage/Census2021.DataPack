@@ -1,0 +1,109 @@
+STE_NAME16	MaxSchoolingCompleted	Sex	persons
+New South Wales	Did not go to school	F	41390
+New South Wales	Did not go to school	M	32447
+New South Wales	Year 8	F	128442
+New South Wales	Year 8	M	123807
+New South Wales	Year 9	F	186486
+New South Wales	Year 9	M	184339
+New South Wales	Year 10	F	659058
+New South Wales	Year 10	M	665689
+New South Wales	Year 11	F	184575
+New South Wales	Year 11	M	198152
+New South Wales	Year 12	F	1957431
+New South Wales	Year 12	M	1799613
+Victoria	Did not go to school	F	37800
+Victoria	Did not go to school	M	29618
+Victoria	Year 8	F	133978
+Victoria	Year 8	M	114226
+Victoria	Year 9	F	135908
+Victoria	Year 9	M	147966
+Victoria	Year 10	F	306436
+Victoria	Year 10	M	350544
+Victoria	Year 11	F	284836
+Victoria	Year 11	M	298596
+Victoria	Year 12	F	1673394
+Victoria	Year 12	M	1498515
+Queensland	Did not go to school	F	12475
+Queensland	Did not go to school	M	11292
+Queensland	Year 8	F	81422
+Queensland	Year 8	M	80827
+Queensland	Year 9	F	96127
+Queensland	Year 9	M	105677
+Queensland	Year 10	F	446881
+Queensland	Year 10	M	442333
+Queensland	Year 11	F	152918
+Queensland	Year 11	M	159264
+Queensland	Year 12	F	1215275
+Queensland	Year 12	M	1089812
+South Australia	Did not go to school	F	7987
+South Australia	Did not go to school	M	6432
+South Australia	Year 8	F	34028
+South Australia	Year 8	M	31140
+South Australia	Year 9	F	35852
+South Australia	Year 9	M	37363
+South Australia	Year 10	F	109163
+South Australia	Year 10	M	111391
+South Australia	Year 11	F	118817
+South Australia	Year 11	M	127807
+South Australia	Year 12	F	410158
+South Australia	Year 12	M	368097
+Western Australia	Did not go to school	F	7911
+Western Australia	Did not go to school	M	6837
+Western Australia	Year 8	F	29947
+Western Australia	Year 8	M	27943
+Western Australia	Year 9	F	43379
+Western Australia	Year 9	M	47712
+Western Australia	Year 10	F	205715
+Western Australia	Year 10	M	219554
+Western Australia	Year 11	F	101772
+Western Australia	Year 11	M	104044
+Western Australia	Year 12	F	633718
+Western Australia	Year 12	M	572423
+Tasmania	Did not go to school	F	1110
+Tasmania	Did not go to school	M	1130
+Tasmania	Year 8	F	8281
+Tasmania	Year 8	M	9015
+Tasmania	Year 9	F	16128
+Tasmania	Year 9	M	16804
+Tasmania	Year 10	F	65065
+Tasmania	Year 10	M	66722
+Tasmania	Year 11	F	20763
+Tasmania	Year 11	M	18667
+Tasmania	Year 12	F	112621
+Tasmania	Year 12	M	98987
+Northern Territory	Did not go to school	F	1241
+Northern Territory	Did not go to school	M	1133
+Northern Territory	Year 8	F	4455
+Northern Territory	Year 8	M	4778
+Northern Territory	Year 9	F	4706
+Northern Territory	Year 9	M	5417
+Northern Territory	Year 10	F	14118
+Northern Territory	Year 10	M	17554
+Northern Territory	Year 11	F	10160
+Northern Territory	Year 11	M	11074
+Northern Territory	Year 12	F	47293
+Northern Territory	Year 12	M	41456
+Australian Capital Territory	Did not go to school	F	1022
+Australian Capital Territory	Did not go to school	M	820
+Australian Capital Territory	Year 8	F	4231
+Australian Capital Territory	Year 8	M	3568
+Australian Capital Territory	Year 9	F	5793
+Australian Capital Territory	Year 9	M	5334
+Australian Capital Territory	Year 10	F	22050
+Australian Capital Territory	Year 10	M	19879
+Australian Capital Territory	Year 11	F	8003
+Australian Capital Territory	Year 11	M	8538
+Australian Capital Territory	Year 12	F	140761
+Australian Capital Territory	Year 12	M	134726
+Other Territories	Did not go to school	F	63
+Other Territories	Did not go to school	M	56
+Other Territories	Year 8	F	62
+Other Territories	Year 8	M	95
+Other Territories	Year 9	F	56
+Other Territories	Year 9	M	84
+Other Territories	Year 10	F	350
+Other Territories	Year 10	M	410
+Other Territories	Year 11	F	138
+Other Territories	Year 11	M	130
+Other Territories	Year 12	F	909
+Other Territories	Year 12	M	744

@@ -1,0 +1,135 @@
+STE_NAME16	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	families
+New South Wales					34061
+New South Wales	0	0	0	1	132495
+New South Wales	0	0	1	0	33244
+New South Wales	0	0	1	1	13926
+New South Wales	0	1	0	0	119430
+New South Wales	0	1	0	1	11585
+New South Wales	0	1	1	0	22278
+New South Wales	0	1	1	1	4765
+New South Wales	1	0	0	1	179076
+New South Wales	1	0	1	0	80485
+New South Wales	1	0	1	1	50091
+New South Wales	1	1	0	0	512884
+New South Wales	1	1	0	1	23773
+New South Wales	1	1	1	0	92127
+New South Wales	1	1	1	1	16146
+Victoria					28875
+Victoria	0	0	0	1	100952
+Victoria	0	0	1	0	29517
+Victoria	0	0	1	1	12486
+Victoria	0	1	0	0	89626
+Victoria	0	1	0	1	7294
+Victoria	0	1	1	0	18685
+Victoria	0	1	1	1	3480
+Victoria	1	0	0	1	136195
+Victoria	1	0	1	0	70660
+Victoria	1	0	1	1	42036
+Victoria	1	1	0	0	430437
+Victoria	1	1	0	1	14584
+Victoria	1	1	1	0	76582
+Victoria	1	1	1	1	11823
+Queensland					22230
+Queensland	0	0	0	1	76874
+Queensland	0	0	1	0	21076
+Queensland	0	0	1	1	7907
+Queensland	0	1	0	0	94881
+Queensland	0	1	0	1	9088
+Queensland	0	1	1	0	16780
+Queensland	0	1	1	1	3423
+Queensland	1	0	0	1	94599
+Queensland	1	0	1	0	46366
+Queensland	1	0	1	1	24295
+Queensland	1	1	0	0	315124
+Queensland	1	1	0	1	16449
+Queensland	1	1	1	0	56619
+Queensland	1	1	1	1	9867
+South Australia					7822
+South Australia	0	0	0	1	29810
+South Australia	0	0	1	0	8015
+South Australia	0	0	1	1	3241
+South Australia	0	1	0	0	29338
+South Australia	0	1	0	1	2693
+South Australia	0	1	1	0	5479
+South Australia	0	1	1	1	1009
+South Australia	1	0	0	1	36665
+South Australia	1	0	1	0	17269
+South Australia	1	0	1	1	10104
+South Australia	1	1	0	0	104723
+South Australia	1	1	0	1	4440
+South Australia	1	1	1	0	19353
+South Australia	1	1	1	1	3192
+Western Australia					10930
+Western Australia	0	0	0	1	36462
+Western Australia	0	0	1	0	10040
+Western Australia	0	0	1	1	4371
+Western Australia	0	1	0	0	42004
+Western Australia	0	1	0	1	4064
+Western Australia	0	1	1	0	7588
+Western Australia	0	1	1	1	1507
+Western Australia	1	0	0	1	51426
+Western Australia	1	0	1	0	25665
+Western Australia	1	0	1	1	15181
+Western Australia	1	1	0	0	177345
+Western Australia	1	1	0	1	8455
+Western Australia	1	1	1	0	30362
+Western Australia	1	1	1	1	5241
+Tasmania					2122
+Tasmania	0	0	0	1	8962
+Tasmania	0	0	1	0	2344
+Tasmania	0	0	1	1	869
+Tasmania	0	1	0	0	10586
+Tasmania	0	1	0	1	963
+Tasmania	0	1	1	0	1932
+Tasmania	0	1	1	1	336
+Tasmania	1	0	0	1	10658
+Tasmania	1	0	1	0	4251
+Tasmania	1	0	1	1	2403
+Tasmania	1	1	0	0	30156
+Tasmania	1	1	0	1	1689
+Tasmania	1	1	1	0	5312
+Tasmania	1	1	1	1	971
+Northern Territory					1118
+Northern Territory	0	0	0	1	3017
+Northern Territory	0	0	1	0	594
+Northern Territory	0	0	1	1	249
+Northern Territory	0	1	0	0	4714
+Northern Territory	0	1	0	1	757
+Northern Territory	0	1	1	0	586
+Northern Territory	0	1	1	1	166
+Northern Territory	1	0	0	1	3321
+Northern Territory	1	0	1	0	1282
+Northern Territory	1	0	1	1	655
+Northern Territory	1	1	0	0	15186
+Northern Territory	1	1	0	1	1376
+Northern Territory	1	1	1	0	2039
+Northern Territory	1	1	1	1	522
+Australian Capital Territory					1773
+Australian Capital Territory	0	0	0	1	5582
+Australian Capital Territory	0	0	1	0	1893
+Australian Capital Territory	0	0	1	1	715
+Australian Capital Territory	0	1	0	0	6535
+Australian Capital Territory	0	1	0	1	410
+Australian Capital Territory	0	1	1	0	1283
+Australian Capital Territory	0	1	1	1	224
+Australian Capital Territory	1	0	0	1	7448
+Australian Capital Territory	1	0	1	0	4816
+Australian Capital Territory	1	0	1	1	2380
+Australian Capital Territory	1	1	0	0	32746
+Australian Capital Territory	1	1	0	1	940
+Australian Capital Territory	1	1	1	0	5278
+Australian Capital Territory	1	1	1	1	660
+Other Territories					22
+Other Territories	0	0	0	1	44
+Other Territories	0	0	1	0	9
+Other Territories	0	0	1	1	4
+Other Territories	0	1	0	0	56
+Other Territories	0	1	0	1	5
+Other Territories	0	1	1	0	14
+Other Territories	1	0	0	1	67
+Other Territories	1	0	1	0	19
+Other Territories	1	0	1	1	10
+Other Territories	1	1	0	0	259
+Other Territories	1	1	0	1	21
+Other Territories	1	1	1	0	36
+Other Territories	1	1	1	1	5

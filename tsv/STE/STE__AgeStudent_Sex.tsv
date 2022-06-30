@@ -1,0 +1,91 @@
+STE_NAME16	AgeStudent	Sex	students
+New South Wales	0-4	F	68343
+New South Wales	0-4	M	72225
+New South Wales	5-14	F	454454
+New South Wales	5-14	M	479603
+New South Wales	15-19	F	178162
+New South Wales	15-19	M	180133
+New South Wales	20-24	F	109291
+New South Wales	20-24	M	102458
+New South Wales	25+	F	206043
+New South Wales	25+	M	135250
+Victoria	0-4	F	54210
+Victoria	0-4	M	57210
+Victoria	5-14	F	361332
+Victoria	5-14	M	381649
+Victoria	15-19	F	148150
+Victoria	15-19	M	149171
+Victoria	20-24	F	96748
+Victoria	20-24	M	91008
+Victoria	25+	F	169740
+Victoria	25+	M	112901
+Queensland	0-4	F	39057
+Queensland	0-4	M	41439
+Queensland	5-14	F	303637
+Queensland	5-14	M	319977
+Queensland	15-19	F	115831
+Queensland	15-19	M	111786
+Queensland	20-24	F	59763
+Queensland	20-24	M	46995
+Queensland	25+	F	130372
+Queensland	25+	M	74562
+South Australia	0-4	F	12159
+South Australia	0-4	M	12897
+South Australia	5-14	F	96331
+South Australia	5-14	M	101426
+South Australia	15-19	F	38581
+South Australia	15-19	M	38449
+South Australia	20-24	F	23389
+South Australia	20-24	M	20406
+South Australia	25+	F	43930
+South Australia	25+	M	27924
+Western Australia	0-4	F	21653
+Western Australia	0-4	M	23155
+Western Australia	5-14	F	156221
+Western Australia	5-14	M	165090
+Western Australia	15-19	F	57632
+Western Australia	15-19	M	57548
+Western Australia	20-24	F	30768
+Western Australia	20-24	M	27384
+Western Australia	25+	F	62579
+Western Australia	25+	M	37058
+Tasmania	0-4	F	3543
+Tasmania	0-4	M	3632
+Tasmania	5-14	F	29300
+Tasmania	5-14	M	30820
+Tasmania	15-19	F	11051
+Tasmania	15-19	M	11169
+Tasmania	20-24	F	5039
+Tasmania	20-24	M	4466
+Tasmania	25+	F	14059
+Tasmania	25+	M	10099
+Northern Territory	0-4	F	2008
+Northern Territory	0-4	M	2101
+Northern Territory	5-14	F	14059
+Northern Territory	5-14	M	14844
+Northern Territory	15-19	F	3879
+Northern Territory	15-19	M	3800
+Northern Territory	20-24	F	1646
+Northern Territory	20-24	M	1283
+Northern Territory	25+	F	7216
+Northern Territory	25+	M	4138
+Australian Capital Territory	0-4	F	3861
+Australian Capital Territory	0-4	M	4019
+Australian Capital Territory	5-14	F	26050
+Australian Capital Territory	5-14	M	27775
+Australian Capital Territory	15-19	F	10773
+Australian Capital Territory	15-19	M	10864
+Australian Capital Territory	20-24	F	8995
+Australian Capital Territory	20-24	M	8288
+Australian Capital Territory	25+	F	15763
+Australian Capital Territory	25+	M	12466
+Other Territories	0-4	F	30
+Other Territories	0-4	M	40
+Other Territories	5-14	F	224
+Other Territories	5-14	M	260
+Other Territories	15-19	F	66
+Other Territories	15-19	M	53
+Other Territories	20-24	F	23
+Other Territories	20-24	M	11
+Other Territories	25+	F	70
+Other Territories	25+	M	43

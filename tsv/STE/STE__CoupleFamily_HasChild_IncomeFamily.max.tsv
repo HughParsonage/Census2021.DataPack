@@ -1,0 +1,517 @@
+STE_NAME16	CoupleFamily	HasChild	IncomeFamily.max	families
+New South Wales				770
+New South Wales			0	747
+New South Wales			7875	237
+New South Wales			15750	344
+New South Wales			21000	310
+New South Wales			26250	792
+New South Wales			34125	935
+New South Wales			42000	1722
+New South Wales			52500	3500
+New South Wales			65625	3604
+New South Wales			78750	3918
+New South Wales			91875	2456
+New South Wales			105000	2428
+New South Wales			131250	4366
+New South Wales			157500	2649
+New South Wales			183750	1539
+New South Wales			210000	830
+New South Wales			Inf	1597
+New South Wales	0			28053
+New South Wales	0		0	7321
+New South Wales	0		7875	1899
+New South Wales	0		15750	4243
+New South Wales	0		21000	7425
+New South Wales	0		26250	13418
+New South Wales	0		34125	21968
+New South Wales	0		42000	25848
+New South Wales	0		52500	33783
+New South Wales	0		65625	36003
+New South Wales	0		78750	32171
+New South Wales	0		91875	24149
+New South Wales	0		105000	20700
+New South Wales	0		131250	35269
+New South Wales	0		157500	16077
+New South Wales	0		183750	11118
+New South Wales	0		210000	4898
+New South Wales	0		Inf	14709
+New South Wales	1	0		110645
+New South Wales	1	0	0	25585
+New South Wales	1	0	7875	6936
+New South Wales	1	0	15750	4679
+New South Wales	1	0	21000	3970
+New South Wales	1	0	26250	20438
+New South Wales	1	0	34125	14271
+New South Wales	1	0	42000	83090
+New South Wales	1	0	52500	72235
+New South Wales	1	0	65625	92224
+New South Wales	1	0	78750	116674
+New South Wales	1	0	91875	86268
+New South Wales	1	0	105000	96570
+New South Wales	1	0	131250	220521
+New South Wales	1	0	157500	175104
+New South Wales	1	0	183750	151253
+New South Wales	1	0	210000	104393
+New South Wales	1	0	Inf	350558
+New South Wales	1	1	7875	992
+New South Wales	1	1	15750	1808
+New South Wales	1	1	21000	1680
+New South Wales	1	1	26250	4282
+New South Wales	1	1	34125	6348
+New South Wales	1	1	42000	13662
+Victoria				592
+Victoria			0	699
+Victoria			7875	255
+Victoria			15750	325
+Victoria			21000	281
+Victoria			26250	737
+Victoria			34125	758
+Victoria			42000	1560
+Victoria			52500	2812
+Victoria			65625	2900
+Victoria			78750	3302
+Victoria			91875	2152
+Victoria			105000	2077
+Victoria			131250	3798
+Victoria			157500	2313
+Victoria			183750	1337
+Victoria			210000	725
+Victoria			Inf	1264
+Victoria	0			22763
+Victoria	0		0	6289
+Victoria	0		7875	1821
+Victoria	0		15750	3835
+Victoria	0		21000	5942
+Victoria	0		26250	10548
+Victoria	0		34125	16831
+Victoria	0		42000	20236
+Victoria	0		52500	26731
+Victoria	0		65625	28307
+Victoria	0		78750	25624
+Victoria	0		91875	19237
+Victoria	0		105000	15924
+Victoria	0		131250	26568
+Victoria	0		157500	11912
+Victoria	0		183750	7924
+Victoria	0		210000	3351
+Victoria	0		Inf	9180
+Victoria	1	0		89636
+Victoria	1	0	0	20632
+Victoria	1	0	7875	5593
+Victoria	1	0	15750	3878
+Victoria	1	0	21000	3117
+Victoria	1	0	26250	16153
+Victoria	1	0	34125	11357
+Victoria	1	0	42000	63469
+Victoria	1	0	52500	60959
+Victoria	1	0	65625	77762
+Victoria	1	0	78750	98211
+Victoria	1	0	91875	74616
+Victoria	1	0	105000	83393
+Victoria	1	0	131250	189052
+Victoria	1	0	157500	151245
+Victoria	1	0	183750	124934
+Victoria	1	0	210000	82908
+Victoria	1	0	Inf	246039
+Victoria	1	1	7875	990
+Victoria	1	1	15750	1700
+Victoria	1	1	21000	1511
+Victoria	1	1	26250	3683
+Victoria	1	1	34125	5543
+Victoria	1	1	42000	11498
+Queensland				433
+Queensland			0	366
+Queensland			7875	178
+Queensland			15750	247
+Queensland			21000	176
+Queensland			26250	529
+Queensland			34125	675
+Queensland			42000	1238
+Queensland			52500	2455
+Queensland			65625	2475
+Queensland			78750	2609
+Queensland			91875	1687
+Queensland			105000	1675
+Queensland			131250	2869
+Queensland			157500	1669
+Queensland			183750	876
+Queensland			210000	442
+Queensland			Inf	728
+Queensland	0			19760
+Queensland	0		0	3909
+Queensland	0		7875	1185
+Queensland	0		15750	2904
+Queensland	0		21000	4904
+Queensland	0		26250	9354
+Queensland	0		34125	17025
+Queensland	0		42000	20160
+Queensland	0		52500	25546
+Queensland	0		65625	27212
+Queensland	0		78750	23384
+Queensland	0		91875	17389
+Queensland	0		105000	13903
+Queensland	0		131250	21947
+Queensland	0		157500	8725
+Queensland	0		183750	5562
+Queensland	0		210000	2115
+Queensland	0		Inf	5966
+Queensland	1	0		91469
+Queensland	1	0	0	12107
+Queensland	1	0	7875	4329
+Queensland	1	0	15750	3009
+Queensland	1	0	21000	2634
+Queensland	1	0	26250	13322
+Queensland	1	0	34125	10027
+Queensland	1	0	42000	58116
+Queensland	1	0	52500	50520
+Queensland	1	0	65625	62779
+Queensland	1	0	78750	79766
+Queensland	1	0	91875	59492
+Queensland	1	0	105000	67504
+Queensland	1	0	131250	151291
+Queensland	1	0	157500	116855
+Queensland	1	0	183750	94504
+Queensland	1	0	210000	61573
+Queensland	1	0	Inf	160663
+Queensland	1	1	7875	566
+Queensland	1	1	15750	905
+Queensland	1	1	21000	695
+Queensland	1	1	26250	2064
+Queensland	1	1	34125	3079
+Queensland	1	1	42000	7122
+South Australia				156
+South Australia			0	132
+South Australia			7875	69
+South Australia			15750	82
+South Australia			21000	71
+South Australia			26250	230
+South Australia			34125	295
+South Australia			42000	543
+South Australia			52500	940
+South Australia			65625	901
+South Australia			78750	1012
+South Australia			91875	551
+South Australia			105000	598
+South Australia			131250	919
+South Australia			157500	499
+South Australia			183750	261
+South Australia			210000	126
+South Australia			Inf	171
+South Australia	0			7068
+South Australia	0		0	1253
+South Australia	0		7875	428
+South Australia	0		15750	1082
+South Australia	0		21000	1878
+South Australia	0		26250	3508
+South Australia	0		34125	6013
+South Australia	0		42000	7045
+South Australia	0		52500	9205
+South Australia	0		65625	9383
+South Australia	0		78750	8036
+South Australia	0		91875	5847
+South Australia	0		105000	4693
+South Australia	0		131250	7244
+South Australia	0		157500	3059
+South Australia	0		183750	1729
+South Australia	0		210000	698
+South Australia	0		Inf	1689
+South Australia	1	0		28599
+South Australia	1	0	0	3807
+South Australia	1	0	7875	1352
+South Australia	1	0	15750	1007
+South Australia	1	0	21000	796
+South Australia	1	0	26250	4933
+South Australia	1	0	34125	3785
+South Australia	1	0	42000	23447
+South Australia	1	0	52500	21413
+South Australia	1	0	65625	25766
+South Australia	1	0	78750	31906
+South Australia	1	0	91875	22437
+South Australia	1	0	105000	24797
+South Australia	1	0	131250	54049
+South Australia	1	0	157500	41083
+South Australia	1	0	183750	31313
+South Australia	1	0	210000	19458
+South Australia	1	0	Inf	46414
+South Australia	1	1	7875	226
+South Australia	1	1	15750	316
+South Australia	1	1	21000	299
+South Australia	1	1	26250	935
+South Australia	1	1	34125	1290
+South Australia	1	1	42000	2950
+Western Australia				200
+Western Australia			0	194
+Western Australia			7875	111
+Western Australia			15750	161
+Western Australia			21000	109
+Western Australia			26250	329
+Western Australia			34125	365
+Western Australia			42000	584
+Western Australia			52500	1057
+Western Australia			65625	1019
+Western Australia			78750	1151
+Western Australia			91875	798
+Western Australia			105000	781
+Western Australia			131250	1423
+Western Australia			157500	851
+Western Australia			183750	557
+Western Australia			210000	288
+Western Australia			Inf	504
+Western Australia	0			10393
+Western Australia	0		0	1829
+Western Australia	0		7875	641
+Western Australia	0		15750	1556
+Western Australia	0		21000	2675
+Western Australia	0		26250	4543
+Western Australia	0		34125	7628
+Western Australia	0		42000	8434
+Western Australia	0		52500	10372
+Western Australia	0		65625	11271
+Western Australia	0		78750	9723
+Western Australia	0		91875	7547
+Western Australia	0		105000	6348
+Western Australia	0		131250	10619
+Western Australia	0		157500	4634
+Western Australia	0		183750	3270
+Western Australia	0		210000	1308
+Western Australia	0		Inf	3709
+Western Australia	1	0		65888
+Western Australia	1	0	0	6259
+Western Australia	1	0	7875	2060
+Western Australia	1	0	15750	1608
+Western Australia	1	0	21000	1181
+Western Australia	1	0	26250	6253
+Western Australia	1	0	34125	4687
+Western Australia	1	0	42000	25006
+Western Australia	1	0	52500	22395
+Western Australia	1	0	65625	28153
+Western Australia	1	0	78750	34871
+Western Australia	1	0	91875	27082
+Western Australia	1	0	105000	30932
+Western Australia	1	0	131250	72450
+Western Australia	1	0	157500	59721
+Western Australia	1	0	183750	52628
+Western Australia	1	0	210000	34238
+Western Australia	1	0	Inf	103350
+Western Australia	1	1	7875	282
+Western Australia	1	1	15750	455
+Western Australia	1	1	21000	419
+Western Australia	1	1	26250	1168
+Western Australia	1	1	34125	1632
+Western Australia	1	1	42000	3452
+Tasmania				53
+Tasmania			0	27
+Tasmania			7875	19
+Tasmania			15750	25
+Tasmania			21000	23
+Tasmania			26250	54
+Tasmania			34125	83
+Tasmania			42000	140
+Tasmania			52500	303
+Tasmania			65625	267
+Tasmania			78750	250
+Tasmania			91875	137
+Tasmania			105000	172
+Tasmania			131250	249
+Tasmania			157500	108
+Tasmania			183750	58
+Tasmania			210000	20
+Tasmania			Inf	45
+Tasmania	0			2490
+Tasmania	0		0	287
+Tasmania	0		7875	120
+Tasmania	0		15750	319
+Tasmania	0		21000	656
+Tasmania	0		26250	1328
+Tasmania	0		34125	2366
+Tasmania	0		42000	2621
+Tasmania	0		52500	3196
+Tasmania	0		65625	3195
+Tasmania	0		78750	2588
+Tasmania	0		91875	1749
+Tasmania	0		105000	1380
+Tasmania	0		131250	2018
+Tasmania	0		157500	756
+Tasmania	0		183750	432
+Tasmania	0		210000	146
+Tasmania	0		Inf	424
+Tasmania	1	0		9351
+Tasmania	1	0	0	1031
+Tasmania	1	0	7875	439
+Tasmania	1	0	15750	371
+Tasmania	1	0	21000	360
+Tasmania	1	0	26250	1812
+Tasmania	1	0	34125	1377
+Tasmania	1	0	42000	8783
+Tasmania	1	0	52500	7286
+Tasmania	1	0	65625	8637
+Tasmania	1	0	78750	11045
+Tasmania	1	0	91875	7731
+Tasmania	1	0	105000	8125
+Tasmania	1	0	131250	16982
+Tasmania	1	0	157500	12114
+Tasmania	1	0	183750	8714
+Tasmania	1	0	210000	5316
+Tasmania	1	0	Inf	11169
+Tasmania	1	1	7875	62
+Tasmania	1	1	15750	77
+Tasmania	1	1	21000	64
+Tasmania	1	1	26250	269
+Tasmania	1	1	34125	377
+Tasmania	1	1	42000	967
+Northern Territory				32
+Northern Territory			0	16
+Northern Territory			7875	24
+Northern Territory			15750	38
+Northern Territory			21000	15
+Northern Territory			26250	58
+Northern Territory			34125	30
+Northern Territory			42000	92
+Northern Territory			52500	111
+Northern Territory			65625	96
+Northern Territory			78750	91
+Northern Territory			91875	56
+Northern Territory			105000	71
+Northern Territory			131250	133
+Northern Territory			157500	89
+Northern Territory			183750	42
+Northern Territory			210000	24
+Northern Territory			Inf	51
+Northern Territory	0			1123
+Northern Territory	0		0	116
+Northern Territory	0		7875	190
+Northern Territory	0		15750	632
+Northern Territory	0		21000	436
+Northern Territory	0		26250	627
+Northern Territory	0		34125	606
+Northern Territory	0		42000	718
+Northern Territory	0		52500	723
+Northern Territory	0		65625	851
+Northern Territory	0		78750	789
+Northern Territory	0		91875	645
+Northern Territory	0		105000	567
+Northern Territory	0		131250	963
+Northern Territory	0		157500	405
+Northern Territory	0		183750	285
+Northern Territory	0		210000	135
+Northern Territory	0		Inf	324
+Northern Territory	1	0		5315
+Northern Territory	1	0	0	323
+Northern Territory	1	0	7875	192
+Northern Territory	1	0	15750	113
+Northern Territory	1	0	21000	69
+Northern Territory	1	0	26250	671
+Northern Territory	1	0	34125	244
+Northern Territory	1	0	42000	973
+Northern Territory	1	0	52500	1404
+Northern Territory	1	0	65625	1710
+Northern Territory	1	0	78750	2125
+Northern Territory	1	0	91875	1695
+Northern Territory	1	0	105000	1968
+Northern Territory	1	0	131250	5397
+Northern Territory	1	0	157500	4679
+Northern Territory	1	0	183750	4174
+Northern Territory	1	0	210000	2981
+Northern Territory	1	0	Inf	7120
+Northern Territory	1	1	7875	156
+Northern Territory	1	1	15750	203
+Northern Territory	1	1	21000	86
+Northern Territory	1	1	26250	672
+Northern Territory	1	1	34125	382
+Northern Territory	1	1	42000	682
+Australian Capital Territory				15
+Australian Capital Territory			0	19
+Australian Capital Territory			7875	20
+Australian Capital Territory			15750	5
+Australian Capital Territory			21000	8
+Australian Capital Territory			26250	30
+Australian Capital Territory			34125	32
+Australian Capital Territory			42000	59
+Australian Capital Territory			52500	99
+Australian Capital Territory			65625	121
+Australian Capital Territory			78750	181
+Australian Capital Territory			91875	110
+Australian Capital Territory			105000	129
+Australian Capital Territory			131250	300
+Australian Capital Territory			157500	239
+Australian Capital Territory			183750	137
+Australian Capital Territory			210000	96
+Australian Capital Territory			Inf	124
+Australian Capital Territory	0			1382
+Australian Capital Territory	0		0	196
+Australian Capital Territory	0		7875	85
+Australian Capital Territory	0		15750	170
+Australian Capital Territory	0		21000	266
+Australian Capital Territory	0		26250	478
+Australian Capital Territory	0		34125	697
+Australian Capital Territory	0		42000	758
+Australian Capital Territory	0		52500	976
+Australian Capital Territory	0		65625	1278
+Australian Capital Territory	0		78750	1314
+Australian Capital Territory	0		91875	1375
+Australian Capital Territory	0		105000	1274
+Australian Capital Territory	0		131250	2723
+Australian Capital Territory	0		157500	1128
+Australian Capital Territory	0		183750	939
+Australian Capital Territory	0		210000	422
+Australian Capital Territory	0		Inf	1240
+Australian Capital Territory	1	0		5068
+Australian Capital Territory	1	0	0	657
+Australian Capital Territory	1	0	7875	157
+Australian Capital Territory	1	0	15750	115
+Australian Capital Territory	1	0	21000	87
+Australian Capital Territory	1	0	26250	404
+Australian Capital Territory	1	0	34125	382
+Australian Capital Territory	1	0	42000	1720
+Australian Capital Territory	1	0	52500	2011
+Australian Capital Territory	1	0	65625	3104
+Australian Capital Territory	1	0	78750	4831
+Australian Capital Territory	1	0	91875	4114
+Australian Capital Territory	1	0	105000	4585
+Australian Capital Territory	1	0	131250	11885
+Australian Capital Territory	1	0	157500	10964
+Australian Capital Territory	1	0	183750	10851
+Australian Capital Territory	1	0	210000	9011
+Australian Capital Territory	1	0	Inf	30701
+Australian Capital Territory	1	1	7875	29
+Australian Capital Territory	1	1	15750	31
+Australian Capital Territory	1	1	21000	35
+Australian Capital Territory	1	1	26250	98
+Australian Capital Territory	1	1	34125	183
+Australian Capital Territory	1	1	42000	313
+Other Territories				3
+Other Territories			78750	4
+Other Territories			105000	4
+Other Territories	0			19
+Other Territories	0		21000	5
+Other Territories	0		26250	6
+Other Territories	0		34125	4
+Other Territories	0		42000	9
+Other Territories	0		52500	15
+Other Territories	0		65625	23
+Other Territories	0		78750	8
+Other Territories	0		91875	9
+Other Territories	0		105000	4
+Other Territories	0		131250	11
+Other Territories	0		157500	5
+Other Territories	0		183750	7
+Other Territories	0		210000	5
+Other Territories	1	0		99
+Other Territories	1	0	0	3
+Other Territories	1	0	7875	8
+Other Territories	1	0	21000	4
+Other Territories	1	0	26250	15
+Other Territories	1	0	34125	15
+Other Territories	1	0	42000	45
+Other Territories	1	0	52500	44
+Other Territories	1	0	65625	50
+Other Territories	1	0	78750	75
+Other Territories	1	0	91875	58
+Other Territories	1	0	105000	63
+Other Territories	1	0	131250	119
+Other Territories	1	0	157500	92
+Other Territories	1	0	183750	64
+Other Territories	1	0	210000	52
+Other Territories	1	0	Inf	89
+Other Territories	1	1	15750	4
+Other Territories	1	1	42000	9

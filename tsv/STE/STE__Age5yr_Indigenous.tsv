@@ -1,0 +1,379 @@
+STE_NAME16	Age5yr	Indigenous	persons
+New South Wales	0-4		20890
+New South Wales	0-4	0	416924
+New South Wales	0-4	1	30241
+New South Wales	5-9		25176
+New South Wales	5-9	0	444523
+New South Wales	5-9	1	31114
+New South Wales	10-14		24272
+New South Wales	10-14	0	445650
+New South Wales	10-14	1	31215
+New South Wales	15-19		21683
+New South Wales	15-19	0	408698
+New South Wales	15-19	1	27517
+New South Wales	20-24		25555
+New South Wales	20-24	0	446647
+New South Wales	20-24	1	23983
+New South Wales	25-29		30374
+New South Wales	25-29	0	504530
+New South Wales	25-29	1	21068
+New South Wales	30-34		29891
+New South Wales	30-34	0	538624
+New South Wales	30-34	1	17545
+New South Wales	35-39		28599
+New South Wales	35-39	0	536530
+New South Wales	35-39	1	15057
+New South Wales	40-44		24829
+New South Wales	40-44	0	485043
+New South Wales	40-44	1	13111
+New South Wales	45-49		23419
+New South Wales	45-49	0	479566
+New South Wales	45-49	1	13929
+New South Wales	50-54		21561
+New South Wales	50-54	0	464974
+New South Wales	50-54	1	13498
+New South Wales	55-59		21602
+New South Wales	55-59	0	456800
+New South Wales	55-59	1	11747
+New South Wales	60-64		19555
+New South Wales	60-64	0	442029
+New South Wales	60-64	1	10046
+New South Wales	65+		72220
+New South Wales	65+	0	1333955
+New South Wales	65+	1	17973
+Victoria	0-4		15012
+Victoria	0-4	0	353868
+Victoria	0-4	1	7014
+Victoria	5-9		17964
+Victoria	5-9	0	377136
+Victoria	5-9	1	7067
+Victoria	10-14		17376
+Victoria	10-14	0	367025
+Victoria	10-14	1	6986
+Victoria	15-19		15437
+Victoria	15-19	0	341743
+Victoria	15-19	1	6020
+Victoria	20-24		18787
+Victoria	20-24	0	385605
+Victoria	20-24	1	5940
+Victoria	25-29		24206
+Victoria	25-29	0	445843
+Victoria	25-29	1	5481
+Victoria	30-34		23055
+Victoria	30-34	0	472273
+Victoria	30-34	1	4626
+Victoria	35-39		21957
+Victoria	35-39	0	464226
+Victoria	35-39	1	3741
+Victoria	40-44		18681
+Victoria	40-44	0	406864
+Victoria	40-44	1	3266
+Victoria	45-49		17758
+Victoria	45-49	0	395501
+Victoria	45-49	1	3266
+Victoria	50-54		16844
+Victoria	50-54	0	390205
+Victoria	50-54	1	3309
+Victoria	55-59		15736
+Victoria	55-59	0	365442
+Victoria	55-59	1	2736
+Victoria	60-64		14529
+Victoria	60-64	0	345877
+Victoria	60-64	1	2224
+Victoria	65+		52321
+Victoria	65+	0	1036561
+Victoria	65+	1	3955
+Queensland	0-4		13833
+Queensland	0-4	0	252887
+Queensland	0-4	1	25731
+Queensland	5-9		16969
+Queensland	5-9	0	285471
+Queensland	5-9	1	26873
+Queensland	10-14		17303
+Queensland	10-14	0	297682
+Queensland	10-14	1	27564
+Queensland	15-19		15719
+Queensland	15-19	0	274126
+Queensland	15-19	1	23665
+Queensland	20-24		19862
+Queensland	20-24	0	283336
+Queensland	20-24	1	20541
+Queensland	25-29		23270
+Queensland	25-29	0	306135
+Queensland	25-29	1	18280
+Queensland	30-34		22080
+Queensland	30-34	0	316625
+Queensland	30-34	1	15330
+Queensland	35-39		20976
+Queensland	35-39	0	322782
+Queensland	35-39	1	13360
+Queensland	40-44		18357
+Queensland	40-44	0	300479
+Queensland	40-44	1	11856
+Queensland	45-49		19013
+Queensland	45-49	0	309100
+Queensland	45-49	1	12173
+Queensland	50-54		18236
+Queensland	50-54	0	304105
+Queensland	50-54	1	11504
+Queensland	55-59		17065
+Queensland	55-59	0	289741
+Queensland	55-59	1	9574
+Queensland	60-64		15053
+Queensland	60-64	0	276084
+Queensland	60-64	1	7782
+Queensland	65+		46042
+Queensland	65+	0	816492
+Queensland	65+	1	13065
+South Australia	0-4		3221
+South Australia	0-4	0	86465
+South Australia	0-4	1	4544
+South Australia	5-9		3930
+South Australia	5-9	0	95177
+South Australia	5-9	1	4647
+South Australia	10-14		4003
+South Australia	10-14	0	96432
+South Australia	10-14	1	4724
+South Australia	15-19		3735
+South Australia	15-19	0	91331
+South Australia	15-19	1	4090
+South Australia	20-24		4189
+South Australia	20-24	0	101308
+South Australia	20-24	1	3673
+South Australia	25-29		4817
+South Australia	25-29	0	109002
+South Australia	25-29	1	3379
+South Australia	30-34		4707
+South Australia	30-34	0	110412
+South Australia	30-34	1	2978
+South Australia	35-39		4686
+South Australia	35-39	0	111806
+South Australia	35-39	1	2508
+South Australia	40-44		4258
+South Australia	40-44	0	101365
+South Australia	40-44	1	2042
+South Australia	45-49		4459
+South Australia	45-49	0	103135
+South Australia	45-49	1	2126
+South Australia	50-54		4456
+South Australia	50-54	0	108291
+South Australia	50-54	1	2175
+South Australia	55-59		4430
+South Australia	55-59	0	108106
+South Australia	55-59	1	1765
+South Australia	60-64		4238
+South Australia	60-64	0	107090
+South Australia	60-64	1	1522
+South Australia	65+		14518
+South Australia	65+	0	339411
+South Australia	65+	1	2392
+Western Australia	0-4		6571
+Western Australia	0-4	0	145920
+Western Australia	0-4	1	9264
+Western Australia	5-9		7918
+Western Australia	5-9	0	155204
+Western Australia	5-9	1	9532
+Western Australia	10-14		7657
+Western Australia	10-14	0	154086
+Western Australia	10-14	1	9632
+Western Australia	15-19		6514
+Western Australia	15-19	0	138215
+Western Australia	15-19	1	8530
+Western Australia	20-24		8662
+Western Australia	20-24	0	142679
+Western Australia	20-24	1	7469
+Western Australia	25-29		11444
+Western Australia	25-29	0	157552
+Western Australia	25-29	1	7047
+Western Australia	30-34		12107
+Western Australia	30-34	0	177738
+Western Australia	30-34	1	6468
+Western Australia	35-39		11817
+Western Australia	35-39	0	183515
+Western Australia	35-39	1	5579
+Western Australia	40-44		10116
+Western Australia	40-44	0	163601
+Western Australia	40-44	1	4867
+Western Australia	45-49		9953
+Western Australia	45-49	0	160060
+Western Australia	45-49	1	4622
+Western Australia	50-54		9801
+Western Australia	50-54	0	159491
+Western Australia	50-54	1	4335
+Western Australia	55-59		8912
+Western Australia	55-59	0	150159
+Western Australia	55-59	1	3707
+Western Australia	60-64		7551
+Western Australia	60-64	0	140190
+Western Australia	60-64	1	2924
+Western Australia	65+		21104
+Western Australia	65+	0	402802
+Western Australia	65+	1	4716
+Tasmania	0-4		1196
+Tasmania	0-4	0	24200
+Tasmania	0-4	1	2875
+Tasmania	5-9		1449
+Tasmania	5-9	0	26543
+Tasmania	5-9	1	3162
+Tasmania	10-14		1510
+Tasmania	10-14	0	28226
+Tasmania	10-14	1	3476
+Tasmania	15-19		1406
+Tasmania	15-19	0	25776
+Tasmania	15-19	1	2878
+Tasmania	20-24		1470
+Tasmania	20-24	0	27109
+Tasmania	20-24	1	2443
+Tasmania	25-29		1728
+Tasmania	25-29	0	34952
+Tasmania	25-29	1	2076
+Tasmania	30-34		1743
+Tasmania	30-34	0	34219
+Tasmania	30-34	1	1942
+Tasmania	35-39		1619
+Tasmania	35-39	0	31307
+Tasmania	35-39	1	1784
+Tasmania	40-44		1391
+Tasmania	40-44	0	28367
+Tasmania	40-44	1	1485
+Tasmania	45-49		1473
+Tasmania	45-49	0	30280
+Tasmania	45-49	1	1476
+Tasmania	50-54		1654
+Tasmania	50-54	0	32693
+Tasmania	50-54	1	1624
+Tasmania	55-59		1690
+Tasmania	55-59	0	33934
+Tasmania	55-59	1	1373
+Tasmania	60-64		1703
+Tasmania	60-64	0	35405
+Tasmania	60-64	1	1290
+Tasmania	65+		5818
+Tasmania	65+	0	108513
+Tasmania	65+	1	2304
+Northern Territory	0-4		1009
+Northern Territory	0-4	0	9848
+Northern Territory	0-4	1	5365
+Northern Territory	5-9		1215
+Northern Territory	5-9	0	9838
+Northern Territory	5-9	1	5791
+Northern Territory	10-14		1087
+Northern Territory	10-14	0	8735
+Northern Territory	10-14	1	6020
+Northern Territory	15-19		967
+Northern Territory	15-19	0	7322
+Northern Territory	15-19	1	5891
+Northern Territory	20-24		1311
+Northern Territory	20-24	0	8942
+Northern Territory	20-24	1	5538
+Northern Territory	25-29		1837
+Northern Territory	25-29	0	13841
+Northern Territory	25-29	1	5256
+Northern Territory	30-34		1836
+Northern Territory	30-34	0	15196
+Northern Territory	30-34	1	4922
+Northern Territory	35-39		1584
+Northern Territory	35-39	0	13471
+Northern Territory	35-39	1	4342
+Northern Territory	40-44		1389
+Northern Territory	40-44	0	11204
+Northern Territory	40-44	1	3828
+Northern Territory	45-49		1355
+Northern Territory	45-49	0	10183
+Northern Territory	45-49	1	3520
+Northern Territory	50-54		1268
+Northern Territory	50-54	0	10303
+Northern Territory	50-54	1	3333
+Northern Territory	55-59		1220
+Northern Territory	55-59	0	9368
+Northern Territory	55-59	1	2498
+Northern Territory	60-64		942
+Northern Territory	60-64	0	8252
+Northern Territory	60-64	1	1956
+Northern Territory	65+		1770
+Northern Territory	65+	0	16207
+Northern Territory	65+	1	2846
+Australian Capital Territory	0-4		758
+Australian Capital Territory	0-4	0	25032
+Australian Capital Territory	0-4	1	893
+Australian Capital Territory	5-9		877
+Australian Capital Territory	5-9	0	27344
+Australian Capital Territory	5-9	1	944
+Australian Capital Territory	10-14		800
+Australian Capital Territory	10-14	0	25457
+Australian Capital Territory	10-14	1	840
+Australian Capital Territory	15-19		1099
+Australian Capital Territory	15-19	0	24355
+Australian Capital Territory	15-19	1	895
+Australian Capital Territory	20-24		1644
+Australian Capital Territory	20-24	0	31676
+Australian Capital Territory	20-24	1	942
+Australian Capital Territory	25-29		1600
+Australian Capital Territory	25-29	0	36837
+Australian Capital Territory	25-29	1	844
+Australian Capital Territory	30-34		1481
+Australian Capital Territory	30-34	0	36279
+Australian Capital Territory	30-34	1	700
+Australian Capital Territory	35-39		1270
+Australian Capital Territory	35-39	0	35405
+Australian Capital Territory	35-39	1	564
+Australian Capital Territory	40-44		1036
+Australian Capital Territory	40-44	0	30601
+Australian Capital Territory	40-44	1	510
+Australian Capital Territory	45-49		911
+Australian Capital Territory	45-49	0	27931
+Australian Capital Territory	45-49	1	444
+Australian Capital Territory	50-54		841
+Australian Capital Territory	50-54	0	25675
+Australian Capital Territory	50-54	1	411
+Australian Capital Territory	55-59		774
+Australian Capital Territory	55-59	0	22824
+Australian Capital Territory	55-59	1	330
+Australian Capital Territory	60-64		654
+Australian Capital Territory	60-64	0	20579
+Australian Capital Territory	60-64	1	250
+Australian Capital Territory	65+		2288
+Australian Capital Territory	65+	0	59526
+Australian Capital Territory	65+	1	388
+Other Territories	0-4		30
+Other Territories	0-4	0	202
+Other Territories	0-4	1	13
+Other Territories	5-9		27
+Other Territories	5-9	0	252
+Other Territories	5-9	1	14
+Other Territories	10-14		42
+Other Territories	10-14	0	231
+Other Territories	10-14	1	19
+Other Territories	15-19		29
+Other Territories	15-19	0	153
+Other Territories	15-19	1	14
+Other Territories	20-24		34
+Other Territories	20-24	0	169
+Other Territories	20-24	1	16
+Other Territories	25-29		41
+Other Territories	25-29	0	223
+Other Territories	25-29	1	16
+Other Territories	30-34		57
+Other Territories	30-34	0	239
+Other Territories	30-34	1	6
+Other Territories	35-39		50
+Other Territories	35-39	0	292
+Other Territories	35-39	1	7
+Other Territories	40-44		42
+Other Territories	40-44	0	242
+Other Territories	40-44	1	9
+Other Territories	45-49		33
+Other Territories	45-49	0	257
+Other Territories	45-49	1	19
+Other Territories	50-54		52
+Other Territories	50-54	0	282
+Other Territories	50-54	1	18
+Other Territories	55-59		46
+Other Territories	55-59	0	330
+Other Territories	55-59	1	14
+Other Territories	60-64		41
+Other Territories	60-64	0	322
+Other Territories	60-64	1	17
+Other Territories	65+		97
+Other Territories	65+	0	768
+Other Territories	65+	1	45

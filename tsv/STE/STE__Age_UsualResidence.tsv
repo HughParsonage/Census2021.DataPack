@@ -1,0 +1,783 @@
+STE_NAME16	Age	UsualResidence	persons
+New South Wales	0-14	Home	1441048
+New South Wales	0-14	Visitor from ACT	360
+New South Wales	0-14	Visitor from NSW	24769
+New South Wales	0-14	Visitor from NT	30
+New South Wales	0-14	Visitor from OT	6
+New South Wales	0-14	Visitor from QLD	550
+New South Wales	0-14	Visitor from SA	61
+New South Wales	0-14	Visitor from TAS	40
+New South Wales	0-14	Visitor from VIC	428
+New South Wales	0-14	Visitor from WA	60
+New South Wales	0-14	Visitor same SA2	1035
+New South Wales	15-24	Home	915668
+New South Wales	15-24	Visitor from ACT	827
+New South Wales	15-24	Visitor from NSW	31954
+New South Wales	15-24	Visitor from NT	69
+New South Wales	15-24	Visitor from OT	6
+New South Wales	15-24	Visitor from QLD	1756
+New South Wales	15-24	Visitor from SA	276
+New South Wales	15-24	Visitor from TAS	128
+New South Wales	15-24	Visitor from VIC	1097
+New South Wales	15-24	Visitor from WA	373
+New South Wales	15-24	Visitor same SA2	1130
+New South Wales	25-34	Home	1101279
+New South Wales	25-34	Visitor from ACT	763
+New South Wales	25-34	Visitor from NSW	33073
+New South Wales	25-34	Visitor from NT	89
+New South Wales	25-34	Visitor from OT	4
+New South Wales	25-34	Visitor from QLD	1748
+New South Wales	25-34	Visitor from SA	344
+New South Wales	25-34	Visitor from TAS	132
+New South Wales	25-34	Visitor from VIC	1523
+New South Wales	25-34	Visitor from WA	343
+New South Wales	25-34	Visitor same SA2	1108
+New South Wales	35-44	Home	1073352
+New South Wales	35-44	Visitor from ACT	544
+New South Wales	35-44	Visitor from NSW	23765
+New South Wales	35-44	Visitor from NT	53
+New South Wales	35-44	Visitor from OT	9
+New South Wales	35-44	Visitor from QLD	1157
+New South Wales	35-44	Visitor from SA	200
+New South Wales	35-44	Visitor from TAS	103
+New South Wales	35-44	Visitor from VIC	974
+New South Wales	35-44	Visitor from WA	213
+New South Wales	35-44	Visitor same SA2	1130
+New South Wales	45-54	Home	987744
+New South Wales	45-54	Visitor from ACT	522
+New South Wales	45-54	Visitor from NSW	22736
+New South Wales	45-54	Visitor from NT	61
+New South Wales	45-54	Visitor from OT	5
+New South Wales	45-54	Visitor from QLD	1481
+New South Wales	45-54	Visitor from SA	234
+New South Wales	45-54	Visitor from TAS	120
+New South Wales	45-54	Visitor from VIC	978
+New South Wales	45-54	Visitor from WA	219
+New South Wales	45-54	Visitor same SA2	1249
+New South Wales	55-64	Home	926378
+New South Wales	55-64	Visitor from ACT	824
+New South Wales	55-64	Visitor from NSW	24829
+New South Wales	55-64	Visitor from NT	52
+New South Wales	55-64	Visitor from OT	5
+New South Wales	55-64	Visitor from QLD	1785
+New South Wales	55-64	Visitor from SA	289
+New South Wales	55-64	Visitor from TAS	226
+New South Wales	55-64	Visitor from VIC	1413
+New South Wales	55-64	Visitor from WA	280
+New South Wales	55-64	Visitor same SA2	1621
+New South Wales	65-74	Home	754539
+New South Wales	65-74	Visitor from ACT	669
+New South Wales	65-74	Visitor from NSW	20911
+New South Wales	65-74	Visitor from NT	38
+New South Wales	65-74	Visitor from OT	15
+New South Wales	65-74	Visitor from QLD	1289
+New South Wales	65-74	Visitor from SA	324
+New South Wales	65-74	Visitor from TAS	257
+New South Wales	65-74	Visitor from VIC	2073
+New South Wales	65-74	Visitor from WA	256
+New South Wales	65-74	Visitor same SA2	2002
+New South Wales	75-84	Home	434484
+New South Wales	75-84	Visitor from ACT	231
+New South Wales	75-84	Visitor from NSW	11470
+New South Wales	75-84	Visitor from NT	12
+New South Wales	75-84	Visitor from QLD	395
+New South Wales	75-84	Visitor from SA	129
+New South Wales	75-84	Visitor from TAS	100
+New South Wales	75-84	Visitor from VIC	1016
+New South Wales	75-84	Visitor from WA	79
+New South Wales	75-84	Visitor same SA2	2018
+New South Wales	85+	Home	174855
+New South Wales	85+	Visitor from ACT	47
+New South Wales	85+	Visitor from NSW	6617
+New South Wales	85+	Visitor from NT	6
+New South Wales	85+	Visitor from QLD	98
+New South Wales	85+	Visitor from SA	18
+New South Wales	85+	Visitor from TAS	16
+New South Wales	85+	Visitor from VIC	133
+New South Wales	85+	Visitor from WA	9
+New South Wales	85+	Visitor same SA2	1805
+Victoria	0-14	Home	1149595
+Victoria	0-14	Visitor from ACT	19
+Victoria	0-14	Visitor from NSW	398
+Victoria	0-14	Visitor from NT	35
+Victoria	0-14	Visitor from QLD	195
+Victoria	0-14	Visitor from SA	121
+Victoria	0-14	Visitor from TAS	50
+Victoria	0-14	Visitor from VIC	16082
+Victoria	0-14	Visitor from WA	90
+Victoria	0-14	Visitor same SA2	755
+Victoria	15-24	Home	746261
+Victoria	15-24	Visitor from ACT	105
+Victoria	15-24	Visitor from NSW	1221
+Victoria	15-24	Visitor from NT	105
+Victoria	15-24	Visitor from QLD	841
+Victoria	15-24	Visitor from SA	435
+Victoria	15-24	Visitor from TAS	203
+Victoria	15-24	Visitor from VIC	23245
+Victoria	15-24	Visitor from WA	297
+Victoria	15-24	Visitor same SA2	757
+Victoria	25-34	Home	943882
+Victoria	25-34	Visitor from ACT	77
+Victoria	25-34	Visitor from NSW	1166
+Victoria	25-34	Visitor from NT	105
+Victoria	25-34	Visitor from QLD	713
+Victoria	25-34	Visitor from SA	359
+Victoria	25-34	Visitor from TAS	235
+Victoria	25-34	Visitor from VIC	24817
+Victoria	25-34	Visitor from WA	258
+Victoria	25-34	Visitor same SA2	742
+Victoria	35-44	Home	895896
+Victoria	35-44	Visitor from ACT	61
+Victoria	35-44	Visitor from NSW	626
+Victoria	35-44	Visitor from NT	61
+Victoria	35-44	Visitor from QLD	436
+Victoria	35-44	Visitor from SA	234
+Victoria	35-44	Visitor from TAS	144
+Victoria	35-44	Visitor from VIC	17358
+Victoria	35-44	Visitor from WA	168
+Victoria	35-44	Visitor same SA2	751
+Victoria	45-54	Home	804743
+Victoria	45-54	Visitor from ACT	43
+Victoria	45-54	Visitor from NSW	693
+Victoria	45-54	Visitor from NT	65
+Victoria	45-54	Visitor from QLD	495
+Victoria	45-54	Visitor from SA	220
+Victoria	45-54	Visitor from TAS	148
+Victoria	45-54	Visitor from VIC	16244
+Victoria	45-54	Visitor from WA	194
+Victoria	45-54	Visitor same SA2	872
+Victoria	55-64	Home	717477
+Victoria	55-64	Visitor from ACT	56
+Victoria	55-64	Visitor from NSW	779
+Victoria	55-64	Visitor from NT	71
+Victoria	55-64	Visitor from QLD	688
+Victoria	55-64	Visitor from SA	280
+Victoria	55-64	Visitor from TAS	241
+Victoria	55-64	Visitor from VIC	16670
+Victoria	55-64	Visitor from WA	246
+Victoria	55-64	Visitor same SA2	1099
+Victoria	65-74	Home	572743
+Victoria	65-74	Visitor from ACT	44
+Victoria	65-74	Visitor from NSW	593
+Victoria	65-74	Visitor from NT	43
+Victoria	65-74	Visitor from QLD	563
+Victoria	65-74	Visitor from SA	222
+Victoria	65-74	Visitor from TAS	197
+Victoria	65-74	Visitor from VIC	13409
+Victoria	65-74	Visitor from WA	205
+Victoria	65-74	Visitor same SA2	1351
+Victoria	75-84	Home	329119
+Victoria	75-84	Visitor from ACT	16
+Victoria	75-84	Visitor from NSW	230
+Victoria	75-84	Visitor from NT	8
+Victoria	75-84	Visitor from QLD	134
+Victoria	75-84	Visitor from SA	65
+Victoria	75-84	Visitor from TAS	59
+Victoria	75-84	Visitor from VIC	7853
+Victoria	75-84	Visitor from WA	51
+Victoria	75-84	Visitor same SA2	1064
+Victoria	85+	Home	136432
+Victoria	85+	Visitor from NSW	60
+Victoria	85+	Visitor from QLD	30
+Victoria	85+	Visitor from SA	25
+Victoria	85+	Visitor from TAS	14
+Victoria	85+	Visitor from VIC	4636
+Victoria	85+	Visitor from WA	14
+Victoria	85+	Visitor same SA2	592
+Queensland	0-14	Home	945076
+Queensland	0-14	Visitor from ACT	172
+Queensland	0-14	Visitor from NSW	1558
+Queensland	0-14	Visitor from NT	167
+Queensland	0-14	Visitor from OT	7
+Queensland	0-14	Visitor from QLD	16853
+Queensland	0-14	Visitor from SA	139
+Queensland	0-14	Visitor from TAS	154
+Queensland	0-14	Visitor from VIC	898
+Queensland	0-14	Visitor from WA	176
+Queensland	0-14	Visitor same SA2	914
+Queensland	15-24	Home	606082
+Queensland	15-24	Visitor from ACT	133
+Queensland	15-24	Visitor from NSW	1911
+Queensland	15-24	Visitor from NT	200
+Queensland	15-24	Visitor from QLD	26571
+Queensland	15-24	Visitor from SA	235
+Queensland	15-24	Visitor from TAS	121
+Queensland	15-24	Visitor from VIC	836
+Queensland	15-24	Visitor from WA	275
+Queensland	15-24	Visitor same SA2	1037
+Queensland	25-34	Home	666633
+Queensland	25-34	Visitor from ACT	316
+Queensland	25-34	Visitor from NSW	2629
+Queensland	25-34	Visitor from NT	284
+Queensland	25-34	Visitor from OT	3
+Queensland	25-34	Visitor from QLD	29488
+Queensland	25-34	Visitor from SA	277
+Queensland	25-34	Visitor from TAS	276
+Queensland	25-34	Visitor from VIC	1599
+Queensland	25-34	Visitor from WA	437
+Queensland	25-34	Visitor same SA2	1027
+Queensland	35-44	Home	659903
+Queensland	35-44	Visitor from ACT	203
+Queensland	35-44	Visitor from NSW	2137
+Queensland	35-44	Visitor from NT	187
+Queensland	35-44	Visitor from OT	5
+Queensland	35-44	Visitor from QLD	23378
+Queensland	35-44	Visitor from SA	273
+Queensland	35-44	Visitor from TAS	215
+Queensland	35-44	Visitor from VIC	1266
+Queensland	35-44	Visitor from WA	334
+Queensland	35-44	Visitor same SA2	845
+Queensland	45-54	Home	642720
+Queensland	45-54	Visitor from ACT	268
+Queensland	45-54	Visitor from NSW	2353
+Queensland	45-54	Visitor from NT	268
+Queensland	45-54	Visitor from OT	3
+Queensland	45-54	Visitor from QLD	25984
+Queensland	45-54	Visitor from SA	278
+Queensland	45-54	Visitor from TAS	327
+Queensland	45-54	Visitor from VIC	1490
+Queensland	45-54	Visitor from WA	388
+Queensland	45-54	Visitor same SA2	958
+Queensland	55-64	Home	578749
+Queensland	55-64	Visitor from ACT	551
+Queensland	55-64	Visitor from NSW	5026
+Queensland	55-64	Visitor from NT	223
+Queensland	55-64	Visitor from OT	10
+Queensland	55-64	Visitor from QLD	29309
+Queensland	55-64	Visitor from SA	820
+Queensland	55-64	Visitor from TAS	918
+Queensland	55-64	Visitor from VIC	5065
+Queensland	55-64	Visitor from WA	648
+Queensland	55-64	Visitor same SA2	1232
+Queensland	65-74	Home	474092
+Queensland	65-74	Visitor from ACT	723
+Queensland	65-74	Visitor from NSW	7440
+Queensland	65-74	Visitor from NT	168
+Queensland	65-74	Visitor from OT	15
+Queensland	65-74	Visitor from QLD	23090
+Queensland	65-74	Visitor from SA	1658
+Queensland	65-74	Visitor from TAS	1520
+Queensland	65-74	Visitor from VIC	10610
+Queensland	65-74	Visitor from WA	725
+Queensland	65-74	Visitor same SA2	1405
+Queensland	75-84	Home	263770
+Queensland	75-84	Visitor from ACT	287
+Queensland	75-84	Visitor from NSW	2603
+Queensland	75-84	Visitor from NT	47
+Queensland	75-84	Visitor from QLD	9225
+Queensland	75-84	Visitor from SA	692
+Queensland	75-84	Visitor from TAS	605
+Queensland	75-84	Visitor from VIC	4766
+Queensland	75-84	Visitor from WA	184
+Queensland	75-84	Visitor same SA2	1022
+Queensland	85+	Home	93136
+Queensland	85+	Visitor from ACT	31
+Queensland	85+	Visitor from NSW	419
+Queensland	85+	Visitor from NT	3
+Queensland	85+	Visitor from QLD	3401
+Queensland	85+	Visitor from SA	87
+Queensland	85+	Visitor from TAS	93
+Queensland	85+	Visitor from VIC	607
+Queensland	85+	Visitor from WA	28
+Queensland	85+	Visitor same SA2	443
+South Australia	0-14	Home	296726
+South Australia	0-14	Visitor from ACT	6
+South Australia	0-14	Visitor from NSW	140
+South Australia	0-14	Visitor from NT	84
+South Australia	0-14	Visitor from QLD	58
+South Australia	0-14	Visitor from SA	5322
+South Australia	0-14	Visitor from TAS	33
+South Australia	0-14	Visitor from VIC	204
+South Australia	0-14	Visitor from WA	68
+South Australia	0-14	Visitor same SA2	278
+South Australia	15-24	Home	198665
+South Australia	15-24	Visitor from ACT	13
+South Australia	15-24	Visitor from NSW	222
+South Australia	15-24	Visitor from NT	95
+South Australia	15-24	Visitor from QLD	132
+South Australia	15-24	Visitor from SA	7936
+South Australia	15-24	Visitor from TAS	39
+South Australia	15-24	Visitor from VIC	264
+South Australia	15-24	Visitor from WA	74
+South Australia	15-24	Visitor same SA2	258
+South Australia	25-34	Home	223991
+South Australia	25-34	Visitor from ACT	14
+South Australia	25-34	Visitor from NSW	301
+South Australia	25-34	Visitor from NT	118
+South Australia	25-34	Visitor from QLD	302
+South Australia	25-34	Visitor from SA	8989
+South Australia	25-34	Visitor from TAS	71
+South Australia	25-34	Visitor from VIC	540
+South Australia	25-34	Visitor from WA	142
+South Australia	25-34	Visitor same SA2	256
+South Australia	35-44	Home	218069
+South Australia	35-44	Visitor from ACT	16
+South Australia	35-44	Visitor from NSW	292
+South Australia	35-44	Visitor from NT	108
+South Australia	35-44	Visitor from QLD	258
+South Australia	35-44	Visitor from SA	6616
+South Australia	35-44	Visitor from TAS	71
+South Australia	35-44	Visitor from VIC	393
+South Australia	35-44	Visitor from WA	147
+South Australia	35-44	Visitor same SA2	293
+South Australia	45-54	Home	215369
+South Australia	45-54	Visitor from ACT	25
+South Australia	45-54	Visitor from NSW	262
+South Australia	45-54	Visitor from NT	114
+South Australia	45-54	Visitor from QLD	345
+South Australia	45-54	Visitor from SA	6882
+South Australia	45-54	Visitor from TAS	90
+South Australia	45-54	Visitor from VIC	363
+South Australia	45-54	Visitor from WA	164
+South Australia	45-54	Visitor same SA2	338
+South Australia	55-64	Home	215239
+South Australia	55-64	Visitor from ACT	24
+South Australia	55-64	Visitor from NSW	347
+South Australia	55-64	Visitor from NT	151
+South Australia	55-64	Visitor from QLD	356
+South Australia	55-64	Visitor from SA	7756
+South Australia	55-64	Visitor from TAS	174
+South Australia	55-64	Visitor from VIC	716
+South Australia	55-64	Visitor from WA	211
+South Australia	55-64	Visitor same SA2	447
+South Australia	65-74	Home	184864
+South Australia	65-74	Visitor from ACT	14
+South Australia	65-74	Visitor from NSW	357
+South Australia	65-74	Visitor from NT	80
+South Australia	65-74	Visitor from QLD	277
+South Australia	65-74	Visitor from SA	6252
+South Australia	65-74	Visitor from TAS	201
+South Australia	65-74	Visitor from VIC	733
+South Australia	65-74	Visitor from WA	206
+South Australia	65-74	Visitor same SA2	530
+South Australia	75-84	Home	107826
+South Australia	75-84	Visitor from NSW	89
+South Australia	75-84	Visitor from NT	15
+South Australia	75-84	Visitor from QLD	47
+South Australia	75-84	Visitor from SA	2971
+South Australia	75-84	Visitor from TAS	53
+South Australia	75-84	Visitor from VIC	170
+South Australia	75-84	Visitor from WA	36
+South Australia	75-84	Visitor same SA2	374
+South Australia	85+	Home	45531
+South Australia	85+	Visitor from NSW	15
+South Australia	85+	Visitor from SA	1424
+South Australia	85+	Visitor from TAS	4
+South Australia	85+	Visitor from VIC	17
+South Australia	85+	Visitor from WA	8
+South Australia	85+	Visitor same SA2	197
+Western Australia	0-14	Home	494700
+Western Australia	0-14	Visitor from ACT	60
+Western Australia	0-14	Visitor from NSW	389
+Western Australia	0-14	Visitor from NT	78
+Western Australia	0-14	Visitor from OT	10
+Western Australia	0-14	Visitor from QLD	269
+Western Australia	0-14	Visitor from SA	145
+Western Australia	0-14	Visitor from TAS	77
+Western Australia	0-14	Visitor from VIC	634
+Western Australia	0-14	Visitor from WA	9868
+Western Australia	0-14	Visitor same SA2	493
+Western Australia	15-24	Home	295805
+Western Australia	15-24	Visitor from ACT	35
+Western Australia	15-24	Visitor from NSW	346
+Western Australia	15-24	Visitor from NT	71
+Western Australia	15-24	Visitor from OT	3
+Western Australia	15-24	Visitor from QLD	203
+Western Australia	15-24	Visitor from SA	121
+Western Australia	15-24	Visitor from TAS	54
+Western Australia	15-24	Visitor from VIC	258
+Western Australia	15-24	Visitor from WA	14447
+Western Australia	15-24	Visitor same SA2	426
+Western Australia	25-34	Home	346317
+Western Australia	25-34	Visitor from ACT	69
+Western Australia	25-34	Visitor from NSW	705
+Western Australia	25-34	Visitor from NT	230
+Western Australia	25-34	Visitor from OT	8
+Western Australia	25-34	Visitor from QLD	609
+Western Australia	25-34	Visitor from SA	306
+Western Australia	25-34	Visitor from TAS	135
+Western Australia	25-34	Visitor from VIC	649
+Western Australia	25-34	Visitor from WA	23409
+Western Australia	25-34	Visitor same SA2	550
+Western Australia	35-44	Home	357025
+Western Australia	35-44	Visitor from ACT	77
+Western Australia	35-44	Visitor from NSW	725
+Western Australia	35-44	Visitor from NT	180
+Western Australia	35-44	Visitor from OT	9
+Western Australia	35-44	Visitor from QLD	836
+Western Australia	35-44	Visitor from SA	359
+Western Australia	35-44	Visitor from TAS	145
+Western Australia	35-44	Visitor from VIC	760
+Western Australia	35-44	Visitor from WA	20383
+Western Australia	35-44	Visitor same SA2	542
+Western Australia	45-54	Home	325242
+Western Australia	45-54	Visitor from ACT	51
+Western Australia	45-54	Visitor from NSW	696
+Western Australia	45-54	Visitor from NT	158
+Western Australia	45-54	Visitor from OT	15
+Western Australia	45-54	Visitor from QLD	845
+Western Australia	45-54	Visitor from SA	487
+Western Australia	45-54	Visitor from TAS	193
+Western Australia	45-54	Visitor from VIC	773
+Western Australia	45-54	Visitor from WA	20659
+Western Australia	45-54	Visitor same SA2	565
+Western Australia	55-64	Home	289438
+Western Australia	55-64	Visitor from ACT	74
+Western Australia	55-64	Visitor from NSW	1030
+Western Australia	55-64	Visitor from NT	198
+Western Australia	55-64	Visitor from OT	21
+Western Australia	55-64	Visitor from QLD	1331
+Western Australia	55-64	Visitor from SA	714
+Western Australia	55-64	Visitor from TAS	369
+Western Australia	55-64	Visitor from VIC	1411
+Western Australia	55-64	Visitor from WA	20441
+Western Australia	55-64	Visitor same SA2	747
+Western Australia	65-74	Home	228454
+Western Australia	65-74	Visitor from ACT	62
+Western Australia	65-74	Visitor from NSW	1148
+Western Australia	65-74	Visitor from NT	90
+Western Australia	65-74	Visitor from OT	19
+Western Australia	65-74	Visitor from QLD	1133
+Western Australia	65-74	Visitor from SA	752
+Western Australia	65-74	Visitor from TAS	331
+Western Australia	65-74	Visitor from VIC	1681
+Western Australia	65-74	Visitor from WA	15476
+Western Australia	65-74	Visitor same SA2	821
+Western Australia	75-84	Home	123673
+Western Australia	75-84	Visitor from ACT	8
+Western Australia	75-84	Visitor from NSW	182
+Western Australia	75-84	Visitor from NT	24
+Western Australia	75-84	Visitor from OT	5
+Western Australia	75-84	Visitor from QLD	141
+Western Australia	75-84	Visitor from SA	163
+Western Australia	75-84	Visitor from TAS	56
+Western Australia	75-84	Visitor from VIC	247
+Western Australia	75-84	Visitor from WA	6284
+Western Australia	75-84	Visitor same SA2	541
+Western Australia	85+	Home	47776
+Western Australia	85+	Visitor from NSW	22
+Western Australia	85+	Visitor from NT	3
+Western Australia	85+	Visitor from QLD	8
+Western Australia	85+	Visitor from SA	9
+Western Australia	85+	Visitor from TAS	11
+Western Australia	85+	Visitor from VIC	20
+Western Australia	85+	Visitor from WA	2031
+Western Australia	85+	Visitor same SA2	221
+Tasmania	0-14	Home	90301
+Tasmania	0-14	Visitor from ACT	9
+Tasmania	0-14	Visitor from NSW	41
+Tasmania	0-14	Visitor from NT	13
+Tasmania	0-14	Visitor from QLD	62
+Tasmania	0-14	Visitor from SA	30
+Tasmania	0-14	Visitor from TAS	1818
+Tasmania	0-14	Visitor from VIC	86
+Tasmania	0-14	Visitor from WA	46
+Tasmania	0-14	Visitor same SA2	127
+Tasmania	15-24	Home	57400
+Tasmania	15-24	Visitor from ACT	17
+Tasmania	15-24	Visitor from NSW	97
+Tasmania	15-24	Visitor from NT	10
+Tasmania	15-24	Visitor from QLD	102
+Tasmania	15-24	Visitor from SA	51
+Tasmania	15-24	Visitor from TAS	2947
+Tasmania	15-24	Visitor from VIC	192
+Tasmania	15-24	Visitor from WA	43
+Tasmania	15-24	Visitor same SA2	107
+Tasmania	25-34	Home	72752
+Tasmania	25-34	Visitor from ACT	53
+Tasmania	25-34	Visitor from NSW	132
+Tasmania	25-34	Visitor from NT	28
+Tasmania	25-34	Visitor from QLD	184
+Tasmania	25-34	Visitor from SA	124
+Tasmania	25-34	Visitor from TAS	2821
+Tasmania	25-34	Visitor from VIC	366
+Tasmania	25-34	Visitor from WA	157
+Tasmania	25-34	Visitor same SA2	127
+Tasmania	35-44	Home	63038
+Tasmania	35-44	Visitor from ACT	36
+Tasmania	35-44	Visitor from NSW	86
+Tasmania	35-44	Visitor from NT	13
+Tasmania	35-44	Visitor from QLD	135
+Tasmania	35-44	Visitor from SA	73
+Tasmania	35-44	Visitor from TAS	2029
+Tasmania	35-44	Visitor from VIC	252
+Tasmania	35-44	Visitor from WA	79
+Tasmania	35-44	Visitor same SA2	114
+Tasmania	45-54	Home	65754
+Tasmania	45-54	Visitor from ACT	28
+Tasmania	45-54	Visitor from NSW	100
+Tasmania	45-54	Visitor from NT	17
+Tasmania	45-54	Visitor from QLD	176
+Tasmania	45-54	Visitor from SA	99
+Tasmania	45-54	Visitor from TAS	2290
+Tasmania	45-54	Visitor from VIC	229
+Tasmania	45-54	Visitor from WA	111
+Tasmania	45-54	Visitor same SA2	138
+Tasmania	55-64	Home	70559
+Tasmania	55-64	Visitor from ACT	35
+Tasmania	55-64	Visitor from NSW	146
+Tasmania	55-64	Visitor from NT	26
+Tasmania	55-64	Visitor from QLD	257
+Tasmania	55-64	Visitor from SA	110
+Tasmania	55-64	Visitor from TAS	2408
+Tasmania	55-64	Visitor from VIC	295
+Tasmania	55-64	Visitor from WA	162
+Tasmania	55-64	Visitor same SA2	202
+Tasmania	65-74	Home	62268
+Tasmania	65-74	Visitor from ACT	10
+Tasmania	65-74	Visitor from NSW	129
+Tasmania	65-74	Visitor from NT	8
+Tasmania	65-74	Visitor from QLD	145
+Tasmania	65-74	Visitor from SA	103
+Tasmania	65-74	Visitor from TAS	1731
+Tasmania	65-74	Visitor from VIC	193
+Tasmania	65-74	Visitor from WA	73
+Tasmania	65-74	Visitor same SA2	215
+Tasmania	75-84	Home	34731
+Tasmania	75-84	Visitor from ACT	4
+Tasmania	75-84	Visitor from NSW	36
+Tasmania	75-84	Visitor from QLD	26
+Tasmania	75-84	Visitor from SA	19
+Tasmania	75-84	Visitor from TAS	819
+Tasmania	75-84	Visitor from VIC	58
+Tasmania	75-84	Visitor from WA	20
+Tasmania	75-84	Visitor same SA2	167
+Tasmania	85+	Home	12426
+Tasmania	85+	Visitor from NSW	11
+Tasmania	85+	Visitor from QLD	7
+Tasmania	85+	Visitor from TAS	361
+Tasmania	85+	Visitor from VIC	12
+Tasmania	85+	Visitor from WA	3
+Tasmania	85+	Visitor same SA2	70
+Northern Territory	0-14	Home	47010
+Northern Territory	0-14	Visitor from ACT	60
+Northern Territory	0-14	Visitor from NSW	353
+Northern Territory	0-14	Visitor from NT	1363
+Northern Territory	0-14	Visitor from QLD	310
+Northern Territory	0-14	Visitor from SA	318
+Northern Territory	0-14	Visitor from TAS	42
+Northern Territory	0-14	Visitor from VIC	759
+Northern Territory	0-14	Visitor from WA	265
+Northern Territory	0-14	Visitor same SA2	114
+Northern Territory	15-24	Home	27839
+Northern Territory	15-24	Visitor from ACT	47
+Northern Territory	15-24	Visitor from NSW	408
+Northern Territory	15-24	Visitor from NT	1392
+Northern Territory	15-24	Visitor from QLD	370
+Northern Territory	15-24	Visitor from SA	307
+Northern Territory	15-24	Visitor from TAS	62
+Northern Territory	15-24	Visitor from VIC	408
+Northern Territory	15-24	Visitor from WA	252
+Northern Territory	15-24	Visitor same SA2	175
+Northern Territory	25-34	Home	39365
+Northern Territory	25-34	Visitor from ACT	130
+Northern Territory	25-34	Visitor from NSW	741
+Northern Territory	25-34	Visitor from NT	2485
+Northern Territory	25-34	Visitor from QLD	842
+Northern Territory	25-34	Visitor from SA	623
+Northern Territory	25-34	Visitor from TAS	78
+Northern Territory	25-34	Visitor from VIC	1152
+Northern Territory	25-34	Visitor from WA	631
+Northern Territory	25-34	Visitor same SA2	169
+Northern Territory	35-44	Home	33128
+Northern Territory	35-44	Visitor from ACT	102
+Northern Territory	35-44	Visitor from NSW	502
+Northern Territory	35-44	Visitor from NT	1973
+Northern Territory	35-44	Visitor from QLD	748
+Northern Territory	35-44	Visitor from SA	526
+Northern Territory	35-44	Visitor from TAS	86
+Northern Territory	35-44	Visitor from VIC	955
+Northern Territory	35-44	Visitor from WA	526
+Northern Territory	35-44	Visitor same SA2	96
+Northern Territory	45-54	Home	27315
+Northern Territory	45-54	Visitor from ACT	120
+Northern Territory	45-54	Visitor from NSW	493
+Northern Territory	45-54	Visitor from NT	1881
+Northern Territory	45-54	Visitor from QLD	974
+Northern Territory	45-54	Visitor from SA	712
+Northern Territory	45-54	Visitor from TAS	116
+Northern Territory	45-54	Visitor from VIC	1089
+Northern Territory	45-54	Visitor from WA	632
+Northern Territory	45-54	Visitor same SA2	87
+Northern Territory	55-64	Home	21779
+Northern Territory	55-64	Visitor from ACT	137
+Northern Territory	55-64	Visitor from NSW	950
+Northern Territory	55-64	Visitor from NT	1641
+Northern Territory	55-64	Visitor from QLD	1398
+Northern Territory	55-64	Visitor from SA	1464
+Northern Territory	55-64	Visitor from TAS	264
+Northern Territory	55-64	Visitor from VIC	2269
+Northern Territory	55-64	Visitor from WA	1123
+Northern Territory	55-64	Visitor same SA2	94
+Northern Territory	65-74	Home	13275
+Northern Territory	65-74	Visitor from ACT	115
+Northern Territory	65-74	Visitor from NSW	1032
+Northern Territory	65-74	Visitor from NT	760
+Northern Territory	65-74	Visitor from QLD	1354
+Northern Territory	65-74	Visitor from SA	1596
+Northern Territory	65-74	Visitor from TAS	242
+Northern Territory	65-74	Visitor from VIC	2679
+Northern Territory	65-74	Visitor from WA	1063
+Northern Territory	65-74	Visitor same SA2	43
+Northern Territory	75-84	Home	4823
+Northern Territory	75-84	Visitor from ACT	23
+Northern Territory	75-84	Visitor from NSW	205
+Northern Territory	75-84	Visitor from NT	218
+Northern Territory	75-84	Visitor from QLD	200
+Northern Territory	75-84	Visitor from SA	408
+Northern Territory	75-84	Visitor from TAS	49
+Northern Territory	75-84	Visitor from VIC	490
+Northern Territory	75-84	Visitor from WA	239
+Northern Territory	75-84	Visitor same SA2	21
+Northern Territory	85+	Home	1091
+Northern Territory	85+	Visitor from NSW	11
+Northern Territory	85+	Visitor from NT	56
+Northern Territory	85+	Visitor from QLD	13
+Northern Territory	85+	Visitor from SA	34
+Northern Territory	85+	Visitor from VIC	29
+Northern Territory	85+	Visitor from WA	17
+Northern Territory	85+	Visitor same SA2	3
+Australian Capital Territory	0-14	Home	81393
+Australian Capital Territory	0-14	Visitor from ACT	819
+Australian Capital Territory	0-14	Visitor from NSW	274
+Australian Capital Territory	0-14	Visitor from NT	11
+Australian Capital Territory	0-14	Visitor from QLD	30
+Australian Capital Territory	0-14	Visitor from SA	3
+Australian Capital Territory	0-14	Visitor from TAS	4
+Australian Capital Territory	0-14	Visitor from VIC	29
+Australian Capital Territory	0-14	Visitor from WA	13
+Australian Capital Territory	0-14	Visitor same SA2	37
+Australian Capital Territory	15-24	Home	58071
+Australian Capital Territory	15-24	Visitor from ACT	1304
+Australian Capital Territory	15-24	Visitor from NSW	1112
+Australian Capital Territory	15-24	Visitor from NT	12
+Australian Capital Territory	15-24	Visitor from QLD	132
+Australian Capital Territory	15-24	Visitor from SA	38
+Australian Capital Territory	15-24	Visitor from TAS	30
+Australian Capital Territory	15-24	Visitor from VIC	187
+Australian Capital Territory	15-24	Visitor from WA	47
+Australian Capital Territory	15-24	Visitor same SA2	54
+Australian Capital Territory	25-34	Home	74896
+Australian Capital Territory	25-34	Visitor from ACT	1369
+Australian Capital Territory	25-34	Visitor from NSW	852
+Australian Capital Territory	25-34	Visitor from NT	16
+Australian Capital Territory	25-34	Visitor from QLD	137
+Australian Capital Territory	25-34	Visitor from SA	25
+Australian Capital Territory	25-34	Visitor from TAS	22
+Australian Capital Territory	25-34	Visitor from VIC	204
+Australian Capital Territory	25-34	Visitor from WA	49
+Australian Capital Territory	25-34	Visitor same SA2	58
+Australian Capital Territory	35-44	Home	67414
+Australian Capital Territory	35-44	Visitor from ACT	897
+Australian Capital Territory	35-44	Visitor from NSW	528
+Australian Capital Territory	35-44	Visitor from NT	13
+Australian Capital Territory	35-44	Visitor from QLD	119
+Australian Capital Territory	35-44	Visitor from SA	13
+Australian Capital Territory	35-44	Visitor from TAS	11
+Australian Capital Territory	35-44	Visitor from VIC	114
+Australian Capital Territory	35-44	Visitor from WA	32
+Australian Capital Territory	35-44	Visitor same SA2	33
+Australian Capital Territory	45-54	Home	54425
+Australian Capital Territory	45-54	Visitor from ACT	676
+Australian Capital Territory	45-54	Visitor from NSW	601
+Australian Capital Territory	45-54	Visitor from NT	13
+Australian Capital Territory	45-54	Visitor from QLD	111
+Australian Capital Territory	45-54	Visitor from SA	24
+Australian Capital Territory	45-54	Visitor from TAS	30
+Australian Capital Territory	45-54	Visitor from VIC	97
+Australian Capital Territory	45-54	Visitor from WA	32
+Australian Capital Territory	45-54	Visitor same SA2	46
+Australian Capital Territory	55-64	Home	43147
+Australian Capital Territory	55-64	Visitor from ACT	519
+Australian Capital Territory	55-64	Visitor from NSW	665
+Australian Capital Territory	55-64	Visitor from NT	7
+Australian Capital Territory	55-64	Visitor from QLD	135
+Australian Capital Territory	55-64	Visitor from SA	41
+Australian Capital Territory	55-64	Visitor from TAS	29
+Australian Capital Territory	55-64	Visitor from VIC	136
+Australian Capital Territory	55-64	Visitor from WA	41
+Australian Capital Territory	55-64	Visitor same SA2	32
+Australian Capital Territory	65-74	Home	33591
+Australian Capital Territory	65-74	Visitor from ACT	388
+Australian Capital Territory	65-74	Visitor from NSW	565
+Australian Capital Territory	65-74	Visitor from NT	3
+Australian Capital Territory	65-74	Visitor from QLD	95
+Australian Capital Territory	65-74	Visitor from SA	38
+Australian Capital Territory	65-74	Visitor from TAS	33
+Australian Capital Territory	65-74	Visitor from VIC	81
+Australian Capital Territory	65-74	Visitor from WA	34
+Australian Capital Territory	65-74	Visitor same SA2	64
+Australian Capital Territory	75-84	Home	18422
+Australian Capital Territory	75-84	Visitor from ACT	310
+Australian Capital Territory	75-84	Visitor from NSW	198
+Australian Capital Territory	75-84	Visitor from QLD	9
+Australian Capital Territory	75-84	Visitor from SA	12
+Australian Capital Territory	75-84	Visitor from TAS	9
+Australian Capital Territory	75-84	Visitor from VIC	24
+Australian Capital Territory	75-84	Visitor from WA	5
+Australian Capital Territory	75-84	Visitor same SA2	50
+Australian Capital Territory	85+	Home	6890
+Australian Capital Territory	85+	Visitor from ACT	188
+Australian Capital Territory	85+	Visitor from NSW	85
+Australian Capital Territory	85+	Visitor from QLD	3
+Australian Capital Territory	85+	Visitor from VIC	4
+Australian Capital Territory	85+	Visitor from WA	3
+Australian Capital Territory	85+	Visitor same SA2	19
+Other Territories	0-14	Home	786
+Other Territories	0-14	Visitor from ACT	3
+Other Territories	0-14	Visitor from OT	8
+Other Territories	0-14	Visitor from QLD	4
+Other Territories	0-14	Visitor from WA	12
+Other Territories	0-14	Visitor same SA2	8
+Other Territories	15-24	Home	378
+Other Territories	15-24	Visitor from NSW	22
+Other Territories	15-24	Visitor from OT	11
+Other Territories	15-24	Visitor from QLD	15
+Other Territories	15-24	Visitor from VIC	17
+Other Territories	15-24	Visitor from WA	34
+Other Territories	15-24	Visitor same SA2	11
+Other Territories	25-34	Home	556
+Other Territories	25-34	Visitor from ACT	6
+Other Territories	25-34	Visitor from NSW	42
+Other Territories	25-34	Visitor from NT	5
+Other Territories	25-34	Visitor from OT	5
+Other Territories	25-34	Visitor from QLD	38
+Other Territories	25-34	Visitor from SA	7
+Other Territories	25-34	Visitor from TAS	3
+Other Territories	25-34	Visitor from VIC	13
+Other Territories	25-34	Visitor from WA	62
+Other Territories	25-34	Visitor same SA2	6
+Other Territories	35-44	Home	605
+Other Territories	35-44	Visitor from ACT	6
+Other Territories	35-44	Visitor from NSW	28
+Other Territories	35-44	Visitor from QLD	7
+Other Territories	35-44	Visitor from WA	40
+Other Territories	35-44	Visitor same SA2	7
+Other Territories	45-54	Home	625
+Other Territories	45-54	Visitor from ACT	6
+Other Territories	45-54	Visitor from NSW	17
+Other Territories	45-54	Visitor from OT	9
+Other Territories	45-54	Visitor from QLD	38
+Other Territories	45-54	Visitor from SA	7
+Other Territories	45-54	Visitor from VIC	6
+Other Territories	45-54	Visitor from WA	51
+Other Territories	45-54	Visitor same SA2	8
+Other Territories	55-64	Home	719
+Other Territories	55-64	Visitor from NSW	9
+Other Territories	55-64	Visitor from NT	4
+Other Territories	55-64	Visitor from OT	6
+Other Territories	55-64	Visitor from QLD	48
+Other Territories	55-64	Visitor from WA	109
+Other Territories	55-64	Visitor same SA2	3
+Other Territories	65-74	Home	529
+Other Territories	65-74	Visitor from NSW	16
+Other Territories	65-74	Visitor from OT	7
+Other Territories	65-74	Visitor from QLD	37
+Other Territories	65-74	Visitor from VIC	5
+Other Territories	65-74	Visitor from WA	65
+Other Territories	65-74	Visitor same SA2	8
+Other Territories	75-84	Home	245
+Other Territories	75-84	Visitor from QLD	14
+Other Territories	75-84	Visitor from WA	26
+Other Territories	85+	Home	61
+Other Territories	85+	Visitor from OT	4

@@ -1,0 +1,5306 @@
+SED_NAME16	MaxSchoolingCompleted	Sex	persons
+Albury	Did not go to school	F	237
+Albury	Did not go to school	M	239
+Albury	Year 8	F	1523
+Albury	Year 8	M	1738
+Albury	Year 9	F	2551
+Albury	Year 9	M	2892
+Albury	Year 10	F	8633
+Albury	Year 10	M	9232
+Albury	Year 11	F	3902
+Albury	Year 11	M	3937
+Albury	Year 12	F	16191
+Albury	Year 12	M	12891
+Auburn	Did not go to school	F	1974
+Auburn	Did not go to school	M	1871
+Auburn	Year 8	F	2501
+Auburn	Year 8	M	2432
+Auburn	Year 9	F	1466
+Auburn	Year 9	M	1828
+Auburn	Year 10	F	4112
+Auburn	Year 10	M	4817
+Auburn	Year 11	F	1651
+Auburn	Year 11	M	1960
+Auburn	Year 12	F	31007
+Auburn	Year 12	M	33204
+Ballina	Did not go to school	F	79
+Ballina	Did not go to school	M	90
+Ballina	Year 8	F	972
+Ballina	Year 8	M	1067
+Ballina	Year 9	F	1948
+Ballina	Year 9	M	1923
+Ballina	Year 10	F	8064
+Ballina	Year 10	M	7652
+Ballina	Year 11	F	2355
+Ballina	Year 11	M	2366
+Ballina	Year 12	F	19892
+Ballina	Year 12	M	16786
+Balmain	Did not go to school	F	230
+Balmain	Did not go to school	M	166
+Balmain	Year 8	F	680
+Balmain	Year 8	M	614
+Balmain	Year 9	F	847
+Balmain	Year 9	M	787
+Balmain	Year 10	F	2926
+Balmain	Year 10	M	2817
+Balmain	Year 11	F	1254
+Balmain	Year 11	M	1309
+Balmain	Year 12	F	28966
+Balmain	Year 12	M	26118
+Bankstown	Did not go to school	F	1536
+Bankstown	Did not go to school	M	1123
+Bankstown	Year 8	F	2477
+Bankstown	Year 8	M	2128
+Bankstown	Year 9	F	1766
+Bankstown	Year 9	M	1727
+Bankstown	Year 10	F	5178
+Bankstown	Year 10	M	5437
+Bankstown	Year 11	F	1795
+Bankstown	Year 11	M	1892
+Bankstown	Year 12	F	21212
+Bankstown	Year 12	M	20679
+Barwon	Did not go to school	F	107
+Barwon	Did not go to school	M	169
+Barwon	Year 8	F	1640
+Barwon	Year 8	M	2391
+Barwon	Year 9	F	2819
+Barwon	Year 9	M	3079
+Barwon	Year 10	F	8438
+Barwon	Year 10	M	9330
+Barwon	Year 11	F	2215
+Barwon	Year 11	M	2137
+Barwon	Year 12	F	10740
+Barwon	Year 12	M	8288
+Bathurst	Did not go to school	F	103
+Bathurst	Did not go to school	M	118
+Bathurst	Year 8	F	1347
+Bathurst	Year 8	M	1602
+Bathurst	Year 9	F	2686
+Bathurst	Year 9	M	2716
+Bathurst	Year 10	F	9127
+Bathurst	Year 10	M	10370
+Bathurst	Year 11	F	2275
+Bathurst	Year 11	M	2407
+Bathurst	Year 12	F	14933
+Bathurst	Year 12	M	12137
+Baulkham Hills	Did not go to school	F	254
+Baulkham Hills	Did not go to school	M	195
+Baulkham Hills	Year 8	F	780
+Baulkham Hills	Year 8	M	592
+Baulkham Hills	Year 9	F	1318
+Baulkham Hills	Year 9	M	1168
+Baulkham Hills	Year 10	F	4974
+Baulkham Hills	Year 10	M	4382
+Baulkham Hills	Year 11	F	1468
+Baulkham Hills	Year 11	M	1656
+Baulkham Hills	Year 12	F	26406
+Baulkham Hills	Year 12	M	25492
+Bega	Did not go to school	F	77
+Bega	Did not go to school	M	106
+Bega	Year 8	F	1357
+Bega	Year 8	M	1561
+Bega	Year 9	F	2482
+Bega	Year 9	M	2620
+Bega	Year 10	F	9234
+Bega	Year 10	M	9320
+Bega	Year 11	F	2796
+Bega	Year 11	M	2787
+Bega	Year 12	F	14899
+Bega	Year 12	M	12631
+Blacktown	Did not go to school	F	697
+Blacktown	Did not go to school	M	505
+Blacktown	Year 8	F	1785
+Blacktown	Year 8	M	1410
+Blacktown	Year 9	F	1786
+Blacktown	Year 9	M	1844
+Blacktown	Year 10	F	5915
+Blacktown	Year 10	M	6359
+Blacktown	Year 11	F	1715
+Blacktown	Year 11	M	1967
+Blacktown	Year 12	F	22509
+Blacktown	Year 12	M	22308
+Blue Mountains	Did not go to school	F	74
+Blue Mountains	Did not go to school	M	68
+Blue Mountains	Year 8	F	624
+Blue Mountains	Year 8	M	676
+Blue Mountains	Year 9	F	1530
+Blue Mountains	Year 9	M	1504
+Blue Mountains	Year 10	F	6820
+Blue Mountains	Year 10	M	6657
+Blue Mountains	Year 11	F	1810
+Blue Mountains	Year 11	M	1933
+Blue Mountains	Year 12	F	18974
+Blue Mountains	Year 12	M	16570
+Cabramatta	Did not go to school	F	3356
+Cabramatta	Did not go to school	M	2228
+Cabramatta	Year 8	F	3597
+Cabramatta	Year 8	M	2669
+Cabramatta	Year 9	F	1975
+Cabramatta	Year 9	M	1817
+Cabramatta	Year 10	F	4814
+Cabramatta	Year 10	M	5150
+Cabramatta	Year 11	F	1711
+Cabramatta	Year 11	M	2031
+Cabramatta	Year 12	F	18041
+Cabramatta	Year 12	M	17651
+Camden	Did not go to school	F	469
+Camden	Did not go to school	M	381
+Camden	Year 8	F	1575
+Camden	Year 8	M	1579
+Camden	Year 9	F	2816
+Camden	Year 9	M	2897
+Camden	Year 10	F	11477
+Camden	Year 10	M	12806
+Camden	Year 11	F	3141
+Camden	Year 11	M	3487
+Camden	Year 12	F	29107
+Camden	Year 12	M	24692
+Campbelltown	Did not go to school	F	401
+Campbelltown	Did not go to school	M	285
+Campbelltown	Year 8	F	1432
+Campbelltown	Year 8	M	1304
+Campbelltown	Year 9	F	2535
+Campbelltown	Year 9	M	2341
+Campbelltown	Year 10	F	8127
+Campbelltown	Year 10	M	8011
+Campbelltown	Year 11	F	2321
+Campbelltown	Year 11	M	2447
+Campbelltown	Year 12	F	16868
+Campbelltown	Year 12	M	15301
+Canterbury	Did not go to school	F	1293
+Canterbury	Did not go to school	M	1034
+Canterbury	Year 8	F	2790
+Canterbury	Year 8	M	2286
+Canterbury	Year 9	F	1435
+Canterbury	Year 9	M	1606
+Canterbury	Year 10	F	4720
+Canterbury	Year 10	M	5013
+Canterbury	Year 11	F	1543
+Canterbury	Year 11	M	1755
+Canterbury	Year 12	F	25155
+Canterbury	Year 12	M	24671
+Castle Hill	Did not go to school	F	229
+Castle Hill	Did not go to school	M	141
+Castle Hill	Year 8	F	838
+Castle Hill	Year 8	M	683
+Castle Hill	Year 9	F	1531
+Castle Hill	Year 9	M	1501
+Castle Hill	Year 10	F	6161
+Castle Hill	Year 10	M	5745
+Castle Hill	Year 11	F	1862
+Castle Hill	Year 11	M	1985
+Castle Hill	Year 12	F	29842
+Castle Hill	Year 12	M	28180
+Cessnock	Did not go to school	F	110
+Cessnock	Did not go to school	M	137
+Cessnock	Year 8	F	1561
+Cessnock	Year 8	M	1646
+Cessnock	Year 9	F	3603
+Cessnock	Year 9	M	3420
+Cessnock	Year 10	F	11533
+Cessnock	Year 10	M	12160
+Cessnock	Year 11	F	2791
+Cessnock	Year 11	M	2885
+Cessnock	Year 12	F	13536
+Cessnock	Year 12	M	10924
+Charlestown	Did not go to school	F	84
+Charlestown	Did not go to school	M	100
+Charlestown	Year 8	F	1096
+Charlestown	Year 8	M	972
+Charlestown	Year 9	F	2503
+Charlestown	Year 9	M	2127
+Charlestown	Year 10	F	8441
+Charlestown	Year 10	M	7965
+Charlestown	Year 11	F	1861
+Charlestown	Year 11	M	2171
+Charlestown	Year 12	F	16702
+Charlestown	Year 12	M	14832
+Clarence	Did not go to school	F	94
+Clarence	Did not go to school	M	101
+Clarence	Year 8	F	1554
+Clarence	Year 8	M	2005
+Clarence	Year 9	F	3044
+Clarence	Year 9	M	3267
+Clarence	Year 10	F	10921
+Clarence	Year 10	M	10741
+Clarence	Year 11	F	2347
+Clarence	Year 11	M	2460
+Clarence	Year 12	F	11639
+Clarence	Year 12	M	9568
+Coffs Harbour	Did not go to school	F	290
+Coffs Harbour	Did not go to school	M	232
+Coffs Harbour	Year 8	F	1345
+Coffs Harbour	Year 8	M	1489
+Coffs Harbour	Year 9	F	2596
+Coffs Harbour	Year 9	M	2454
+Coffs Harbour	Year 10	F	9306
+Coffs Harbour	Year 10	M	8953
+Coffs Harbour	Year 11	F	2498
+Coffs Harbour	Year 11	M	2504
+Coffs Harbour	Year 12	F	15358
+Coffs Harbour	Year 12	M	13010
+Coogee	Did not go to school	F	137
+Coogee	Did not go to school	M	108
+Coogee	Year 8	F	543
+Coogee	Year 8	M	459
+Coogee	Year 9	F	750
+Coogee	Year 9	M	762
+Coogee	Year 10	F	2821
+Coogee	Year 10	M	2553
+Coogee	Year 11	F	1215
+Coogee	Year 11	M	1338
+Coogee	Year 12	F	29060
+Coogee	Year 12	M	25297
+Cootamundra	Did not go to school	F	107
+Cootamundra	Did not go to school	M	108
+Cootamundra	Year 8	F	1487
+Cootamundra	Year 8	M	1962
+Cootamundra	Year 9	F	2782
+Cootamundra	Year 9	M	3094
+Cootamundra	Year 10	F	9386
+Cootamundra	Year 10	M	10223
+Cootamundra	Year 11	F	2285
+Cootamundra	Year 11	M	2127
+Cootamundra	Year 12	F	11084
+Cootamundra	Year 12	M	8545
+Cronulla	Did not go to school	F	79
+Cronulla	Did not go to school	M	90
+Cronulla	Year 8	F	631
+Cronulla	Year 8	M	597
+Cronulla	Year 9	F	1647
+Cronulla	Year 9	M	1400
+Cronulla	Year 10	F	7232
+Cronulla	Year 10	M	6969
+Cronulla	Year 11	F	1637
+Cronulla	Year 11	M	2031
+Cronulla	Year 12	F	20647
+Cronulla	Year 12	M	18910
+Davidson	Did not go to school	F	170
+Davidson	Did not go to school	M	89
+Davidson	Year 8	F	560
+Davidson	Year 8	M	473
+Davidson	Year 9	F	1106
+Davidson	Year 9	M	1011
+Davidson	Year 10	F	3565
+Davidson	Year 10	M	2740
+Davidson	Year 11	F	1485
+Davidson	Year 11	M	1430
+Davidson	Year 12	F	25877
+Davidson	Year 12	M	24226
+Drummoyne	Did not go to school	F	427
+Drummoyne	Did not go to school	M	282
+Drummoyne	Year 8	F	1322
+Drummoyne	Year 8	M	997
+Drummoyne	Year 9	F	1146
+Drummoyne	Year 9	M	999
+Drummoyne	Year 10	F	4588
+Drummoyne	Year 10	M	3799
+Drummoyne	Year 11	F	1287
+Drummoyne	Year 11	M	1401
+Drummoyne	Year 12	F	25756
+Drummoyne	Year 12	M	23390
+Dubbo	Did not go to school	F	98
+Dubbo	Did not go to school	M	132
+Dubbo	Year 8	F	1389
+Dubbo	Year 8	M	1646
+Dubbo	Year 9	F	2286
+Dubbo	Year 9	M	2567
+Dubbo	Year 10	F	8998
+Dubbo	Year 10	M	9970
+Dubbo	Year 11	F	2296
+Dubbo	Year 11	M	2264
+Dubbo	Year 12	F	14923
+Dubbo	Year 12	M	11645
+East Hills	Did not go to school	F	717
+East Hills	Did not go to school	M	539
+East Hills	Year 8	F	1622
+East Hills	Year 8	M	1401
+East Hills	Year 9	F	1742
+East Hills	Year 9	M	1649
+East Hills	Year 10	F	6375
+East Hills	Year 10	M	6600
+East Hills	Year 11	F	1559
+East Hills	Year 11	M	1887
+East Hills	Year 12	F	20047
+East Hills	Year 12	M	18344
+Epping	Did not go to school	F	298
+Epping	Did not go to school	M	200
+Epping	Year 8	F	640
+Epping	Year 8	M	459
+Epping	Year 9	F	1215
+Epping	Year 9	M	1046
+Epping	Year 10	F	3764
+Epping	Year 10	M	2817
+Epping	Year 11	F	1452
+Epping	Year 11	M	1380
+Epping	Year 12	F	28606
+Epping	Year 12	M	27209
+Fairfield	Did not go to school	F	3748
+Fairfield	Did not go to school	M	2645
+Fairfield	Year 8	F	3865
+Fairfield	Year 8	M	3423
+Fairfield	Year 9	F	2405
+Fairfield	Year 9	M	2288
+Fairfield	Year 10	F	4872
+Fairfield	Year 10	M	5293
+Fairfield	Year 11	F	1896
+Fairfield	Year 11	M	2207
+Fairfield	Year 12	F	18518
+Fairfield	Year 12	M	18235
+Gosford	Did not go to school	F	132
+Gosford	Did not go to school	M	150
+Gosford	Year 8	F	1162
+Gosford	Year 8	M	1117
+Gosford	Year 9	F	2554
+Gosford	Year 9	M	2254
+Gosford	Year 10	F	9062
+Gosford	Year 10	M	8433
+Gosford	Year 11	F	2136
+Gosford	Year 11	M	2219
+Gosford	Year 12	F	16921
+Gosford	Year 12	M	15117
+Goulburn	Did not go to school	F	103
+Goulburn	Did not go to school	M	131
+Goulburn	Year 8	F	1170
+Goulburn	Year 8	M	1466
+Goulburn	Year 9	F	2269
+Goulburn	Year 9	M	2507
+Goulburn	Year 10	F	8712
+Goulburn	Year 10	M	9357
+Goulburn	Year 11	F	2257
+Goulburn	Year 11	M	2257
+Goulburn	Year 12	F	17019
+Goulburn	Year 12	M	14425
+Granville	Did not go to school	F	1536
+Granville	Did not go to school	M	1395
+Granville	Year 8	F	2101
+Granville	Year 8	M	2107
+Granville	Year 9	F	1534
+Granville	Year 9	M	1638
+Granville	Year 10	F	5186
+Granville	Year 10	M	5612
+Granville	Year 11	F	1612
+Granville	Year 11	M	1825
+Granville	Year 12	F	24976
+Granville	Year 12	M	25803
+Hawkesbury	Did not go to school	F	127
+Hawkesbury	Did not go to school	M	132
+Hawkesbury	Year 8	F	1018
+Hawkesbury	Year 8	M	1252
+Hawkesbury	Year 9	F	2207
+Hawkesbury	Year 9	M	2506
+Hawkesbury	Year 10	F	9018
+Hawkesbury	Year 10	M	10680
+Hawkesbury	Year 11	F	2195
+Hawkesbury	Year 11	M	2315
+Hawkesbury	Year 12	F	15632
+Hawkesbury	Year 12	M	12656
+Heathcote	Did not go to school	F	96
+Heathcote	Did not go to school	M	71
+Heathcote	Year 8	F	621
+Heathcote	Year 8	M	607
+Heathcote	Year 9	F	1707
+Heathcote	Year 9	M	1575
+Heathcote	Year 10	F	7485
+Heathcote	Year 10	M	7858
+Heathcote	Year 11	F	1682
+Heathcote	Year 11	M	2047
+Heathcote	Year 12	F	19387
+Heathcote	Year 12	M	17077
+Heffron	Did not go to school	F	585
+Heffron	Did not go to school	M	448
+Heffron	Year 8	F	1254
+Heffron	Year 8	M	1004
+Heffron	Year 9	F	892
+Heffron	Year 9	M	908
+Heffron	Year 10	F	3296
+Heffron	Year 10	M	3919
+Heffron	Year 11	F	1667
+Heffron	Year 11	M	2242
+Heffron	Year 12	F	40002
+Heffron	Year 12	M	41367
+Holsworthy	Did not go to school	F	826
+Holsworthy	Did not go to school	M	646
+Holsworthy	Year 8	F	1847
+Holsworthy	Year 8	M	1404
+Holsworthy	Year 9	F	1680
+Holsworthy	Year 9	M	1724
+Holsworthy	Year 10	F	5985
+Holsworthy	Year 10	M	6599
+Holsworthy	Year 11	F	1890
+Holsworthy	Year 11	M	2203
+Holsworthy	Year 12	F	21295
+Holsworthy	Year 12	M	19882
+Hornsby	Did not go to school	F	265
+Hornsby	Did not go to school	M	219
+Hornsby	Year 8	F	657
+Hornsby	Year 8	M	611
+Hornsby	Year 9	F	1297
+Hornsby	Year 9	M	1215
+Hornsby	Year 10	F	5010
+Hornsby	Year 10	M	4817
+Hornsby	Year 11	F	1547
+Hornsby	Year 11	M	1728
+Hornsby	Year 12	F	24738
+Hornsby	Year 12	M	23407
+Keira	Did not go to school	F	210
+Keira	Did not go to school	M	153
+Keira	Year 8	F	1361
+Keira	Year 8	M	1078
+Keira	Year 9	F	2289
+Keira	Year 9	M	2032
+Keira	Year 10	F	7561
+Keira	Year 10	M	7564
+Keira	Year 11	F	1823
+Keira	Year 11	M	2164
+Keira	Year 12	F	19682
+Keira	Year 12	M	17742
+Kiama	Did not go to school	F	93
+Kiama	Did not go to school	M	102
+Kiama	Year 8	F	1132
+Kiama	Year 8	M	1200
+Kiama	Year 9	F	2498
+Kiama	Year 9	M	2447
+Kiama	Year 10	F	9474
+Kiama	Year 10	M	9409
+Kiama	Year 11	F	2223
+Kiama	Year 11	M	2406
+Kiama	Year 12	F	15899
+Kiama	Year 12	M	13683
+Kogarah	Did not go to school	F	971
+Kogarah	Did not go to school	M	634
+Kogarah	Year 8	F	2053
+Kogarah	Year 8	M	1533
+Kogarah	Year 9	F	1304
+Kogarah	Year 9	M	1184
+Kogarah	Year 10	F	4288
+Kogarah	Year 10	M	4289
+Kogarah	Year 11	F	1443
+Kogarah	Year 11	M	1516
+Kogarah	Year 12	F	27780
+Kogarah	Year 12	M	27669
+Ku-ring-gai	Did not go to school	F	207
+Ku-ring-gai	Did not go to school	M	139
+Ku-ring-gai	Year 8	F	500
+Ku-ring-gai	Year 8	M	431
+Ku-ring-gai	Year 9	F	1096
+Ku-ring-gai	Year 9	M	887
+Ku-ring-gai	Year 10	F	3379
+Ku-ring-gai	Year 10	M	2457
+Ku-ring-gai	Year 11	F	1559
+Ku-ring-gai	Year 11	M	1310
+Ku-ring-gai	Year 12	F	28842
+Ku-ring-gai	Year 12	M	26914
+Lake Macquarie	Did not go to school	F	125
+Lake Macquarie	Did not go to school	M	135
+Lake Macquarie	Year 8	F	1318
+Lake Macquarie	Year 8	M	1350
+Lake Macquarie	Year 9	F	3058
+Lake Macquarie	Year 9	M	2938
+Lake Macquarie	Year 10	F	10662
+Lake Macquarie	Year 10	M	10534
+Lake Macquarie	Year 11	F	2400
+Lake Macquarie	Year 11	M	2622
+Lake Macquarie	Year 12	F	14662
+Lake Macquarie	Year 12	M	12620
+Lakemba	Did not go to school	F	1603
+Lakemba	Did not go to school	M	1308
+Lakemba	Year 8	F	2505
+Lakemba	Year 8	M	2307
+Lakemba	Year 9	F	1578
+Lakemba	Year 9	M	1557
+Lakemba	Year 10	F	4849
+Lakemba	Year 10	M	5224
+Lakemba	Year 11	F	1656
+Lakemba	Year 11	M	1732
+Lakemba	Year 12	F	21422
+Lakemba	Year 12	M	22789
+Lane Cove	Did not go to school	F	221
+Lane Cove	Did not go to school	M	157
+Lane Cove	Year 8	F	722
+Lane Cove	Year 8	M	580
+Lane Cove	Year 9	F	962
+Lane Cove	Year 9	M	920
+Lane Cove	Year 10	F	3801
+Lane Cove	Year 10	M	3061
+Lane Cove	Year 11	F	1391
+Lane Cove	Year 11	M	1460
+Lane Cove	Year 12	F	29036
+Lane Cove	Year 12	M	27502
+Lismore	Did not go to school	F	104
+Lismore	Did not go to school	M	91
+Lismore	Year 8	F	1256
+Lismore	Year 8	M	1546
+Lismore	Year 9	F	2342
+Lismore	Year 9	M	2578
+Lismore	Year 10	F	9057
+Lismore	Year 10	M	9097
+Lismore	Year 11	F	2365
+Lismore	Year 11	M	2345
+Lismore	Year 12	F	14664
+Lismore	Year 12	M	12516
+Liverpool	Did not go to school	F	1911
+Liverpool	Did not go to school	M	1367
+Liverpool	Year 8	F	2679
+Liverpool	Year 8	M	2194
+Liverpool	Year 9	F	2065
+Liverpool	Year 9	M	2017
+Liverpool	Year 10	F	5643
+Liverpool	Year 10	M	6239
+Liverpool	Year 11	F	2105
+Liverpool	Year 11	M	2329
+Liverpool	Year 12	F	21525
+Liverpool	Year 12	M	20308
+Londonderry	Did not go to school	F	524
+Londonderry	Did not go to school	M	402
+Londonderry	Year 8	F	1956
+Londonderry	Year 8	M	1988
+Londonderry	Year 9	F	3020
+Londonderry	Year 9	M	3096
+Londonderry	Year 10	F	10345
+Londonderry	Year 10	M	10993
+Londonderry	Year 11	F	2869
+Londonderry	Year 11	M	2922
+Londonderry	Year 12	F	23755
+Londonderry	Year 12	M	21101
+Macquarie Fields	Did not go to school	F	650
+Macquarie Fields	Did not go to school	M	443
+Macquarie Fields	Year 8	F	1584
+Macquarie Fields	Year 8	M	1382
+Macquarie Fields	Year 9	F	2217
+Macquarie Fields	Year 9	M	2195
+Macquarie Fields	Year 10	F	8043
+Macquarie Fields	Year 10	M	8002
+Macquarie Fields	Year 11	F	2286
+Macquarie Fields	Year 11	M	2550
+Macquarie Fields	Year 12	F	26748
+Macquarie Fields	Year 12	M	25158
+Maitland	Did not go to school	F	109
+Maitland	Did not go to school	M	135
+Maitland	Year 8	F	1400
+Maitland	Year 8	M	1374
+Maitland	Year 9	F	3275
+Maitland	Year 9	M	2895
+Maitland	Year 10	F	11220
+Maitland	Year 10	M	11155
+Maitland	Year 11	F	2740
+Maitland	Year 11	M	3035
+Maitland	Year 12	F	16480
+Maitland	Year 12	M	13786
+Manly	Did not go to school	F	95
+Manly	Did not go to school	M	91
+Manly	Year 8	F	462
+Manly	Year 8	M	444
+Manly	Year 9	F	976
+Manly	Year 9	M	900
+Manly	Year 10	F	3896
+Manly	Year 10	M	3306
+Manly	Year 11	F	1558
+Manly	Year 11	M	1491
+Manly	Year 12	F	26635
+Manly	Year 12	M	25321
+Maroubra	Did not go to school	F	392
+Maroubra	Did not go to school	M	273
+Maroubra	Year 8	F	1373
+Maroubra	Year 8	M	1060
+Maroubra	Year 9	F	1438
+Maroubra	Year 9	M	1286
+Maroubra	Year 10	F	4845
+Maroubra	Year 10	M	5051
+Maroubra	Year 11	F	1551
+Maroubra	Year 11	M	1763
+Maroubra	Year 12	F	25107
+Maroubra	Year 12	M	22992
+Miranda	Did not go to school	F	207
+Miranda	Did not go to school	M	181
+Miranda	Year 8	F	990
+Miranda	Year 8	M	791
+Miranda	Year 9	F	1762
+Miranda	Year 9	M	1445
+Miranda	Year 10	F	6919
+Miranda	Year 10	M	6592
+Miranda	Year 11	F	1623
+Miranda	Year 11	M	1922
+Miranda	Year 12	F	20920
+Miranda	Year 12	M	19087
+Monaro	Did not go to school	F	140
+Monaro	Did not go to school	M	133
+Monaro	Year 8	F	1063
+Monaro	Year 8	M	1186
+Monaro	Year 9	F	1570
+Monaro	Year 9	M	1774
+Monaro	Year 10	F	6480
+Monaro	Year 10	M	7457
+Monaro	Year 11	F	2073
+Monaro	Year 11	M	2250
+Monaro	Year 12	F	20898
+Monaro	Year 12	M	19480
+Mount Druitt	Did not go to school	F	753
+Mount Druitt	Did not go to school	M	534
+Mount Druitt	Year 8	F	1811
+Mount Druitt	Year 8	M	1554
+Mount Druitt	Year 9	F	2027
+Mount Druitt	Year 9	M	2001
+Mount Druitt	Year 10	F	6498
+Mount Druitt	Year 10	M	6896
+Mount Druitt	Year 11	F	2122
+Mount Druitt	Year 11	M	2182
+Mount Druitt	Year 12	F	20989
+Mount Druitt	Year 12	M	19623
+Mulgoa	Did not go to school	F	557
+Mulgoa	Did not go to school	M	417
+Mulgoa	Year 8	F	1423
+Mulgoa	Year 8	M	1314
+Mulgoa	Year 9	F	1867
+Mulgoa	Year 9	M	2029
+Mulgoa	Year 10	F	7780
+Mulgoa	Year 10	M	8837
+Mulgoa	Year 11	F	2077
+Mulgoa	Year 11	M	2397
+Mulgoa	Year 12	F	19645
+Mulgoa	Year 12	M	17326
+Murray	Did not go to school	F	277
+Murray	Did not go to school	M	274
+Murray	Year 8	F	1982
+Murray	Year 8	M	2502
+Murray	Year 9	F	2785
+Murray	Year 9	M	3329
+Murray	Year 10	F	8746
+Murray	Year 10	M	10001
+Murray	Year 11	F	3687
+Murray	Year 11	M	3768
+Murray	Year 12	F	13973
+Murray	Year 12	M	11202
+Myall Lakes	Did not go to school	F	89
+Myall Lakes	Did not go to school	M	86
+Myall Lakes	Year 8	F	1621
+Myall Lakes	Year 8	M	1846
+Myall Lakes	Year 9	F	3519
+Myall Lakes	Year 9	M	3366
+Myall Lakes	Year 10	F	11264
+Myall Lakes	Year 10	M	10566
+Myall Lakes	Year 11	F	2223
+Myall Lakes	Year 11	M	2202
+Myall Lakes	Year 12	F	11642
+Myall Lakes	Year 12	M	9948
+Newcastle	Did not go to school	F	138
+Newcastle	Did not go to school	M	144
+Newcastle	Year 8	F	1019
+Newcastle	Year 8	M	924
+Newcastle	Year 9	F	1913
+Newcastle	Year 9	M	1788
+Newcastle	Year 10	F	6893
+Newcastle	Year 10	M	6943
+Newcastle	Year 11	F	1802
+Newcastle	Year 11	M	2078
+Newcastle	Year 12	F	21153
+Newcastle	Year 12	M	19195
+Newtown	Did not go to school	F	286
+Newtown	Did not go to school	M	252
+Newtown	Year 8	F	718
+Newtown	Year 8	M	647
+Newtown	Year 9	F	575
+Newtown	Year 9	M	688
+Newtown	Year 10	F	2128
+Newtown	Year 10	M	2656
+Newtown	Year 11	F	1022
+Newtown	Year 11	M	1340
+Newtown	Year 12	F	28033
+Newtown	Year 12	M	29312
+North Shore	Did not go to school	F	110
+North Shore	Did not go to school	M	62
+North Shore	Year 8	F	273
+North Shore	Year 8	M	235
+North Shore	Year 9	F	596
+North Shore	Year 9	M	528
+North Shore	Year 10	F	2652
+North Shore	Year 10	M	1815
+North Shore	Year 11	F	1323
+North Shore	Year 11	M	1005
+North Shore	Year 12	F	30095
+North Shore	Year 12	M	26567
+Northern Tablelands	Did not go to school	F	193
+Northern Tablelands	Did not go to school	M	209
+Northern Tablelands	Year 8	F	1511
+Northern Tablelands	Year 8	M	1940
+Northern Tablelands	Year 9	F	2378
+Northern Tablelands	Year 9	M	2634
+Northern Tablelands	Year 10	F	8230
+Northern Tablelands	Year 10	M	8584
+Northern Tablelands	Year 11	F	2147
+Northern Tablelands	Year 11	M	2073
+Northern Tablelands	Year 12	F	14887
+Northern Tablelands	Year 12	M	11971
+Oatley	Did not go to school	F	433
+Oatley	Did not go to school	M	305
+Oatley	Year 8	F	1302
+Oatley	Year 8	M	1005
+Oatley	Year 9	F	1455
+Oatley	Year 9	M	1267
+Oatley	Year 10	F	5175
+Oatley	Year 10	M	4791
+Oatley	Year 11	F	1383
+Oatley	Year 11	M	1570
+Oatley	Year 12	F	22323
+Oatley	Year 12	M	21214
+Orange	Did not go to school	F	110
+Orange	Did not go to school	M	165
+Orange	Year 8	F	1433
+Orange	Year 8	M	1757
+Orange	Year 9	F	2422
+Orange	Year 9	M	2671
+Orange	Year 10	F	9117
+Orange	Year 10	M	9542
+Orange	Year 11	F	2255
+Orange	Year 11	M	2280
+Orange	Year 12	F	15124
+Orange	Year 12	M	12060
+Oxley	Did not go to school	F	72
+Oxley	Did not go to school	M	118
+Oxley	Year 8	F	1652
+Oxley	Year 8	M	1882
+Oxley	Year 9	F	3167
+Oxley	Year 9	M	3373
+Oxley	Year 10	F	10223
+Oxley	Year 10	M	10183
+Oxley	Year 11	F	2256
+Oxley	Year 11	M	2394
+Oxley	Year 12	F	12720
+Oxley	Year 12	M	10145
+Parramatta	Did not go to school	F	643
+Parramatta	Did not go to school	M	508
+Parramatta	Year 8	F	1238
+Parramatta	Year 8	M	1094
+Parramatta	Year 9	F	1392
+Parramatta	Year 9	M	1301
+Parramatta	Year 10	F	4423
+Parramatta	Year 10	M	4585
+Parramatta	Year 11	F	1576
+Parramatta	Year 11	M	1826
+Parramatta	Year 12	F	33298
+Parramatta	Year 12	M	33969
+Penrith	Did not go to school	F	211
+Penrith	Did not go to school	M	180
+Penrith	Year 8	F	1281
+Penrith	Year 8	M	1097
+Penrith	Year 9	F	2377
+Penrith	Year 9	M	2322
+Penrith	Year 10	F	8914
+Penrith	Year 10	M	9067
+Penrith	Year 11	F	2306
+Penrith	Year 11	M	2441
+Penrith	Year 12	F	17760
+Penrith	Year 12	M	15540
+Pittwater	Did not go to school	F	77
+Pittwater	Did not go to school	M	64
+Pittwater	Year 8	F	521
+Pittwater	Year 8	M	451
+Pittwater	Year 9	F	1219
+Pittwater	Year 9	M	1198
+Pittwater	Year 10	F	5723
+Pittwater	Year 10	M	5215
+Pittwater	Year 11	F	1811
+Pittwater	Year 11	M	1830
+Pittwater	Year 12	F	21138
+Pittwater	Year 12	M	19796
+Port Macquarie	Did not go to school	F	80
+Port Macquarie	Did not go to school	M	76
+Port Macquarie	Year 8	F	1386
+Port Macquarie	Year 8	M	1515
+Port Macquarie	Year 9	F	3114
+Port Macquarie	Year 9	M	3078
+Port Macquarie	Year 10	F	10956
+Port Macquarie	Year 10	M	9938
+Port Macquarie	Year 11	F	2598
+Port Macquarie	Year 11	M	2510
+Port Macquarie	Year 12	F	15741
+Port Macquarie	Year 12	M	13447
+Port Stephens	Did not go to school	F	93
+Port Stephens	Did not go to school	M	101
+Port Stephens	Year 8	F	1234
+Port Stephens	Year 8	M	1407
+Port Stephens	Year 9	F	3039
+Port Stephens	Year 9	M	2910
+Port Stephens	Year 10	F	10696
+Port Stephens	Year 10	M	10572
+Port Stephens	Year 11	F	2397
+Port Stephens	Year 11	M	2680
+Port Stephens	Year 12	F	13015
+Port Stephens	Year 12	M	11526
+Prospect	Did not go to school	F	1413
+Prospect	Did not go to school	M	942
+Prospect	Year 8	F	2557
+Prospect	Year 8	M	2191
+Prospect	Year 9	F	1879
+Prospect	Year 9	M	1852
+Prospect	Year 10	F	5821
+Prospect	Year 10	M	5984
+Prospect	Year 11	F	1597
+Prospect	Year 11	M	1858
+Prospect	Year 12	F	20457
+Prospect	Year 12	M	20093
+Riverstone	Did not go to school	F	394
+Riverstone	Did not go to school	M	249
+Riverstone	Year 8	F	1059
+Riverstone	Year 8	M	895
+Riverstone	Year 9	F	1566
+Riverstone	Year 9	M	1595
+Riverstone	Year 10	F	6244
+Riverstone	Year 10	M	6495
+Riverstone	Year 11	F	2066
+Riverstone	Year 11	M	2253
+Riverstone	Year 12	F	33163
+Riverstone	Year 12	M	31417
+Rockdale	Did not go to school	F	812
+Rockdale	Did not go to school	M	578
+Rockdale	Year 8	F	1970
+Rockdale	Year 8	M	1455
+Rockdale	Year 9	F	1266
+Rockdale	Year 9	M	1250
+Rockdale	Year 10	F	5093
+Rockdale	Year 10	M	5108
+Rockdale	Year 11	F	1734
+Rockdale	Year 11	M	1974
+Rockdale	Year 12	F	26845
+Rockdale	Year 12	M	26392
+Ryde	Did not go to school	F	578
+Ryde	Did not go to school	M	386
+Ryde	Year 8	F	1212
+Ryde	Year 8	M	936
+Ryde	Year 9	F	1188
+Ryde	Year 9	M	1052
+Ryde	Year 10	F	4015
+Ryde	Year 10	M	3712
+Ryde	Year 11	F	1319
+Ryde	Year 11	M	1431
+Ryde	Year 12	F	33021
+Ryde	Year 12	M	31333
+Seven Hills	Did not go to school	F	385
+Seven Hills	Did not go to school	M	302
+Seven Hills	Year 8	F	1249
+Seven Hills	Year 8	M	1008
+Seven Hills	Year 9	F	1642
+Seven Hills	Year 9	M	1411
+Seven Hills	Year 10	F	5921
+Seven Hills	Year 10	M	5737
+Seven Hills	Year 11	F	1494
+Seven Hills	Year 11	M	1792
+Seven Hills	Year 12	F	22703
+Seven Hills	Year 12	M	22182
+Shellharbour	Did not go to school	F	231
+Shellharbour	Did not go to school	M	224
+Shellharbour	Year 8	F	1796
+Shellharbour	Year 8	M	1704
+Shellharbour	Year 9	F	3319
+Shellharbour	Year 9	M	2882
+Shellharbour	Year 10	F	11713
+Shellharbour	Year 10	M	11632
+Shellharbour	Year 11	F	2619
+Shellharbour	Year 11	M	2920
+Shellharbour	Year 12	F	15552
+Shellharbour	Year 12	M	13323
+South Coast	Did not go to school	F	97
+South Coast	Did not go to school	M	124
+South Coast	Year 8	F	1578
+South Coast	Year 8	M	1666
+South Coast	Year 9	F	3100
+South Coast	Year 9	M	3103
+South Coast	Year 10	F	10534
+South Coast	Year 10	M	10338
+South Coast	Year 11	F	2161
+South Coast	Year 11	M	2328
+South Coast	Year 12	F	13182
+South Coast	Year 12	M	11403
+Strathfield	Did not go to school	F	868
+Strathfield	Did not go to school	M	665
+Strathfield	Year 8	F	1640
+Strathfield	Year 8	M	1249
+Strathfield	Year 9	F	1102
+Strathfield	Year 9	M	1108
+Strathfield	Year 10	F	3661
+Strathfield	Year 10	M	3443
+Strathfield	Year 11	F	1361
+Strathfield	Year 11	M	1616
+Strathfield	Year 12	F	32808
+Strathfield	Year 12	M	33246
+Summer Hill	Did not go to school	F	808
+Summer Hill	Did not go to school	M	513
+Summer Hill	Year 8	F	1880
+Summer Hill	Year 8	M	1370
+Summer Hill	Year 9	F	894
+Summer Hill	Year 9	M	927
+Summer Hill	Year 10	F	3314
+Summer Hill	Year 10	M	3255
+Summer Hill	Year 11	F	1173
+Summer Hill	Year 11	M	1451
+Summer Hill	Year 12	F	26407
+Summer Hill	Year 12	M	24373
+Swansea	Did not go to school	F	79
+Swansea	Did not go to school	M	86
+Swansea	Year 8	F	1257
+Swansea	Year 8	M	1313
+Swansea	Year 9	F	3198
+Swansea	Year 9	M	2906
+Swansea	Year 10	F	10859
+Swansea	Year 10	M	10869
+Swansea	Year 11	F	2194
+Swansea	Year 11	M	2419
+Swansea	Year 12	F	12403
+Swansea	Year 12	M	10645
+Sydney	Did not go to school	F	376
+Sydney	Did not go to school	M	309
+Sydney	Year 8	F	442
+Sydney	Year 8	M	423
+Sydney	Year 9	F	587
+Sydney	Year 9	M	604
+Sydney	Year 10	F	2166
+Sydney	Year 10	M	2369
+Sydney	Year 11	F	1236
+Sydney	Year 11	M	1425
+Sydney	Year 12	F	33199
+Sydney	Year 12	M	36700
+Tamworth	Did not go to school	F	128
+Tamworth	Did not go to school	M	143
+Tamworth	Year 8	F	1402
+Tamworth	Year 8	M	1886
+Tamworth	Year 9	F	2842
+Tamworth	Year 9	M	3040
+Tamworth	Year 10	F	9741
+Tamworth	Year 10	M	10082
+Tamworth	Year 11	F	2421
+Tamworth	Year 11	M	2316
+Tamworth	Year 12	F	13951
+Tamworth	Year 12	M	10982
+Terrigal	Did not go to school	F	74
+Terrigal	Did not go to school	M	77
+Terrigal	Year 8	F	856
+Terrigal	Year 8	M	770
+Terrigal	Year 9	F	2082
+Terrigal	Year 9	M	1815
+Terrigal	Year 10	F	8493
+Terrigal	Year 10	M	7595
+Terrigal	Year 11	F	1995
+Terrigal	Year 11	M	2179
+Terrigal	Year 12	F	18073
+Terrigal	Year 12	M	16333
+The Entrance	Did not go to school	F	110
+The Entrance	Did not go to school	M	98
+The Entrance	Year 8	F	1194
+The Entrance	Year 8	M	1078
+The Entrance	Year 9	F	2549
+The Entrance	Year 9	M	2182
+The Entrance	Year 10	F	9446
+The Entrance	Year 10	M	8898
+The Entrance	Year 11	F	2061
+The Entrance	Year 11	M	2307
+The Entrance	Year 12	F	15099
+The Entrance	Year 12	M	13142
+Tweed	Did not go to school	F	98
+Tweed	Did not go to school	M	96
+Tweed	Year 8	F	1484
+Tweed	Year 8	M	1348
+Tweed	Year 9	F	2559
+Tweed	Year 9	M	2383
+Tweed	Year 10	F	9936
+Tweed	Year 10	M	8962
+Tweed	Year 11	F	2616
+Tweed	Year 11	M	2631
+Tweed	Year 12	F	16441
+Tweed	Year 12	M	14094
+Upper Hunter	Did not go to school	F	79
+Upper Hunter	Did not go to school	M	126
+Upper Hunter	Year 8	F	1328
+Upper Hunter	Year 8	M	1756
+Upper Hunter	Year 9	F	2785
+Upper Hunter	Year 9	M	3077
+Upper Hunter	Year 10	F	10147
+Upper Hunter	Year 10	M	11449
+Upper Hunter	Year 11	F	2437
+Upper Hunter	Year 11	M	2747
+Upper Hunter	Year 12	F	12334
+Upper Hunter	Year 12	M	9985
+Vaucluse	Did not go to school	F	74
+Vaucluse	Did not go to school	M	77
+Vaucluse	Year 8	F	381
+Vaucluse	Year 8	M	293
+Vaucluse	Year 9	F	653
+Vaucluse	Year 9	M	659
+Vaucluse	Year 10	F	2286
+Vaucluse	Year 10	M	1991
+Vaucluse	Year 11	F	1212
+Vaucluse	Year 11	M	1156
+Vaucluse	Year 12	F	29101
+Vaucluse	Year 12	M	25613
+Wagga Wagga	Did not go to school	F	256
+Wagga Wagga	Did not go to school	M	207
+Wagga Wagga	Year 8	F	1276
+Wagga Wagga	Year 8	M	1645
+Wagga Wagga	Year 9	F	2361
+Wagga Wagga	Year 9	M	2492
+Wagga Wagga	Year 10	F	8804
+Wagga Wagga	Year 10	M	9090
+Wagga Wagga	Year 11	F	2532
+Wagga Wagga	Year 11	M	2575
+Wagga Wagga	Year 12	F	16400
+Wagga Wagga	Year 12	M	13404
+Wakehurst	Did not go to school	F	287
+Wakehurst	Did not go to school	M	240
+Wakehurst	Year 8	F	861
+Wakehurst	Year 8	M	795
+Wakehurst	Year 9	F	1392
+Wakehurst	Year 9	M	1310
+Wakehurst	Year 10	F	5657
+Wakehurst	Year 10	M	5311
+Wakehurst	Year 11	F	1670
+Wakehurst	Year 11	M	1981
+Wakehurst	Year 12	F	23492
+Wakehurst	Year 12	M	21808
+Wallsend	Did not go to school	F	256
+Wallsend	Did not go to school	M	168
+Wallsend	Year 8	F	1373
+Wallsend	Year 8	M	1316
+Wallsend	Year 9	F	2939
+Wallsend	Year 9	M	2597
+Wallsend	Year 10	F	9053
+Wallsend	Year 10	M	8868
+Wallsend	Year 11	F	2162
+Wallsend	Year 11	M	2420
+Wallsend	Year 12	F	18817
+Wallsend	Year 12	M	17413
+Willoughby	Did not go to school	F	308
+Willoughby	Did not go to school	M	187
+Willoughby	Year 8	F	681
+Willoughby	Year 8	M	524
+Willoughby	Year 9	F	936
+Willoughby	Year 9	M	825
+Willoughby	Year 10	F	2947
+Willoughby	Year 10	M	2256
+Willoughby	Year 11	F	1317
+Willoughby	Year 11	M	1262
+Willoughby	Year 12	F	29870
+Willoughby	Year 12	M	27008
+Wollondilly	Did not go to school	F	96
+Wollondilly	Did not go to school	M	105
+Wollondilly	Year 8	F	963
+Wollondilly	Year 8	M	1113
+Wollondilly	Year 9	F	2346
+Wollondilly	Year 9	M	2518
+Wollondilly	Year 10	F	9495
+Wollondilly	Year 10	M	10650
+Wollondilly	Year 11	F	2404
+Wollondilly	Year 11	M	2478
+Wollondilly	Year 12	F	17001
+Wollondilly	Year 12	M	13722
+Wollongong	Did not go to school	F	586
+Wollongong	Did not go to school	M	389
+Wollongong	Year 8	F	2266
+Wollongong	Year 8	M	1846
+Wollongong	Year 9	F	2309
+Wollongong	Year 9	M	2200
+Wollongong	Year 10	F	8119
+Wollongong	Year 10	M	8406
+Wollongong	Year 11	F	1978
+Wollongong	Year 11	M	2368
+Wollongong	Year 12	F	19152
+Wollongong	Year 12	M	18282
+Wyong	Did not go to school	F	144
+Wyong	Did not go to school	M	174
+Wyong	Year 8	F	1520
+Wyong	Year 8	M	1537
+Wyong	Year 9	F	3019
+Wyong	Year 9	M	2895
+Wyong	Year 10	F	10656
+Wyong	Year 10	M	10306
+Wyong	Year 11	F	2510
+Wyong	Year 11	M	2618
+Wyong	Year 12	F	14238
+Wyong	Year 12	M	12067
+No usual address (NSW)	Did not go to school	F	28
+No usual address (NSW)	Did not go to school	M	41
+No usual address (NSW)	Year 8	F	103
+No usual address (NSW)	Year 8	M	225
+No usual address (NSW)	Year 9	F	226
+No usual address (NSW)	Year 9	M	351
+No usual address (NSW)	Year 10	F	798
+No usual address (NSW)	Year 10	M	1083
+No usual address (NSW)	Year 11	F	234
+No usual address (NSW)	Year 11	M	293
+No usual address (NSW)	Year 12	F	1674
+No usual address (NSW)	Year 12	M	1648
+Albert Park (Southern Metropolitan)	Did not go to school	F	226
+Albert Park (Southern Metropolitan)	Did not go to school	M	165
+Albert Park (Southern Metropolitan)	Year 8	F	725
+Albert Park (Southern Metropolitan)	Year 8	M	588
+Albert Park (Southern Metropolitan)	Year 9	F	665
+Albert Park (Southern Metropolitan)	Year 9	M	736
+Albert Park (Southern Metropolitan)	Year 10	F	1878
+Albert Park (Southern Metropolitan)	Year 10	M	2084
+Albert Park (Southern Metropolitan)	Year 11	F	2356
+Albert Park (Southern Metropolitan)	Year 11	M	2411
+Albert Park (Southern Metropolitan)	Year 12	F	28630
+Albert Park (Southern Metropolitan)	Year 12	M	27299
+Altona (Western Metropolitan)	Did not go to school	F	500
+Altona (Western Metropolitan)	Did not go to school	M	413
+Altona (Western Metropolitan)	Year 8	F	1718
+Altona (Western Metropolitan)	Year 8	M	1305
+Altona (Western Metropolitan)	Year 9	F	1824
+Altona (Western Metropolitan)	Year 9	M	1812
+Altona (Western Metropolitan)	Year 10	F	4004
+Altona (Western Metropolitan)	Year 10	M	4483
+Altona (Western Metropolitan)	Year 11	F	3560
+Altona (Western Metropolitan)	Year 11	M	3921
+Altona (Western Metropolitan)	Year 12	F	28555
+Altona (Western Metropolitan)	Year 12	M	26504
+Bass (Eastern Victoria)	Did not go to school	F	392
+Bass (Eastern Victoria)	Did not go to school	M	352
+Bass (Eastern Victoria)	Year 8	F	1958
+Bass (Eastern Victoria)	Year 8	M	1773
+Bass (Eastern Victoria)	Year 9	F	2956
+Bass (Eastern Victoria)	Year 9	M	3278
+Bass (Eastern Victoria)	Year 10	F	6906
+Bass (Eastern Victoria)	Year 10	M	7766
+Bass (Eastern Victoria)	Year 11	F	5749
+Bass (Eastern Victoria)	Year 11	M	6014
+Bass (Eastern Victoria)	Year 12	F	25660
+Bass (Eastern Victoria)	Year 12	M	21854
+Bayswater (Eastern Metropolitan)	Did not go to school	F	221
+Bayswater (Eastern Metropolitan)	Did not go to school	M	172
+Bayswater (Eastern Metropolitan)	Year 8	F	1107
+Bayswater (Eastern Metropolitan)	Year 8	M	925
+Bayswater (Eastern Metropolitan)	Year 9	F	1481
+Bayswater (Eastern Metropolitan)	Year 9	M	1518
+Bayswater (Eastern Metropolitan)	Year 10	F	3525
+Bayswater (Eastern Metropolitan)	Year 10	M	3885
+Bayswater (Eastern Metropolitan)	Year 11	F	3282
+Bayswater (Eastern Metropolitan)	Year 11	M	3556
+Bayswater (Eastern Metropolitan)	Year 12	F	16480
+Bayswater (Eastern Metropolitan)	Year 12	M	14387
+Bellarine (Western Victoria)	Did not go to school	F	64
+Bellarine (Western Victoria)	Did not go to school	M	93
+Bellarine (Western Victoria)	Year 8	F	1108
+Bellarine (Western Victoria)	Year 8	M	1086
+Bellarine (Western Victoria)	Year 9	F	1875
+Bellarine (Western Victoria)	Year 9	M	1965
+Bellarine (Western Victoria)	Year 10	F	4735
+Bellarine (Western Victoria)	Year 10	M	4906
+Bellarine (Western Victoria)	Year 11	F	4802
+Bellarine (Western Victoria)	Year 11	M	4731
+Bellarine (Western Victoria)	Year 12	F	16873
+Bellarine (Western Victoria)	Year 12	M	13705
+Benambra (Northern Victoria)	Did not go to school	F	135
+Benambra (Northern Victoria)	Did not go to school	M	134
+Benambra (Northern Victoria)	Year 8	F	1241
+Benambra (Northern Victoria)	Year 8	M	1327
+Benambra (Northern Victoria)	Year 9	F	1879
+Benambra (Northern Victoria)	Year 9	M	2144
+Benambra (Northern Victoria)	Year 10	F	5660
+Benambra (Northern Victoria)	Year 10	M	6615
+Benambra (Northern Victoria)	Year 11	F	4241
+Benambra (Northern Victoria)	Year 11	M	4548
+Benambra (Northern Victoria)	Year 12	F	14210
+Benambra (Northern Victoria)	Year 12	M	11216
+Bendigo East (Northern Victoria)	Did not go to school	F	170
+Bendigo East (Northern Victoria)	Did not go to school	M	176
+Bendigo East (Northern Victoria)	Year 8	F	1371
+Bendigo East (Northern Victoria)	Year 8	M	1415
+Bendigo East (Northern Victoria)	Year 9	F	1972
+Bendigo East (Northern Victoria)	Year 9	M	2209
+Bendigo East (Northern Victoria)	Year 10	F	4874
+Bendigo East (Northern Victoria)	Year 10	M	5255
+Bendigo East (Northern Victoria)	Year 11	F	4365
+Bendigo East (Northern Victoria)	Year 11	M	4239
+Bendigo East (Northern Victoria)	Year 12	F	15706
+Bendigo East (Northern Victoria)	Year 12	M	12500
+Bendigo West (Northern Victoria)	Did not go to school	F	175
+Bendigo West (Northern Victoria)	Did not go to school	M	194
+Bendigo West (Northern Victoria)	Year 8	F	1487
+Bendigo West (Northern Victoria)	Year 8	M	1345
+Bendigo West (Northern Victoria)	Year 9	F	1974
+Bendigo West (Northern Victoria)	Year 9	M	2133
+Bendigo West (Northern Victoria)	Year 10	F	4495
+Bendigo West (Northern Victoria)	Year 10	M	5467
+Bendigo West (Northern Victoria)	Year 11	F	3761
+Bendigo West (Northern Victoria)	Year 11	M	3651
+Bendigo West (Northern Victoria)	Year 12	F	13447
+Bendigo West (Northern Victoria)	Year 12	M	10758
+Bentleigh (Southern Metropolitan)	Did not go to school	F	233
+Bentleigh (Southern Metropolitan)	Did not go to school	M	189
+Bentleigh (Southern Metropolitan)	Year 8	F	1138
+Bentleigh (Southern Metropolitan)	Year 8	M	810
+Bentleigh (Southern Metropolitan)	Year 9	F	936
+Bentleigh (Southern Metropolitan)	Year 9	M	932
+Bentleigh (Southern Metropolitan)	Year 10	F	2170
+Bentleigh (Southern Metropolitan)	Year 10	M	2250
+Bentleigh (Southern Metropolitan)	Year 11	F	2252
+Bentleigh (Southern Metropolitan)	Year 11	M	2310
+Bentleigh (Southern Metropolitan)	Year 12	F	20268
+Bentleigh (Southern Metropolitan)	Year 12	M	18288
+Box Hill (Eastern Metropolitan)	Did not go to school	F	361
+Box Hill (Eastern Metropolitan)	Did not go to school	M	263
+Box Hill (Eastern Metropolitan)	Year 8	F	1113
+Box Hill (Eastern Metropolitan)	Year 8	M	774
+Box Hill (Eastern Metropolitan)	Year 9	F	1128
+Box Hill (Eastern Metropolitan)	Year 9	M	1045
+Box Hill (Eastern Metropolitan)	Year 10	F	2136
+Box Hill (Eastern Metropolitan)	Year 10	M	1971
+Box Hill (Eastern Metropolitan)	Year 11	F	2368
+Box Hill (Eastern Metropolitan)	Year 11	M	2274
+Box Hill (Eastern Metropolitan)	Year 12	F	23812
+Box Hill (Eastern Metropolitan)	Year 12	M	21849
+Brighton (Southern Metropolitan)	Did not go to school	F	97
+Brighton (Southern Metropolitan)	Did not go to school	M	95
+Brighton (Southern Metropolitan)	Year 8	F	579
+Brighton (Southern Metropolitan)	Year 8	M	463
+Brighton (Southern Metropolitan)	Year 9	F	676
+Brighton (Southern Metropolitan)	Year 9	M	686
+Brighton (Southern Metropolitan)	Year 10	F	1848
+Brighton (Southern Metropolitan)	Year 10	M	1582
+Brighton (Southern Metropolitan)	Year 11	F	2266
+Brighton (Southern Metropolitan)	Year 11	M	1958
+Brighton (Southern Metropolitan)	Year 12	F	20860
+Brighton (Southern Metropolitan)	Year 12	M	18499
+Broadmeadows (Northern Metropolitan)	Did not go to school	F	1661
+Broadmeadows (Northern Metropolitan)	Did not go to school	M	1104
+Broadmeadows (Northern Metropolitan)	Year 8	F	3514
+Broadmeadows (Northern Metropolitan)	Year 8	M	2731
+Broadmeadows (Northern Metropolitan)	Year 9	F	1774
+Broadmeadows (Northern Metropolitan)	Year 9	M	1865
+Broadmeadows (Northern Metropolitan)	Year 10	F	2858
+Broadmeadows (Northern Metropolitan)	Year 10	M	3284
+Broadmeadows (Northern Metropolitan)	Year 11	F	2201
+Broadmeadows (Northern Metropolitan)	Year 11	M	2416
+Broadmeadows (Northern Metropolitan)	Year 12	F	14644
+Broadmeadows (Northern Metropolitan)	Year 12	M	15514
+Brunswick (Northern Metropolitan)	Did not go to school	F	565
+Brunswick (Northern Metropolitan)	Did not go to school	M	329
+Brunswick (Northern Metropolitan)	Year 8	F	1639
+Brunswick (Northern Metropolitan)	Year 8	M	1165
+Brunswick (Northern Metropolitan)	Year 9	F	705
+Brunswick (Northern Metropolitan)	Year 9	M	705
+Brunswick (Northern Metropolitan)	Year 10	F	1468
+Brunswick (Northern Metropolitan)	Year 10	M	1858
+Brunswick (Northern Metropolitan)	Year 11	F	1635
+Brunswick (Northern Metropolitan)	Year 11	M	1992
+Brunswick (Northern Metropolitan)	Year 12	F	27006
+Brunswick (Northern Metropolitan)	Year 12	M	23673
+Bulleen (Eastern Metropolitan)	Did not go to school	F	456
+Bulleen (Eastern Metropolitan)	Did not go to school	M	320
+Bulleen (Eastern Metropolitan)	Year 8	F	1956
+Bulleen (Eastern Metropolitan)	Year 8	M	1391
+Bulleen (Eastern Metropolitan)	Year 9	F	1259
+Bulleen (Eastern Metropolitan)	Year 9	M	1041
+Bulleen (Eastern Metropolitan)	Year 10	F	2425
+Bulleen (Eastern Metropolitan)	Year 10	M	2168
+Bulleen (Eastern Metropolitan)	Year 11	F	2379
+Bulleen (Eastern Metropolitan)	Year 11	M	2201
+Bulleen (Eastern Metropolitan)	Year 12	F	20081
+Bulleen (Eastern Metropolitan)	Year 12	M	18977
+Bundoora (Northern Metropolitan)	Did not go to school	F	371
+Bundoora (Northern Metropolitan)	Did not go to school	M	340
+Bundoora (Northern Metropolitan)	Year 8	F	1571
+Bundoora (Northern Metropolitan)	Year 8	M	1162
+Bundoora (Northern Metropolitan)	Year 9	F	1285
+Bundoora (Northern Metropolitan)	Year 9	M	1345
+Bundoora (Northern Metropolitan)	Year 10	F	2679
+Bundoora (Northern Metropolitan)	Year 10	M	2837
+Bundoora (Northern Metropolitan)	Year 11	F	2491
+Bundoora (Northern Metropolitan)	Year 11	M	2742
+Bundoora (Northern Metropolitan)	Year 12	F	16394
+Bundoora (Northern Metropolitan)	Year 12	M	15633
+Buninyong (Western Victoria)	Did not go to school	F	85
+Buninyong (Western Victoria)	Did not go to school	M	103
+Buninyong (Western Victoria)	Year 8	F	1224
+Buninyong (Western Victoria)	Year 8	M	1258
+Buninyong (Western Victoria)	Year 9	F	1985
+Buninyong (Western Victoria)	Year 9	M	2317
+Buninyong (Western Victoria)	Year 10	F	4389
+Buninyong (Western Victoria)	Year 10	M	5427
+Buninyong (Western Victoria)	Year 11	F	4042
+Buninyong (Western Victoria)	Year 11	M	3999
+Buninyong (Western Victoria)	Year 12	F	14303
+Buninyong (Western Victoria)	Year 12	M	11610
+Burwood (Southern Metropolitan)	Did not go to school	F	279
+Burwood (Southern Metropolitan)	Did not go to school	M	217
+Burwood (Southern Metropolitan)	Year 8	F	1015
+Burwood (Southern Metropolitan)	Year 8	M	738
+Burwood (Southern Metropolitan)	Year 9	F	1009
+Burwood (Southern Metropolitan)	Year 9	M	923
+Burwood (Southern Metropolitan)	Year 10	F	1994
+Burwood (Southern Metropolitan)	Year 10	M	1764
+Burwood (Southern Metropolitan)	Year 11	F	2117
+Burwood (Southern Metropolitan)	Year 11	M	2064
+Burwood (Southern Metropolitan)	Year 12	F	22195
+Burwood (Southern Metropolitan)	Year 12	M	20600
+Carrum (South-Eastern Metropolitan)	Did not go to school	F	181
+Carrum (South-Eastern Metropolitan)	Did not go to school	M	139
+Carrum (South-Eastern Metropolitan)	Year 8	F	1200
+Carrum (South-Eastern Metropolitan)	Year 8	M	1033
+Carrum (South-Eastern Metropolitan)	Year 9	F	1717
+Carrum (South-Eastern Metropolitan)	Year 9	M	1934
+Carrum (South-Eastern Metropolitan)	Year 10	F	4455
+Carrum (South-Eastern Metropolitan)	Year 10	M	4914
+Carrum (South-Eastern Metropolitan)	Year 11	F	3745
+Carrum (South-Eastern Metropolitan)	Year 11	M	4233
+Carrum (South-Eastern Metropolitan)	Year 12	F	17033
+Carrum (South-Eastern Metropolitan)	Year 12	M	14107
+Caulfield (Southern Metropolitan)	Did not go to school	F	158
+Caulfield (Southern Metropolitan)	Did not go to school	M	122
+Caulfield (Southern Metropolitan)	Year 8	F	671
+Caulfield (Southern Metropolitan)	Year 8	M	536
+Caulfield (Southern Metropolitan)	Year 9	F	674
+Caulfield (Southern Metropolitan)	Year 9	M	737
+Caulfield (Southern Metropolitan)	Year 10	F	1478
+Caulfield (Southern Metropolitan)	Year 10	M	1536
+Caulfield (Southern Metropolitan)	Year 11	F	1863
+Caulfield (Southern Metropolitan)	Year 11	M	1709
+Caulfield (Southern Metropolitan)	Year 12	F	23123
+Caulfield (Southern Metropolitan)	Year 12	M	21188
+Clarinda (South-Eastern Metropolitan)	Did not go to school	F	1235
+Clarinda (South-Eastern Metropolitan)	Did not go to school	M	960
+Clarinda (South-Eastern Metropolitan)	Year 8	F	2547
+Clarinda (South-Eastern Metropolitan)	Year 8	M	1869
+Clarinda (South-Eastern Metropolitan)	Year 9	F	1283
+Clarinda (South-Eastern Metropolitan)	Year 9	M	1290
+Clarinda (South-Eastern Metropolitan)	Year 10	F	2488
+Clarinda (South-Eastern Metropolitan)	Year 10	M	2784
+Clarinda (South-Eastern Metropolitan)	Year 11	F	2053
+Clarinda (South-Eastern Metropolitan)	Year 11	M	2381
+Clarinda (South-Eastern Metropolitan)	Year 12	F	20547
+Clarinda (South-Eastern Metropolitan)	Year 12	M	21126
+Cranbourne (South-Eastern Metropolitan)	Did not go to school	F	1157
+Cranbourne (South-Eastern Metropolitan)	Did not go to school	M	917
+Cranbourne (South-Eastern Metropolitan)	Year 8	F	2184
+Cranbourne (South-Eastern Metropolitan)	Year 8	M	1826
+Cranbourne (South-Eastern Metropolitan)	Year 9	F	2653
+Cranbourne (South-Eastern Metropolitan)	Year 9	M	2929
+Cranbourne (South-Eastern Metropolitan)	Year 10	F	6245
+Cranbourne (South-Eastern Metropolitan)	Year 10	M	7051
+Cranbourne (South-Eastern Metropolitan)	Year 11	F	4747
+Cranbourne (South-Eastern Metropolitan)	Year 11	M	5087
+Cranbourne (South-Eastern Metropolitan)	Year 12	F	29042
+Cranbourne (South-Eastern Metropolitan)	Year 12	M	26461
+Croydon (Eastern Metropolitan)	Did not go to school	F	252
+Croydon (Eastern Metropolitan)	Did not go to school	M	239
+Croydon (Eastern Metropolitan)	Year 8	F	1160
+Croydon (Eastern Metropolitan)	Year 8	M	913
+Croydon (Eastern Metropolitan)	Year 9	F	1445
+Croydon (Eastern Metropolitan)	Year 9	M	1427
+Croydon (Eastern Metropolitan)	Year 10	F	3431
+Croydon (Eastern Metropolitan)	Year 10	M	3627
+Croydon (Eastern Metropolitan)	Year 11	F	3405
+Croydon (Eastern Metropolitan)	Year 11	M	3397
+Croydon (Eastern Metropolitan)	Year 12	F	15993
+Croydon (Eastern Metropolitan)	Year 12	M	13313
+Dandenong (South-Eastern Metropolitan)	Did not go to school	F	1604
+Dandenong (South-Eastern Metropolitan)	Did not go to school	M	1844
+Dandenong (South-Eastern Metropolitan)	Year 8	F	2608
+Dandenong (South-Eastern Metropolitan)	Year 8	M	2406
+Dandenong (South-Eastern Metropolitan)	Year 9	F	1510
+Dandenong (South-Eastern Metropolitan)	Year 9	M	1639
+Dandenong (South-Eastern Metropolitan)	Year 10	F	3095
+Dandenong (South-Eastern Metropolitan)	Year 10	M	3708
+Dandenong (South-Eastern Metropolitan)	Year 11	F	2206
+Dandenong (South-Eastern Metropolitan)	Year 11	M	2684
+Dandenong (South-Eastern Metropolitan)	Year 12	F	16552
+Dandenong (South-Eastern Metropolitan)	Year 12	M	17054
+Eildon (Northern Victoria)	Did not go to school	F	72
+Eildon (Northern Victoria)	Did not go to school	M	85
+Eildon (Northern Victoria)	Year 8	F	1001
+Eildon (Northern Victoria)	Year 8	M	1188
+Eildon (Northern Victoria)	Year 9	F	1660
+Eildon (Northern Victoria)	Year 9	M	2432
+Eildon (Northern Victoria)	Year 10	F	4098
+Eildon (Northern Victoria)	Year 10	M	5574
+Eildon (Northern Victoria)	Year 11	F	3905
+Eildon (Northern Victoria)	Year 11	M	4251
+Eildon (Northern Victoria)	Year 12	F	13270
+Eildon (Northern Victoria)	Year 12	M	10115
+Eltham (Eastern Metropolitan)	Did not go to school	F	87
+Eltham (Eastern Metropolitan)	Did not go to school	M	103
+Eltham (Eastern Metropolitan)	Year 8	F	771
+Eltham (Eastern Metropolitan)	Year 8	M	631
+Eltham (Eastern Metropolitan)	Year 9	F	1133
+Eltham (Eastern Metropolitan)	Year 9	M	1159
+Eltham (Eastern Metropolitan)	Year 10	F	2551
+Eltham (Eastern Metropolitan)	Year 10	M	2924
+Eltham (Eastern Metropolitan)	Year 11	F	3060
+Eltham (Eastern Metropolitan)	Year 11	M	3117
+Eltham (Eastern Metropolitan)	Year 12	F	16777
+Eltham (Eastern Metropolitan)	Year 12	M	14722
+Essendon (Western Metropolitan)	Did not go to school	F	476
+Essendon (Western Metropolitan)	Did not go to school	M	230
+Essendon (Western Metropolitan)	Year 8	F	1336
+Essendon (Western Metropolitan)	Year 8	M	917
+Essendon (Western Metropolitan)	Year 9	F	919
+Essendon (Western Metropolitan)	Year 9	M	917
+Essendon (Western Metropolitan)	Year 10	F	2161
+Essendon (Western Metropolitan)	Year 10	M	2242
+Essendon (Western Metropolitan)	Year 11	F	2411
+Essendon (Western Metropolitan)	Year 11	M	2587
+Essendon (Western Metropolitan)	Year 12	F	21993
+Essendon (Western Metropolitan)	Year 12	M	20169
+Euroa (Northern Victoria)	Did not go to school	F	93
+Euroa (Northern Victoria)	Did not go to school	M	126
+Euroa (Northern Victoria)	Year 8	F	1607
+Euroa (Northern Victoria)	Year 8	M	1849
+Euroa (Northern Victoria)	Year 9	F	2244
+Euroa (Northern Victoria)	Year 9	M	2889
+Euroa (Northern Victoria)	Year 10	F	5098
+Euroa (Northern Victoria)	Year 10	M	6304
+Euroa (Northern Victoria)	Year 11	F	4470
+Euroa (Northern Victoria)	Year 11	M	4710
+Euroa (Northern Victoria)	Year 12	F	12553
+Euroa (Northern Victoria)	Year 12	M	10088
+Evelyn (Eastern Victoria)	Did not go to school	F	152
+Evelyn (Eastern Victoria)	Did not go to school	M	182
+Evelyn (Eastern Victoria)	Year 8	F	955
+Evelyn (Eastern Victoria)	Year 8	M	953
+Evelyn (Eastern Victoria)	Year 9	F	1569
+Evelyn (Eastern Victoria)	Year 9	M	1962
+Evelyn (Eastern Victoria)	Year 10	F	3801
+Evelyn (Eastern Victoria)	Year 10	M	4567
+Evelyn (Eastern Victoria)	Year 11	F	3795
+Evelyn (Eastern Victoria)	Year 11	M	4080
+Evelyn (Eastern Victoria)	Year 12	F	14132
+Evelyn (Eastern Victoria)	Year 12	M	11398
+Ferntree Gully (Eastern Metropolitan)	Did not go to school	F	260
+Ferntree Gully (Eastern Metropolitan)	Did not go to school	M	166
+Ferntree Gully (Eastern Metropolitan)	Year 8	F	1032
+Ferntree Gully (Eastern Metropolitan)	Year 8	M	800
+Ferntree Gully (Eastern Metropolitan)	Year 9	F	1321
+Ferntree Gully (Eastern Metropolitan)	Year 9	M	1313
+Ferntree Gully (Eastern Metropolitan)	Year 10	F	3152
+Ferntree Gully (Eastern Metropolitan)	Year 10	M	3265
+Ferntree Gully (Eastern Metropolitan)	Year 11	F	2907
+Ferntree Gully (Eastern Metropolitan)	Year 11	M	2895
+Ferntree Gully (Eastern Metropolitan)	Year 12	F	16179
+Ferntree Gully (Eastern Metropolitan)	Year 12	M	14587
+Footscray (Western Metropolitan)	Did not go to school	F	1127
+Footscray (Western Metropolitan)	Did not go to school	M	842
+Footscray (Western Metropolitan)	Year 8	F	2407
+Footscray (Western Metropolitan)	Year 8	M	1847
+Footscray (Western Metropolitan)	Year 9	F	1361
+Footscray (Western Metropolitan)	Year 9	M	1263
+Footscray (Western Metropolitan)	Year 10	F	2681
+Footscray (Western Metropolitan)	Year 10	M	2931
+Footscray (Western Metropolitan)	Year 11	F	2159
+Footscray (Western Metropolitan)	Year 11	M	2529
+Footscray (Western Metropolitan)	Year 12	F	23237
+Footscray (Western Metropolitan)	Year 12	M	23718
+Forest Hill (Eastern Metropolitan)	Did not go to school	F	400
+Forest Hill (Eastern Metropolitan)	Did not go to school	M	276
+Forest Hill (Eastern Metropolitan)	Year 8	F	1316
+Forest Hill (Eastern Metropolitan)	Year 8	M	934
+Forest Hill (Eastern Metropolitan)	Year 9	F	1158
+Forest Hill (Eastern Metropolitan)	Year 9	M	1050
+Forest Hill (Eastern Metropolitan)	Year 10	F	2473
+Forest Hill (Eastern Metropolitan)	Year 10	M	2235
+Forest Hill (Eastern Metropolitan)	Year 11	F	2305
+Forest Hill (Eastern Metropolitan)	Year 11	M	2213
+Forest Hill (Eastern Metropolitan)	Year 12	F	17993
+Forest Hill (Eastern Metropolitan)	Year 12	M	16919
+Frankston (South-Eastern Metropolitan)	Did not go to school	F	116
+Frankston (South-Eastern Metropolitan)	Did not go to school	M	113
+Frankston (South-Eastern Metropolitan)	Year 8	F	1181
+Frankston (South-Eastern Metropolitan)	Year 8	M	988
+Frankston (South-Eastern Metropolitan)	Year 9	F	1627
+Frankston (South-Eastern Metropolitan)	Year 9	M	1758
+Frankston (South-Eastern Metropolitan)	Year 10	F	3902
+Frankston (South-Eastern Metropolitan)	Year 10	M	4208
+Frankston (South-Eastern Metropolitan)	Year 11	F	3342
+Frankston (South-Eastern Metropolitan)	Year 11	M	3617
+Frankston (South-Eastern Metropolitan)	Year 12	F	14665
+Frankston (South-Eastern Metropolitan)	Year 12	M	12448
+Geelong (Western Victoria)	Did not go to school	F	166
+Geelong (Western Victoria)	Did not go to school	M	145
+Geelong (Western Victoria)	Year 8	F	1347
+Geelong (Western Victoria)	Year 8	M	1119
+Geelong (Western Victoria)	Year 9	F	1763
+Geelong (Western Victoria)	Year 9	M	1638
+Geelong (Western Victoria)	Year 10	F	3503
+Geelong (Western Victoria)	Year 10	M	3606
+Geelong (Western Victoria)	Year 11	F	3675
+Geelong (Western Victoria)	Year 11	M	3829
+Geelong (Western Victoria)	Year 12	F	17291
+Geelong (Western Victoria)	Year 12	M	14696
+Gembrook (Eastern Victoria)	Did not go to school	F	180
+Gembrook (Eastern Victoria)	Did not go to school	M	130
+Gembrook (Eastern Victoria)	Year 8	F	1156
+Gembrook (Eastern Victoria)	Year 8	M	1077
+Gembrook (Eastern Victoria)	Year 9	F	1800
+Gembrook (Eastern Victoria)	Year 9	M	2096
+Gembrook (Eastern Victoria)	Year 10	F	4667
+Gembrook (Eastern Victoria)	Year 10	M	5525
+Gembrook (Eastern Victoria)	Year 11	F	4161
+Gembrook (Eastern Victoria)	Year 11	M	4624
+Gembrook (Eastern Victoria)	Year 12	F	20450
+Gembrook (Eastern Victoria)	Year 12	M	17046
+Gippsland East (Eastern Victoria)	Did not go to school	F	73
+Gippsland East (Eastern Victoria)	Did not go to school	M	85
+Gippsland East (Eastern Victoria)	Year 8	F	1428
+Gippsland East (Eastern Victoria)	Year 8	M	1545
+Gippsland East (Eastern Victoria)	Year 9	F	2230
+Gippsland East (Eastern Victoria)	Year 9	M	2743
+Gippsland East (Eastern Victoria)	Year 10	F	5262
+Gippsland East (Eastern Victoria)	Year 10	M	6319
+Gippsland East (Eastern Victoria)	Year 11	F	4338
+Gippsland East (Eastern Victoria)	Year 11	M	4450
+Gippsland East (Eastern Victoria)	Year 12	F	11630
+Gippsland East (Eastern Victoria)	Year 12	M	8707
+Gippsland South (Eastern Victoria)	Did not go to school	F	98
+Gippsland South (Eastern Victoria)	Did not go to school	M	89
+Gippsland South (Eastern Victoria)	Year 8	F	1270
+Gippsland South (Eastern Victoria)	Year 8	M	1445
+Gippsland South (Eastern Victoria)	Year 9	F	1858
+Gippsland South (Eastern Victoria)	Year 9	M	2350
+Gippsland South (Eastern Victoria)	Year 10	F	4468
+Gippsland South (Eastern Victoria)	Year 10	M	5923
+Gippsland South (Eastern Victoria)	Year 11	F	4241
+Gippsland South (Eastern Victoria)	Year 11	M	4293
+Gippsland South (Eastern Victoria)	Year 12	F	11322
+Gippsland South (Eastern Victoria)	Year 12	M	8701
+Hastings (Eastern Victoria)	Did not go to school	F	118
+Hastings (Eastern Victoria)	Did not go to school	M	112
+Hastings (Eastern Victoria)	Year 8	F	1269
+Hastings (Eastern Victoria)	Year 8	M	1289
+Hastings (Eastern Victoria)	Year 9	F	2127
+Hastings (Eastern Victoria)	Year 9	M	2517
+Hastings (Eastern Victoria)	Year 10	F	5025
+Hastings (Eastern Victoria)	Year 10	M	6514
+Hastings (Eastern Victoria)	Year 11	F	4503
+Hastings (Eastern Victoria)	Year 11	M	4865
+Hastings (Eastern Victoria)	Year 12	F	15464
+Hastings (Eastern Victoria)	Year 12	M	11877
+Hawthorn (Southern Metropolitan)	Did not go to school	F	125
+Hawthorn (Southern Metropolitan)	Did not go to school	M	90
+Hawthorn (Southern Metropolitan)	Year 8	F	569
+Hawthorn (Southern Metropolitan)	Year 8	M	424
+Hawthorn (Southern Metropolitan)	Year 9	F	626
+Hawthorn (Southern Metropolitan)	Year 9	M	645
+Hawthorn (Southern Metropolitan)	Year 10	F	1401
+Hawthorn (Southern Metropolitan)	Year 10	M	1281
+Hawthorn (Southern Metropolitan)	Year 11	F	1856
+Hawthorn (Southern Metropolitan)	Year 11	M	1517
+Hawthorn (Southern Metropolitan)	Year 12	F	23233
+Hawthorn (Southern Metropolitan)	Year 12	M	20971
+Ivanhoe (Eastern Metropolitan)	Did not go to school	F	303
+Ivanhoe (Eastern Metropolitan)	Did not go to school	M	238
+Ivanhoe (Eastern Metropolitan)	Year 8	F	1399
+Ivanhoe (Eastern Metropolitan)	Year 8	M	917
+Ivanhoe (Eastern Metropolitan)	Year 9	F	1121
+Ivanhoe (Eastern Metropolitan)	Year 9	M	1083
+Ivanhoe (Eastern Metropolitan)	Year 10	F	2348
+Ivanhoe (Eastern Metropolitan)	Year 10	M	2288
+Ivanhoe (Eastern Metropolitan)	Year 11	F	2294
+Ivanhoe (Eastern Metropolitan)	Year 11	M	2443
+Ivanhoe (Eastern Metropolitan)	Year 12	F	20460
+Ivanhoe (Eastern Metropolitan)	Year 12	M	18736
+Kew (Southern Metropolitan)	Did not go to school	F	245
+Kew (Southern Metropolitan)	Did not go to school	M	191
+Kew (Southern Metropolitan)	Year 8	F	887
+Kew (Southern Metropolitan)	Year 8	M	604
+Kew (Southern Metropolitan)	Year 9	F	813
+Kew (Southern Metropolitan)	Year 9	M	772
+Kew (Southern Metropolitan)	Year 10	F	1608
+Kew (Southern Metropolitan)	Year 10	M	1447
+Kew (Southern Metropolitan)	Year 11	F	1921
+Kew (Southern Metropolitan)	Year 11	M	1637
+Kew (Southern Metropolitan)	Year 12	F	21574
+Kew (Southern Metropolitan)	Year 12	M	19954
+Keysborough (South-Eastern Metropolitan)	Did not go to school	F	1609
+Keysborough (South-Eastern Metropolitan)	Did not go to school	M	1207
+Keysborough (South-Eastern Metropolitan)	Year 8	F	2504
+Keysborough (South-Eastern Metropolitan)	Year 8	M	1765
+Keysborough (South-Eastern Metropolitan)	Year 9	F	1647
+Keysborough (South-Eastern Metropolitan)	Year 9	M	1544
+Keysborough (South-Eastern Metropolitan)	Year 10	F	3213
+Keysborough (South-Eastern Metropolitan)	Year 10	M	3538
+Keysborough (South-Eastern Metropolitan)	Year 11	F	2418
+Keysborough (South-Eastern Metropolitan)	Year 11	M	2651
+Keysborough (South-Eastern Metropolitan)	Year 12	F	18765
+Keysborough (South-Eastern Metropolitan)	Year 12	M	18730
+Kororoit (Western Metropolitan)	Did not go to school	F	1362
+Kororoit (Western Metropolitan)	Did not go to school	M	987
+Kororoit (Western Metropolitan)	Year 8	F	2694
+Kororoit (Western Metropolitan)	Year 8	M	2234
+Kororoit (Western Metropolitan)	Year 9	F	1783
+Kororoit (Western Metropolitan)	Year 9	M	1759
+Kororoit (Western Metropolitan)	Year 10	F	3889
+Kororoit (Western Metropolitan)	Year 10	M	5643
+Kororoit (Western Metropolitan)	Year 11	F	2876
+Kororoit (Western Metropolitan)	Year 11	M	3247
+Kororoit (Western Metropolitan)	Year 12	F	24222
+Kororoit (Western Metropolitan)	Year 12	M	23174
+Lara (Western Victoria)	Did not go to school	F	510
+Lara (Western Victoria)	Did not go to school	M	447
+Lara (Western Victoria)	Year 8	F	2202
+Lara (Western Victoria)	Year 8	M	1912
+Lara (Western Victoria)	Year 9	F	2245
+Lara (Western Victoria)	Year 9	M	2256
+Lara (Western Victoria)	Year 10	F	4658
+Lara (Western Victoria)	Year 10	M	5932
+Lara (Western Victoria)	Year 11	F	3840
+Lara (Western Victoria)	Year 11	M	4291
+Lara (Western Victoria)	Year 12	F	13776
+Lara (Western Victoria)	Year 12	M	11799
+Lowan (Western Victoria)	Did not go to school	F	114
+Lowan (Western Victoria)	Did not go to school	M	127
+Lowan (Western Victoria)	Year 8	F	1481
+Lowan (Western Victoria)	Year 8	M	1644
+Lowan (Western Victoria)	Year 9	F	1850
+Lowan (Western Victoria)	Year 9	M	2289
+Lowan (Western Victoria)	Year 10	F	4139
+Lowan (Western Victoria)	Year 10	M	4923
+Lowan (Western Victoria)	Year 11	F	4482
+Lowan (Western Victoria)	Year 11	M	4602
+Lowan (Western Victoria)	Year 12	F	10586
+Lowan (Western Victoria)	Year 12	M	8328
+Macedon (Northern Victoria)	Did not go to school	F	68
+Macedon (Northern Victoria)	Did not go to school	M	59
+Macedon (Northern Victoria)	Year 8	F	871
+Macedon (Northern Victoria)	Year 8	M	975
+Macedon (Northern Victoria)	Year 9	F	1405
+Macedon (Northern Victoria)	Year 9	M	1828
+Macedon (Northern Victoria)	Year 10	F	3291
+Macedon (Northern Victoria)	Year 10	M	4229
+Macedon (Northern Victoria)	Year 11	F	3409
+Macedon (Northern Victoria)	Year 11	M	3809
+Macedon (Northern Victoria)	Year 12	F	16240
+Macedon (Northern Victoria)	Year 12	M	13338
+Malvern (Southern Metropolitan)	Did not go to school	F	155
+Malvern (Southern Metropolitan)	Did not go to school	M	93
+Malvern (Southern Metropolitan)	Year 8	F	630
+Malvern (Southern Metropolitan)	Year 8	M	483
+Malvern (Southern Metropolitan)	Year 9	F	637
+Malvern (Southern Metropolitan)	Year 9	M	579
+Malvern (Southern Metropolitan)	Year 10	F	1443
+Malvern (Southern Metropolitan)	Year 10	M	1186
+Malvern (Southern Metropolitan)	Year 11	F	1968
+Malvern (Southern Metropolitan)	Year 11	M	1474
+Malvern (Southern Metropolitan)	Year 12	F	21428
+Malvern (Southern Metropolitan)	Year 12	M	19155
+Melbourne (Northern Metropolitan)	Did not go to school	F	537
+Melbourne (Northern Metropolitan)	Did not go to school	M	378
+Melbourne (Northern Metropolitan)	Year 8	F	765
+Melbourne (Northern Metropolitan)	Year 8	M	578
+Melbourne (Northern Metropolitan)	Year 9	F	667
+Melbourne (Northern Metropolitan)	Year 9	M	748
+Melbourne (Northern Metropolitan)	Year 10	F	1779
+Melbourne (Northern Metropolitan)	Year 10	M	2115
+Melbourne (Northern Metropolitan)	Year 11	F	2284
+Melbourne (Northern Metropolitan)	Year 11	M	2478
+Melbourne (Northern Metropolitan)	Year 12	F	47854
+Melbourne (Northern Metropolitan)	Year 12	M	45975
+Melton (Western Victoria)	Did not go to school	F	527
+Melton (Western Victoria)	Did not go to school	M	395
+Melton (Western Victoria)	Year 8	F	1956
+Melton (Western Victoria)	Year 8	M	1785
+Melton (Western Victoria)	Year 9	F	2569
+Melton (Western Victoria)	Year 9	M	2852
+Melton (Western Victoria)	Year 10	F	5965
+Melton (Western Victoria)	Year 10	M	6718
+Melton (Western Victoria)	Year 11	F	4699
+Melton (Western Victoria)	Year 11	M	4893
+Melton (Western Victoria)	Year 12	F	19710
+Melton (Western Victoria)	Year 12	M	16826
+Mildura (Northern Victoria)	Did not go to school	F	403
+Mildura (Northern Victoria)	Did not go to school	M	419
+Mildura (Northern Victoria)	Year 8	F	1998
+Mildura (Northern Victoria)	Year 8	M	2086
+Mildura (Northern Victoria)	Year 9	F	2308
+Mildura (Northern Victoria)	Year 9	M	2563
+Mildura (Northern Victoria)	Year 10	F	4880
+Mildura (Northern Victoria)	Year 10	M	5628
+Mildura (Northern Victoria)	Year 11	F	3915
+Mildura (Northern Victoria)	Year 11	M	4109
+Mildura (Northern Victoria)	Year 12	F	11419
+Mildura (Northern Victoria)	Year 12	M	9354
+Mill Park (Northern Metropolitan)	Did not go to school	F	486
+Mill Park (Northern Metropolitan)	Did not go to school	M	397
+Mill Park (Northern Metropolitan)	Year 8	F	1777
+Mill Park (Northern Metropolitan)	Year 8	M	1414
+Mill Park (Northern Metropolitan)	Year 9	F	1478
+Mill Park (Northern Metropolitan)	Year 9	M	1584
+Mill Park (Northern Metropolitan)	Year 10	F	3203
+Mill Park (Northern Metropolitan)	Year 10	M	3730
+Mill Park (Northern Metropolitan)	Year 11	F	3045
+Mill Park (Northern Metropolitan)	Year 11	M	3287
+Mill Park (Northern Metropolitan)	Year 12	F	17837
+Mill Park (Northern Metropolitan)	Year 12	M	16422
+Monbulk (Eastern Victoria)	Did not go to school	F	81
+Monbulk (Eastern Victoria)	Did not go to school	M	85
+Monbulk (Eastern Victoria)	Year 8	F	657
+Monbulk (Eastern Victoria)	Year 8	M	685
+Monbulk (Eastern Victoria)	Year 9	F	1118
+Monbulk (Eastern Victoria)	Year 9	M	1528
+Monbulk (Eastern Victoria)	Year 10	F	3060
+Monbulk (Eastern Victoria)	Year 10	M	3850
+Monbulk (Eastern Victoria)	Year 11	F	3181
+Monbulk (Eastern Victoria)	Year 11	M	3646
+Monbulk (Eastern Victoria)	Year 12	F	15030
+Monbulk (Eastern Victoria)	Year 12	M	12567
+Mordialloc (South-Eastern Metropolitan)	Did not go to school	F	178
+Mordialloc (South-Eastern Metropolitan)	Did not go to school	M	137
+Mordialloc (South-Eastern Metropolitan)	Year 8	F	1030
+Mordialloc (South-Eastern Metropolitan)	Year 8	M	807
+Mordialloc (South-Eastern Metropolitan)	Year 9	F	1304
+Mordialloc (South-Eastern Metropolitan)	Year 9	M	1224
+Mordialloc (South-Eastern Metropolitan)	Year 10	F	3028
+Mordialloc (South-Eastern Metropolitan)	Year 10	M	3084
+Mordialloc (South-Eastern Metropolitan)	Year 11	F	3055
+Mordialloc (South-Eastern Metropolitan)	Year 11	M	3182
+Mordialloc (South-Eastern Metropolitan)	Year 12	F	18508
+Mordialloc (South-Eastern Metropolitan)	Year 12	M	15847
+Mornington (Eastern Victoria)	Did not go to school	F	69
+Mornington (Eastern Victoria)	Did not go to school	M	65
+Mornington (Eastern Victoria)	Year 8	F	932
+Mornington (Eastern Victoria)	Year 8	M	741
+Mornington (Eastern Victoria)	Year 9	F	1566
+Mornington (Eastern Victoria)	Year 9	M	1476
+Mornington (Eastern Victoria)	Year 10	F	3783
+Mornington (Eastern Victoria)	Year 10	M	3822
+Mornington (Eastern Victoria)	Year 11	F	3725
+Mornington (Eastern Victoria)	Year 11	M	3628
+Mornington (Eastern Victoria)	Year 12	F	16948
+Mornington (Eastern Victoria)	Year 12	M	14145
+Morwell (Eastern Victoria)	Did not go to school	F	170
+Morwell (Eastern Victoria)	Did not go to school	M	162
+Morwell (Eastern Victoria)	Year 8	F	1738
+Morwell (Eastern Victoria)	Year 8	M	1647
+Morwell (Eastern Victoria)	Year 9	F	2370
+Morwell (Eastern Victoria)	Year 9	M	2317
+Morwell (Eastern Victoria)	Year 10	F	5231
+Morwell (Eastern Victoria)	Year 10	M	5916
+Morwell (Eastern Victoria)	Year 11	F	4645
+Morwell (Eastern Victoria)	Year 11	M	4910
+Morwell (Eastern Victoria)	Year 12	F	12236
+Morwell (Eastern Victoria)	Year 12	M	9654
+Mount Waverley (Eastern Metropolitan)	Did not go to school	F	343
+Mount Waverley (Eastern Metropolitan)	Did not go to school	M	218
+Mount Waverley (Eastern Metropolitan)	Year 8	F	1094
+Mount Waverley (Eastern Metropolitan)	Year 8	M	753
+Mount Waverley (Eastern Metropolitan)	Year 9	F	1012
+Mount Waverley (Eastern Metropolitan)	Year 9	M	956
+Mount Waverley (Eastern Metropolitan)	Year 10	F	2068
+Mount Waverley (Eastern Metropolitan)	Year 10	M	1883
+Mount Waverley (Eastern Metropolitan)	Year 11	F	2012
+Mount Waverley (Eastern Metropolitan)	Year 11	M	1847
+Mount Waverley (Eastern Metropolitan)	Year 12	F	20234
+Mount Waverley (Eastern Metropolitan)	Year 12	M	19793
+Mulgrave (South-Eastern Metropolitan)	Did not go to school	F	732
+Mulgrave (South-Eastern Metropolitan)	Did not go to school	M	557
+Mulgrave (South-Eastern Metropolitan)	Year 8	F	1894
+Mulgrave (South-Eastern Metropolitan)	Year 8	M	1434
+Mulgrave (South-Eastern Metropolitan)	Year 9	F	1241
+Mulgrave (South-Eastern Metropolitan)	Year 9	M	1177
+Mulgrave (South-Eastern Metropolitan)	Year 10	F	2517
+Mulgrave (South-Eastern Metropolitan)	Year 10	M	2543
+Mulgrave (South-Eastern Metropolitan)	Year 11	F	2058
+Mulgrave (South-Eastern Metropolitan)	Year 11	M	2237
+Mulgrave (South-Eastern Metropolitan)	Year 12	F	16893
+Mulgrave (South-Eastern Metropolitan)	Year 12	M	17003
+Murray Plains (Northern Victoria)	Did not go to school	F	138
+Murray Plains (Northern Victoria)	Did not go to school	M	181
+Murray Plains (Northern Victoria)	Year 8	F	1663
+Murray Plains (Northern Victoria)	Year 8	M	1958
+Murray Plains (Northern Victoria)	Year 9	F	2348
+Murray Plains (Northern Victoria)	Year 9	M	2935
+Murray Plains (Northern Victoria)	Year 10	F	5050
+Murray Plains (Northern Victoria)	Year 10	M	6144
+Murray Plains (Northern Victoria)	Year 11	F	4690
+Murray Plains (Northern Victoria)	Year 11	M	4558
+Murray Plains (Northern Victoria)	Year 12	F	10941
+Murray Plains (Northern Victoria)	Year 12	M	7970
+Narracan (Eastern Victoria)	Did not go to school	F	138
+Narracan (Eastern Victoria)	Did not go to school	M	135
+Narracan (Eastern Victoria)	Year 8	F	1694
+Narracan (Eastern Victoria)	Year 8	M	1787
+Narracan (Eastern Victoria)	Year 9	F	2478
+Narracan (Eastern Victoria)	Year 9	M	2902
+Narracan (Eastern Victoria)	Year 10	F	5735
+Narracan (Eastern Victoria)	Year 10	M	6868
+Narracan (Eastern Victoria)	Year 11	F	5052
+Narracan (Eastern Victoria)	Year 11	M	5140
+Narracan (Eastern Victoria)	Year 12	F	14972
+Narracan (Eastern Victoria)	Year 12	M	11206
+Narre Warren North (South-Eastern Metropolitan)	Did not go to school	F	769
+Narre Warren North (South-Eastern Metropolitan)	Did not go to school	M	584
+Narre Warren North (South-Eastern Metropolitan)	Year 8	F	1528
+Narre Warren North (South-Eastern Metropolitan)	Year 8	M	1289
+Narre Warren North (South-Eastern Metropolitan)	Year 9	F	1483
+Narre Warren North (South-Eastern Metropolitan)	Year 9	M	1549
+Narre Warren North (South-Eastern Metropolitan)	Year 10	F	3360
+Narre Warren North (South-Eastern Metropolitan)	Year 10	M	3902
+Narre Warren North (South-Eastern Metropolitan)	Year 11	F	2785
+Narre Warren North (South-Eastern Metropolitan)	Year 11	M	3131
+Narre Warren North (South-Eastern Metropolitan)	Year 12	F	16484
+Narre Warren North (South-Eastern Metropolitan)	Year 12	M	15212
+Narre Warren South (South-Eastern Metropolitan)	Did not go to school	F	1120
+Narre Warren South (South-Eastern Metropolitan)	Did not go to school	M	872
+Narre Warren South (South-Eastern Metropolitan)	Year 8	F	1600
+Narre Warren South (South-Eastern Metropolitan)	Year 8	M	1472
+Narre Warren South (South-Eastern Metropolitan)	Year 9	F	1706
+Narre Warren South (South-Eastern Metropolitan)	Year 9	M	1873
+Narre Warren South (South-Eastern Metropolitan)	Year 10	F	3932
+Narre Warren South (South-Eastern Metropolitan)	Year 10	M	4681
+Narre Warren South (South-Eastern Metropolitan)	Year 11	F	3436
+Narre Warren South (South-Eastern Metropolitan)	Year 11	M	3778
+Narre Warren South (South-Eastern Metropolitan)	Year 12	F	20346
+Narre Warren South (South-Eastern Metropolitan)	Year 12	M	19061
+Nepean (Eastern Victoria)	Did not go to school	F	138
+Nepean (Eastern Victoria)	Did not go to school	M	129
+Nepean (Eastern Victoria)	Year 8	F	1341
+Nepean (Eastern Victoria)	Year 8	M	1155
+Nepean (Eastern Victoria)	Year 9	F	1812
+Nepean (Eastern Victoria)	Year 9	M	1871
+Nepean (Eastern Victoria)	Year 10	F	4479
+Nepean (Eastern Victoria)	Year 10	M	4815
+Nepean (Eastern Victoria)	Year 11	F	4281
+Nepean (Eastern Victoria)	Year 11	M	4118
+Nepean (Eastern Victoria)	Year 12	F	15258
+Nepean (Eastern Victoria)	Year 12	M	13182
+Niddrie (Western Metropolitan)	Did not go to school	F	471
+Niddrie (Western Metropolitan)	Did not go to school	M	297
+Niddrie (Western Metropolitan)	Year 8	F	2248
+Niddrie (Western Metropolitan)	Year 8	M	1585
+Niddrie (Western Metropolitan)	Year 9	F	1388
+Niddrie (Western Metropolitan)	Year 9	M	1318
+Niddrie (Western Metropolitan)	Year 10	F	2653
+Niddrie (Western Metropolitan)	Year 10	M	2915
+Niddrie (Western Metropolitan)	Year 11	F	2702
+Niddrie (Western Metropolitan)	Year 11	M	2923
+Niddrie (Western Metropolitan)	Year 12	F	16031
+Niddrie (Western Metropolitan)	Year 12	M	14491
+Northcote (Northern Metropolitan)	Did not go to school	F	511
+Northcote (Northern Metropolitan)	Did not go to school	M	326
+Northcote (Northern Metropolitan)	Year 8	F	1603
+Northcote (Northern Metropolitan)	Year 8	M	1182
+Northcote (Northern Metropolitan)	Year 9	F	756
+Northcote (Northern Metropolitan)	Year 9	M	778
+Northcote (Northern Metropolitan)	Year 10	F	1515
+Northcote (Northern Metropolitan)	Year 10	M	1775
+Northcote (Northern Metropolitan)	Year 11	F	1676
+Northcote (Northern Metropolitan)	Year 11	M	1872
+Northcote (Northern Metropolitan)	Year 12	F	22969
+Northcote (Northern Metropolitan)	Year 12	M	19796
+Oakleigh (Southern Metropolitan)	Did not go to school	F	426
+Oakleigh (Southern Metropolitan)	Did not go to school	M	271
+Oakleigh (Southern Metropolitan)	Year 8	F	1605
+Oakleigh (Southern Metropolitan)	Year 8	M	1079
+Oakleigh (Southern Metropolitan)	Year 9	F	847
+Oakleigh (Southern Metropolitan)	Year 9	M	888
+Oakleigh (Southern Metropolitan)	Year 10	F	1862
+Oakleigh (Southern Metropolitan)	Year 10	M	2029
+Oakleigh (Southern Metropolitan)	Year 11	F	1799
+Oakleigh (Southern Metropolitan)	Year 11	M	2153
+Oakleigh (Southern Metropolitan)	Year 12	F	23791
+Oakleigh (Southern Metropolitan)	Year 12	M	22941
+Ovens Valley (Northern Victoria)	Did not go to school	F	117
+Ovens Valley (Northern Victoria)	Did not go to school	M	104
+Ovens Valley (Northern Victoria)	Year 8	F	1439
+Ovens Valley (Northern Victoria)	Year 8	M	1517
+Ovens Valley (Northern Victoria)	Year 9	F	1884
+Ovens Valley (Northern Victoria)	Year 9	M	2265
+Ovens Valley (Northern Victoria)	Year 10	F	4660
+Ovens Valley (Northern Victoria)	Year 10	M	5471
+Ovens Valley (Northern Victoria)	Year 11	F	4086
+Ovens Valley (Northern Victoria)	Year 11	M	4088
+Ovens Valley (Northern Victoria)	Year 12	F	11338
+Ovens Valley (Northern Victoria)	Year 12	M	8736
+Pascoe Vale (Northern Metropolitan)	Did not go to school	F	663
+Pascoe Vale (Northern Metropolitan)	Did not go to school	M	444
+Pascoe Vale (Northern Metropolitan)	Year 8	F	2468
+Pascoe Vale (Northern Metropolitan)	Year 8	M	1632
+Pascoe Vale (Northern Metropolitan)	Year 9	F	1267
+Pascoe Vale (Northern Metropolitan)	Year 9	M	1310
+Pascoe Vale (Northern Metropolitan)	Year 10	F	2525
+Pascoe Vale (Northern Metropolitan)	Year 10	M	2830
+Pascoe Vale (Northern Metropolitan)	Year 11	F	2456
+Pascoe Vale (Northern Metropolitan)	Year 11	M	2769
+Pascoe Vale (Northern Metropolitan)	Year 12	F	22618
+Pascoe Vale (Northern Metropolitan)	Year 12	M	21116
+Polwarth (Western Victoria)	Did not go to school	F	113
+Polwarth (Western Victoria)	Did not go to school	M	131
+Polwarth (Western Victoria)	Year 8	F	1319
+Polwarth (Western Victoria)	Year 8	M	1495
+Polwarth (Western Victoria)	Year 9	F	1842
+Polwarth (Western Victoria)	Year 9	M	2432
+Polwarth (Western Victoria)	Year 10	F	4021
+Polwarth (Western Victoria)	Year 10	M	5378
+Polwarth (Western Victoria)	Year 11	F	4301
+Polwarth (Western Victoria)	Year 11	M	4810
+Polwarth (Western Victoria)	Year 12	F	13337
+Polwarth (Western Victoria)	Year 12	M	10342
+Prahran (Southern Metropolitan)	Did not go to school	F	206
+Prahran (Southern Metropolitan)	Did not go to school	M	136
+Prahran (Southern Metropolitan)	Year 8	F	564
+Prahran (Southern Metropolitan)	Year 8	M	445
+Prahran (Southern Metropolitan)	Year 9	F	458
+Prahran (Southern Metropolitan)	Year 9	M	521
+Prahran (Southern Metropolitan)	Year 10	F	1409
+Prahran (Southern Metropolitan)	Year 10	M	1487
+Prahran (Southern Metropolitan)	Year 11	F	1714
+Prahran (Southern Metropolitan)	Year 11	M	1745
+Prahran (Southern Metropolitan)	Year 12	F	28056
+Prahran (Southern Metropolitan)	Year 12	M	25950
+Preston (Northern Metropolitan)	Did not go to school	F	736
+Preston (Northern Metropolitan)	Did not go to school	M	506
+Preston (Northern Metropolitan)	Year 8	F	2490
+Preston (Northern Metropolitan)	Year 8	M	1779
+Preston (Northern Metropolitan)	Year 9	F	1248
+Preston (Northern Metropolitan)	Year 9	M	1185
+Preston (Northern Metropolitan)	Year 10	F	2314
+Preston (Northern Metropolitan)	Year 10	M	2664
+Preston (Northern Metropolitan)	Year 11	F	2159
+Preston (Northern Metropolitan)	Year 11	M	2461
+Preston (Northern Metropolitan)	Year 12	F	19272
+Preston (Northern Metropolitan)	Year 12	M	18138
+Richmond (Northern Metropolitan)	Did not go to school	F	518
+Richmond (Northern Metropolitan)	Did not go to school	M	262
+Richmond (Northern Metropolitan)	Year 8	F	1112
+Richmond (Northern Metropolitan)	Year 8	M	659
+Richmond (Northern Metropolitan)	Year 9	F	642
+Richmond (Northern Metropolitan)	Year 9	M	575
+Richmond (Northern Metropolitan)	Year 10	F	1379
+Richmond (Northern Metropolitan)	Year 10	M	1553
+Richmond (Northern Metropolitan)	Year 11	F	1536
+Richmond (Northern Metropolitan)	Year 11	M	1734
+Richmond (Northern Metropolitan)	Year 12	F	27454
+Richmond (Northern Metropolitan)	Year 12	M	26455
+Ringwood (Eastern Metropolitan)	Did not go to school	F	395
+Ringwood (Eastern Metropolitan)	Did not go to school	M	299
+Ringwood (Eastern Metropolitan)	Year 8	F	1172
+Ringwood (Eastern Metropolitan)	Year 8	M	891
+Ringwood (Eastern Metropolitan)	Year 9	F	1164
+Ringwood (Eastern Metropolitan)	Year 9	M	1077
+Ringwood (Eastern Metropolitan)	Year 10	F	2481
+Ringwood (Eastern Metropolitan)	Year 10	M	2625
+Ringwood (Eastern Metropolitan)	Year 11	F	2552
+Ringwood (Eastern Metropolitan)	Year 11	M	2775
+Ringwood (Eastern Metropolitan)	Year 12	F	19005
+Ringwood (Eastern Metropolitan)	Year 12	M	17212
+Ripon (Western Victoria)	Did not go to school	F	108
+Ripon (Western Victoria)	Did not go to school	M	157
+Ripon (Western Victoria)	Year 8	F	1678
+Ripon (Western Victoria)	Year 8	M	1986
+Ripon (Western Victoria)	Year 9	F	2374
+Ripon (Western Victoria)	Year 9	M	2911
+Ripon (Western Victoria)	Year 10	F	5084
+Ripon (Western Victoria)	Year 10	M	6758
+Ripon (Western Victoria)	Year 11	F	4436
+Ripon (Western Victoria)	Year 11	M	4625
+Ripon (Western Victoria)	Year 12	F	12091
+Ripon (Western Victoria)	Year 12	M	9438
+Rowville (South-Eastern Metropolitan)	Did not go to school	F	207
+Rowville (South-Eastern Metropolitan)	Did not go to school	M	149
+Rowville (South-Eastern Metropolitan)	Year 8	F	876
+Rowville (South-Eastern Metropolitan)	Year 8	M	696
+Rowville (South-Eastern Metropolitan)	Year 9	F	1123
+Rowville (South-Eastern Metropolitan)	Year 9	M	1191
+Rowville (South-Eastern Metropolitan)	Year 10	F	2734
+Rowville (South-Eastern Metropolitan)	Year 10	M	3053
+Rowville (South-Eastern Metropolitan)	Year 11	F	2776
+Rowville (South-Eastern Metropolitan)	Year 11	M	3047
+Rowville (South-Eastern Metropolitan)	Year 12	F	15062
+Rowville (South-Eastern Metropolitan)	Year 12	M	13722
+Sandringham (Southern Metropolitan)	Did not go to school	F	100
+Sandringham (Southern Metropolitan)	Did not go to school	M	82
+Sandringham (Southern Metropolitan)	Year 8	F	749
+Sandringham (Southern Metropolitan)	Year 8	M	577
+Sandringham (Southern Metropolitan)	Year 9	F	950
+Sandringham (Southern Metropolitan)	Year 9	M	834
+Sandringham (Southern Metropolitan)	Year 10	F	2435
+Sandringham (Southern Metropolitan)	Year 10	M	2214
+Sandringham (Southern Metropolitan)	Year 11	F	2812
+Sandringham (Southern Metropolitan)	Year 11	M	2514
+Sandringham (Southern Metropolitan)	Year 12	F	19949
+Sandringham (Southern Metropolitan)	Year 12	M	17917
+Shepparton (Northern Victoria)	Did not go to school	F	452
+Shepparton (Northern Victoria)	Did not go to school	M	488
+Shepparton (Northern Victoria)	Year 8	F	1891
+Shepparton (Northern Victoria)	Year 8	M	2127
+Shepparton (Northern Victoria)	Year 9	F	2358
+Shepparton (Northern Victoria)	Year 9	M	2820
+Shepparton (Northern Victoria)	Year 10	F	5149
+Shepparton (Northern Victoria)	Year 10	M	5762
+Shepparton (Northern Victoria)	Year 11	F	4413
+Shepparton (Northern Victoria)	Year 11	M	4641
+Shepparton (Northern Victoria)	Year 12	F	13723
+Shepparton (Northern Victoria)	Year 12	M	10893
+South Barwon (Western Victoria)	Did not go to school	F	96
+South Barwon (Western Victoria)	Did not go to school	M	106
+South Barwon (Western Victoria)	Year 8	F	1067
+South Barwon (Western Victoria)	Year 8	M	962
+South Barwon (Western Victoria)	Year 9	F	1748
+South Barwon (Western Victoria)	Year 9	M	1744
+South Barwon (Western Victoria)	Year 10	F	4367
+South Barwon (Western Victoria)	Year 10	M	4558
+South Barwon (Western Victoria)	Year 11	F	4726
+South Barwon (Western Victoria)	Year 11	M	4949
+South Barwon (Western Victoria)	Year 12	F	24634
+South Barwon (Western Victoria)	Year 12	M	21434
+South-West Coast (Western Victoria)	Did not go to school	F	81
+South-West Coast (Western Victoria)	Did not go to school	M	114
+South-West Coast (Western Victoria)	Year 8	F	1420
+South-West Coast (Western Victoria)	Year 8	M	1572
+South-West Coast (Western Victoria)	Year 9	F	2015
+South-West Coast (Western Victoria)	Year 9	M	2513
+South-West Coast (Western Victoria)	Year 10	F	4555
+South-West Coast (Western Victoria)	Year 10	M	5311
+South-West Coast (Western Victoria)	Year 11	F	4743
+South-West Coast (Western Victoria)	Year 11	M	4698
+South-West Coast (Western Victoria)	Year 12	F	13337
+South-West Coast (Western Victoria)	Year 12	M	10041
+St Albans (Western Metropolitan)	Did not go to school	F	1618
+St Albans (Western Metropolitan)	Did not go to school	M	1211
+St Albans (Western Metropolitan)	Year 8	F	3479
+St Albans (Western Metropolitan)	Year 8	M	2422
+St Albans (Western Metropolitan)	Year 9	F	1698
+St Albans (Western Metropolitan)	Year 9	M	1658
+St Albans (Western Metropolitan)	Year 10	F	2974
+St Albans (Western Metropolitan)	Year 10	M	3467
+St Albans (Western Metropolitan)	Year 11	F	2279
+St Albans (Western Metropolitan)	Year 11	M	2634
+St Albans (Western Metropolitan)	Year 12	F	16766
+St Albans (Western Metropolitan)	Year 12	M	17189
+Sunbury (Western Metropolitan)	Did not go to school	F	257
+Sunbury (Western Metropolitan)	Did not go to school	M	216
+Sunbury (Western Metropolitan)	Year 8	F	1360
+Sunbury (Western Metropolitan)	Year 8	M	1134
+Sunbury (Western Metropolitan)	Year 9	F	1557
+Sunbury (Western Metropolitan)	Year 9	M	1778
+Sunbury (Western Metropolitan)	Year 10	F	3904
+Sunbury (Western Metropolitan)	Year 10	M	4601
+Sunbury (Western Metropolitan)	Year 11	F	3692
+Sunbury (Western Metropolitan)	Year 11	M	3910
+Sunbury (Western Metropolitan)	Year 12	F	15653
+Sunbury (Western Metropolitan)	Year 12	M	13402
+Sydenham (Western Metropolitan)	Did not go to school	F	615
+Sydenham (Western Metropolitan)	Did not go to school	M	440
+Sydenham (Western Metropolitan)	Year 8	F	1991
+Sydenham (Western Metropolitan)	Year 8	M	1505
+Sydenham (Western Metropolitan)	Year 9	F	1410
+Sydenham (Western Metropolitan)	Year 9	M	1685
+Sydenham (Western Metropolitan)	Year 10	F	3295
+Sydenham (Western Metropolitan)	Year 10	M	4057
+Sydenham (Western Metropolitan)	Year 11	F	3156
+Sydenham (Western Metropolitan)	Year 11	M	3636
+Sydenham (Western Metropolitan)	Year 12	F	20831
+Sydenham (Western Metropolitan)	Year 12	M	18822
+Tarneit (Western Metropolitan)	Did not go to school	F	767
+Tarneit (Western Metropolitan)	Did not go to school	M	530
+Tarneit (Western Metropolitan)	Year 8	F	1704
+Tarneit (Western Metropolitan)	Year 8	M	1344
+Tarneit (Western Metropolitan)	Year 9	F	1817
+Tarneit (Western Metropolitan)	Year 9	M	1892
+Tarneit (Western Metropolitan)	Year 10	F	4365
+Tarneit (Western Metropolitan)	Year 10	M	5626
+Tarneit (Western Metropolitan)	Year 11	F	3455
+Tarneit (Western Metropolitan)	Year 11	M	3662
+Tarneit (Western Metropolitan)	Year 12	F	33013
+Tarneit (Western Metropolitan)	Year 12	M	34276
+Thomastown (Northern Metropolitan)	Did not go to school	F	1364
+Thomastown (Northern Metropolitan)	Did not go to school	M	942
+Thomastown (Northern Metropolitan)	Year 8	F	3607
+Thomastown (Northern Metropolitan)	Year 8	M	2768
+Thomastown (Northern Metropolitan)	Year 9	F	1651
+Thomastown (Northern Metropolitan)	Year 9	M	1697
+Thomastown (Northern Metropolitan)	Year 10	F	3068
+Thomastown (Northern Metropolitan)	Year 10	M	3578
+Thomastown (Northern Metropolitan)	Year 11	F	2334
+Thomastown (Northern Metropolitan)	Year 11	M	2648
+Thomastown (Northern Metropolitan)	Year 12	F	19022
+Thomastown (Northern Metropolitan)	Year 12	M	18785
+Warrandyte (Eastern Metropolitan)	Did not go to school	F	313
+Warrandyte (Eastern Metropolitan)	Did not go to school	M	206
+Warrandyte (Eastern Metropolitan)	Year 8	F	1194
+Warrandyte (Eastern Metropolitan)	Year 8	M	870
+Warrandyte (Eastern Metropolitan)	Year 9	F	1102
+Warrandyte (Eastern Metropolitan)	Year 9	M	1039
+Warrandyte (Eastern Metropolitan)	Year 10	F	2366
+Warrandyte (Eastern Metropolitan)	Year 10	M	2357
+Warrandyte (Eastern Metropolitan)	Year 11	F	2526
+Warrandyte (Eastern Metropolitan)	Year 11	M	2564
+Warrandyte (Eastern Metropolitan)	Year 12	F	18576
+Warrandyte (Eastern Metropolitan)	Year 12	M	17115
+Wendouree (Western Victoria)	Did not go to school	F	99
+Wendouree (Western Victoria)	Did not go to school	M	99
+Wendouree (Western Victoria)	Year 8	F	1349
+Wendouree (Western Victoria)	Year 8	M	1188
+Wendouree (Western Victoria)	Year 9	F	1850
+Wendouree (Western Victoria)	Year 9	M	1897
+Wendouree (Western Victoria)	Year 10	F	4044
+Wendouree (Western Victoria)	Year 10	M	4180
+Wendouree (Western Victoria)	Year 11	F	3879
+Wendouree (Western Victoria)	Year 11	M	3541
+Wendouree (Western Victoria)	Year 12	F	14438
+Wendouree (Western Victoria)	Year 12	M	11840
+Werribee (Western Metropolitan)	Did not go to school	F	754
+Werribee (Western Metropolitan)	Did not go to school	M	634
+Werribee (Western Metropolitan)	Year 8	F	1751
+Werribee (Western Metropolitan)	Year 8	M	1482
+Werribee (Western Metropolitan)	Year 9	F	2033
+Werribee (Western Metropolitan)	Year 9	M	2214
+Werribee (Western Metropolitan)	Year 10	F	4652
+Werribee (Western Metropolitan)	Year 10	M	5272
+Werribee (Western Metropolitan)	Year 11	F	3819
+Werribee (Western Metropolitan)	Year 11	M	4017
+Werribee (Western Metropolitan)	Year 12	F	20571
+Werribee (Western Metropolitan)	Year 12	M	18476
+Williamstown (Western Metropolitan)	Did not go to school	F	575
+Williamstown (Western Metropolitan)	Did not go to school	M	354
+Williamstown (Western Metropolitan)	Year 8	F	1678
+Williamstown (Western Metropolitan)	Year 8	M	1238
+Williamstown (Western Metropolitan)	Year 9	F	1066
+Williamstown (Western Metropolitan)	Year 9	M	1173
+Williamstown (Western Metropolitan)	Year 10	F	2211
+Williamstown (Western Metropolitan)	Year 10	M	2775
+Williamstown (Western Metropolitan)	Year 11	F	2249
+Williamstown (Western Metropolitan)	Year 11	M	2708
+Williamstown (Western Metropolitan)	Year 12	F	21588
+Williamstown (Western Metropolitan)	Year 12	M	19369
+Yan Yean (Northern Victoria)	Did not go to school	F	231
+Yan Yean (Northern Victoria)	Did not go to school	M	188
+Yan Yean (Northern Victoria)	Year 8	F	1350
+Yan Yean (Northern Victoria)	Year 8	M	1218
+Yan Yean (Northern Victoria)	Year 9	F	2075
+Yan Yean (Northern Victoria)	Year 9	M	2500
+Yan Yean (Northern Victoria)	Year 10	F	5017
+Yan Yean (Northern Victoria)	Year 10	M	6178
+Yan Yean (Northern Victoria)	Year 11	F	4906
+Yan Yean (Northern Victoria)	Year 11	M	5367
+Yan Yean (Northern Victoria)	Year 12	F	24701
+Yan Yean (Northern Victoria)	Year 12	M	20820
+Yuroke (Northern Metropolitan)	Did not go to school	F	1682
+Yuroke (Northern Metropolitan)	Did not go to school	M	1184
+Yuroke (Northern Metropolitan)	Year 8	F	2930
+Yuroke (Northern Metropolitan)	Year 8	M	2708
+Yuroke (Northern Metropolitan)	Year 9	F	2451
+Yuroke (Northern Metropolitan)	Year 9	M	2824
+Yuroke (Northern Metropolitan)	Year 10	F	4858
+Yuroke (Northern Metropolitan)	Year 10	M	6037
+Yuroke (Northern Metropolitan)	Year 11	F	4270
+Yuroke (Northern Metropolitan)	Year 11	M	4550
+Yuroke (Northern Metropolitan)	Year 12	F	31036
+Yuroke (Northern Metropolitan)	Year 12	M	28891
+No usual address (Vic.)	Did not go to school	F	18
+No usual address (Vic.)	Did not go to school	M	37
+No usual address (Vic.)	Year 8	F	91
+No usual address (Vic.)	Year 8	M	152
+No usual address (Vic.)	Year 9	F	157
+No usual address (Vic.)	Year 9	M	235
+No usual address (Vic.)	Year 10	F	389
+No usual address (Vic.)	Year 10	M	529
+No usual address (Vic.)	Year 11	F	285
+No usual address (Vic.)	Year 11	M	366
+No usual address (Vic.)	Year 12	F	1231
+No usual address (Vic.)	Year 12	M	1215
+Migratory - Offshore - Shipping (Vic.)	Year 12	M	9
+Algester	Did not go to school	F	398
+Algester	Did not go to school	M	284
+Algester	Year 8	F	923
+Algester	Year 8	M	741
+Algester	Year 9	F	882
+Algester	Year 9	M	1033
+Algester	Year 10	F	3999
+Algester	Year 10	M	3884
+Algester	Year 11	F	1352
+Algester	Year 11	M	1637
+Algester	Year 12	F	16016
+Algester	Year 12	M	14990
+Aspley	Did not go to school	F	123
+Aspley	Did not go to school	M	83
+Aspley	Year 8	F	929
+Aspley	Year 8	M	631
+Aspley	Year 9	F	693
+Aspley	Year 9	M	701
+Aspley	Year 10	F	4114
+Aspley	Year 10	M	3266
+Aspley	Year 11	F	1261
+Aspley	Year 11	M	1431
+Aspley	Year 12	F	15117
+Aspley	Year 12	M	14345
+Bancroft	Did not go to school	F	83
+Bancroft	Did not go to school	M	114
+Bancroft	Year 8	F	923
+Bancroft	Year 8	M	929
+Bancroft	Year 9	F	1320
+Bancroft	Year 9	M	1360
+Bancroft	Year 10	F	5630
+Bancroft	Year 10	M	5003
+Bancroft	Year 11	F	1963
+Bancroft	Year 11	M	1965
+Bancroft	Year 12	F	13153
+Bancroft	Year 12	M	11405
+Barron River	Did not go to school	F	65
+Barron River	Did not go to school	M	62
+Barron River	Year 8	F	490
+Barron River	Year 8	M	485
+Barron River	Year 9	F	1009
+Barron River	Year 9	M	1055
+Barron River	Year 10	F	4298
+Barron River	Year 10	M	4670
+Barron River	Year 11	F	2063
+Barron River	Year 11	M	2192
+Barron River	Year 12	F	14228
+Barron River	Year 12	M	12008
+Bonney	Did not go to school	F	157
+Bonney	Did not go to school	M	108
+Bonney	Year 8	F	880
+Bonney	Year 8	M	654
+Bonney	Year 9	F	1156
+Bonney	Year 9	M	1071
+Bonney	Year 10	F	5014
+Bonney	Year 10	M	4471
+Bonney	Year 11	F	1833
+Bonney	Year 11	M	1848
+Bonney	Year 12	F	14513
+Bonney	Year 12	M	12874
+Broadwater	Did not go to school	F	89
+Broadwater	Did not go to school	M	68
+Broadwater	Year 8	F	711
+Broadwater	Year 8	M	590
+Broadwater	Year 9	F	980
+Broadwater	Year 9	M	1075
+Broadwater	Year 10	F	5295
+Broadwater	Year 10	M	4576
+Broadwater	Year 11	F	1816
+Broadwater	Year 11	M	1781
+Broadwater	Year 12	F	12008
+Broadwater	Year 12	M	10855
+Buderim	Did not go to school	F	45
+Buderim	Did not go to school	M	44
+Buderim	Year 8	F	567
+Buderim	Year 8	M	472
+Buderim	Year 9	F	973
+Buderim	Year 9	M	939
+Buderim	Year 10	F	4720
+Buderim	Year 10	M	4036
+Buderim	Year 11	F	1960
+Buderim	Year 11	M	1814
+Buderim	Year 12	F	14795
+Buderim	Year 12	M	12384
+Bulimba	Did not go to school	F	68
+Bulimba	Did not go to school	M	59
+Bulimba	Year 8	F	661
+Bulimba	Year 8	M	436
+Bulimba	Year 9	F	612
+Bulimba	Year 9	M	596
+Bulimba	Year 10	F	2877
+Bulimba	Year 10	M	2517
+Bulimba	Year 11	F	1175
+Bulimba	Year 11	M	1241
+Bulimba	Year 12	F	18141
+Bulimba	Year 12	M	16643
+Bundaberg	Did not go to school	F	156
+Bundaberg	Did not go to school	M	166
+Bundaberg	Year 8	F	1751
+Bundaberg	Year 8	M	1649
+Bundaberg	Year 9	F	1520
+Bundaberg	Year 9	M	1548
+Bundaberg	Year 10	F	6479
+Bundaberg	Year 10	M	5694
+Bundaberg	Year 11	F	1661
+Bundaberg	Year 11	M	1555
+Bundaberg	Year 12	F	8693
+Bundaberg	Year 12	M	7518
+Bundamba	Did not go to school	F	363
+Bundamba	Did not go to school	M	250
+Bundamba	Year 8	F	1167
+Bundamba	Year 8	M	1041
+Bundamba	Year 9	F	1437
+Bundamba	Year 9	M	1539
+Bundamba	Year 10	F	5601
+Bundamba	Year 10	M	5524
+Bundamba	Year 11	F	2269
+Bundamba	Year 11	M	2318
+Bundamba	Year 12	F	14354
+Bundamba	Year 12	M	13068
+Burdekin	Did not go to school	F	85
+Burdekin	Did not go to school	M	121
+Burdekin	Year 8	F	1021
+Burdekin	Year 8	M	1249
+Burdekin	Year 9	F	1082
+Burdekin	Year 9	M	1395
+Burdekin	Year 10	F	5348
+Burdekin	Year 10	M	6499
+Burdekin	Year 11	F	1539
+Burdekin	Year 11	M	1970
+Burdekin	Year 12	F	9346
+Burdekin	Year 12	M	8083
+Burleigh	Did not go to school	F	53
+Burleigh	Did not go to school	M	48
+Burleigh	Year 8	F	533
+Burleigh	Year 8	M	497
+Burleigh	Year 9	F	914
+Burleigh	Year 9	M	846
+Burleigh	Year 10	F	4508
+Burleigh	Year 10	M	3940
+Burleigh	Year 11	F	1542
+Burleigh	Year 11	M	1588
+Burleigh	Year 12	F	13253
+Burleigh	Year 12	M	11255
+Burnett	Did not go to school	F	66
+Burnett	Did not go to school	M	89
+Burnett	Year 8	F	1130
+Burnett	Year 8	M	1514
+Burnett	Year 9	F	1421
+Burnett	Year 9	M	1746
+Burnett	Year 10	F	6467
+Burnett	Year 10	M	6993
+Burnett	Year 11	F	1799
+Burnett	Year 11	M	1832
+Burnett	Year 12	F	8732
+Burnett	Year 12	M	7198
+Cairns	Did not go to school	F	301
+Cairns	Did not go to school	M	229
+Cairns	Year 8	F	934
+Cairns	Year 8	M	858
+Cairns	Year 9	F	990
+Cairns	Year 9	M	1116
+Cairns	Year 10	F	4349
+Cairns	Year 10	M	4556
+Cairns	Year 11	F	1819
+Cairns	Year 11	M	1972
+Cairns	Year 12	F	13548
+Cairns	Year 12	M	12215
+Callide	Did not go to school	F	61
+Callide	Did not go to school	M	90
+Callide	Year 8	F	1228
+Callide	Year 8	M	1712
+Callide	Year 9	F	1170
+Callide	Year 9	M	1565
+Callide	Year 10	F	5229
+Callide	Year 10	M	6212
+Callide	Year 11	F	1449
+Callide	Year 11	M	1520
+Callide	Year 12	F	8467
+Callide	Year 12	M	6817
+Caloundra	Did not go to school	F	46
+Caloundra	Did not go to school	M	58
+Caloundra	Year 8	F	893
+Caloundra	Year 8	M	869
+Caloundra	Year 9	F	1207
+Caloundra	Year 9	M	1183
+Caloundra	Year 10	F	6199
+Caloundra	Year 10	M	5654
+Caloundra	Year 11	F	1973
+Caloundra	Year 11	M	1840
+Caloundra	Year 12	F	12880
+Caloundra	Year 12	M	11019
+Capalaba	Did not go to school	F	70
+Capalaba	Did not go to school	M	59
+Capalaba	Year 8	F	803
+Capalaba	Year 8	M	762
+Capalaba	Year 9	F	1063
+Capalaba	Year 9	M	1055
+Capalaba	Year 10	F	5248
+Capalaba	Year 10	M	4980
+Capalaba	Year 11	F	1524
+Capalaba	Year 11	M	1758
+Capalaba	Year 12	F	11775
+Capalaba	Year 12	M	10683
+Chatsworth	Did not go to school	F	94
+Chatsworth	Did not go to school	M	76
+Chatsworth	Year 8	F	638
+Chatsworth	Year 8	M	501
+Chatsworth	Year 9	F	673
+Chatsworth	Year 9	M	640
+Chatsworth	Year 10	F	3348
+Chatsworth	Year 10	M	2835
+Chatsworth	Year 11	F	1130
+Chatsworth	Year 11	M	1208
+Chatsworth	Year 12	F	15002
+Chatsworth	Year 12	M	13846
+Clayfield	Did not go to school	F	78
+Clayfield	Did not go to school	M	68
+Clayfield	Year 8	F	477
+Clayfield	Year 8	M	375
+Clayfield	Year 9	F	529
+Clayfield	Year 9	M	564
+Clayfield	Year 10	F	2850
+Clayfield	Year 10	M	2435
+Clayfield	Year 11	F	1147
+Clayfield	Year 11	M	1222
+Clayfield	Year 12	F	19301
+Clayfield	Year 12	M	18091
+Condamine	Did not go to school	F	62
+Condamine	Did not go to school	M	70
+Condamine	Year 8	F	941
+Condamine	Year 8	M	1317
+Condamine	Year 9	F	1143
+Condamine	Year 9	M	1440
+Condamine	Year 10	F	5777
+Condamine	Year 10	M	6467
+Condamine	Year 11	F	1575
+Condamine	Year 11	M	1665
+Condamine	Year 12	F	10972
+Condamine	Year 12	M	8908
+Cook	Did not go to school	F	123
+Cook	Did not go to school	M	163
+Cook	Year 8	F	1062
+Cook	Year 8	M	1268
+Cook	Year 9	F	1007
+Cook	Year 9	M	1417
+Cook	Year 10	F	4385
+Cook	Year 10	M	4941
+Cook	Year 11	F	2020
+Cook	Year 11	M	2016
+Cook	Year 12	F	9413
+Cook	Year 12	M	8073
+Coomera	Did not go to school	F	125
+Coomera	Did not go to school	M	115
+Coomera	Year 8	F	696
+Coomera	Year 8	M	793
+Coomera	Year 9	F	1558
+Coomera	Year 9	M	1712
+Coomera	Year 10	F	6578
+Coomera	Year 10	M	6836
+Coomera	Year 11	F	2975
+Coomera	Year 11	M	3068
+Coomera	Year 12	F	18990
+Coomera	Year 12	M	16511
+Cooper	Did not go to school	F	47
+Cooper	Did not go to school	M	47
+Cooper	Year 8	F	325
+Cooper	Year 8	M	262
+Cooper	Year 9	F	478
+Cooper	Year 9	M	524
+Cooper	Year 10	F	2160
+Cooper	Year 10	M	1846
+Cooper	Year 11	F	989
+Cooper	Year 11	M	999
+Cooper	Year 12	F	17386
+Cooper	Year 12	M	16403
+Currumbin	Did not go to school	F	32
+Currumbin	Did not go to school	M	57
+Currumbin	Year 8	F	538
+Currumbin	Year 8	M	495
+Currumbin	Year 9	F	955
+Currumbin	Year 9	M	957
+Currumbin	Year 10	F	4650
+Currumbin	Year 10	M	4576
+Currumbin	Year 11	F	1550
+Currumbin	Year 11	M	1598
+Currumbin	Year 12	F	11720
+Currumbin	Year 12	M	10072
+Everton	Did not go to school	F	56
+Everton	Did not go to school	M	51
+Everton	Year 8	F	579
+Everton	Year 8	M	424
+Everton	Year 9	F	662
+Everton	Year 9	M	702
+Everton	Year 10	F	3790
+Everton	Year 10	M	3485
+Everton	Year 11	F	1330
+Everton	Year 11	M	1494
+Everton	Year 12	F	15048
+Everton	Year 12	M	13859
+Ferny Grove	Did not go to school	F	66
+Ferny Grove	Did not go to school	M	59
+Ferny Grove	Year 8	F	620
+Ferny Grove	Year 8	M	445
+Ferny Grove	Year 9	F	622
+Ferny Grove	Year 9	M	639
+Ferny Grove	Year 10	F	3450
+Ferny Grove	Year 10	M	3037
+Ferny Grove	Year 11	F	1154
+Ferny Grove	Year 11	M	1312
+Ferny Grove	Year 12	F	14689
+Ferny Grove	Year 12	M	14002
+Gaven	Did not go to school	F	70
+Gaven	Did not go to school	M	67
+Gaven	Year 8	F	625
+Gaven	Year 8	M	581
+Gaven	Year 9	F	1051
+Gaven	Year 9	M	1271
+Gaven	Year 10	F	4739
+Gaven	Year 10	M	4742
+Gaven	Year 11	F	1781
+Gaven	Year 11	M	1854
+Gaven	Year 12	F	11555
+Gaven	Year 12	M	10124
+Gladstone	Did not go to school	F	37
+Gladstone	Did not go to school	M	75
+Gladstone	Year 8	F	762
+Gladstone	Year 8	M	816
+Gladstone	Year 9	F	1109
+Gladstone	Year 9	M	1266
+Gladstone	Year 10	F	5066
+Gladstone	Year 10	M	5487
+Gladstone	Year 11	F	1874
+Gladstone	Year 11	M	2092
+Gladstone	Year 12	F	9461
+Gladstone	Year 12	M	8451
+Glass House	Did not go to school	F	45
+Glass House	Did not go to school	M	64
+Glass House	Year 8	F	617
+Glass House	Year 8	M	851
+Glass House	Year 9	F	969
+Glass House	Year 9	M	1209
+Glass House	Year 10	F	5007
+Glass House	Year 10	M	6344
+Glass House	Year 11	F	1555
+Glass House	Year 11	M	1685
+Glass House	Year 12	F	10891
+Glass House	Year 12	M	9331
+Greenslopes	Did not go to school	F	99
+Greenslopes	Did not go to school	M	70
+Greenslopes	Year 8	F	541
+Greenslopes	Year 8	M	367
+Greenslopes	Year 9	F	540
+Greenslopes	Year 9	M	542
+Greenslopes	Year 10	F	2556
+Greenslopes	Year 10	M	2184
+Greenslopes	Year 11	F	939
+Greenslopes	Year 11	M	1070
+Greenslopes	Year 12	F	17585
+Greenslopes	Year 12	M	16195
+Gregory	Did not go to school	F	44
+Gregory	Did not go to school	M	73
+Gregory	Year 8	F	543
+Gregory	Year 8	M	874
+Gregory	Year 9	F	656
+Gregory	Year 9	M	993
+Gregory	Year 10	F	3455
+Gregory	Year 10	M	4202
+Gregory	Year 11	F	1140
+Gregory	Year 11	M	1265
+Gregory	Year 12	F	7355
+Gregory	Year 12	M	6086
+Gympie	Did not go to school	F	69
+Gympie	Did not go to school	M	84
+Gympie	Year 8	F	1289
+Gympie	Year 8	M	1507
+Gympie	Year 9	F	1537
+Gympie	Year 9	M	1822
+Gympie	Year 10	F	7115
+Gympie	Year 10	M	7289
+Gympie	Year 11	F	1962
+Gympie	Year 11	M	1979
+Gympie	Year 12	F	9216
+Gympie	Year 12	M	7770
+Hervey Bay	Did not go to school	F	84
+Hervey Bay	Did not go to school	M	81
+Hervey Bay	Year 8	F	1437
+Hervey Bay	Year 8	M	1452
+Hervey Bay	Year 9	F	1856
+Hervey Bay	Year 9	M	1787
+Hervey Bay	Year 10	F	7494
+Hervey Bay	Year 10	M	6516
+Hervey Bay	Year 11	F	2135
+Hervey Bay	Year 11	M	2004
+Hervey Bay	Year 12	F	9879
+Hervey Bay	Year 12	M	8175
+Hill	Did not go to school	F	136
+Hill	Did not go to school	M	165
+Hill	Year 8	F	1303
+Hill	Year 8	M	1566
+Hill	Year 9	F	1239
+Hill	Year 9	M	1525
+Hill	Year 10	F	6105
+Hill	Year 10	M	7302
+Hill	Year 11	F	1875
+Hill	Year 11	M	1969
+Hill	Year 12	F	9901
+Hill	Year 12	M	8757
+Hinchinbrook	Did not go to school	F	66
+Hinchinbrook	Did not go to school	M	63
+Hinchinbrook	Year 8	F	839
+Hinchinbrook	Year 8	M	1022
+Hinchinbrook	Year 9	F	981
+Hinchinbrook	Year 9	M	1269
+Hinchinbrook	Year 10	F	5040
+Hinchinbrook	Year 10	M	5592
+Hinchinbrook	Year 11	F	1752
+Hinchinbrook	Year 11	M	1876
+Hinchinbrook	Year 12	F	9999
+Hinchinbrook	Year 12	M	8606
+Inala	Did not go to school	F	914
+Inala	Did not go to school	M	627
+Inala	Year 8	F	1563
+Inala	Year 8	M	1280
+Inala	Year 9	F	1186
+Inala	Year 9	M	1056
+Inala	Year 10	F	4125
+Inala	Year 10	M	5606
+Inala	Year 11	F	1627
+Inala	Year 11	M	1701
+Inala	Year 12	F	14620
+Inala	Year 12	M	14237
+Ipswich	Did not go to school	F	114
+Ipswich	Did not go to school	M	110
+Ipswich	Year 8	F	1107
+Ipswich	Year 8	M	977
+Ipswich	Year 9	F	1168
+Ipswich	Year 9	M	1218
+Ipswich	Year 10	F	5040
+Ipswich	Year 10	M	4919
+Ipswich	Year 11	F	1521
+Ipswich	Year 11	M	1643
+Ipswich	Year 12	F	10539
+Ipswich	Year 12	M	9186
+Ipswich West	Did not go to school	F	79
+Ipswich West	Did not go to school	M	103
+Ipswich West	Year 8	F	1119
+Ipswich West	Year 8	M	1106
+Ipswich West	Year 9	F	1229
+Ipswich West	Year 9	M	1323
+Ipswich West	Year 10	F	5520
+Ipswich West	Year 10	M	6007
+Ipswich West	Year 11	F	1654
+Ipswich West	Year 11	M	1711
+Ipswich West	Year 12	F	10665
+Ipswich West	Year 12	M	9367
+Jordan	Did not go to school	F	170
+Jordan	Did not go to school	M	120
+Jordan	Year 8	F	553
+Jordan	Year 8	M	593
+Jordan	Year 9	F	994
+Jordan	Year 9	M	1140
+Jordan	Year 10	F	4670
+Jordan	Year 10	M	5039
+Jordan	Year 11	F	2091
+Jordan	Year 11	M	2086
+Jordan	Year 12	F	16741
+Jordan	Year 12	M	14968
+Kawana	Did not go to school	F	49
+Kawana	Did not go to school	M	48
+Kawana	Year 8	F	813
+Kawana	Year 8	M	705
+Kawana	Year 9	F	1091
+Kawana	Year 9	M	1066
+Kawana	Year 10	F	5645
+Kawana	Year 10	M	4714
+Kawana	Year 11	F	1902
+Kawana	Year 11	M	1804
+Kawana	Year 12	F	12169
+Kawana	Year 12	M	10672
+Keppel	Did not go to school	F	68
+Keppel	Did not go to school	M	74
+Keppel	Year 8	F	1040
+Keppel	Year 8	M	1082
+Keppel	Year 9	F	1121
+Keppel	Year 9	M	1300
+Keppel	Year 10	F	5648
+Keppel	Year 10	M	5608
+Keppel	Year 11	F	1657
+Keppel	Year 11	M	1727
+Keppel	Year 12	F	10888
+Keppel	Year 12	M	9341
+Kurwongbah	Did not go to school	F	81
+Kurwongbah	Did not go to school	M	93
+Kurwongbah	Year 8	F	804
+Kurwongbah	Year 8	M	690
+Kurwongbah	Year 9	F	1145
+Kurwongbah	Year 9	M	1227
+Kurwongbah	Year 10	F	5341
+Kurwongbah	Year 10	M	5378
+Kurwongbah	Year 11	F	1831
+Kurwongbah	Year 11	M	1907
+Kurwongbah	Year 12	F	12838
+Kurwongbah	Year 12	M	11299
+Lockyer	Did not go to school	F	123
+Lockyer	Did not go to school	M	167
+Lockyer	Year 8	F	1258
+Lockyer	Year 8	M	1497
+Lockyer	Year 9	F	1362
+Lockyer	Year 9	M	1651
+Lockyer	Year 10	F	5939
+Lockyer	Year 10	M	6294
+Lockyer	Year 11	F	1663
+Lockyer	Year 11	M	1688
+Lockyer	Year 12	F	9811
+Lockyer	Year 12	M	7859
+Logan	Did not go to school	F	246
+Logan	Did not go to school	M	185
+Logan	Year 8	F	865
+Logan	Year 8	M	919
+Logan	Year 9	F	1383
+Logan	Year 9	M	1645
+Logan	Year 10	F	6161
+Logan	Year 10	M	6428
+Logan	Year 11	F	2114
+Logan	Year 11	M	2266
+Logan	Year 12	F	13555
+Logan	Year 12	M	11548
+Lytton	Did not go to school	F	72
+Lytton	Did not go to school	M	72
+Lytton	Year 8	F	929
+Lytton	Year 8	M	739
+Lytton	Year 9	F	959
+Lytton	Year 9	M	912
+Lytton	Year 10	F	4595
+Lytton	Year 10	M	4331
+Lytton	Year 11	F	1489
+Lytton	Year 11	M	1705
+Lytton	Year 12	F	13732
+Lytton	Year 12	M	12339
+Macalister	Did not go to school	F	184
+Macalister	Did not go to school	M	152
+Macalister	Year 8	F	1007
+Macalister	Year 8	M	964
+Macalister	Year 9	F	1366
+Macalister	Year 9	M	1537
+Macalister	Year 10	F	5804
+Macalister	Year 10	M	5550
+Macalister	Year 11	F	2022
+Macalister	Year 11	M	2128
+Macalister	Year 12	F	12446
+Macalister	Year 12	M	11146
+Mackay	Did not go to school	F	81
+Mackay	Did not go to school	M	79
+Mackay	Year 8	F	1217
+Mackay	Year 8	M	1181
+Mackay	Year 9	F	1219
+Mackay	Year 9	M	1274
+Mackay	Year 10	F	5816
+Mackay	Year 10	M	5943
+Mackay	Year 11	F	1770
+Mackay	Year 11	M	1859
+Mackay	Year 12	F	10868
+Mackay	Year 12	M	9537
+Maiwar	Did not go to school	F	60
+Maiwar	Did not go to school	M	55
+Maiwar	Year 8	F	241
+Maiwar	Year 8	M	190
+Maiwar	Year 9	F	438
+Maiwar	Year 9	M	444
+Maiwar	Year 10	F	1805
+Maiwar	Year 10	M	1411
+Maiwar	Year 11	F	958
+Maiwar	Year 11	M	931
+Maiwar	Year 12	F	22696
+Maiwar	Year 12	M	21870
+Mansfield	Did not go to school	F	184
+Mansfield	Did not go to school	M	148
+Mansfield	Year 8	F	838
+Mansfield	Year 8	M	623
+Mansfield	Year 9	F	746
+Mansfield	Year 9	M	708
+Mansfield	Year 10	F	3214
+Mansfield	Year 10	M	2717
+Mansfield	Year 11	F	1138
+Mansfield	Year 11	M	1235
+Mansfield	Year 12	F	16874
+Mansfield	Year 12	M	15822
+Maroochydore	Did not go to school	F	44
+Maroochydore	Did not go to school	M	54
+Maroochydore	Year 8	F	607
+Maroochydore	Year 8	M	511
+Maroochydore	Year 9	F	879
+Maroochydore	Year 9	M	864
+Maroochydore	Year 10	F	4989
+Maroochydore	Year 10	M	4496
+Maroochydore	Year 11	F	1737
+Maroochydore	Year 11	M	1795
+Maroochydore	Year 12	F	13101
+Maroochydore	Year 12	M	11472
+Maryborough	Did not go to school	F	73
+Maryborough	Did not go to school	M	100
+Maryborough	Year 8	F	1322
+Maryborough	Year 8	M	1678
+Maryborough	Year 9	F	1694
+Maryborough	Year 9	M	1835
+Maryborough	Year 10	F	7393
+Maryborough	Year 10	M	7905
+Maryborough	Year 11	F	1878
+Maryborough	Year 11	M	1826
+Maryborough	Year 12	F	8382
+Maryborough	Year 12	M	7272
+McConnel	Did not go to school	F	130
+McConnel	Did not go to school	M	130
+McConnel	Year 8	F	318
+McConnel	Year 8	M	338
+McConnel	Year 9	F	408
+McConnel	Year 9	M	493
+McConnel	Year 10	F	2050
+McConnel	Year 10	M	2193
+McConnel	Year 11	F	1304
+McConnel	Year 11	M	1511
+McConnel	Year 12	F	24713
+McConnel	Year 12	M	24855
+Mermaid Beach	Did not go to school	F	85
+Mermaid Beach	Did not go to school	M	83
+Mermaid Beach	Year 8	F	513
+Mermaid Beach	Year 8	M	410
+Mermaid Beach	Year 9	F	851
+Mermaid Beach	Year 9	M	755
+Mermaid Beach	Year 10	F	3959
+Mermaid Beach	Year 10	M	3512
+Mermaid Beach	Year 11	F	1656
+Mermaid Beach	Year 11	M	1639
+Mermaid Beach	Year 12	F	15413
+Mermaid Beach	Year 12	M	13585
+Miller	Did not go to school	F	78
+Miller	Did not go to school	M	93
+Miller	Year 8	F	458
+Miller	Year 8	M	361
+Miller	Year 9	F	492
+Miller	Year 9	M	501
+Miller	Year 10	F	2294
+Miller	Year 10	M	1904
+Miller	Year 11	F	877
+Miller	Year 11	M	999
+Miller	Year 12	F	16251
+Miller	Year 12	M	15392
+Mirani	Did not go to school	F	44
+Mirani	Did not go to school	M	77
+Mirani	Year 8	F	880
+Mirani	Year 8	M	1361
+Mirani	Year 9	F	1086
+Mirani	Year 9	M	1451
+Mirani	Year 10	F	5296
+Mirani	Year 10	M	6783
+Mirani	Year 11	F	1538
+Mirani	Year 11	M	1695
+Mirani	Year 12	F	8434
+Mirani	Year 12	M	6799
+Moggill	Did not go to school	F	39
+Moggill	Did not go to school	M	35
+Moggill	Year 8	F	307
+Moggill	Year 8	M	269
+Moggill	Year 9	F	531
+Moggill	Year 9	M	565
+Moggill	Year 10	F	2379
+Moggill	Year 10	M	2129
+Moggill	Year 11	F	1104
+Moggill	Year 11	M	1110
+Moggill	Year 12	F	15520
+Moggill	Year 12	M	14779
+Morayfield	Did not go to school	F	135
+Morayfield	Did not go to school	M	146
+Morayfield	Year 8	F	1268
+Morayfield	Year 8	M	1207
+Morayfield	Year 9	F	1627
+Morayfield	Year 9	M	1680
+Morayfield	Year 10	F	6435
+Morayfield	Year 10	M	6030
+Morayfield	Year 11	F	2143
+Morayfield	Year 11	M	2057
+Morayfield	Year 12	F	11025
+Morayfield	Year 12	M	9294
+Mount Ommaney	Did not go to school	F	166
+Mount Ommaney	Did not go to school	M	137
+Mount Ommaney	Year 8	F	619
+Mount Ommaney	Year 8	M	433
+Mount Ommaney	Year 9	F	582
+Mount Ommaney	Year 9	M	620
+Mount Ommaney	Year 10	F	3015
+Mount Ommaney	Year 10	M	2543
+Mount Ommaney	Year 11	F	1136
+Mount Ommaney	Year 11	M	1236
+Mount Ommaney	Year 12	F	15319
+Mount Ommaney	Year 12	M	14488
+Mudgeeraba	Did not go to school	F	66
+Mudgeeraba	Did not go to school	M	51
+Mudgeeraba	Year 8	F	546
+Mudgeeraba	Year 8	M	568
+Mudgeeraba	Year 9	F	1045
+Mudgeeraba	Year 9	M	1108
+Mudgeeraba	Year 10	F	4913
+Mudgeeraba	Year 10	M	4723
+Mudgeeraba	Year 11	F	1987
+Mudgeeraba	Year 11	M	1974
+Mudgeeraba	Year 12	F	14720
+Mudgeeraba	Year 12	M	12626
+Mulgrave	Did not go to school	F	199
+Mulgrave	Did not go to school	M	147
+Mulgrave	Year 8	F	786
+Mulgrave	Year 8	M	797
+Mulgrave	Year 9	F	1123
+Mulgrave	Year 9	M	1191
+Mulgrave	Year 10	F	4960
+Mulgrave	Year 10	M	5294
+Mulgrave	Year 11	F	2012
+Mulgrave	Year 11	M	2145
+Mulgrave	Year 12	F	11237
+Mulgrave	Year 12	M	9466
+Mundingburra	Did not go to school	F	131
+Mundingburra	Did not go to school	M	121
+Mundingburra	Year 8	F	839
+Mundingburra	Year 8	M	765
+Mundingburra	Year 9	F	858
+Mundingburra	Year 9	M	908
+Mundingburra	Year 10	F	4309
+Mundingburra	Year 10	M	4529
+Mundingburra	Year 11	F	1378
+Mundingburra	Year 11	M	1556
+Mundingburra	Year 12	F	11891
+Mundingburra	Year 12	M	11183
+Murrumba	Did not go to school	F	131
+Murrumba	Did not go to school	M	121
+Murrumba	Year 8	F	922
+Murrumba	Year 8	M	801
+Murrumba	Year 9	F	1238
+Murrumba	Year 9	M	1236
+Murrumba	Year 10	F	5864
+Murrumba	Year 10	M	5350
+Murrumba	Year 11	F	2162
+Murrumba	Year 11	M	2181
+Murrumba	Year 12	F	16172
+Murrumba	Year 12	M	13874
+Nanango	Did not go to school	F	82
+Nanango	Did not go to school	M	100
+Nanango	Year 8	F	1556
+Nanango	Year 8	M	1882
+Nanango	Year 9	F	1530
+Nanango	Year 9	M	2046
+Nanango	Year 10	F	6516
+Nanango	Year 10	M	6915
+Nanango	Year 11	F	1726
+Nanango	Year 11	M	1648
+Nanango	Year 12	F	8325
+Nanango	Year 12	M	6801
+Nicklin	Did not go to school	F	68
+Nicklin	Did not go to school	M	86
+Nicklin	Year 8	F	767
+Nicklin	Year 8	M	834
+Nicklin	Year 9	F	1002
+Nicklin	Year 9	M	1140
+Nicklin	Year 10	F	5340
+Nicklin	Year 10	M	5083
+Nicklin	Year 11	F	1807
+Nicklin	Year 11	M	1846
+Nicklin	Year 12	F	10975
+Nicklin	Year 12	M	9229
+Ninderry	Did not go to school	F	38
+Ninderry	Did not go to school	M	47
+Ninderry	Year 8	F	591
+Ninderry	Year 8	M	600
+Ninderry	Year 9	F	1006
+Ninderry	Year 9	M	1114
+Ninderry	Year 10	F	5189
+Ninderry	Year 10	M	5002
+Ninderry	Year 11	F	1956
+Ninderry	Year 11	M	2019
+Ninderry	Year 12	F	13658
+Ninderry	Year 12	M	11832
+Noosa	Did not go to school	F	43
+Noosa	Did not go to school	M	35
+Noosa	Year 8	F	519
+Noosa	Year 8	M	485
+Noosa	Year 9	F	884
+Noosa	Year 9	M	922
+Noosa	Year 10	F	4567
+Noosa	Year 10	M	4294
+Noosa	Year 11	F	1917
+Noosa	Year 11	M	1819
+Noosa	Year 12	F	12323
+Noosa	Year 12	M	11208
+Nudgee	Did not go to school	F	145
+Nudgee	Did not go to school	M	127
+Nudgee	Year 8	F	853
+Nudgee	Year 8	M	648
+Nudgee	Year 9	F	665
+Nudgee	Year 9	M	774
+Nudgee	Year 10	F	3661
+Nudgee	Year 10	M	3437
+Nudgee	Year 11	F	1274
+Nudgee	Year 11	M	1434
+Nudgee	Year 12	F	16041
+Nudgee	Year 12	M	15212
+Oodgeroo	Did not go to school	F	54
+Oodgeroo	Did not go to school	M	42
+Oodgeroo	Year 8	F	673
+Oodgeroo	Year 8	M	574
+Oodgeroo	Year 9	F	848
+Oodgeroo	Year 9	M	818
+Oodgeroo	Year 10	F	4801
+Oodgeroo	Year 10	M	3889
+Oodgeroo	Year 11	F	1483
+Oodgeroo	Year 11	M	1520
+Oodgeroo	Year 12	F	11068
+Oodgeroo	Year 12	M	10215
+Pine Rivers	Did not go to school	F	86
+Pine Rivers	Did not go to school	M	86
+Pine Rivers	Year 8	F	644
+Pine Rivers	Year 8	M	612
+Pine Rivers	Year 9	F	851
+Pine Rivers	Year 9	M	897
+Pine Rivers	Year 10	F	4504
+Pine Rivers	Year 10	M	4508
+Pine Rivers	Year 11	F	1555
+Pine Rivers	Year 11	M	1747
+Pine Rivers	Year 12	F	13903
+Pine Rivers	Year 12	M	12873
+Pumicestone	Did not go to school	F	72
+Pumicestone	Did not go to school	M	66
+Pumicestone	Year 8	F	1242
+Pumicestone	Year 8	M	1257
+Pumicestone	Year 9	F	1542
+Pumicestone	Year 9	M	1679
+Pumicestone	Year 10	F	7279
+Pumicestone	Year 10	M	6753
+Pumicestone	Year 11	F	1974
+Pumicestone	Year 11	M	1902
+Pumicestone	Year 12	F	9668
+Pumicestone	Year 12	M	8346
+Redcliffe	Did not go to school	F	88
+Redcliffe	Did not go to school	M	88
+Redcliffe	Year 8	F	1137
+Redcliffe	Year 8	M	982
+Redcliffe	Year 9	F	1262
+Redcliffe	Year 9	M	1300
+Redcliffe	Year 10	F	6225
+Redcliffe	Year 10	M	5497
+Redcliffe	Year 11	F	1849
+Redcliffe	Year 11	M	1863
+Redcliffe	Year 12	F	11698
+Redcliffe	Year 12	M	10262
+Redlands	Did not go to school	F	55
+Redlands	Did not go to school	M	55
+Redlands	Year 8	F	909
+Redlands	Year 8	M	898
+Redlands	Year 9	F	1139
+Redlands	Year 9	M	1292
+Redlands	Year 10	F	6093
+Redlands	Year 10	M	5931
+Redlands	Year 11	F	1793
+Redlands	Year 11	M	1858
+Redlands	Year 12	F	11944
+Redlands	Year 12	M	10452
+Rockhampton	Did not go to school	F	106
+Rockhampton	Did not go to school	M	133
+Rockhampton	Year 8	F	1406
+Rockhampton	Year 8	M	1356
+Rockhampton	Year 9	F	1166
+Rockhampton	Year 9	M	1386
+Rockhampton	Year 10	F	5561
+Rockhampton	Year 10	M	5495
+Rockhampton	Year 11	F	1647
+Rockhampton	Year 11	M	1661
+Rockhampton	Year 12	F	10302
+Rockhampton	Year 12	M	8737
+Sandgate	Did not go to school	F	131
+Sandgate	Did not go to school	M	114
+Sandgate	Year 8	F	1079
+Sandgate	Year 8	M	791
+Sandgate	Year 9	F	896
+Sandgate	Year 9	M	923
+Sandgate	Year 10	F	4688
+Sandgate	Year 10	M	4119
+Sandgate	Year 11	F	1403
+Sandgate	Year 11	M	1518
+Sandgate	Year 12	F	13899
+Sandgate	Year 12	M	12535
+Scenic Rim	Did not go to school	F	59
+Scenic Rim	Did not go to school	M	71
+Scenic Rim	Year 8	F	1072
+Scenic Rim	Year 8	M	1235
+Scenic Rim	Year 9	F	1184
+Scenic Rim	Year 9	M	1559
+Scenic Rim	Year 10	F	5674
+Scenic Rim	Year 10	M	6152
+Scenic Rim	Year 11	F	1780
+Scenic Rim	Year 11	M	1814
+Scenic Rim	Year 12	F	11135
+Scenic Rim	Year 12	M	9335
+South Brisbane	Did not go to school	F	186
+South Brisbane	Did not go to school	M	139
+South Brisbane	Year 8	F	488
+South Brisbane	Year 8	M	453
+South Brisbane	Year 9	F	470
+South Brisbane	Year 9	M	576
+South Brisbane	Year 10	F	2102
+South Brisbane	Year 10	M	2126
+South Brisbane	Year 11	F	1101
+South Brisbane	Year 11	M	1265
+South Brisbane	Year 12	F	23215
+South Brisbane	Year 12	M	22386
+Southern Downs	Did not go to school	F	92
+Southern Downs	Did not go to school	M	119
+Southern Downs	Year 8	F	1289
+Southern Downs	Year 8	M	1539
+Southern Downs	Year 9	F	1317
+Southern Downs	Year 9	M	1537
+Southern Downs	Year 10	F	5915
+Southern Downs	Year 10	M	6079
+Southern Downs	Year 11	F	1520
+Southern Downs	Year 11	M	1452
+Southern Downs	Year 12	F	8793
+Southern Downs	Year 12	M	7370
+Southport	Did not go to school	F	124
+Southport	Did not go to school	M	96
+Southport	Year 8	F	702
+Southport	Year 8	M	656
+Southport	Year 9	F	999
+Southport	Year 9	M	1049
+Southport	Year 10	F	4418
+Southport	Year 10	M	3884
+Southport	Year 11	F	1828
+Southport	Year 11	M	1850
+Southport	Year 12	F	15214
+Southport	Year 12	M	13817
+Springwood	Did not go to school	F	80
+Springwood	Did not go to school	M	102
+Springwood	Year 8	F	583
+Springwood	Year 8	M	537
+Springwood	Year 9	F	766
+Springwood	Year 9	M	876
+Springwood	Year 10	F	4269
+Springwood	Year 10	M	4053
+Springwood	Year 11	F	1471
+Springwood	Year 11	M	1636
+Springwood	Year 12	F	13571
+Springwood	Year 12	M	12596
+Stafford	Did not go to school	F	109
+Stafford	Did not go to school	M	114
+Stafford	Year 8	F	813
+Stafford	Year 8	M	567
+Stafford	Year 9	F	700
+Stafford	Year 9	M	636
+Stafford	Year 10	F	3301
+Stafford	Year 10	M	2807
+Stafford	Year 11	F	1200
+Stafford	Year 11	M	1288
+Stafford	Year 12	F	17031
+Stafford	Year 12	M	15989
+Stretton	Did not go to school	F	469
+Stretton	Did not go to school	M	337
+Stretton	Year 8	F	1040
+Stretton	Year 8	M	733
+Stretton	Year 9	F	780
+Stretton	Year 9	M	781
+Stretton	Year 10	F	2886
+Stretton	Year 10	M	2649
+Stretton	Year 11	F	1088
+Stretton	Year 11	M	1135
+Stretton	Year 12	F	16955
+Stretton	Year 12	M	16620
+Surfers Paradise	Did not go to school	F	98
+Surfers Paradise	Did not go to school	M	105
+Surfers Paradise	Year 8	F	567
+Surfers Paradise	Year 8	M	510
+Surfers Paradise	Year 9	F	871
+Surfers Paradise	Year 9	M	822
+Surfers Paradise	Year 10	F	4105
+Surfers Paradise	Year 10	M	3843
+Surfers Paradise	Year 11	F	1693
+Surfers Paradise	Year 11	M	1853
+Surfers Paradise	Year 12	F	15101
+Surfers Paradise	Year 12	M	14934
+Theodore	Did not go to school	F	101
+Theodore	Did not go to school	M	75
+Theodore	Year 8	F	534
+Theodore	Year 8	M	562
+Theodore	Year 9	F	1210
+Theodore	Year 9	M	1244
+Theodore	Year 10	F	5105
+Theodore	Year 10	M	5063
+Theodore	Year 11	F	2092
+Theodore	Year 11	M	2150
+Theodore	Year 12	F	13844
+Theodore	Year 12	M	12048
+Thuringowa	Did not go to school	F	118
+Thuringowa	Did not go to school	M	123
+Thuringowa	Year 8	F	913
+Thuringowa	Year 8	M	847
+Thuringowa	Year 9	F	1209
+Thuringowa	Year 9	M	1187
+Thuringowa	Year 10	F	5380
+Thuringowa	Year 10	M	4901
+Thuringowa	Year 11	F	1798
+Thuringowa	Year 11	M	1901
+Thuringowa	Year 12	F	10525
+Thuringowa	Year 12	M	9003
+Toohey	Did not go to school	F	367
+Toohey	Did not go to school	M	286
+Toohey	Year 8	F	962
+Toohey	Year 8	M	720
+Toohey	Year 9	F	731
+Toohey	Year 9	M	722
+Toohey	Year 10	F	2880
+Toohey	Year 10	M	2640
+Toohey	Year 11	F	967
+Toohey	Year 11	M	1147
+Toohey	Year 12	F	16872
+Toohey	Year 12	M	17346
+Toowoomba North	Did not go to school	F	341
+Toowoomba North	Did not go to school	M	218
+Toowoomba North	Year 8	F	1309
+Toowoomba North	Year 8	M	1253
+Toowoomba North	Year 9	F	1178
+Toowoomba North	Year 9	M	1252
+Toowoomba North	Year 10	F	5523
+Toowoomba North	Year 10	M	5079
+Toowoomba North	Year 11	F	1668
+Toowoomba North	Year 11	M	1574
+Toowoomba North	Year 12	F	11842
+Toowoomba North	Year 12	M	10362
+Toowoomba South	Did not go to school	F	338
+Toowoomba South	Did not go to school	M	187
+Toowoomba South	Year 8	F	1504
+Toowoomba South	Year 8	M	1230
+Toowoomba South	Year 9	F	1205
+Toowoomba South	Year 9	M	1074
+Toowoomba South	Year 10	F	5665
+Toowoomba South	Year 10	M	4638
+Toowoomba South	Year 11	F	1588
+Toowoomba South	Year 11	M	1429
+Toowoomba South	Year 12	F	13479
+Toowoomba South	Year 12	M	11620
+Townsville	Did not go to school	F	78
+Townsville	Did not go to school	M	101
+Townsville	Year 8	F	752
+Townsville	Year 8	M	801
+Townsville	Year 9	F	954
+Townsville	Year 9	M	976
+Townsville	Year 10	F	4137
+Townsville	Year 10	M	4109
+Townsville	Year 11	F	1624
+Townsville	Year 11	M	1713
+Townsville	Year 12	F	12111
+Townsville	Year 12	M	11006
+Traeger	Did not go to school	F	111
+Traeger	Did not go to school	M	141
+Traeger	Year 8	F	839
+Traeger	Year 8	M	1219
+Traeger	Year 9	F	875
+Traeger	Year 9	M	1170
+Traeger	Year 10	F	3847
+Traeger	Year 10	M	4575
+Traeger	Year 11	F	1320
+Traeger	Year 11	M	1359
+Traeger	Year 12	F	7386
+Traeger	Year 12	M	6287
+Warrego	Did not go to school	F	80
+Warrego	Did not go to school	M	96
+Warrego	Year 8	F	973
+Warrego	Year 8	M	1321
+Warrego	Year 9	F	895
+Warrego	Year 9	M	1313
+Warrego	Year 10	F	4365
+Warrego	Year 10	M	5072
+Warrego	Year 11	F	1228
+Warrego	Year 11	M	1205
+Warrego	Year 12	F	7760
+Warrego	Year 12	M	6029
+Waterford	Did not go to school	F	402
+Waterford	Did not go to school	M	372
+Waterford	Year 8	F	1254
+Waterford	Year 8	M	1044
+Waterford	Year 9	F	1296
+Waterford	Year 9	M	1326
+Waterford	Year 10	F	5007
+Waterford	Year 10	M	4771
+Waterford	Year 11	F	1787
+Waterford	Year 11	M	1854
+Waterford	Year 12	F	12649
+Waterford	Year 12	M	11589
+Whitsunday	Did not go to school	F	50
+Whitsunday	Did not go to school	M	47
+Whitsunday	Year 8	F	563
+Whitsunday	Year 8	M	778
+Whitsunday	Year 9	F	1005
+Whitsunday	Year 9	M	1264
+Whitsunday	Year 10	F	4934
+Whitsunday	Year 10	M	5932
+Whitsunday	Year 11	F	1874
+Whitsunday	Year 11	M	2144
+Whitsunday	Year 12	F	11068
+Whitsunday	Year 12	M	9150
+Woodridge	Did not go to school	F	957
+Woodridge	Did not go to school	M	837
+Woodridge	Year 8	F	1612
+Woodridge	Year 8	M	1553
+Woodridge	Year 9	F	1575
+Woodridge	Year 9	M	1760
+Woodridge	Year 10	F	5587
+Woodridge	Year 10	M	5613
+Woodridge	Year 11	F	2206
+Woodridge	Year 11	M	2359
+Woodridge	Year 12	F	12447
+Woodridge	Year 12	M	11520
+No usual address (Qld)	Did not go to school	F	27
+No usual address (Qld)	Did not go to school	M	42
+No usual address (Qld)	Year 8	F	151
+No usual address (Qld)	Year 8	M	278
+No usual address (Qld)	Year 9	F	304
+No usual address (Qld)	Year 9	M	441
+No usual address (Qld)	Year 10	F	1272
+No usual address (Qld)	Year 10	M	1513
+No usual address (Qld)	Year 11	F	494
+No usual address (Qld)	Year 11	M	535
+No usual address (Qld)	Year 12	F	2483
+No usual address (Qld)	Year 12	M	2202
+Migratory - Offshore - Shipping (Qld)	Year 10	M	18
+Migratory - Offshore - Shipping (Qld)	Year 12	F	3
+Migratory - Offshore - Shipping (Qld)	Year 12	M	23
+Adelaide	Did not go to school	F	127
+Adelaide	Did not go to school	M	100
+Adelaide	Year 8	F	423
+Adelaide	Year 8	M	330
+Adelaide	Year 9	F	432
+Adelaide	Year 9	M	393
+Adelaide	Year 10	F	1268
+Adelaide	Year 10	M	1366
+Adelaide	Year 11	F	1767
+Adelaide	Year 11	M	1767
+Adelaide	Year 12	F	14755
+Adelaide	Year 12	M	14638
+Badcoe	Did not go to school	F	158
+Badcoe	Did not go to school	M	109
+Badcoe	Year 8	F	757
+Badcoe	Year 8	M	510
+Badcoe	Year 9	F	596
+Badcoe	Year 9	M	547
+Badcoe	Year 10	F	1866
+Badcoe	Year 10	M	1614
+Badcoe	Year 11	F	2042
+Badcoe	Year 11	M	2159
+Badcoe	Year 12	F	11806
+Badcoe	Year 12	M	11101
+Black	Did not go to school	F	46
+Black	Did not go to school	M	44
+Black	Year 8	F	307
+Black	Year 8	M	280
+Black	Year 9	F	518
+Black	Year 9	M	556
+Black	Year 10	F	1954
+Black	Year 10	M	2032
+Black	Year 11	F	2496
+Black	Year 11	M	2622
+Black	Year 12	F	9307
+Black	Year 12	M	8274
+Bragg	Did not go to school	F	73
+Bragg	Did not go to school	M	49
+Bragg	Year 8	F	366
+Bragg	Year 8	M	230
+Bragg	Year 9	F	478
+Bragg	Year 9	M	429
+Bragg	Year 10	F	1424
+Bragg	Year 10	M	1031
+Bragg	Year 11	F	1746
+Bragg	Year 11	M	1475
+Bragg	Year 12	F	12001
+Bragg	Year 12	M	11168
+Chaffey	Did not go to school	F	107
+Chaffey	Did not go to school	M	129
+Chaffey	Year 8	F	1052
+Chaffey	Year 8	M	1201
+Chaffey	Year 9	F	1014
+Chaffey	Year 9	M	1328
+Chaffey	Year 10	F	2843
+Chaffey	Year 10	M	3535
+Chaffey	Year 11	F	2980
+Chaffey	Year 11	M	3249
+Chaffey	Year 12	F	5909
+Chaffey	Year 12	M	4959
+Cheltenham	Did not go to school	F	342
+Cheltenham	Did not go to school	M	203
+Cheltenham	Year 8	F	1029
+Cheltenham	Year 8	M	765
+Cheltenham	Year 9	F	722
+Cheltenham	Year 9	M	726
+Cheltenham	Year 10	F	1893
+Cheltenham	Year 10	M	2027
+Cheltenham	Year 11	F	2125
+Cheltenham	Year 11	M	2425
+Cheltenham	Year 12	F	9894
+Cheltenham	Year 12	M	9148
+Colton	Did not go to school	F	118
+Colton	Did not go to school	M	76
+Colton	Year 8	F	802
+Colton	Year 8	M	628
+Colton	Year 9	F	592
+Colton	Year 9	M	526
+Colton	Year 10	F	2074
+Colton	Year 10	M	1802
+Colton	Year 11	F	2327
+Colton	Year 11	M	2336
+Colton	Year 12	F	9767
+Colton	Year 12	M	9135
+Croydon	Did not go to school	F	665
+Croydon	Did not go to school	M	497
+Croydon	Year 8	F	1385
+Croydon	Year 8	M	1068
+Croydon	Year 9	F	831
+Croydon	Year 9	M	714
+Croydon	Year 10	F	1648
+Croydon	Year 10	M	1882
+Croydon	Year 11	F	1716
+Croydon	Year 11	M	2022
+Croydon	Year 12	F	10750
+Croydon	Year 12	M	10890
+Davenport	Did not go to school	F	36
+Davenport	Did not go to school	M	30
+Davenport	Year 8	F	378
+Davenport	Year 8	M	326
+Davenport	Year 9	F	547
+Davenport	Year 9	M	586
+Davenport	Year 10	F	2134
+Davenport	Year 10	M	2031
+Davenport	Year 11	F	2567
+Davenport	Year 11	M	2768
+Davenport	Year 12	F	9499
+Davenport	Year 12	M	8457
+Dunstan	Did not go to school	F	163
+Dunstan	Did not go to school	M	80
+Dunstan	Year 8	F	640
+Dunstan	Year 8	M	461
+Dunstan	Year 9	F	458
+Dunstan	Year 9	M	442
+Dunstan	Year 10	F	1417
+Dunstan	Year 10	M	1179
+Dunstan	Year 11	F	1800
+Dunstan	Year 11	M	1695
+Dunstan	Year 12	F	11959
+Dunstan	Year 12	M	11269
+Elder	Did not go to school	F	152
+Elder	Did not go to school	M	125
+Elder	Year 8	F	716
+Elder	Year 8	M	520
+Elder	Year 9	F	676
+Elder	Year 9	M	590
+Elder	Year 10	F	1869
+Elder	Year 10	M	1560
+Elder	Year 11	F	1932
+Elder	Year 11	M	2136
+Elder	Year 12	F	10990
+Elder	Year 12	M	9997
+Elizabeth	Did not go to school	F	390
+Elizabeth	Did not go to school	M	289
+Elizabeth	Year 8	F	890
+Elizabeth	Year 8	M	844
+Elizabeth	Year 9	F	1153
+Elizabeth	Year 9	M	1107
+Elizabeth	Year 10	F	3166
+Elizabeth	Year 10	M	3223
+Elizabeth	Year 11	F	2874
+Elizabeth	Year 11	M	3190
+Elizabeth	Year 12	F	6377
+Elizabeth	Year 12	M	5633
+Enfield	Did not go to school	F	440
+Enfield	Did not go to school	M	483
+Enfield	Year 8	F	862
+Enfield	Year 8	M	765
+Enfield	Year 9	F	742
+Enfield	Year 9	M	588
+Enfield	Year 10	F	1965
+Enfield	Year 10	M	2212
+Enfield	Year 11	F	1971
+Enfield	Year 11	M	2102
+Enfield	Year 12	F	11192
+Enfield	Year 12	M	11017
+Finniss	Did not go to school	F	34
+Finniss	Did not go to school	M	39
+Finniss	Year 8	F	605
+Finniss	Year 8	M	666
+Finniss	Year 9	F	981
+Finniss	Year 9	M	967
+Finniss	Year 10	F	3350
+Finniss	Year 10	M	3033
+Finniss	Year 11	F	3228
+Finniss	Year 11	M	3015
+Finniss	Year 12	F	6518
+Finniss	Year 12	M	5653
+Flinders	Did not go to school	F	30
+Flinders	Did not go to school	M	40
+Flinders	Year 8	F	751
+Flinders	Year 8	M	885
+Flinders	Year 9	F	790
+Flinders	Year 9	M	1012
+Flinders	Year 10	F	2461
+Flinders	Year 10	M	3145
+Flinders	Year 11	F	2873
+Flinders	Year 11	M	3304
+Flinders	Year 12	F	6282
+Flinders	Year 12	M	4874
+Florey	Did not go to school	F	378
+Florey	Did not go to school	M	303
+Florey	Year 8	F	830
+Florey	Year 8	M	724
+Florey	Year 9	F	837
+Florey	Year 9	M	789
+Florey	Year 10	F	2343
+Florey	Year 10	M	2378
+Florey	Year 11	F	2354
+Florey	Year 11	M	2666
+Florey	Year 12	F	8364
+Florey	Year 12	M	8213
+Frome	Did not go to school	F	49
+Frome	Did not go to school	M	48
+Frome	Year 8	F	675
+Frome	Year 8	M	874
+Frome	Year 9	F	935
+Frome	Year 9	M	1224
+Frome	Year 10	F	2810
+Frome	Year 10	M	3238
+Frome	Year 11	F	3172
+Frome	Year 11	M	3652
+Frome	Year 12	F	6921
+Frome	Year 12	M	5369
+Gibson	Did not go to school	F	126
+Gibson	Did not go to school	M	105
+Gibson	Year 8	F	633
+Gibson	Year 8	M	550
+Gibson	Year 9	F	796
+Gibson	Year 9	M	653
+Gibson	Year 10	F	2462
+Gibson	Year 10	M	1905
+Gibson	Year 11	F	2488
+Gibson	Year 11	M	2290
+Gibson	Year 12	F	10378
+Gibson	Year 12	M	8940
+Giles	Did not go to school	F	75
+Giles	Did not go to school	M	79
+Giles	Year 8	F	756
+Giles	Year 8	M	854
+Giles	Year 9	F	849
+Giles	Year 9	M	1003
+Giles	Year 10	F	2624
+Giles	Year 10	M	2924
+Giles	Year 11	F	2923
+Giles	Year 11	M	3505
+Giles	Year 12	F	5788
+Giles	Year 12	M	5072
+Hammond	Did not go to school	F	60
+Hammond	Did not go to school	M	77
+Hammond	Year 8	F	960
+Hammond	Year 8	M	991
+Hammond	Year 9	F	1079
+Hammond	Year 9	M	1239
+Hammond	Year 10	F	2917
+Hammond	Year 10	M	3585
+Hammond	Year 11	F	2995
+Hammond	Year 11	M	3051
+Hammond	Year 12	F	6455
+Hammond	Year 12	M	5151
+Hartley	Did not go to school	F	252
+Hartley	Did not go to school	M	159
+Hartley	Year 8	F	1215
+Hartley	Year 8	M	816
+Hartley	Year 9	F	656
+Hartley	Year 9	M	545
+Hartley	Year 10	F	1841
+Hartley	Year 10	M	1696
+Hartley	Year 11	F	2043
+Hartley	Year 11	M	2052
+Hartley	Year 12	F	10865
+Hartley	Year 12	M	9901
+Heysen	Did not go to school	F	16
+Heysen	Did not go to school	M	23
+Heysen	Year 8	F	254
+Heysen	Year 8	M	292
+Heysen	Year 9	F	473
+Heysen	Year 9	M	545
+Heysen	Year 10	F	1600
+Heysen	Year 10	M	1711
+Heysen	Year 11	F	2086
+Heysen	Year 11	M	2441
+Heysen	Year 12	F	9609
+Heysen	Year 12	M	8541
+Hurtle Vale	Did not go to school	F	37
+Hurtle Vale	Did not go to school	M	31
+Hurtle Vale	Year 8	F	538
+Hurtle Vale	Year 8	M	489
+Hurtle Vale	Year 9	F	903
+Hurtle Vale	Year 9	M	840
+Hurtle Vale	Year 10	F	2818
+Hurtle Vale	Year 10	M	2769
+Hurtle Vale	Year 11	F	2866
+Hurtle Vale	Year 11	M	3151
+Hurtle Vale	Year 12	F	7130
+Hurtle Vale	Year 12	M	5957
+Kaurna	Did not go to school	F	44
+Kaurna	Did not go to school	M	67
+Kaurna	Year 8	F	515
+Kaurna	Year 8	M	466
+Kaurna	Year 9	F	831
+Kaurna	Year 9	M	882
+Kaurna	Year 10	F	3027
+Kaurna	Year 10	M	2870
+Kaurna	Year 11	F	3074
+Kaurna	Year 11	M	3279
+Kaurna	Year 12	F	8443
+Kaurna	Year 12	M	7085
+Kavel	Did not go to school	F	28
+Kavel	Did not go to school	M	34
+Kavel	Year 8	F	410
+Kavel	Year 8	M	436
+Kavel	Year 9	F	691
+Kavel	Year 9	M	686
+Kavel	Year 10	F	2220
+Kavel	Year 10	M	2235
+Kavel	Year 11	F	2641
+Kavel	Year 11	M	2841
+Kavel	Year 12	F	9347
+Kavel	Year 12	M	7695
+King	Did not go to school	F	126
+King	Did not go to school	M	99
+King	Year 8	F	467
+King	Year 8	M	424
+King	Year 9	F	800
+King	Year 9	M	779
+King	Year 10	F	2651
+King	Year 10	M	2414
+King	Year 11	F	2979
+King	Year 11	M	3111
+King	Year 12	F	7940
+King	Year 12	M	7124
+Lee	Did not go to school	F	196
+Lee	Did not go to school	M	122
+Lee	Year 8	F	1006
+Lee	Year 8	M	655
+Lee	Year 9	F	788
+Lee	Year 9	M	634
+Lee	Year 10	F	2264
+Lee	Year 10	M	1914
+Lee	Year 11	F	2345
+Lee	Year 11	M	2418
+Lee	Year 12	F	7836
+Lee	Year 12	M	7176
+Light	Did not go to school	F	75
+Light	Did not go to school	M	61
+Light	Year 8	F	667
+Light	Year 8	M	607
+Light	Year 9	F	905
+Light	Year 9	M	884
+Light	Year 10	F	2767
+Light	Year 10	M	2700
+Light	Year 11	F	2895
+Light	Year 11	M	3040
+Light	Year 12	F	7131
+Light	Year 12	M	5970
+Mackillop	Did not go to school	F	88
+Mackillop	Did not go to school	M	200
+Mackillop	Year 8	F	856
+Mackillop	Year 8	M	1039
+Mackillop	Year 9	F	854
+Mackillop	Year 9	M	1284
+Mackillop	Year 10	F	2711
+Mackillop	Year 10	M	3453
+Mackillop	Year 11	F	3146
+Mackillop	Year 11	M	3609
+Mackillop	Year 12	F	6665
+Mackillop	Year 12	M	5384
+Mawson	Did not go to school	F	16
+Mawson	Did not go to school	M	31
+Mawson	Year 8	F	459
+Mawson	Year 8	M	514
+Mawson	Year 9	F	708
+Mawson	Year 9	M	941
+Mawson	Year 10	F	2690
+Mawson	Year 10	M	2795
+Mawson	Year 11	F	2877
+Mawson	Year 11	M	3162
+Mawson	Year 12	F	8000
+Mawson	Year 12	M	6576
+Morialta	Did not go to school	F	147
+Morialta	Did not go to school	M	82
+Morialta	Year 8	F	748
+Morialta	Year 8	M	645
+Morialta	Year 9	F	489
+Morialta	Year 9	M	571
+Morialta	Year 10	F	1686
+Morialta	Year 10	M	1651
+Morialta	Year 11	F	2156
+Morialta	Year 11	M	2283
+Morialta	Year 12	F	9979
+Morialta	Year 12	M	9424
+Morphett	Did not go to school	F	68
+Morphett	Did not go to school	M	70
+Morphett	Year 8	F	563
+Morphett	Year 8	M	419
+Morphett	Year 9	F	614
+Morphett	Year 9	M	483
+Morphett	Year 10	F	2173
+Morphett	Year 10	M	1737
+Morphett	Year 11	F	2289
+Morphett	Year 11	M	2196
+Morphett	Year 12	F	9565
+Morphett	Year 12	M	8755
+Mount Gambier	Did not go to school	F	101
+Mount Gambier	Did not go to school	M	91
+Mount Gambier	Year 8	F	792
+Mount Gambier	Year 8	M	891
+Mount Gambier	Year 9	F	898
+Mount Gambier	Year 9	M	1104
+Mount Gambier	Year 10	F	2518
+Mount Gambier	Year 10	M	3304
+Mount Gambier	Year 11	F	3064
+Mount Gambier	Year 11	M	3272
+Mount Gambier	Year 12	F	6243
+Mount Gambier	Year 12	M	4677
+Narungga	Did not go to school	F	23
+Narungga	Did not go to school	M	25
+Narungga	Year 8	F	764
+Narungga	Year 8	M	1028
+Narungga	Year 9	F	985
+Narungga	Year 9	M	1227
+Narungga	Year 10	F	2917
+Narungga	Year 10	M	3286
+Narungga	Year 11	F	2974
+Narungga	Year 11	M	3237
+Narungga	Year 12	F	4957
+Narungga	Year 12	M	3986
+Newland	Did not go to school	F	91
+Newland	Did not go to school	M	55
+Newland	Year 8	F	702
+Newland	Year 8	M	543
+Newland	Year 9	F	737
+Newland	Year 9	M	707
+Newland	Year 10	F	2530
+Newland	Year 10	M	2376
+Newland	Year 11	F	2663
+Newland	Year 11	M	2918
+Newland	Year 12	F	8190
+Newland	Year 12	M	7579
+Playford	Did not go to school	F	745
+Playford	Did not go to school	M	567
+Playford	Year 8	F	983
+Playford	Year 8	M	848
+Playford	Year 9	F	952
+Playford	Year 9	M	906
+Playford	Year 10	F	2324
+Playford	Year 10	M	2416
+Playford	Year 11	F	2293
+Playford	Year 11	M	2592
+Playford	Year 12	F	8362
+Playford	Year 12	M	8100
+Port Adelaide	Did not go to school	F	143
+Port Adelaide	Did not go to school	M	101
+Port Adelaide	Year 8	F	748
+Port Adelaide	Year 8	M	675
+Port Adelaide	Year 9	F	885
+Port Adelaide	Year 9	M	852
+Port Adelaide	Year 10	F	2403
+Port Adelaide	Year 10	M	2402
+Port Adelaide	Year 11	F	2720
+Port Adelaide	Year 11	M	2984
+Port Adelaide	Year 12	F	8183
+Port Adelaide	Year 12	M	7140
+Ramsay	Did not go to school	F	971
+Ramsay	Did not go to school	M	749
+Ramsay	Year 8	F	1329
+Ramsay	Year 8	M	1189
+Ramsay	Year 9	F	1092
+Ramsay	Year 9	M	1137
+Ramsay	Year 10	F	3019
+Ramsay	Year 10	M	3052
+Ramsay	Year 11	F	2734
+Ramsay	Year 11	M	3095
+Ramsay	Year 12	F	6886
+Ramsay	Year 12	M	6432
+Reynell	Did not go to school	F	66
+Reynell	Did not go to school	M	59
+Reynell	Year 8	F	601
+Reynell	Year 8	M	548
+Reynell	Year 9	F	851
+Reynell	Year 9	M	918
+Reynell	Year 10	F	2893
+Reynell	Year 10	M	2916
+Reynell	Year 11	F	2824
+Reynell	Year 11	M	3155
+Reynell	Year 12	F	7026
+Reynell	Year 12	M	6053
+Schubert	Did not go to school	F	29
+Schubert	Did not go to school	M	22
+Schubert	Year 8	F	606
+Schubert	Year 8	M	658
+Schubert	Year 9	F	756
+Schubert	Year 9	M	964
+Schubert	Year 10	F	2509
+Schubert	Year 10	M	2901
+Schubert	Year 11	F	3023
+Schubert	Year 11	M	3346
+Schubert	Year 12	F	7921
+Schubert	Year 12	M	6555
+Stuart	Did not go to school	F	81
+Stuart	Did not go to school	M	80
+Stuart	Year 8	F	1004
+Stuart	Year 8	M	1088
+Stuart	Year 9	F	1016
+Stuart	Year 9	M	1178
+Stuart	Year 10	F	2694
+Stuart	Year 10	M	3323
+Stuart	Year 11	F	3074
+Stuart	Year 11	M	3481
+Stuart	Year 12	F	5247
+Stuart	Year 12	M	4088
+Taylor	Did not go to school	F	326
+Taylor	Did not go to school	M	246
+Taylor	Year 8	F	807
+Taylor	Year 8	M	873
+Taylor	Year 9	F	1027
+Taylor	Year 9	M	1143
+Taylor	Year 10	F	3041
+Taylor	Year 10	M	3027
+Taylor	Year 11	F	2857
+Taylor	Year 11	M	3268
+Taylor	Year 12	F	6876
+Taylor	Year 12	M	5939
+Torrens	Did not go to school	F	217
+Torrens	Did not go to school	M	172
+Torrens	Year 8	F	861
+Torrens	Year 8	M	659
+Torrens	Year 9	F	727
+Torrens	Year 9	M	628
+Torrens	Year 10	F	2075
+Torrens	Year 10	M	1980
+Torrens	Year 11	F	2174
+Torrens	Year 11	M	2298
+Torrens	Year 12	F	11103
+Torrens	Year 12	M	10642
+Unley	Did not go to school	F	85
+Unley	Did not go to school	M	55
+Unley	Year 8	F	528
+Unley	Year 8	M	359
+Unley	Year 9	F	472
+Unley	Year 9	M	347
+Unley	Year 10	F	1404
+Unley	Year 10	M	1004
+Unley	Year 11	F	1783
+Unley	Year 11	M	1540
+Unley	Year 12	F	12228
+Unley	Year 12	M	11045
+Waite	Did not go to school	F	27
+Waite	Did not go to school	M	27
+Waite	Year 8	F	231
+Waite	Year 8	M	263
+Waite	Year 9	F	456
+Waite	Year 9	M	447
+Waite	Year 10	F	1587
+Waite	Year 10	M	1437
+Waite	Year 11	F	1982
+Waite	Year 11	M	2172
+Waite	Year 12	F	10915
+Waite	Year 12	M	9974
+West Torrens	Did not go to school	F	280
+West Torrens	Did not go to school	M	180
+West Torrens	Year 8	F	971
+West Torrens	Year 8	M	690
+West Torrens	Year 9	F	495
+West Torrens	Year 9	M	496
+West Torrens	Year 10	F	1596
+West Torrens	Year 10	M	1629
+West Torrens	Year 11	F	1910
+West Torrens	Year 11	M	2027
+West Torrens	Year 12	F	10203
+West Torrens	Year 12	M	9833
+Wright	Did not go to school	F	126
+Wright	Did not go to school	M	102
+Wright	Year 8	F	546
+Wright	Year 8	M	477
+Wright	Year 9	F	711
+Wright	Year 9	M	728
+Wright	Year 10	F	2474
+Wright	Year 10	M	2398
+Wright	Year 11	F	2759
+Wright	Year 11	M	3131
+Wright	Year 12	F	7984
+Wright	Year 12	M	7094
+No usual address (SA)	Did not go to school	F	6
+No usual address (SA)	Did not go to school	M	10
+No usual address (SA)	Year 8	F	31
+No usual address (SA)	Year 8	M	64
+No usual address (SA)	Year 9	F	70
+No usual address (SA)	Year 9	M	113
+No usual address (SA)	Year 10	F	256
+No usual address (SA)	Year 10	M	291
+No usual address (SA)	Year 11	F	228
+No usual address (SA)	Year 11	M	280
+No usual address (SA)	Year 12	F	417
+No usual address (SA)	Year 12	M	435
+Migratory - Offshore - Shipping (SA)	Year 12	M	4
+Albany (South West)	Did not go to school	F	73
+Albany (South West)	Did not go to school	M	79
+Albany (South West)	Year 8	F	501
+Albany (South West)	Year 8	M	643
+Albany (South West)	Year 9	F	827
+Albany (South West)	Year 9	M	964
+Albany (South West)	Year 10	F	4101
+Albany (South West)	Year 10	M	4701
+Albany (South West)	Year 11	F	1969
+Albany (South West)	Year 11	M	1770
+Albany (South West)	Year 12	F	7880
+Albany (South West)	Year 12	M	6281
+Armadale (East Metropolitan)	Did not go to school	F	185
+Armadale (East Metropolitan)	Did not go to school	M	168
+Armadale (East Metropolitan)	Year 8	F	630
+Armadale (East Metropolitan)	Year 8	M	629
+Armadale (East Metropolitan)	Year 9	F	1091
+Armadale (East Metropolitan)	Year 9	M	1162
+Armadale (East Metropolitan)	Year 10	F	4963
+Armadale (East Metropolitan)	Year 10	M	5160
+Armadale (East Metropolitan)	Year 11	F	2436
+Armadale (East Metropolitan)	Year 11	M	2300
+Armadale (East Metropolitan)	Year 12	F	9591
+Armadale (East Metropolitan)	Year 12	M	8289
+Balcatta (North Metropolitan)	Did not go to school	F	298
+Balcatta (North Metropolitan)	Did not go to school	M	195
+Balcatta (North Metropolitan)	Year 8	F	1017
+Balcatta (North Metropolitan)	Year 8	M	756
+Balcatta (North Metropolitan)	Year 9	F	672
+Balcatta (North Metropolitan)	Year 9	M	591
+Balcatta (North Metropolitan)	Year 10	F	2977
+Balcatta (North Metropolitan)	Year 10	M	2684
+Balcatta (North Metropolitan)	Year 11	F	1337
+Balcatta (North Metropolitan)	Year 11	M	1354
+Balcatta (North Metropolitan)	Year 12	F	12496
+Balcatta (North Metropolitan)	Year 12	M	11572
+Baldivis (South Metropolitan)	Did not go to school	F	74
+Baldivis (South Metropolitan)	Did not go to school	M	60
+Baldivis (South Metropolitan)	Year 8	F	358
+Baldivis (South Metropolitan)	Year 8	M	336
+Baldivis (South Metropolitan)	Year 9	F	944
+Baldivis (South Metropolitan)	Year 9	M	924
+Baldivis (South Metropolitan)	Year 10	F	4631
+Baldivis (South Metropolitan)	Year 10	M	4590
+Baldivis (South Metropolitan)	Year 11	F	2533
+Baldivis (South Metropolitan)	Year 11	M	2592
+Baldivis (South Metropolitan)	Year 12	F	12444
+Baldivis (South Metropolitan)	Year 12	M	10491
+Bassendean (East Metropolitan)	Did not go to school	F	279
+Bassendean (East Metropolitan)	Did not go to school	M	200
+Bassendean (East Metropolitan)	Year 8	F	769
+Bassendean (East Metropolitan)	Year 8	M	640
+Bassendean (East Metropolitan)	Year 9	F	811
+Bassendean (East Metropolitan)	Year 9	M	785
+Bassendean (East Metropolitan)	Year 10	F	3481
+Bassendean (East Metropolitan)	Year 10	M	3661
+Bassendean (East Metropolitan)	Year 11	F	1573
+Bassendean (East Metropolitan)	Year 11	M	1671
+Bassendean (East Metropolitan)	Year 12	F	10006
+Bassendean (East Metropolitan)	Year 12	M	9212
+Bateman (South Metropolitan)	Did not go to school	F	88
+Bateman (South Metropolitan)	Did not go to school	M	55
+Bateman (South Metropolitan)	Year 8	F	386
+Bateman (South Metropolitan)	Year 8	M	265
+Bateman (South Metropolitan)	Year 9	F	572
+Bateman (South Metropolitan)	Year 9	M	477
+Bateman (South Metropolitan)	Year 10	F	2610
+Bateman (South Metropolitan)	Year 10	M	2026
+Bateman (South Metropolitan)	Year 11	F	1188
+Bateman (South Metropolitan)	Year 11	M	1120
+Bateman (South Metropolitan)	Year 12	F	13502
+Bateman (South Metropolitan)	Year 12	M	12964
+Belmont (East Metropolitan)	Did not go to school	F	196
+Belmont (East Metropolitan)	Did not go to school	M	199
+Belmont (East Metropolitan)	Year 8	F	658
+Belmont (East Metropolitan)	Year 8	M	559
+Belmont (East Metropolitan)	Year 9	F	690
+Belmont (East Metropolitan)	Year 9	M	767
+Belmont (East Metropolitan)	Year 10	F	3217
+Belmont (East Metropolitan)	Year 10	M	3485
+Belmont (East Metropolitan)	Year 11	F	1623
+Belmont (East Metropolitan)	Year 11	M	1813
+Belmont (East Metropolitan)	Year 12	F	12288
+Belmont (East Metropolitan)	Year 12	M	11991
+Bicton (South Metropolitan)	Did not go to school	F	48
+Bicton (South Metropolitan)	Did not go to school	M	39
+Bicton (South Metropolitan)	Year 8	F	366
+Bicton (South Metropolitan)	Year 8	M	271
+Bicton (South Metropolitan)	Year 9	F	545
+Bicton (South Metropolitan)	Year 9	M	503
+Bicton (South Metropolitan)	Year 10	F	2543
+Bicton (South Metropolitan)	Year 10	M	2252
+Bicton (South Metropolitan)	Year 11	F	1239
+Bicton (South Metropolitan)	Year 11	M	1199
+Bicton (South Metropolitan)	Year 12	F	11666
+Bicton (South Metropolitan)	Year 12	M	9860
+Bunbury (South West)	Did not go to school	F	65
+Bunbury (South West)	Did not go to school	M	91
+Bunbury (South West)	Year 8	F	591
+Bunbury (South West)	Year 8	M	543
+Bunbury (South West)	Year 9	F	971
+Bunbury (South West)	Year 9	M	1078
+Bunbury (South West)	Year 10	F	4916
+Bunbury (South West)	Year 10	M	5282
+Bunbury (South West)	Year 11	F	2189
+Bunbury (South West)	Year 11	M	2052
+Bunbury (South West)	Year 12	F	8707
+Bunbury (South West)	Year 12	M	7086
+Burns Beach (North Metropolitan)	Did not go to school	F	80
+Burns Beach (North Metropolitan)	Did not go to school	M	45
+Burns Beach (North Metropolitan)	Year 8	F	304
+Burns Beach (North Metropolitan)	Year 8	M	248
+Burns Beach (North Metropolitan)	Year 9	F	624
+Burns Beach (North Metropolitan)	Year 9	M	683
+Burns Beach (North Metropolitan)	Year 10	F	3226
+Burns Beach (North Metropolitan)	Year 10	M	3620
+Burns Beach (North Metropolitan)	Year 11	F	1922
+Burns Beach (North Metropolitan)	Year 11	M	1917
+Burns Beach (North Metropolitan)	Year 12	F	11782
+Burns Beach (North Metropolitan)	Year 12	M	10396
+Butler (North Metropolitan)	Did not go to school	F	102
+Butler (North Metropolitan)	Did not go to school	M	74
+Butler (North Metropolitan)	Year 8	F	382
+Butler (North Metropolitan)	Year 8	M	356
+Butler (North Metropolitan)	Year 9	F	949
+Butler (North Metropolitan)	Year 9	M	973
+Butler (North Metropolitan)	Year 10	F	4665
+Butler (North Metropolitan)	Year 10	M	4705
+Butler (North Metropolitan)	Year 11	F	2576
+Butler (North Metropolitan)	Year 11	M	2520
+Butler (North Metropolitan)	Year 12	F	12599
+Butler (North Metropolitan)	Year 12	M	10386
+Cannington (South Metropolitan)	Did not go to school	F	352
+Cannington (South Metropolitan)	Did not go to school	M	279
+Cannington (South Metropolitan)	Year 8	F	770
+Cannington (South Metropolitan)	Year 8	M	699
+Cannington (South Metropolitan)	Year 9	F	743
+Cannington (South Metropolitan)	Year 9	M	782
+Cannington (South Metropolitan)	Year 10	F	3165
+Cannington (South Metropolitan)	Year 10	M	3142
+Cannington (South Metropolitan)	Year 11	F	1512
+Cannington (South Metropolitan)	Year 11	M	1683
+Cannington (South Metropolitan)	Year 12	F	13623
+Cannington (South Metropolitan)	Year 12	M	13692
+Carine (North Metropolitan)	Did not go to school	F	38
+Carine (North Metropolitan)	Did not go to school	M	27
+Carine (North Metropolitan)	Year 8	F	277
+Carine (North Metropolitan)	Year 8	M	220
+Carine (North Metropolitan)	Year 9	F	579
+Carine (North Metropolitan)	Year 9	M	592
+Carine (North Metropolitan)	Year 10	F	2961
+Carine (North Metropolitan)	Year 10	M	2586
+Carine (North Metropolitan)	Year 11	F	1332
+Carine (North Metropolitan)	Year 11	M	1335
+Carine (North Metropolitan)	Year 12	F	11692
+Carine (North Metropolitan)	Year 12	M	11045
+Central Wheatbelt (Agricultural)	Did not go to school	F	35
+Central Wheatbelt (Agricultural)	Did not go to school	M	44
+Central Wheatbelt (Agricultural)	Year 8	F	513
+Central Wheatbelt (Agricultural)	Year 8	M	757
+Central Wheatbelt (Agricultural)	Year 9	F	867
+Central Wheatbelt (Agricultural)	Year 9	M	1097
+Central Wheatbelt (Agricultural)	Year 10	F	3935
+Central Wheatbelt (Agricultural)	Year 10	M	4521
+Central Wheatbelt (Agricultural)	Year 11	F	1683
+Central Wheatbelt (Agricultural)	Year 11	M	1627
+Central Wheatbelt (Agricultural)	Year 12	F	6142
+Central Wheatbelt (Agricultural)	Year 12	M	5582
+Churchlands (North Metropolitan)	Did not go to school	F	74
+Churchlands (North Metropolitan)	Did not go to school	M	49
+Churchlands (North Metropolitan)	Year 8	F	308
+Churchlands (North Metropolitan)	Year 8	M	196
+Churchlands (North Metropolitan)	Year 9	F	543
+Churchlands (North Metropolitan)	Year 9	M	546
+Churchlands (North Metropolitan)	Year 10	F	2073
+Churchlands (North Metropolitan)	Year 10	M	1632
+Churchlands (North Metropolitan)	Year 11	F	1040
+Churchlands (North Metropolitan)	Year 11	M	1039
+Churchlands (North Metropolitan)	Year 12	F	13799
+Churchlands (North Metropolitan)	Year 12	M	13040
+Cockburn (South Metropolitan)	Did not go to school	F	138
+Cockburn (South Metropolitan)	Did not go to school	M	91
+Cockburn (South Metropolitan)	Year 8	F	502
+Cockburn (South Metropolitan)	Year 8	M	458
+Cockburn (South Metropolitan)	Year 9	F	712
+Cockburn (South Metropolitan)	Year 9	M	775
+Cockburn (South Metropolitan)	Year 10	F	3375
+Cockburn (South Metropolitan)	Year 10	M	3747
+Cockburn (South Metropolitan)	Year 11	F	1876
+Cockburn (South Metropolitan)	Year 11	M	2046
+Cockburn (South Metropolitan)	Year 12	F	12024
+Cockburn (South Metropolitan)	Year 12	M	10571
+Collie-Preston (South West)	Did not go to school	F	45
+Collie-Preston (South West)	Did not go to school	M	55
+Collie-Preston (South West)	Year 8	F	509
+Collie-Preston (South West)	Year 8	M	633
+Collie-Preston (South West)	Year 9	F	942
+Collie-Preston (South West)	Year 9	M	1202
+Collie-Preston (South West)	Year 10	F	5086
+Collie-Preston (South West)	Year 10	M	5692
+Collie-Preston (South West)	Year 11	F	2351
+Collie-Preston (South West)	Year 11	M	2326
+Collie-Preston (South West)	Year 12	F	8069
+Collie-Preston (South West)	Year 12	M	6200
+Cottesloe (North Metropolitan)	Did not go to school	F	27
+Cottesloe (North Metropolitan)	Did not go to school	M	24
+Cottesloe (North Metropolitan)	Year 8	F	197
+Cottesloe (North Metropolitan)	Year 8	M	172
+Cottesloe (North Metropolitan)	Year 9	F	527
+Cottesloe (North Metropolitan)	Year 9	M	458
+Cottesloe (North Metropolitan)	Year 10	F	1904
+Cottesloe (North Metropolitan)	Year 10	M	1425
+Cottesloe (North Metropolitan)	Year 11	F	1070
+Cottesloe (North Metropolitan)	Year 11	M	991
+Cottesloe (North Metropolitan)	Year 12	F	14539
+Cottesloe (North Metropolitan)	Year 12	M	13414
+Darling Range (East Metropolitan)	Did not go to school	F	39
+Darling Range (East Metropolitan)	Did not go to school	M	67
+Darling Range (East Metropolitan)	Year 8	F	313
+Darling Range (East Metropolitan)	Year 8	M	383
+Darling Range (East Metropolitan)	Year 9	F	791
+Darling Range (East Metropolitan)	Year 9	M	1045
+Darling Range (East Metropolitan)	Year 10	F	4381
+Darling Range (East Metropolitan)	Year 10	M	5182
+Darling Range (East Metropolitan)	Year 11	F	2204
+Darling Range (East Metropolitan)	Year 11	M	2283
+Darling Range (East Metropolitan)	Year 12	F	10082
+Darling Range (East Metropolitan)	Year 12	M	8243
+Dawesville (South West)	Did not go to school	F	49
+Dawesville (South West)	Did not go to school	M	47
+Dawesville (South West)	Year 8	F	532
+Dawesville (South West)	Year 8	M	542
+Dawesville (South West)	Year 9	F	1046
+Dawesville (South West)	Year 9	M	1167
+Dawesville (South West)	Year 10	F	5326
+Dawesville (South West)	Year 10	M	5048
+Dawesville (South West)	Year 11	F	2201
+Dawesville (South West)	Year 11	M	2036
+Dawesville (South West)	Year 12	F	8463
+Dawesville (South West)	Year 12	M	7125
+Forrestfield (East Metropolitan)	Did not go to school	F	168
+Forrestfield (East Metropolitan)	Did not go to school	M	161
+Forrestfield (East Metropolitan)	Year 8	F	478
+Forrestfield (East Metropolitan)	Year 8	M	488
+Forrestfield (East Metropolitan)	Year 9	F	799
+Forrestfield (East Metropolitan)	Year 9	M	981
+Forrestfield (East Metropolitan)	Year 10	F	3854
+Forrestfield (East Metropolitan)	Year 10	M	4243
+Forrestfield (East Metropolitan)	Year 11	F	1865
+Forrestfield (East Metropolitan)	Year 11	M	1922
+Forrestfield (East Metropolitan)	Year 12	F	8927
+Forrestfield (East Metropolitan)	Year 12	M	7897
+Fremantle (South Metropolitan)	Did not go to school	F	169
+Fremantle (South Metropolitan)	Did not go to school	M	147
+Fremantle (South Metropolitan)	Year 8	F	781
+Fremantle (South Metropolitan)	Year 8	M	656
+Fremantle (South Metropolitan)	Year 9	F	655
+Fremantle (South Metropolitan)	Year 9	M	628
+Fremantle (South Metropolitan)	Year 10	F	2768
+Fremantle (South Metropolitan)	Year 10	M	2878
+Fremantle (South Metropolitan)	Year 11	F	1236
+Fremantle (South Metropolitan)	Year 11	M	1467
+Fremantle (South Metropolitan)	Year 12	F	12372
+Fremantle (South Metropolitan)	Year 12	M	10888
+Geraldton (Agricultural)	Did not go to school	F	100
+Geraldton (Agricultural)	Did not go to school	M	88
+Geraldton (Agricultural)	Year 8	F	530
+Geraldton (Agricultural)	Year 8	M	653
+Geraldton (Agricultural)	Year 9	F	874
+Geraldton (Agricultural)	Year 9	M	990
+Geraldton (Agricultural)	Year 10	F	3890
+Geraldton (Agricultural)	Year 10	M	4483
+Geraldton (Agricultural)	Year 11	F	2134
+Geraldton (Agricultural)	Year 11	M	1982
+Geraldton (Agricultural)	Year 12	F	6906
+Geraldton (Agricultural)	Year 12	M	5445
+Hillarys (North Metropolitan)	Did not go to school	F	37
+Hillarys (North Metropolitan)	Did not go to school	M	39
+Hillarys (North Metropolitan)	Year 8	F	285
+Hillarys (North Metropolitan)	Year 8	M	237
+Hillarys (North Metropolitan)	Year 9	F	591
+Hillarys (North Metropolitan)	Year 9	M	681
+Hillarys (North Metropolitan)	Year 10	F	3125
+Hillarys (North Metropolitan)	Year 10	M	3278
+Hillarys (North Metropolitan)	Year 11	F	1577
+Hillarys (North Metropolitan)	Year 11	M	1752
+Hillarys (North Metropolitan)	Year 12	F	11085
+Hillarys (North Metropolitan)	Year 12	M	9874
+Jandakot (South Metropolitan)	Did not go to school	F	136
+Jandakot (South Metropolitan)	Did not go to school	M	125
+Jandakot (South Metropolitan)	Year 8	F	361
+Jandakot (South Metropolitan)	Year 8	M	303
+Jandakot (South Metropolitan)	Year 9	F	627
+Jandakot (South Metropolitan)	Year 9	M	651
+Jandakot (South Metropolitan)	Year 10	F	3243
+Jandakot (South Metropolitan)	Year 10	M	3778
+Jandakot (South Metropolitan)	Year 11	F	1641
+Jandakot (South Metropolitan)	Year 11	M	1728
+Jandakot (South Metropolitan)	Year 12	F	15415
+Jandakot (South Metropolitan)	Year 12	M	14374
+Joondalup (North Metropolitan)	Did not go to school	F	51
+Joondalup (North Metropolitan)	Did not go to school	M	32
+Joondalup (North Metropolitan)	Year 8	F	251
+Joondalup (North Metropolitan)	Year 8	M	224
+Joondalup (North Metropolitan)	Year 9	F	541
+Joondalup (North Metropolitan)	Year 9	M	620
+Joondalup (North Metropolitan)	Year 10	F	3047
+Joondalup (North Metropolitan)	Year 10	M	3207
+Joondalup (North Metropolitan)	Year 11	F	1704
+Joondalup (North Metropolitan)	Year 11	M	1724
+Joondalup (North Metropolitan)	Year 12	F	10828
+Joondalup (North Metropolitan)	Year 12	M	10224
+Kalamunda (East Metropolitan)	Did not go to school	F	40
+Kalamunda (East Metropolitan)	Did not go to school	M	36
+Kalamunda (East Metropolitan)	Year 8	F	317
+Kalamunda (East Metropolitan)	Year 8	M	319
+Kalamunda (East Metropolitan)	Year 9	F	640
+Kalamunda (East Metropolitan)	Year 9	M	722
+Kalamunda (East Metropolitan)	Year 10	F	3218
+Kalamunda (East Metropolitan)	Year 10	M	3578
+Kalamunda (East Metropolitan)	Year 11	F	1510
+Kalamunda (East Metropolitan)	Year 11	M	1636
+Kalamunda (East Metropolitan)	Year 12	F	10159
+Kalamunda (East Metropolitan)	Year 12	M	8784
+Kalgoorlie (Mining and Pastoral)	Did not go to school	F	58
+Kalgoorlie (Mining and Pastoral)	Did not go to school	M	92
+Kalgoorlie (Mining and Pastoral)	Year 8	F	352
+Kalgoorlie (Mining and Pastoral)	Year 8	M	424
+Kalgoorlie (Mining and Pastoral)	Year 9	F	587
+Kalgoorlie (Mining and Pastoral)	Year 9	M	836
+Kalgoorlie (Mining and Pastoral)	Year 10	F	3004
+Kalgoorlie (Mining and Pastoral)	Year 10	M	4205
+Kalgoorlie (Mining and Pastoral)	Year 11	F	1518
+Kalgoorlie (Mining and Pastoral)	Year 11	M	1888
+Kalgoorlie (Mining and Pastoral)	Year 12	F	5973
+Kalgoorlie (Mining and Pastoral)	Year 12	M	5764
+Kimberley (Mining and Pastoral)	Did not go to school	F	144
+Kimberley (Mining and Pastoral)	Did not go to school	M	171
+Kimberley (Mining and Pastoral)	Year 8	F	493
+Kimberley (Mining and Pastoral)	Year 8	M	674
+Kimberley (Mining and Pastoral)	Year 9	F	640
+Kimberley (Mining and Pastoral)	Year 9	M	760
+Kimberley (Mining and Pastoral)	Year 10	F	2579
+Kimberley (Mining and Pastoral)	Year 10	M	3136
+Kimberley (Mining and Pastoral)	Year 11	F	1629
+Kimberley (Mining and Pastoral)	Year 11	M	1509
+Kimberley (Mining and Pastoral)	Year 12	F	6137
+Kimberley (Mining and Pastoral)	Year 12	M	4666
+Kingsley (North Metropolitan)	Did not go to school	F	80
+Kingsley (North Metropolitan)	Did not go to school	M	55
+Kingsley (North Metropolitan)	Year 8	F	388
+Kingsley (North Metropolitan)	Year 8	M	285
+Kingsley (North Metropolitan)	Year 9	F	651
+Kingsley (North Metropolitan)	Year 9	M	640
+Kingsley (North Metropolitan)	Year 10	F	3487
+Kingsley (North Metropolitan)	Year 10	M	3445
+Kingsley (North Metropolitan)	Year 11	F	1700
+Kingsley (North Metropolitan)	Year 11	M	1659
+Kingsley (North Metropolitan)	Year 12	F	10633
+Kingsley (North Metropolitan)	Year 12	M	9711
+Kwinana (South Metropolitan)	Did not go to school	F	95
+Kwinana (South Metropolitan)	Did not go to school	M	141
+Kwinana (South Metropolitan)	Year 8	F	481
+Kwinana (South Metropolitan)	Year 8	M	496
+Kwinana (South Metropolitan)	Year 9	F	835
+Kwinana (South Metropolitan)	Year 9	M	920
+Kwinana (South Metropolitan)	Year 10	F	3921
+Kwinana (South Metropolitan)	Year 10	M	5052
+Kwinana (South Metropolitan)	Year 11	F	1876
+Kwinana (South Metropolitan)	Year 11	M	2066
+Kwinana (South Metropolitan)	Year 12	F	10630
+Kwinana (South Metropolitan)	Year 12	M	9414
+Landsdale (North Metropolitan)	Did not go to school	F	331
+Landsdale (North Metropolitan)	Did not go to school	M	237
+Landsdale (North Metropolitan)	Year 8	F	563
+Landsdale (North Metropolitan)	Year 8	M	449
+Landsdale (North Metropolitan)	Year 9	F	735
+Landsdale (North Metropolitan)	Year 9	M	744
+Landsdale (North Metropolitan)	Year 10	F	3265
+Landsdale (North Metropolitan)	Year 10	M	3326
+Landsdale (North Metropolitan)	Year 11	F	1725
+Landsdale (North Metropolitan)	Year 11	M	1839
+Landsdale (North Metropolitan)	Year 12	F	12091
+Landsdale (North Metropolitan)	Year 12	M	10967
+Mandurah (South West)	Did not go to school	F	57
+Mandurah (South West)	Did not go to school	M	72
+Mandurah (South West)	Year 8	F	735
+Mandurah (South West)	Year 8	M	704
+Mandurah (South West)	Year 9	F	1223
+Mandurah (South West)	Year 9	M	1168
+Mandurah (South West)	Year 10	F	5357
+Mandurah (South West)	Year 10	M	4893
+Mandurah (South West)	Year 11	F	2366
+Mandurah (South West)	Year 11	M	2104
+Mandurah (South West)	Year 12	F	8575
+Mandurah (South West)	Year 12	M	7167
+Maylands (East Metropolitan)	Did not go to school	F	148
+Maylands (East Metropolitan)	Did not go to school	M	89
+Maylands (East Metropolitan)	Year 8	F	548
+Maylands (East Metropolitan)	Year 8	M	414
+Maylands (East Metropolitan)	Year 9	F	513
+Maylands (East Metropolitan)	Year 9	M	544
+Maylands (East Metropolitan)	Year 10	F	2403
+Maylands (East Metropolitan)	Year 10	M	2386
+Maylands (East Metropolitan)	Year 11	F	1244
+Maylands (East Metropolitan)	Year 11	M	1320
+Maylands (East Metropolitan)	Year 12	F	12838
+Maylands (East Metropolitan)	Year 12	M	12009
+Midland (East Metropolitan)	Did not go to school	F	132
+Midland (East Metropolitan)	Did not go to school	M	111
+Midland (East Metropolitan)	Year 8	F	685
+Midland (East Metropolitan)	Year 8	M	603
+Midland (East Metropolitan)	Year 9	F	875
+Midland (East Metropolitan)	Year 9	M	977
+Midland (East Metropolitan)	Year 10	F	4360
+Midland (East Metropolitan)	Year 10	M	4540
+Midland (East Metropolitan)	Year 11	F	2015
+Midland (East Metropolitan)	Year 11	M	2062
+Midland (East Metropolitan)	Year 12	F	10154
+Midland (East Metropolitan)	Year 12	M	9070
+Mirrabooka (East Metropolitan)	Did not go to school	F	785
+Mirrabooka (East Metropolitan)	Did not go to school	M	644
+Mirrabooka (East Metropolitan)	Year 8	F	1319
+Mirrabooka (East Metropolitan)	Year 8	M	1083
+Mirrabooka (East Metropolitan)	Year 9	F	914
+Mirrabooka (East Metropolitan)	Year 9	M	913
+Mirrabooka (East Metropolitan)	Year 10	F	3499
+Mirrabooka (East Metropolitan)	Year 10	M	3548
+Mirrabooka (East Metropolitan)	Year 11	F	1625
+Mirrabooka (East Metropolitan)	Year 11	M	1751
+Mirrabooka (East Metropolitan)	Year 12	F	9973
+Mirrabooka (East Metropolitan)	Year 12	M	9760
+Moore (Agricultural)	Did not go to school	F	48
+Moore (Agricultural)	Did not go to school	M	45
+Moore (Agricultural)	Year 8	F	440
+Moore (Agricultural)	Year 8	M	681
+Moore (Agricultural)	Year 9	F	755
+Moore (Agricultural)	Year 9	M	1102
+Moore (Agricultural)	Year 10	F	3991
+Moore (Agricultural)	Year 10	M	4965
+Moore (Agricultural)	Year 11	F	1747
+Moore (Agricultural)	Year 11	M	1780
+Moore (Agricultural)	Year 12	F	6576
+Moore (Agricultural)	Year 12	M	5778
+Morley (East Metropolitan)	Did not go to school	F	294
+Morley (East Metropolitan)	Did not go to school	M	232
+Morley (East Metropolitan)	Year 8	F	1022
+Morley (East Metropolitan)	Year 8	M	733
+Morley (East Metropolitan)	Year 9	F	768
+Morley (East Metropolitan)	Year 9	M	741
+Morley (East Metropolitan)	Year 10	F	3210
+Morley (East Metropolitan)	Year 10	M	3057
+Morley (East Metropolitan)	Year 11	F	1476
+Morley (East Metropolitan)	Year 11	M	1566
+Morley (East Metropolitan)	Year 12	F	11642
+Morley (East Metropolitan)	Year 12	M	11077
+Mount Lawley (East Metropolitan)	Did not go to school	F	161
+Mount Lawley (East Metropolitan)	Did not go to school	M	118
+Mount Lawley (East Metropolitan)	Year 8	F	681
+Mount Lawley (East Metropolitan)	Year 8	M	426
+Mount Lawley (East Metropolitan)	Year 9	F	619
+Mount Lawley (East Metropolitan)	Year 9	M	514
+Mount Lawley (East Metropolitan)	Year 10	F	2537
+Mount Lawley (East Metropolitan)	Year 10	M	2201
+Mount Lawley (East Metropolitan)	Year 11	F	1289
+Mount Lawley (East Metropolitan)	Year 11	M	1205
+Mount Lawley (East Metropolitan)	Year 12	F	12724
+Mount Lawley (East Metropolitan)	Year 12	M	11789
+Murray-Wellington (South West)	Did not go to school	F	34
+Murray-Wellington (South West)	Did not go to school	M	54
+Murray-Wellington (South West)	Year 8	F	564
+Murray-Wellington (South West)	Year 8	M	709
+Murray-Wellington (South West)	Year 9	F	1005
+Murray-Wellington (South West)	Year 9	M	1292
+Murray-Wellington (South West)	Year 10	F	5158
+Murray-Wellington (South West)	Year 10	M	5665
+Murray-Wellington (South West)	Year 11	F	2387
+Murray-Wellington (South West)	Year 11	M	2178
+Murray-Wellington (South West)	Year 12	F	7325
+Murray-Wellington (South West)	Year 12	M	6052
+Nedlands (North Metropolitan)	Did not go to school	F	38
+Nedlands (North Metropolitan)	Did not go to school	M	40
+Nedlands (North Metropolitan)	Year 8	F	205
+Nedlands (North Metropolitan)	Year 8	M	132
+Nedlands (North Metropolitan)	Year 9	F	377
+Nedlands (North Metropolitan)	Year 9	M	412
+Nedlands (North Metropolitan)	Year 10	F	1589
+Nedlands (North Metropolitan)	Year 10	M	1249
+Nedlands (North Metropolitan)	Year 11	F	824
+Nedlands (North Metropolitan)	Year 11	M	831
+Nedlands (North Metropolitan)	Year 12	F	16459
+Nedlands (North Metropolitan)	Year 12	M	15258
+North West Central (Mining and Pastoral)	Did not go to school	F	64
+North West Central (Mining and Pastoral)	Did not go to school	M	80
+North West Central (Mining and Pastoral)	Year 8	F	281
+North West Central (Mining and Pastoral)	Year 8	M	370
+North West Central (Mining and Pastoral)	Year 9	F	339
+North West Central (Mining and Pastoral)	Year 9	M	537
+North West Central (Mining and Pastoral)	Year 10	F	1700
+North West Central (Mining and Pastoral)	Year 10	M	2436
+North West Central (Mining and Pastoral)	Year 11	F	865
+North West Central (Mining and Pastoral)	Year 11	M	1159
+North West Central (Mining and Pastoral)	Year 12	F	3501
+North West Central (Mining and Pastoral)	Year 12	M	3454
+Perth (North Metropolitan)	Did not go to school	F	186
+Perth (North Metropolitan)	Did not go to school	M	110
+Perth (North Metropolitan)	Year 8	F	479
+Perth (North Metropolitan)	Year 8	M	329
+Perth (North Metropolitan)	Year 9	F	366
+Perth (North Metropolitan)	Year 9	M	441
+Perth (North Metropolitan)	Year 10	F	1896
+Perth (North Metropolitan)	Year 10	M	2111
+Perth (North Metropolitan)	Year 11	F	1189
+Perth (North Metropolitan)	Year 11	M	1427
+Perth (North Metropolitan)	Year 12	F	17254
+Perth (North Metropolitan)	Year 12	M	17643
+Pilbara (Mining and Pastoral)	Did not go to school	F	68
+Pilbara (Mining and Pastoral)	Did not go to school	M	115
+Pilbara (Mining and Pastoral)	Year 8	F	273
+Pilbara (Mining and Pastoral)	Year 8	M	323
+Pilbara (Mining and Pastoral)	Year 9	F	512
+Pilbara (Mining and Pastoral)	Year 9	M	816
+Pilbara (Mining and Pastoral)	Year 10	F	2595
+Pilbara (Mining and Pastoral)	Year 10	M	4314
+Pilbara (Mining and Pastoral)	Year 11	F	1646
+Pilbara (Mining and Pastoral)	Year 11	M	2517
+Pilbara (Mining and Pastoral)	Year 12	F	8005
+Pilbara (Mining and Pastoral)	Year 12	M	8071
+Riverton (South Metropolitan)	Did not go to school	F	141
+Riverton (South Metropolitan)	Did not go to school	M	80
+Riverton (South Metropolitan)	Year 8	F	413
+Riverton (South Metropolitan)	Year 8	M	332
+Riverton (South Metropolitan)	Year 9	F	658
+Riverton (South Metropolitan)	Year 9	M	637
+Riverton (South Metropolitan)	Year 10	F	2673
+Riverton (South Metropolitan)	Year 10	M	2381
+Riverton (South Metropolitan)	Year 11	F	1301
+Riverton (South Metropolitan)	Year 11	M	1262
+Riverton (South Metropolitan)	Year 12	F	13209
+Riverton (South Metropolitan)	Year 12	M	12357
+Rockingham (South Metropolitan)	Did not go to school	F	74
+Rockingham (South Metropolitan)	Did not go to school	M	67
+Rockingham (South Metropolitan)	Year 8	F	576
+Rockingham (South Metropolitan)	Year 8	M	511
+Rockingham (South Metropolitan)	Year 9	F	973
+Rockingham (South Metropolitan)	Year 9	M	1009
+Rockingham (South Metropolitan)	Year 10	F	4614
+Rockingham (South Metropolitan)	Year 10	M	4852
+Rockingham (South Metropolitan)	Year 11	F	2034
+Rockingham (South Metropolitan)	Year 11	M	2069
+Rockingham (South Metropolitan)	Year 12	F	7767
+Rockingham (South Metropolitan)	Year 12	M	6923
+Roe (Agricultural)	Did not go to school	F	93
+Roe (Agricultural)	Did not go to school	M	108
+Roe (Agricultural)	Year 8	F	494
+Roe (Agricultural)	Year 8	M	652
+Roe (Agricultural)	Year 9	F	751
+Roe (Agricultural)	Year 9	M	978
+Roe (Agricultural)	Year 10	F	3306
+Roe (Agricultural)	Year 10	M	4194
+Roe (Agricultural)	Year 11	F	1782
+Roe (Agricultural)	Year 11	M	1678
+Roe (Agricultural)	Year 12	F	6760
+Roe (Agricultural)	Year 12	M	5991
+Scarborough (North Metropolitan)	Did not go to school	F	67
+Scarborough (North Metropolitan)	Did not go to school	M	56
+Scarborough (North Metropolitan)	Year 8	F	420
+Scarborough (North Metropolitan)	Year 8	M	293
+Scarborough (North Metropolitan)	Year 9	F	601
+Scarborough (North Metropolitan)	Year 9	M	528
+Scarborough (North Metropolitan)	Year 10	F	2670
+Scarborough (North Metropolitan)	Year 10	M	2365
+Scarborough (North Metropolitan)	Year 11	F	1356
+Scarborough (North Metropolitan)	Year 11	M	1414
+Scarborough (North Metropolitan)	Year 12	F	13905
+Scarborough (North Metropolitan)	Year 12	M	12146
+South Perth (South Metropolitan)	Did not go to school	F	96
+South Perth (South Metropolitan)	Did not go to school	M	58
+South Perth (South Metropolitan)	Year 8	F	310
+South Perth (South Metropolitan)	Year 8	M	238
+South Perth (South Metropolitan)	Year 9	F	469
+South Perth (South Metropolitan)	Year 9	M	478
+South Perth (South Metropolitan)	Year 10	F	2241
+South Perth (South Metropolitan)	Year 10	M	1929
+South Perth (South Metropolitan)	Year 11	F	1176
+South Perth (South Metropolitan)	Year 11	M	1100
+South Perth (South Metropolitan)	Year 12	F	13665
+South Perth (South Metropolitan)	Year 12	M	12989
+Southern River (South Metropolitan)	Did not go to school	F	296
+Southern River (South Metropolitan)	Did not go to school	M	222
+Southern River (South Metropolitan)	Year 8	F	580
+Southern River (South Metropolitan)	Year 8	M	520
+Southern River (South Metropolitan)	Year 9	F	830
+Southern River (South Metropolitan)	Year 9	M	886
+Southern River (South Metropolitan)	Year 10	F	3651
+Southern River (South Metropolitan)	Year 10	M	3767
+Southern River (South Metropolitan)	Year 11	F	1818
+Southern River (South Metropolitan)	Year 11	M	1813
+Southern River (South Metropolitan)	Year 12	F	12147
+Southern River (South Metropolitan)	Year 12	M	11170
+Swan Hills (East Metropolitan)	Did not go to school	F	110
+Swan Hills (East Metropolitan)	Did not go to school	M	189
+Swan Hills (East Metropolitan)	Year 8	F	335
+Swan Hills (East Metropolitan)	Year 8	M	427
+Swan Hills (East Metropolitan)	Year 9	F	775
+Swan Hills (East Metropolitan)	Year 9	M	941
+Swan Hills (East Metropolitan)	Year 10	F	3995
+Swan Hills (East Metropolitan)	Year 10	M	5705
+Swan Hills (East Metropolitan)	Year 11	F	2181
+Swan Hills (East Metropolitan)	Year 11	M	2245
+Swan Hills (East Metropolitan)	Year 12	F	10359
+Swan Hills (East Metropolitan)	Year 12	M	8884
+Thornlie (East Metropolitan)	Did not go to school	F	422
+Thornlie (East Metropolitan)	Did not go to school	M	355
+Thornlie (East Metropolitan)	Year 8	F	845
+Thornlie (East Metropolitan)	Year 8	M	757
+Thornlie (East Metropolitan)	Year 9	F	937
+Thornlie (East Metropolitan)	Year 9	M	965
+Thornlie (East Metropolitan)	Year 10	F	4274
+Thornlie (East Metropolitan)	Year 10	M	4276
+Thornlie (East Metropolitan)	Year 11	F	1904
+Thornlie (East Metropolitan)	Year 11	M	1940
+Thornlie (East Metropolitan)	Year 12	F	10050
+Thornlie (East Metropolitan)	Year 12	M	9491
+Vasse (South West)	Did not go to school	F	44
+Vasse (South West)	Did not go to school	M	73
+Vasse (South West)	Year 8	F	461
+Vasse (South West)	Year 8	M	472
+Vasse (South West)	Year 9	F	774
+Vasse (South West)	Year 9	M	898
+Vasse (South West)	Year 10	F	4421
+Vasse (South West)	Year 10	M	4418
+Vasse (South West)	Year 11	F	2013
+Vasse (South West)	Year 11	M	1991
+Vasse (South West)	Year 12	F	9620
+Vasse (South West)	Year 12	M	8006
+Victoria Park (South Metropolitan)	Did not go to school	F	178
+Victoria Park (South Metropolitan)	Did not go to school	M	138
+Victoria Park (South Metropolitan)	Year 8	F	551
+Victoria Park (South Metropolitan)	Year 8	M	390
+Victoria Park (South Metropolitan)	Year 9	F	541
+Victoria Park (South Metropolitan)	Year 9	M	515
+Victoria Park (South Metropolitan)	Year 10	F	2305
+Victoria Park (South Metropolitan)	Year 10	M	2474
+Victoria Park (South Metropolitan)	Year 11	F	1206
+Victoria Park (South Metropolitan)	Year 11	M	1358
+Victoria Park (South Metropolitan)	Year 12	F	14160
+Victoria Park (South Metropolitan)	Year 12	M	14561
+Wanneroo (North Metropolitan)	Did not go to school	F	124
+Wanneroo (North Metropolitan)	Did not go to school	M	93
+Wanneroo (North Metropolitan)	Year 8	F	414
+Wanneroo (North Metropolitan)	Year 8	M	349
+Wanneroo (North Metropolitan)	Year 9	F	779
+Wanneroo (North Metropolitan)	Year 9	M	873
+Wanneroo (North Metropolitan)	Year 10	F	3783
+Wanneroo (North Metropolitan)	Year 10	M	4282
+Wanneroo (North Metropolitan)	Year 11	F	2101
+Wanneroo (North Metropolitan)	Year 11	M	2141
+Wanneroo (North Metropolitan)	Year 12	F	11636
+Wanneroo (North Metropolitan)	Year 12	M	9943
+Warnbro (South Metropolitan)	Did not go to school	F	47
+Warnbro (South Metropolitan)	Did not go to school	M	58
+Warnbro (South Metropolitan)	Year 8	F	367
+Warnbro (South Metropolitan)	Year 8	M	335
+Warnbro (South Metropolitan)	Year 9	F	918
+Warnbro (South Metropolitan)	Year 9	M	990
+Warnbro (South Metropolitan)	Year 10	F	4685
+Warnbro (South Metropolitan)	Year 10	M	4951
+Warnbro (South Metropolitan)	Year 11	F	2453
+Warnbro (South Metropolitan)	Year 11	M	2498
+Warnbro (South Metropolitan)	Year 12	F	9946
+Warnbro (South Metropolitan)	Year 12	M	8410
+Warren-Blackwood (South West)	Did not go to school	F	57
+Warren-Blackwood (South West)	Did not go to school	M	93
+Warren-Blackwood (South West)	Year 8	F	415
+Warren-Blackwood (South West)	Year 8	M	555
+Warren-Blackwood (South West)	Year 9	F	781
+Warren-Blackwood (South West)	Year 9	M	991
+Warren-Blackwood (South West)	Year 10	F	3959
+Warren-Blackwood (South West)	Year 10	M	4774
+Warren-Blackwood (South West)	Year 11	F	1961
+Warren-Blackwood (South West)	Year 11	M	1864
+Warren-Blackwood (South West)	Year 12	F	9234
+Warren-Blackwood (South West)	Year 12	M	7698
+West Swan (East Metropolitan)	Did not go to school	F	312
+West Swan (East Metropolitan)	Did not go to school	M	211
+West Swan (East Metropolitan)	Year 8	F	603
+West Swan (East Metropolitan)	Year 8	M	474
+West Swan (East Metropolitan)	Year 9	F	838
+West Swan (East Metropolitan)	Year 9	M	873
+West Swan (East Metropolitan)	Year 10	F	4099
+West Swan (East Metropolitan)	Year 10	M	4120
+West Swan (East Metropolitan)	Year 11	F	2050
+West Swan (East Metropolitan)	Year 11	M	2125
+West Swan (East Metropolitan)	Year 12	F	12317
+West Swan (East Metropolitan)	Year 12	M	11214
+Willagee (South Metropolitan)	Did not go to school	F	113
+Willagee (South Metropolitan)	Did not go to school	M	101
+Willagee (South Metropolitan)	Year 8	F	705
+Willagee (South Metropolitan)	Year 8	M	540
+Willagee (South Metropolitan)	Year 9	F	763
+Willagee (South Metropolitan)	Year 9	M	783
+Willagee (South Metropolitan)	Year 10	F	3364
+Willagee (South Metropolitan)	Year 10	M	3279
+Willagee (South Metropolitan)	Year 11	F	1561
+Willagee (South Metropolitan)	Year 11	M	1518
+Willagee (South Metropolitan)	Year 12	F	10296
+Willagee (South Metropolitan)	Year 12	M	8922
+No usual address (WA)	Did not go to school	F	14
+No usual address (WA)	Did not go to school	M	10
+No usual address (WA)	Year 8	F	36
+No usual address (WA)	Year 8	M	80
+No usual address (WA)	Year 9	F	100
+No usual address (WA)	Year 9	M	143
+No usual address (WA)	Year 10	F	423
+No usual address (WA)	Year 10	M	620
+No usual address (WA)	Year 11	F	218
+No usual address (WA)	Year 11	M	239
+No usual address (WA)	Year 12	F	1029
+No usual address (WA)	Year 12	M	997
+Migratory - Offshore - Shipping (WA)	Did not go to school	M	3
+Migratory - Offshore - Shipping (WA)	Year 9	M	13
+Migratory - Offshore - Shipping (WA)	Year 10	F	6
+Migratory - Offshore - Shipping (WA)	Year 10	M	59
+Migratory - Offshore - Shipping (WA)	Year 11	M	38
+Migratory - Offshore - Shipping (WA)	Year 12	F	30
+Migratory - Offshore - Shipping (WA)	Year 12	M	143
+Bass (Launceston)	Did not go to school	F	66
+Bass (Launceston)	Did not go to school	M	63
+Bass (Launceston)	Year 8	F	387
+Bass (Launceston)	Year 8	M	338
+Bass (Launceston)	Year 9	F	666
+Bass (Launceston)	Year 9	M	562
+Bass (Launceston)	Year 10	F	2722
+Bass (Launceston)	Year 10	M	2524
+Bass (Launceston)	Year 11	F	910
+Bass (Launceston)	Year 11	M	784
+Bass (Launceston)	Year 12	F	5526
+Bass (Launceston)	Year 12	M	4803
+Bass (McIntyre)	Did not go to school	F	3
+Bass (McIntyre)	Did not go to school	M	6
+Bass (McIntyre)	Year 8	F	113
+Bass (McIntyre)	Year 8	M	148
+Bass (McIntyre)	Year 9	F	290
+Bass (McIntyre)	Year 9	M	378
+Bass (McIntyre)	Year 10	F	1110
+Bass (McIntyre)	Year 10	M	1349
+Bass (McIntyre)	Year 11	F	309
+Bass (McIntyre)	Year 11	M	238
+Bass (McIntyre)	Year 12	F	1149
+Bass (McIntyre)	Year 12	M	826
+Bass (Rosevears)	Did not go to school	F	57
+Bass (Rosevears)	Did not go to school	M	57
+Bass (Rosevears)	Year 8	F	472
+Bass (Rosevears)	Year 8	M	527
+Bass (Rosevears)	Year 9	F	989
+Bass (Rosevears)	Year 9	M	1033
+Bass (Rosevears)	Year 10	F	4550
+Bass (Rosevears)	Year 10	M	4700
+Bass (Rosevears)	Year 11	F	1503
+Bass (Rosevears)	Year 11	M	1321
+Bass (Rosevears)	Year 12	F	7799
+Bass (Rosevears)	Year 12	M	6647
+Bass (Windermere)	Did not go to school	F	244
+Bass (Windermere)	Did not go to school	M	228
+Bass (Windermere)	Year 8	F	797
+Bass (Windermere)	Year 8	M	846
+Bass (Windermere)	Year 9	F	1250
+Bass (Windermere)	Year 9	M	1360
+Bass (Windermere)	Year 10	F	5033
+Bass (Windermere)	Year 10	M	5244
+Bass (Windermere)	Year 11	F	1484
+Bass (Windermere)	Year 11	M	1281
+Bass (Windermere)	Year 12	F	6654
+Bass (Windermere)	Year 12	M	6195
+Braddon (Mersey)	Did not go to school	F	58
+Braddon (Mersey)	Did not go to school	M	59
+Braddon (Mersey)	Year 8	F	694
+Braddon (Mersey)	Year 8	M	695
+Braddon (Mersey)	Year 9	F	1550
+Braddon (Mersey)	Year 9	M	1488
+Braddon (Mersey)	Year 10	F	5831
+Braddon (Mersey)	Year 10	M	5846
+Braddon (Mersey)	Year 11	F	1641
+Braddon (Mersey)	Year 11	M	1414
+Braddon (Mersey)	Year 12	F	5984
+Braddon (Mersey)	Year 12	M	4853
+Braddon (Montgomery)	Did not go to school	F	29
+Braddon (Montgomery)	Did not go to school	M	42
+Braddon (Montgomery)	Year 8	F	651
+Braddon (Montgomery)	Year 8	M	705
+Braddon (Montgomery)	Year 9	F	1263
+Braddon (Montgomery)	Year 9	M	1294
+Braddon (Montgomery)	Year 10	F	4854
+Braddon (Montgomery)	Year 10	M	4980
+Braddon (Montgomery)	Year 11	F	1454
+Braddon (Montgomery)	Year 11	M	1169
+Braddon (Montgomery)	Year 12	F	5009
+Braddon (Montgomery)	Year 12	M	3923
+Braddon (Murchison)	Did not go to school	F	49
+Braddon (Murchison)	Did not go to school	M	69
+Braddon (Murchison)	Year 8	F	657
+Braddon (Murchison)	Year 8	M	847
+Braddon (Murchison)	Year 9	F	1354
+Braddon (Murchison)	Year 9	M	1528
+Braddon (Murchison)	Year 10	F	5296
+Braddon (Murchison)	Year 10	M	5646
+Braddon (Murchison)	Year 11	F	1671
+Braddon (Murchison)	Year 11	M	1432
+Braddon (Murchison)	Year 12	F	5809
+Braddon (Murchison)	Year 12	M	4730
+Clark (Derwent)	Did not go to school	F	43
+Clark (Derwent)	Did not go to school	M	42
+Clark (Derwent)	Year 8	F	282
+Clark (Derwent)	Year 8	M	281
+Clark (Derwent)	Year 9	F	604
+Clark (Derwent)	Year 9	M	532
+Clark (Derwent)	Year 10	F	2126
+Clark (Derwent)	Year 10	M	2004
+Clark (Derwent)	Year 11	F	648
+Clark (Derwent)	Year 11	M	597
+Clark (Derwent)	Year 12	F	2806
+Clark (Derwent)	Year 12	M	2662
+Clark (Elwick)	Did not go to school	F	218
+Clark (Elwick)	Did not go to school	M	182
+Clark (Elwick)	Year 8	F	765
+Clark (Elwick)	Year 8	M	649
+Clark (Elwick)	Year 9	F	1064
+Clark (Elwick)	Year 9	M	888
+Clark (Elwick)	Year 10	F	3665
+Clark (Elwick)	Year 10	M	3464
+Clark (Elwick)	Year 11	F	1126
+Clark (Elwick)	Year 11	M	1065
+Clark (Elwick)	Year 12	F	8264
+Clark (Elwick)	Year 12	M	8277
+Clark (Hobart)	Did not go to school	F	85
+Clark (Hobart)	Did not go to school	M	57
+Clark (Hobart)	Year 8	F	317
+Clark (Hobart)	Year 8	M	277
+Clark (Hobart)	Year 9	F	480
+Clark (Hobart)	Year 9	M	465
+Clark (Hobart)	Year 10	F	1875
+Clark (Hobart)	Year 10	M	1767
+Clark (Hobart)	Year 11	F	826
+Clark (Hobart)	Year 11	M	861
+Clark (Hobart)	Year 12	F	11963
+Clark (Hobart)	Year 12	M	11018
+Clark (Huon)	Year 9	F	5
+Clark (Huon)	Year 9	M	7
+Clark (Huon)	Year 10	F	16
+Clark (Huon)	Year 10	M	39
+Clark (Huon)	Year 11	F	15
+Clark (Huon)	Year 11	M	14
+Clark (Huon)	Year 12	F	97
+Clark (Huon)	Year 12	M	83
+Clark (Nelson)	Did not go to school	F	31
+Clark (Nelson)	Did not go to school	M	28
+Clark (Nelson)	Year 8	F	166
+Clark (Nelson)	Year 8	M	166
+Clark (Nelson)	Year 9	F	282
+Clark (Nelson)	Year 9	M	247
+Clark (Nelson)	Year 10	F	1124
+Clark (Nelson)	Year 10	M	955
+Clark (Nelson)	Year 11	F	518
+Clark (Nelson)	Year 11	M	476
+Clark (Nelson)	Year 12	F	6910
+Clark (Nelson)	Year 12	M	6493
+Franklin (Huon)	Did not go to school	F	24
+Franklin (Huon)	Did not go to school	M	36
+Franklin (Huon)	Year 8	F	362
+Franklin (Huon)	Year 8	M	500
+Franklin (Huon)	Year 9	F	803
+Franklin (Huon)	Year 9	M	968
+Franklin (Huon)	Year 10	F	3624
+Franklin (Huon)	Year 10	M	3979
+Franklin (Huon)	Year 11	F	1257
+Franklin (Huon)	Year 11	M	1327
+Franklin (Huon)	Year 12	F	8021
+Franklin (Huon)	Year 12	M	6858
+Franklin (Nelson)	Did not go to school	F	30
+Franklin (Nelson)	Did not go to school	M	22
+Franklin (Nelson)	Year 8	F	183
+Franklin (Nelson)	Year 8	M	168
+Franklin (Nelson)	Year 9	F	332
+Franklin (Nelson)	Year 9	M	291
+Franklin (Nelson)	Year 10	F	1455
+Franklin (Nelson)	Year 10	M	1246
+Franklin (Nelson)	Year 11	F	498
+Franklin (Nelson)	Year 11	M	479
+Franklin (Nelson)	Year 12	F	4319
+Franklin (Nelson)	Year 12	M	3721
+Franklin (Pembroke)	Did not go to school	F	53
+Franklin (Pembroke)	Did not go to school	M	60
+Franklin (Pembroke)	Year 8	F	467
+Franklin (Pembroke)	Year 8	M	351
+Franklin (Pembroke)	Year 9	F	774
+Franklin (Pembroke)	Year 9	M	675
+Franklin (Pembroke)	Year 10	F	3592
+Franklin (Pembroke)	Year 10	M	3023
+Franklin (Pembroke)	Year 11	F	1097
+Franklin (Pembroke)	Year 11	M	965
+Franklin (Pembroke)	Year 12	F	7798
+Franklin (Pembroke)	Year 12	M	7183
+Franklin (Rumney)	Did not go to school	F	28
+Franklin (Rumney)	Did not go to school	M	38
+Franklin (Rumney)	Year 8	F	281
+Franklin (Rumney)	Year 8	M	315
+Franklin (Rumney)	Year 9	F	661
+Franklin (Rumney)	Year 9	M	656
+Franklin (Rumney)	Year 10	F	2989
+Franklin (Rumney)	Year 10	M	3209
+Franklin (Rumney)	Year 11	F	1059
+Franklin (Rumney)	Year 11	M	1000
+Franklin (Rumney)	Year 12	F	5674
+Franklin (Rumney)	Year 12	M	5114
+Lyons (Derwent)	Did not go to school	F	18
+Lyons (Derwent)	Did not go to school	M	49
+Lyons (Derwent)	Year 8	F	354
+Lyons (Derwent)	Year 8	M	504
+Lyons (Derwent)	Year 9	F	775
+Lyons (Derwent)	Year 9	M	893
+Lyons (Derwent)	Year 10	F	2987
+Lyons (Derwent)	Year 10	M	3129
+Lyons (Derwent)	Year 11	F	962
+Lyons (Derwent)	Year 11	M	795
+Lyons (Derwent)	Year 12	F	3005
+Lyons (Derwent)	Year 12	M	2538
+Lyons (Launceston)	Did not go to school	F	7
+Lyons (Launceston)	Did not go to school	M	12
+Lyons (Launceston)	Year 8	F	167
+Lyons (Launceston)	Year 8	M	148
+Lyons (Launceston)	Year 9	F	293
+Lyons (Launceston)	Year 9	M	318
+Lyons (Launceston)	Year 10	F	1557
+Lyons (Launceston)	Year 10	M	1525
+Lyons (Launceston)	Year 11	F	418
+Lyons (Launceston)	Year 11	M	381
+Lyons (Launceston)	Year 12	F	1852
+Lyons (Launceston)	Year 12	M	1528
+Lyons (McIntyre)	Did not go to school	F	26
+Lyons (McIntyre)	Did not go to school	M	39
+Lyons (McIntyre)	Year 8	F	438
+Lyons (McIntyre)	Year 8	M	619
+Lyons (McIntyre)	Year 9	F	1122
+Lyons (McIntyre)	Year 9	M	1356
+Lyons (McIntyre)	Year 10	F	4067
+Lyons (McIntyre)	Year 10	M	4681
+Lyons (McIntyre)	Year 11	F	1301
+Lyons (McIntyre)	Year 11	M	1101
+Lyons (McIntyre)	Year 12	F	5129
+Lyons (McIntyre)	Year 12	M	4028
+Lyons (Montgomery)	Did not go to school	F	7
+Lyons (Montgomery)	Year 8	F	90
+Lyons (Montgomery)	Year 8	M	106
+Lyons (Montgomery)	Year 9	F	141
+Lyons (Montgomery)	Year 9	M	202
+Lyons (Montgomery)	Year 10	F	711
+Lyons (Montgomery)	Year 10	M	852
+Lyons (Montgomery)	Year 11	F	213
+Lyons (Montgomery)	Year 11	M	205
+Lyons (Montgomery)	Year 12	F	809
+Lyons (Montgomery)	Year 12	M	688
+Lyons (Prosser)	Did not go to school	F	24
+Lyons (Prosser)	Did not go to school	M	42
+Lyons (Prosser)	Year 8	F	485
+Lyons (Prosser)	Year 8	M	667
+Lyons (Prosser)	Year 9	F	1157
+Lyons (Prosser)	Year 9	M	1358
+Lyons (Prosser)	Year 10	F	4485
+Lyons (Prosser)	Year 10	M	5151
+Lyons (Prosser)	Year 11	F	1425
+Lyons (Prosser)	Year 11	M	1328
+Lyons (Prosser)	Year 12	F	5819
+Lyons (Prosser)	Year 12	M	4865
+Lyons (Rumney)	Did not go to school	F	8
+Lyons (Rumney)	Did not go to school	M	9
+Lyons (Rumney)	Year 8	F	133
+Lyons (Rumney)	Year 8	M	124
+Lyons (Rumney)	Year 9	F	262
+Lyons (Rumney)	Year 9	M	253
+Lyons (Rumney)	Year 10	F	1276
+Lyons (Rumney)	Year 10	M	1227
+Lyons (Rumney)	Year 11	F	381
+Lyons (Rumney)	Year 11	M	375
+Lyons (Rumney)	Year 12	F	2003
+Lyons (Rumney)	Year 12	M	1775
+No usual address (Tas.)	Did not go to school	M	3
+No usual address (Tas.)	Year 8	F	16
+No usual address (Tas.)	Year 8	M	37
+No usual address (Tas.)	Year 9	F	28
+No usual address (Tas.)	Year 9	M	46
+No usual address (Tas.)	Year 10	F	130
+No usual address (Tas.)	Year 10	M	185
+No usual address (Tas.)	Year 11	F	39
+No usual address (Tas.)	Year 11	M	56
+No usual address (Tas.)	Year 12	F	214
+No usual address (Tas.)	Year 12	M	161
+Migratory - Offshore - Shipping (Tas.)	Year 11	M	3
+Migratory - Offshore - Shipping (Tas.)	Year 12	M	4
+Arafura	Did not go to school	F	29
+Arafura	Did not go to school	M	32
+Arafura	Year 8	F	223
+Arafura	Year 8	M	200
+Arafura	Year 9	F	283
+Arafura	Year 9	M	351
+Arafura	Year 10	F	787
+Arafura	Year 10	M	886
+Arafura	Year 11	F	627
+Arafura	Year 11	M	605
+Arafura	Year 12	F	981
+Arafura	Year 12	M	864
+Araluen	Did not go to school	F	37
+Araluen	Did not go to school	M	28
+Araluen	Year 8	F	110
+Araluen	Year 8	M	119
+Araluen	Year 9	F	180
+Araluen	Year 9	M	181
+Araluen	Year 10	F	510
+Araluen	Year 10	M	601
+Araluen	Year 11	F	410
+Araluen	Year 11	M	425
+Araluen	Year 12	F	2519
+Araluen	Year 12	M	2108
+Arnhem	Did not go to school	F	72
+Arnhem	Did not go to school	M	96
+Arnhem	Year 8	F	447
+Arnhem	Year 8	M	425
+Arnhem	Year 9	F	358
+Arnhem	Year 9	M	422
+Arnhem	Year 10	F	647
+Arnhem	Year 10	M	668
+Arnhem	Year 11	F	535
+Arnhem	Year 11	M	509
+Arnhem	Year 12	F	1081
+Arnhem	Year 12	M	949
+Barkly	Did not go to school	F	126
+Barkly	Did not go to school	M	116
+Barkly	Year 8	F	378
+Barkly	Year 8	M	385
+Barkly	Year 9	F	294
+Barkly	Year 9	M	349
+Barkly	Year 10	F	662
+Barkly	Year 10	M	719
+Barkly	Year 11	F	341
+Barkly	Year 11	M	306
+Barkly	Year 12	F	896
+Barkly	Year 12	M	806
+Blain	Did not go to school	F	20
+Blain	Did not go to school	M	23
+Blain	Year 8	F	102
+Blain	Year 8	M	82
+Blain	Year 9	F	135
+Blain	Year 9	M	186
+Blain	Year 10	F	571
+Blain	Year 10	M	601
+Blain	Year 11	F	421
+Blain	Year 11	M	471
+Blain	Year 12	F	1705
+Blain	Year 12	M	1454
+Braitling	Did not go to school	F	50
+Braitling	Did not go to school	M	35
+Braitling	Year 8	F	128
+Braitling	Year 8	M	152
+Braitling	Year 9	F	177
+Braitling	Year 9	M	162
+Braitling	Year 10	F	478
+Braitling	Year 10	M	570
+Braitling	Year 11	F	413
+Braitling	Year 11	M	437
+Braitling	Year 12	F	2153
+Braitling	Year 12	M	1710
+Brennan	Did not go to school	F	20
+Brennan	Did not go to school	M	4
+Brennan	Year 8	F	81
+Brennan	Year 8	M	78
+Brennan	Year 9	F	142
+Brennan	Year 9	M	143
+Brennan	Year 10	F	602
+Brennan	Year 10	M	682
+Brennan	Year 11	F	484
+Brennan	Year 11	M	483
+Brennan	Year 12	F	1895
+Brennan	Year 12	M	1540
+Casuarina	Did not go to school	F	43
+Casuarina	Did not go to school	M	30
+Casuarina	Year 8	F	158
+Casuarina	Year 8	M	149
+Casuarina	Year 9	F	109
+Casuarina	Year 9	M	118
+Casuarina	Year 10	F	417
+Casuarina	Year 10	M	440
+Casuarina	Year 11	F	297
+Casuarina	Year 11	M	363
+Casuarina	Year 12	F	2554
+Casuarina	Year 12	M	2314
+Daly	Did not go to school	F	86
+Daly	Did not go to school	M	73
+Daly	Year 8	F	193
+Daly	Year 8	M	259
+Daly	Year 9	F	284
+Daly	Year 9	M	352
+Daly	Year 10	F	908
+Daly	Year 10	M	1025
+Daly	Year 11	F	457
+Daly	Year 11	M	499
+Daly	Year 12	F	1225
+Daly	Year 12	M	1071
+Drysdale	Did not go to school	F	24
+Drysdale	Did not go to school	M	30
+Drysdale	Year 8	F	110
+Drysdale	Year 8	M	110
+Drysdale	Year 9	F	172
+Drysdale	Year 9	M	200
+Drysdale	Year 10	F	650
+Drysdale	Year 10	M	707
+Drysdale	Year 11	F	438
+Drysdale	Year 11	M	457
+Drysdale	Year 12	F	1471
+Drysdale	Year 12	M	1258
+Fannie Bay	Did not go to school	F	24
+Fannie Bay	Did not go to school	M	14
+Fannie Bay	Year 8	F	84
+Fannie Bay	Year 8	M	85
+Fannie Bay	Year 9	F	129
+Fannie Bay	Year 9	M	126
+Fannie Bay	Year 10	F	351
+Fannie Bay	Year 10	M	393
+Fannie Bay	Year 11	F	296
+Fannie Bay	Year 11	M	345
+Fannie Bay	Year 12	F	2366
+Fannie Bay	Year 12	M	1982
+Fong Lim	Did not go to school	F	22
+Fong Lim	Did not go to school	M	13
+Fong Lim	Year 8	F	60
+Fong Lim	Year 8	M	68
+Fong Lim	Year 9	F	83
+Fong Lim	Year 9	M	95
+Fong Lim	Year 10	F	314
+Fong Lim	Year 10	M	436
+Fong Lim	Year 11	F	274
+Fong Lim	Year 11	M	383
+Fong Lim	Year 12	F	2336
+Fong Lim	Year 12	M	2123
+Goyder	Did not go to school	F	26
+Goyder	Did not go to school	M	30
+Goyder	Year 8	F	123
+Goyder	Year 8	M	152
+Goyder	Year 9	F	158
+Goyder	Year 9	M	292
+Goyder	Year 10	F	707
+Goyder	Year 10	M	1088
+Goyder	Year 11	F	476
+Goyder	Year 11	M	624
+Goyder	Year 12	F	1699
+Goyder	Year 12	M	1289
+Gwoja	Did not go to school	F	144
+Gwoja	Did not go to school	M	107
+Gwoja	Year 8	F	587
+Gwoja	Year 8	M	561
+Gwoja	Year 9	F	367
+Gwoja	Year 9	M	352
+Gwoja	Year 10	F	586
+Gwoja	Year 10	M	538
+Gwoja	Year 11	F	310
+Gwoja	Year 11	M	289
+Gwoja	Year 12	F	742
+Gwoja	Year 12	M	651
+Johnston	Did not go to school	F	50
+Johnston	Did not go to school	M	28
+Johnston	Year 8	F	155
+Johnston	Year 8	M	128
+Johnston	Year 9	F	122
+Johnston	Year 9	M	155
+Johnston	Year 10	F	422
+Johnston	Year 10	M	480
+Johnston	Year 11	F	340
+Johnston	Year 11	M	350
+Johnston	Year 12	F	2231
+Johnston	Year 12	M	1914
+Karama	Did not go to school	F	57
+Karama	Did not go to school	M	39
+Karama	Year 8	F	162
+Karama	Year 8	M	156
+Karama	Year 9	F	176
+Karama	Year 9	M	170
+Karama	Year 10	F	567
+Karama	Year 10	M	593
+Karama	Year 11	F	450
+Karama	Year 11	M	390
+Karama	Year 12	F	1635
+Karama	Year 12	M	1490
+Katherine	Did not go to school	F	35
+Katherine	Did not go to school	M	39
+Katherine	Year 8	F	131
+Katherine	Year 8	M	159
+Katherine	Year 9	F	156
+Katherine	Year 9	M	217
+Katherine	Year 10	F	582
+Katherine	Year 10	M	698
+Katherine	Year 11	F	373
+Katherine	Year 11	M	371
+Katherine	Year 12	F	1515
+Katherine	Year 12	M	1241
+Mulka	Did not go to school	F	74
+Mulka	Did not go to school	M	76
+Mulka	Year 8	F	285
+Mulka	Year 8	M	338
+Mulka	Year 9	F	271
+Mulka	Year 9	M	297
+Mulka	Year 10	F	625
+Mulka	Year 10	M	755
+Mulka	Year 11	F	483
+Mulka	Year 11	M	494
+Mulka	Year 12	F	1405
+Mulka	Year 12	M	1075
+Namatjira	Did not go to school	F	105
+Namatjira	Did not go to school	M	115
+Namatjira	Year 8	F	347
+Namatjira	Year 8	M	435
+Namatjira	Year 9	F	318
+Namatjira	Year 9	M	311
+Namatjira	Year 10	F	687
+Namatjira	Year 10	M	1107
+Namatjira	Year 11	F	500
+Namatjira	Year 11	M	465
+Namatjira	Year 12	F	1594
+Namatjira	Year 12	M	1340
+Nelson	Did not go to school	F	29
+Nelson	Did not go to school	M	43
+Nelson	Year 8	F	87
+Nelson	Year 8	M	193
+Nelson	Year 9	F	139
+Nelson	Year 9	M	201
+Nelson	Year 10	F	638
+Nelson	Year 10	M	1615
+Nelson	Year 11	F	433
+Nelson	Year 11	M	631
+Nelson	Year 12	F	1806
+Nelson	Year 12	M	1847
+Nightcliff	Did not go to school	F	29
+Nightcliff	Did not go to school	M	34
+Nightcliff	Year 8	F	91
+Nightcliff	Year 8	M	102
+Nightcliff	Year 9	F	97
+Nightcliff	Year 9	M	120
+Nightcliff	Year 10	F	357
+Nightcliff	Year 10	M	414
+Nightcliff	Year 11	F	258
+Nightcliff	Year 11	M	327
+Nightcliff	Year 12	F	2644
+Nightcliff	Year 12	M	2259
+Port Darwin	Did not go to school	F	23
+Port Darwin	Did not go to school	M	26
+Port Darwin	Year 8	F	60
+Port Darwin	Year 8	M	62
+Port Darwin	Year 9	F	89
+Port Darwin	Year 9	M	111
+Port Darwin	Year 10	F	358
+Port Darwin	Year 10	M	500
+Port Darwin	Year 11	F	255
+Port Darwin	Year 11	M	367
+Port Darwin	Year 12	F	3346
+Port Darwin	Year 12	M	3550
+Sanderson	Did not go to school	F	39
+Sanderson	Did not go to school	M	28
+Sanderson	Year 8	F	125
+Sanderson	Year 8	M	121
+Sanderson	Year 9	F	137
+Sanderson	Year 9	M	147
+Sanderson	Year 10	F	492
+Sanderson	Year 10	M	503
+Sanderson	Year 11	F	371
+Sanderson	Year 11	M	444
+Sanderson	Year 12	F	1814
+Sanderson	Year 12	M	1632
+Spillett	Did not go to school	F	18
+Spillett	Did not go to school	M	23
+Spillett	Year 8	F	60
+Spillett	Year 8	M	69
+Spillett	Year 9	F	142
+Spillett	Year 9	M	123
+Spillett	Year 10	F	531
+Spillett	Year 10	M	703
+Spillett	Year 11	F	443
+Spillett	Year 11	M	499
+Spillett	Year 12	F	2807
+Spillett	Year 12	M	2360
+Wanguri	Did not go to school	F	38
+Wanguri	Did not go to school	M	32
+Wanguri	Year 8	F	126
+Wanguri	Year 8	M	116
+Wanguri	Year 9	F	124
+Wanguri	Year 9	M	116
+Wanguri	Year 10	F	459
+Wanguri	Year 10	M	535
+Wanguri	Year 11	F	347
+Wanguri	Year 11	M	410
+Wanguri	Year 12	F	2421
+Wanguri	Year 12	M	2240
+No usual address (NT)	Did not go to school	F	12
+No usual address (NT)	Did not go to school	M	9
+No usual address (NT)	Year 8	F	55
+No usual address (NT)	Year 8	M	74
+No usual address (NT)	Year 9	F	67
+No usual address (NT)	Year 9	M	108
+No usual address (NT)	Year 10	F	208
+No usual address (NT)	Year 10	M	266
+No usual address (NT)	Year 11	F	127
+No usual address (NT)	Year 11	M	123
+No usual address (NT)	Year 12	F	442
+No usual address (NT)	Year 12	M	368
+Migratory - Offshore - Shipping (NT)	Year 9	M	5
+Migratory - Offshore - Shipping (NT)	Year 10	F	6
+Migratory - Offshore - Shipping (NT)	Year 10	M	19
+Migratory - Offshore - Shipping (NT)	Year 11	M	9
+Migratory - Offshore - Shipping (NT)	Year 12	F	3
+Migratory - Offshore - Shipping (NT)	Year 12	M	26
+Brindabella	Did not go to school	F	170
+Brindabella	Did not go to school	M	120
+Brindabella	Year 8	F	945
+Brindabella	Year 8	M	819
+Brindabella	Year 9	F	1448
+Brindabella	Year 9	M	1323
+Brindabella	Year 10	F	6202
+Brindabella	Year 10	M	5692
+Brindabella	Year 11	F	1955
+Brindabella	Year 11	M	2117
+Brindabella	Year 12	F	22540
+Brindabella	Year 12	M	21377
+Ginninderra	Did not go to school	F	245
+Ginninderra	Did not go to school	M	206
+Ginninderra	Year 8	F	957
+Ginninderra	Year 8	M	812
+Ginninderra	Year 9	F	1294
+Ginninderra	Year 9	M	1185
+Ginninderra	Year 10	F	5005
+Ginninderra	Year 10	M	4558
+Ginninderra	Year 11	F	1742
+Ginninderra	Year 11	M	1867
+Ginninderra	Year 12	F	29083
+Ginninderra	Year 12	M	27729
+Kurrajong	Did not go to school	F	149
+Kurrajong	Did not go to school	M	109
+Kurrajong	Year 8	F	634
+Kurrajong	Year 8	M	518
+Kurrajong	Year 9	F	797
+Kurrajong	Year 9	M	716
+Kurrajong	Year 10	F	2559
+Kurrajong	Year 10	M	2467
+Kurrajong	Year 11	F	1123
+Kurrajong	Year 11	M	1216
+Kurrajong	Year 12	F	31667
+Kurrajong	Year 12	M	30321
+Murrumbidgee	Did not go to school	F	171
+Murrumbidgee	Did not go to school	M	118
+Murrumbidgee	Year 8	F	839
+Murrumbidgee	Year 8	M	667
+Murrumbidgee	Year 9	F	1142
+Murrumbidgee	Year 9	M	963
+Murrumbidgee	Year 10	F	4088
+Murrumbidgee	Year 10	M	3336
+Murrumbidgee	Year 11	F	1451
+Murrumbidgee	Year 11	M	1466
+Murrumbidgee	Year 12	F	28178
+Murrumbidgee	Year 12	M	26531
+Yerrabi	Did not go to school	F	288
+Yerrabi	Did not go to school	M	262
+Yerrabi	Year 8	F	857
+Yerrabi	Year 8	M	742
+Yerrabi	Year 9	F	1099
+Yerrabi	Year 9	M	1138
+Yerrabi	Year 10	F	4164
+Yerrabi	Year 10	M	3760
+Yerrabi	Year 11	F	1709
+Yerrabi	Year 11	M	1852
+Yerrabi	Year 12	F	29142
+Yerrabi	Year 12	M	28661
+No usual address (ACT)	Year 8	F	6
+No usual address (ACT)	Year 8	M	7
+No usual address (ACT)	Year 9	F	7
+No usual address (ACT)	Year 9	M	13
+No usual address (ACT)	Year 10	F	41
+No usual address (ACT)	Year 10	M	58
+No usual address (ACT)	Year 11	F	19
+No usual address (ACT)	Year 11	M	20
+No usual address (ACT)	Year 12	F	143
+No usual address (ACT)	Year 12	M	106
+Unclassified (OT)	Did not go to school	F	63
+Unclassified (OT)	Did not go to school	M	56
+Unclassified (OT)	Year 8	F	62
+Unclassified (OT)	Year 8	M	95
+Unclassified (OT)	Year 9	F	56
+Unclassified (OT)	Year 9	M	84
+Unclassified (OT)	Year 10	F	345
+Unclassified (OT)	Year 10	M	410
+Unclassified (OT)	Year 11	F	138
+Unclassified (OT)	Year 11	M	129
+Unclassified (OT)	Year 12	F	908
+Unclassified (OT)	Year 12	M	738
+No usual address (OT)	Year 12	M	5

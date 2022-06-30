@@ -1,0 +1,199 @@
+STE_NAME16	Age	Sex	persons
+New South Wales	0-4	F	227347
+New South Wales	0-4	M	240712
+New South Wales	5-14	F	487069
+New South Wales	5-14	M	514881
+New South Wales	15-19	F	221749
+New South Wales	15-19	M	236148
+New South Wales	20-24	F	241374
+New South Wales	20-24	M	254808
+New South Wales	25-34	F	577842
+New South Wales	25-34	M	564183
+New South Wales	35-44	F	558980
+New South Wales	35-44	M	544184
+New South Wales	45-54	F	519788
+New South Wales	45-54	M	497158
+New South Wales	55-64	F	493100
+New South Wales	55-64	M	468679
+New South Wales	65-74	F	407711
+New South Wales	65-74	M	381017
+New South Wales	75-84	F	240207
+New South Wales	75-84	M	211315
+New South Wales	85+	F	112820
+New South Wales	85+	M	71074
+Victoria	0-4	F	183222
+Victoria	0-4	M	192679
+Victoria	5-14	F	385564
+Victoria	5-14	M	407989
+Victoria	15-19	F	176690
+Victoria	15-19	M	186517
+Victoria	20-24	F	199803
+Victoria	20-24	M	210533
+Victoria	25-34	F	492492
+Victoria	25-34	M	483005
+Victoria	35-44	F	466025
+Victoria	35-44	M	452707
+Victoria	45-54	F	424557
+Victoria	45-54	M	402329
+Victoria	55-64	F	385315
+Victoria	55-64	M	361238
+Victoria	65-74	F	316522
+Victoria	65-74	M	289036
+Victoria	75-84	F	184873
+Victoria	75-84	M	159926
+Victoria	85+	F	87455
+Victoria	85+	M	55017
+Queensland	0-4	F	141746
+Queensland	0-4	M	150708
+Queensland	5-14	F	326530
+Queensland	5-14	M	345336
+Queensland	15-19	F	152988
+Queensland	15-19	M	160521
+Queensland	20-24	F	160852
+Queensland	20-24	M	162887
+Queensland	25-34	F	357651
+Queensland	25-34	M	344067
+Queensland	35-44	F	353426
+Queensland	35-44	M	334387
+Queensland	45-54	F	345286
+Queensland	45-54	M	328847
+Queensland	55-64	F	316136
+Queensland	55-64	M	299154
+Queensland	65-74	F	258059
+Queensland	65-74	M	245407
+Queensland	75-84	F	143929
+Queensland	75-84	M	131066
+Queensland	85+	F	59126
+Queensland	85+	M	38018
+South Australia	0-4	F	45872
+South Australia	0-4	M	48352
+South Australia	5-14	F	101691
+South Australia	5-14	M	107220
+South Australia	15-19	F	48041
+South Australia	15-19	M	51114
+South Australia	20-24	F	53018
+South Australia	20-24	M	56156
+South Australia	25-34	F	117619
+South Australia	25-34	M	117670
+South Australia	35-44	F	114778
+South Australia	35-44	M	111877
+South Australia	45-54	F	113611
+South Australia	45-54	M	111029
+South Australia	55-64	F	116382
+South Australia	55-64	M	110759
+South Australia	65-74	F	102082
+South Australia	65-74	M	94257
+South Australia	75-84	F	60725
+South Australia	75-84	M	51928
+South Australia	85+	F	29101
+South Australia	85+	M	18220
+Western Australia	0-4	F	78503
+Western Australia	0-4	M	83249
+Western Australia	5-14	F	167277
+Western Australia	5-14	M	176755
+Western Australia	15-19	F	74580
+Western Australia	15-19	M	78685
+Western Australia	20-24	F	77702
+Western Australia	20-24	M	81122
+Western Australia	25-34	F	188385
+Western Australia	25-34	M	183972
+Western Australia	35-44	F	190766
+Western Australia	35-44	M	188720
+Western Australia	45-54	F	174505
+Western Australia	45-54	M	173750
+Western Australia	55-64	F	158832
+Western Australia	55-64	M	154609
+Western Australia	65-74	F	127110
+Western Australia	65-74	M	120271
+Western Australia	75-84	F	69042
+Western Australia	75-84	M	62085
+Western Australia	85+	F	30459
+Western Australia	85+	M	19644
+Tasmania	0-4	F	13756
+Tasmania	0-4	M	14520
+Tasmania	5-14	F	31362
+Tasmania	5-14	M	32998
+Tasmania	15-19	F	14544
+Tasmania	15-19	M	15523
+Tasmania	20-24	F	15216
+Tasmania	20-24	M	15806
+Tasmania	25-34	F	38291
+Tasmania	25-34	M	38367
+Tasmania	35-44	F	34058
+Tasmania	35-44	M	31893
+Tasmania	45-54	F	35868
+Tasmania	45-54	M	33340
+Tasmania	55-64	F	39020
+Tasmania	55-64	M	36370
+Tasmania	65-74	F	34338
+Tasmania	65-74	M	32657
+Tasmania	75-84	F	19414
+Tasmania	75-84	M	17239
+Tasmania	85+	F	7928
+Tasmania	85+	M	5062
+Northern Territory	0-4	F	7774
+Northern Territory	0-4	M	8445
+Northern Territory	5-14	F	15893
+Northern Territory	5-14	M	16787
+Northern Territory	15-19	F	6857
+Northern Territory	15-19	M	7320
+Northern Territory	20-24	F	7473
+Northern Territory	20-24	M	8321
+Northern Territory	25-34	F	21958
+Northern Territory	25-34	M	20934
+Northern Territory	35-44	F	18155
+Northern Territory	35-44	M	17661
+Northern Territory	45-54	F	14923
+Northern Territory	45-54	M	15049
+Northern Territory	55-64	F	11933
+Northern Territory	55-64	M	12298
+Northern Territory	65-74	F	6933
+Northern Territory	65-74	M	7569
+Northern Territory	75-84	F	2513
+Northern Territory	75-84	M	2644
+Northern Territory	85+	F	665
+Northern Territory	85+	M	499
+Australian Capital Territory	0-4	F	12918
+Australian Capital Territory	0-4	M	13766
+Australian Capital Territory	5-14	F	27242
+Australian Capital Territory	5-14	M	29019
+Australian Capital Territory	15-19	F	12936
+Australian Capital Territory	15-19	M	13415
+Australian Capital Territory	20-24	F	17173
+Australian Capital Territory	20-24	M	17084
+Australian Capital Territory	25-34	F	39046
+Australian Capital Territory	25-34	M	38702
+Australian Capital Territory	35-44	F	35048
+Australian Capital Territory	35-44	M	34336
+Australian Capital Territory	45-54	F	28369
+Australian Capital Territory	45-54	M	27837
+Australian Capital Territory	55-64	F	23500
+Australian Capital Territory	55-64	M	21907
+Australian Capital Territory	65-74	F	19029
+Australian Capital Territory	65-74	M	16645
+Australian Capital Territory	75-84	F	10567
+Australian Capital Territory	75-84	M	8789
+Australian Capital Territory	85+	F	4314
+Australian Capital Territory	85+	M	2867
+Other Territories	0-4	F	109
+Other Territories	0-4	M	132
+Other Territories	5-14	F	268
+Other Territories	5-14	M	313
+Other Territories	15-19	F	103
+Other Territories	15-19	M	88
+Other Territories	20-24	F	104
+Other Territories	20-24	M	108
+Other Territories	25-34	F	240
+Other Territories	25-34	M	339
+Other Territories	35-44	F	310
+Other Territories	35-44	M	324
+Other Territories	45-54	F	316
+Other Territories	45-54	M	347
+Other Territories	55-64	F	384
+Other Territories	55-64	M	382
+Other Territories	65-74	F	267
+Other Territories	65-74	M	322
+Other Territories	75-84	F	135
+Other Territories	75-84	M	120
+Other Territories	85+	F	34
+Other Territories	85+	M	31
