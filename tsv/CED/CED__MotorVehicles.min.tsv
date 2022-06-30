@@ -1,0 +1,907 @@
+CED_NAME16	MotorVehicles.min	occupied_private_dwellings
+Banks		800
+Banks	0	6305
+Banks	1	22031
+Banks	2	18509
+Banks	3	5884
+Banks	4	3021
+Barton		1113
+Barton	0	9927
+Barton	1	29707
+Barton	2	16859
+Barton	3	4837
+Barton	4	2469
+Bennelong		829
+Bennelong	0	7961
+Bennelong	1	32212
+Bennelong	2	21323
+Bennelong	3	5464
+Bennelong	4	2554
+Berowra		406
+Berowra	0	1934
+Berowra	1	15337
+Berowra	2	20244
+Berowra	3	6911
+Berowra	4	4944
+Blaxland		1445
+Blaxland	0	6629
+Blaxland	1	20493
+Blaxland	2	16512
+Blaxland	3	6042
+Blaxland	4	3567
+Bradfield		495
+Bradfield	0	4436
+Bradfield	1	23531
+Bradfield	2	21568
+Bradfield	3	5891
+Bradfield	4	2743
+Calare		1083
+Calare	0	3439
+Calare	1	20639
+Calare	2	23213
+Calare	3	8904
+Calare	4	5452
+Chifley		1148
+Chifley	0	4864
+Chifley	1	22091
+Chifley	2	21673
+Chifley	3	7072
+Chifley	4	3711
+Cook		570
+Cook	0	3744
+Cook	1	20715
+Cook	2	20812
+Cook	3	6231
+Cook	4	3806
+Cowper		1229
+Cowper	0	3989
+Cowper	1	26389
+Cowper	2	23546
+Cowper	3	7605
+Cowper	4	3976
+Cunningham		733
+Cunningham	0	5453
+Cunningham	1	22578
+Cunningham	2	21832
+Cunningham	3	6862
+Cunningham	4	3943
+Dobell		881
+Dobell	0	3560
+Dobell	1	21291
+Dobell	2	21922
+Dobell	3	7441
+Dobell	4	4690
+Eden-Monaro		843
+Eden-Monaro	0	2243
+Eden-Monaro	1	19482
+Eden-Monaro	2	23463
+Eden-Monaro	3	9117
+Eden-Monaro	4	5742
+Farrer		1337
+Farrer	0	3599
+Farrer	1	22141
+Farrer	2	23986
+Farrer	3	8728
+Farrer	4	5174
+Fowler		1117
+Fowler	0	6191
+Fowler	1	19815
+Fowler	2	15869
+Fowler	3	6356
+Fowler	4	3902
+Gilmore		1018
+Gilmore	0	2723
+Gilmore	1	23731
+Gilmore	2	24611
+Gilmore	3	7799
+Gilmore	4	4498
+Grayndler		637
+Grayndler	0	10556
+Grayndler	1	32136
+Grayndler	2	14386
+Grayndler	3	2696
+Grayndler	4	1030
+Greenway		810
+Greenway	0	3519
+Greenway	1	22544
+Greenway	2	24956
+Greenway	3	7515
+Greenway	4	3731
+Hughes		402
+Hughes	0	2267
+Hughes	1	15334
+Hughes	2	21336
+Hughes	3	7006
+Hughes	4	4446
+Hume		734
+Hume	0	1881
+Hume	1	15316
+Hume	2	22867
+Hume	3	9839
+Hume	4	7870
+Hunter		804
+Hunter	0	2864
+Hunter	1	20022
+Hunter	2	24118
+Hunter	3	9359
+Hunter	4	5980
+Kingsford Smith		1052
+Kingsford Smith	0	11229
+Kingsford Smith	1	31963
+Kingsford Smith	2	18813
+Kingsford Smith	3	4504
+Kingsford Smith	4	1977
+Lindsay		875
+Lindsay	0	4536
+Lindsay	1	22369
+Lindsay	2	23139
+Lindsay	3	8011
+Lindsay	4	5166
+Lyne		1483
+Lyne	0	2665
+Lyne	1	22442
+Lyne	2	22833
+Lyne	3	8011
+Lyne	4	4990
+Macarthur		927
+Macarthur	0	3912
+Macarthur	1	21846
+Macarthur	2	25555
+Macarthur	3	8452
+Macarthur	4	4914
+Mackellar		559
+Mackellar	0	3001
+Mackellar	1	18081
+Mackellar	2	21782
+Mackellar	3	7077
+Mackellar	4	4331
+Macquarie		544
+Macquarie	0	2668
+Macquarie	1	17419
+Macquarie	2	19846
+Macquarie	3	7484
+Macquarie	4	5628
+McMahon		981
+McMahon	0	4764
+McMahon	1	17826
+McMahon	2	18321
+McMahon	3	7010
+McMahon	4	4507
+Mitchell		486
+Mitchell	0	1832
+Mitchell	1	18427
+Mitchell	2	26181
+Mitchell	3	8256
+Mitchell	4	4600
+New England		1163
+New England	0	3513
+New England	1	21048
+New England	2	21600
+New England	3	7969
+New England	4	4751
+Newcastle		753
+Newcastle	0	5287
+Newcastle	1	24355
+Newcastle	2	24206
+Newcastle	3	6784
+Newcastle	4	3398
+North Sydney		589
+North Sydney	0	9897
+North Sydney	1	33902
+North Sydney	2	18019
+North Sydney	3	3736
+North Sydney	4	1569
+Page		1235
+Page	0	2943
+Page	1	23153
+Page	2	24084
+Page	3	8534
+Page	4	4599
+Parkes		1331
+Parkes	0	3559
+Parkes	1	19169
+Parkes	2	19749
+Parkes	3	7416
+Parkes	4	4463
+Parramatta		1367
+Parramatta	0	9949
+Parramatta	1	32073
+Parramatta	2	18768
+Parramatta	3	4989
+Parramatta	4	2566
+Paterson		823
+Paterson	0	3000
+Paterson	1	22482
+Paterson	2	25553
+Paterson	3	8826
+Paterson	4	5159
+Reid		1132
+Reid	0	10363
+Reid	1	35970
+Reid	2	20798
+Reid	3	4906
+Reid	4	2316
+Richmond		1137
+Richmond	0	3301
+Richmond	1	23994
+Richmond	2	23883
+Richmond	3	7467
+Richmond	4	4149
+Riverina		1172
+Riverina	0	3569
+Riverina	1	20562
+Riverina	2	22067
+Riverina	3	8379
+Riverina	4	4997
+Robertson		828
+Robertson	0	4363
+Robertson	1	22903
+Robertson	2	20856
+Robertson	3	6583
+Robertson	4	3661
+Shortland		684
+Shortland	0	3072
+Shortland	1	20629
+Shortland	2	22828
+Shortland	3	7327
+Shortland	4	4163
+Sydney		1793
+Sydney	0	35647
+Sydney	1	43317
+Sydney	2	10629
+Sydney	3	1475
+Sydney	4	545
+Warringah		520
+Warringah	0	5312
+Warringah	1	25502
+Warringah	2	19233
+Warringah	3	4782
+Warringah	4	2376
+Watson		1242
+Watson	0	7543
+Watson	1	24180
+Watson	2	16816
+Watson	3	5425
+Watson	4	3088
+Wentworth		821
+Wentworth	0	11185
+Wentworth	1	28524
+Wentworth	2	15108
+Wentworth	3	3064
+Wentworth	4	1412
+Werriwa		993
+Werriwa	0	3539
+Werriwa	1	16582
+Werriwa	2	21156
+Werriwa	3	8830
+Werriwa	4	5545
+Whitlam		798
+Whitlam	0	3292
+Whitlam	1	20495
+Whitlam	2	23826
+Whitlam	3	8465
+Whitlam	4	5263
+Aston		575
+Aston	0	2161
+Aston	1	17614
+Aston	2	24405
+Aston	3	8094
+Aston	4	4576
+Ballarat		789
+Ballarat	0	2966
+Ballarat	1	20285
+Ballarat	2	22140
+Ballarat	3	7977
+Ballarat	4	4880
+Bendigo		806
+Bendigo	0	2789
+Bendigo	1	20048
+Bendigo	2	22349
+Bendigo	3	8073
+Bendigo	4	4996
+Bruce		937
+Bruce	0	2985
+Bruce	1	17891
+Bruce	2	22960
+Bruce	3	8473
+Bruce	4	5180
+Calwell		1014
+Calwell	0	2485
+Calwell	1	16570
+Calwell	2	22636
+Calwell	3	8011
+Calwell	4	4665
+Casey		527
+Casey	0	1587
+Casey	1	15274
+Casey	2	23364
+Casey	3	9061
+Casey	4	6495
+Chisholm		795
+Chisholm	0	5038
+Chisholm	1	24569
+Chisholm	2	25115
+Chisholm	3	7030
+Chisholm	4	3238
+Cooper		818
+Cooper	0	7525
+Cooper	1	28731
+Cooper	2	18610
+Cooper	3	4582
+Cooper	4	2211
+Corangamite		620
+Corangamite	0	1324
+Corangamite	1	17039
+Corangamite	2	24607
+Corangamite	3	7573
+Corangamite	4	4389
+Corio		847
+Corio	0	4308
+Corio	1	23293
+Corio	2	23173
+Corio	3	6709
+Corio	4	3659
+Deakin		672
+Deakin	0	3051
+Deakin	1	22145
+Deakin	2	25321
+Deakin	3	6924
+Deakin	4	3813
+Dunkley		756
+Dunkley	0	3161
+Dunkley	1	20170
+Dunkley	2	23678
+Dunkley	3	7467
+Dunkley	4	4061
+Flinders		802
+Flinders	0	2211
+Flinders	1	20148
+Flinders	2	23669
+Flinders	3	7344
+Flinders	4	4267
+Fraser		1168
+Fraser	0	6964
+Fraser	1	27334
+Fraser	2	19368
+Fraser	3	5978
+Fraser	4	2730
+Gellibrand		884
+Gellibrand	0	3350
+Gellibrand	1	23934
+Gellibrand	2	26451
+Gellibrand	3	6668
+Gellibrand	4	2898
+Gippsland		1174
+Gippsland	0	2995
+Gippsland	1	20324
+Gippsland	2	22587
+Gippsland	3	8439
+Gippsland	4	5116
+Goldstein		560
+Goldstein	0	3574
+Goldstein	1	22460
+Goldstein	2	23311
+Goldstein	3	5819
+Goldstein	4	2718
+Gorton		785
+Gorton	0	1976
+Gorton	1	15296
+Gorton	2	23166
+Gorton	3	8625
+Gorton	4	5004
+Hawke		799
+Hawke	0	2099
+Hawke	1	17142
+Hawke	2	22556
+Hawke	3	8271
+Hawke	4	5198
+Higgins		753
+Higgins	0	9552
+Higgins	1	31396
+Higgins	2	19084
+Higgins	3	4306
+Higgins	4	2066
+Holt		798
+Holt	0	1566
+Holt	1	15613
+Holt	2	25361
+Holt	3	8813
+Holt	4	4753
+Hotham		1054
+Hotham	0	5441
+Hotham	1	25380
+Hotham	2	24613
+Hotham	3	7554
+Hotham	4	3700
+Indi		1345
+Indi	0	2459
+Indi	1	19025
+Indi	2	23543
+Indi	3	8948
+Indi	4	5666
+Isaacs		647
+Isaacs	0	3521
+Isaacs	1	22206
+Isaacs	2	24215
+Isaacs	3	6484
+Isaacs	4	3271
+Jagajaga		548
+Jagajaga	0	2985
+Jagajaga	1	20358
+Jagajaga	2	24199
+Jagajaga	3	6863
+Jagajaga	4	3754
+Kooyong		548
+Kooyong	0	4525
+Kooyong	1	24815
+Kooyong	2	22667
+Kooyong	3	6022
+Kooyong	4	2907
+La Trobe		685
+La Trobe	0	1342
+La Trobe	1	15399
+La Trobe	2	24382
+La Trobe	3	8347
+La Trobe	4	5220
+Lalor		1018
+Lalor	0	2643
+Lalor	1	22578
+Lalor	2	25566
+Lalor	3	7522
+Lalor	4	3941
+Macnamara		1003
+Macnamara	0	15512
+Macnamara	1	41044
+Macnamara	2	16949
+Macnamara	3	2733
+Macnamara	4	1151
+Mallee		1502
+Mallee	0	3587
+Mallee	1	21220
+Mallee	2	23438
+Mallee	3	9595
+Mallee	4	6324
+Maribyrnong		735
+Maribyrnong	0	5858
+Maribyrnong	1	25197
+Maribyrnong	2	20479
+Maribyrnong	3	5481
+Maribyrnong	4	2732
+McEwen		616
+McEwen	0	931
+McEwen	1	13123
+McEwen	2	23148
+McEwen	3	8982
+McEwen	4	6101
+Melbourne		1411
+Melbourne	0	34405
+Melbourne	1	41068
+Melbourne	2	12336
+Melbourne	3	2103
+Melbourne	4	741
+Menzies		612
+Menzies	0	3430
+Menzies	1	21569
+Menzies	2	24976
+Menzies	3	7365
+Menzies	4	4323
+Monash		1005
+Monash	0	2495
+Monash	1	19322
+Monash	2	21590
+Monash	3	8022
+Monash	4	4966
+Nicholls		1276
+Nicholls	0	2864
+Nicholls	1	19158
+Nicholls	2	21888
+Nicholls	3	9021
+Nicholls	4	5923
+Scullin		827
+Scullin	0	2853
+Scullin	1	18846
+Scullin	2	22752
+Scullin	3	7586
+Scullin	4	4092
+Wannon		1107
+Wannon	0	2765
+Wannon	1	19475
+Wannon	2	22576
+Wannon	3	8955
+Wannon	4	5902
+Wills		797
+Wills	0	8077
+Wills	1	29194
+Wills	2	17701
+Wills	3	4460
+Wills	4	2177
+Blair		1028
+Blair	0	3213
+Blair	1	21748
+Blair	2	25385
+Blair	3	9501
+Blair	4	5487
+Bonner		634
+Bonner	0	3209
+Bonner	1	19452
+Bonner	2	23865
+Bonner	3	7381
+Bonner	4	3910
+Bowman		652
+Bowman	0	2654
+Bowman	1	18344
+Bowman	2	23293
+Bowman	3	8707
+Bowman	4	5106
+Brisbane		1009
+Brisbane	0	11091
+Brisbane	1	37392
+Brisbane	2	21777
+Brisbane	3	5085
+Brisbane	4	2406
+Capricornia		997
+Capricornia	0	2586
+Capricornia	1	17570
+Capricornia	2	21154
+Capricornia	3	8214
+Capricornia	4	4715
+Dawson		1163
+Dawson	0	2729
+Dawson	1	18986
+Dawson	2	22504
+Dawson	3	8189
+Dawson	4	4267
+Dickson		485
+Dickson	0	1788
+Dickson	1	15781
+Dickson	2	23401
+Dickson	3	8725
+Dickson	4	5392
+Fadden		984
+Fadden	0	2567
+Fadden	1	24376
+Fadden	2	28206
+Fadden	3	9248
+Fadden	4	4708
+Fairfax		853
+Fairfax	0	2445
+Fairfax	1	21930
+Fairfax	2	25191
+Fairfax	3	8420
+Fairfax	4	4716
+Fisher		835
+Fisher	0	2523
+Fisher	1	22487
+Fisher	2	24927
+Fisher	3	8384
+Fisher	4	4939
+Flynn		1221
+Flynn	0	2239
+Flynn	1	17711
+Flynn	2	21367
+Flynn	3	8785
+Flynn	4	5317
+Forde		1101
+Forde	0	2669
+Forde	1	19967
+Forde	2	25090
+Forde	3	9587
+Forde	4	6154
+Griffith		890
+Griffith	0	7021
+Griffith	1	32175
+Griffith	2	23067
+Griffith	3	5688
+Griffith	4	2674
+Groom		748
+Groom	0	3313
+Groom	1	21188
+Groom	2	22430
+Groom	3	7799
+Groom	4	4460
+Herbert		919
+Herbert	0	3685
+Herbert	1	21139
+Herbert	2	22916
+Herbert	3	7440
+Herbert	4	3606
+Hinkler		1112
+Hinkler	0	3607
+Hinkler	1	24222
+Hinkler	2	21690
+Hinkler	3	7284
+Hinkler	4	3859
+Kennedy		1697
+Kennedy	0	3339
+Kennedy	1	19615
+Kennedy	2	22300
+Kennedy	3	8204
+Kennedy	4	4746
+Leichhardt		1333
+Leichhardt	0	5384
+Leichhardt	1	23856
+Leichhardt	2	21985
+Leichhardt	3	6715
+Leichhardt	4	3195
+Lilley		893
+Lilley	0	5012
+Lilley	1	25129
+Lilley	2	23197
+Lilley	3	6380
+Lilley	4	3035
+Longman		929
+Longman	0	2819
+Longman	1	22589
+Longman	2	24169
+Longman	3	9364
+Longman	4	6276
+Maranoa		1229
+Maranoa	0	2685
+Maranoa	1	18786
+Maranoa	2	20052
+Maranoa	3	8373
+Maranoa	4	5351
+McPherson		801
+McPherson	0	2529
+McPherson	1	21178
+McPherson	2	24339
+McPherson	3	7599
+McPherson	4	3955
+Moncrieff		1278
+Moncrieff	0	5609
+Moncrieff	1	30539
+Moncrieff	2	24279
+Moncrieff	3	7085
+Moncrieff	4	3662
+Moreton		778
+Moreton	0	4027
+Moreton	1	22236
+Moreton	2	22217
+Moreton	3	6796
+Moreton	4	3445
+Oxley		855
+Oxley	0	2844
+Oxley	1	19890
+Oxley	2	25127
+Oxley	3	8085
+Oxley	4	3781
+Petrie		925
+Petrie	0	4049
+Petrie	1	25729
+Petrie	2	26407
+Petrie	3	8000
+Petrie	4	3924
+Rankin		984
+Rankin	0	3027
+Rankin	1	19457
+Rankin	2	23592
+Rankin	3	8439
+Rankin	4	4309
+Ryan		446
+Ryan	0	3716
+Ryan	1	21607
+Ryan	2	22948
+Ryan	3	6607
+Ryan	4	3224
+Wide Bay		1046
+Wide Bay	0	2794
+Wide Bay	1	20202
+Wide Bay	2	21778
+Wide Bay	3	8036
+Wide Bay	4	4838
+Wright		914
+Wright	0	1118
+Wright	1	13420
+Wright	2	23104
+Wright	3	11282
+Wright	4	9104
+Adelaide		961
+Adelaide	0	9795
+Adelaide	1	32411
+Adelaide	2	25061
+Adelaide	3	7055
+Adelaide	4	3400
+Barker		1114
+Barker	0	3227
+Barker	1	21156
+Barker	2	24378
+Barker	3	10305
+Barker	4	6968
+Boothby		751
+Boothby	0	5690
+Boothby	1	27514
+Boothby	2	25845
+Boothby	3	7489
+Boothby	4	3767
+Grey		1410
+Grey	0	4487
+Grey	1	22378
+Grey	2	23724
+Grey	3	9432
+Grey	4	6058
+Hindmarsh		776
+Hindmarsh	0	5752
+Hindmarsh	1	26694
+Hindmarsh	2	25185
+Hindmarsh	3	7659
+Hindmarsh	4	3968
+Kingston		639
+Kingston	0	3446
+Kingston	1	22570
+Kingston	2	25185
+Kingston	3	8319
+Kingston	4	4375
+Makin		693
+Makin	0	3505
+Makin	1	22528
+Makin	2	24757
+Makin	3	8557
+Makin	4	4620
+Mayo		727
+Mayo	0	2008
+Mayo	1	20492
+Mayo	2	26525
+Mayo	3	10080
+Mayo	4	6517
+Spence		1148
+Spence	0	5717
+Spence	1	24375
+Spence	2	23529
+Spence	3	8240
+Spence	4	4753
+Sturt		700
+Sturt	0	5561
+Sturt	1	28396
+Sturt	2	27012
+Sturt	3	7814
+Sturt	4	4114
+Brand		892
+Brand	0	2683
+Brand	1	21970
+Brand	2	25545
+Brand	3	8615
+Brand	4	4383
+Burt		900
+Burt	0	2895
+Burt	1	20790
+Burt	2	25158
+Burt	3	8620
+Burt	4	4754
+Canning		875
+Canning	0	2222
+Canning	1	19620
+Canning	2	22189
+Canning	3	8609
+Canning	4	5590
+Cowan		951
+Cowan	0	3547
+Cowan	1	23004
+Cowan	2	25512
+Cowan	3	8760
+Cowan	4	4872
+Curtin		629
+Curtin	0	3724
+Curtin	1	25244
+Curtin	2	26116
+Curtin	3	7186
+Curtin	4	3421
+Durack		1610
+Durack	0	3992
+Durack	1	19532
+Durack	2	23404
+Durack	3	9612
+Durack	4	6028
+Forrest		893
+Forrest	0	1990
+Forrest	1	18746
+Forrest	2	23374
+Forrest	3	8552
+Forrest	4	4590
+Fremantle		720
+Fremantle	0	3244
+Fremantle	1	22315
+Fremantle	2	25568
+Fremantle	3	7716
+Fremantle	4	3952
+Hasluck		698
+Hasluck	0	1946
+Hasluck	1	17200
+Hasluck	2	24827
+Hasluck	3	9621
+Hasluck	4	6251
+Moore		533
+Moore	0	1462
+Moore	1	16045
+Moore	2	26544
+Moore	3	9095
+Moore	4	5037
+O'Connor		1284
+O'Connor	0	2935
+O'Connor	1	19754
+O'Connor	2	23416
+O'Connor	3	9774
+O'Connor	4	6656
+Pearce		660
+Pearce	0	1737
+Pearce	1	18730
+Pearce	2	25564
+Pearce	3	8805
+Pearce	4	4780
+Perth		911
+Perth	0	7598
+Perth	1	35859
+Perth	2	24832
+Perth	3	5753
+Perth	4	2714
+Swan		1052
+Swan	0	4872
+Swan	1	29511
+Swan	2	26944
+Swan	3	7976
+Swan	4	3936
+Tangney		574
+Tangney	0	2254
+Tangney	1	19542
+Tangney	2	27780
+Tangney	3	9199
+Tangney	4	4951
+Bass		864
+Bass	0	2738
+Bass	1	15373
+Bass	2	15085
+Bass	3	5942
+Bass	4	3609
+Braddon		726
+Braddon	0	2619
+Braddon	1	15704
+Braddon	2	15650
+Braddon	3	6099
+Braddon	4	3618
+Clark		579
+Clark	0	4018
+Clark	1	17312
+Clark	2	14151
+Clark	3	4820
+Clark	4	2716
+Franklin		496
+Franklin	0	1925
+Franklin	1	14011
+Franklin	2	16416
+Franklin	3	6047
+Franklin	4	3778
+Lyons		693
+Lyons	0	1715
+Lyons	1	13299
+Lyons	2	15993
+Lyons	3	7330
+Lyons	4	5085
+Lingiari		990
+Lingiari	0	5232
+Lingiari	1	10441
+Lingiari	2	9795
+Lingiari	3	3825
+Lingiari	4	2462
+Solomon		789
+Solomon	0	2430
+Solomon	1	13724
+Solomon	2	14715
+Solomon	3	4671
+Solomon	4	2138
+Bean		539
+Bean	0	2359
+Bean	1	20132
+Bean	2	22932
+Bean	3	7237
+Bean	4	3861
+Canberra		472
+Canberra	0	4495
+Canberra	1	25396
+Canberra	2	18779
+Canberra	3	4734
+Canberra	4	2206
+Fenner		520
+Fenner	0	2448
+Fenner	1	20271
+Fenner	2	23288
+Fenner	3	6444
+Fenner	4	3277
