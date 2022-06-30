@@ -70,7 +70,10 @@ file_colnames <- function(x) {
 fread <- function(file, select = NULL, ...) {
   x <- file
   if (!file.exists(x)) {
-    x <- sub("_AUS_([A-Z]+)\\.csv", "_AUST_\\1.csv", x)
+    x <- sub("_AUS_([A-Z0-9]+)\\.csv", "_AUST_\\1.csv", x)
+  }
+  if (!file.exists(x)) {
+    x <- sub("/AUST/", "/AUS/", x)
   }
   # handle differently cased colnames
   if (!is.null(select)) {
@@ -108,9 +111,10 @@ freadG <- function(g, ...) {
   stopifnot(length(g) == 1)
   g0 <- paste0(if (g < 10) "0", g)
   file_list <-
-    list.files(path = file.path('./data-raw/data-packs/data/', Region, 'AUST'),
+    list.files(path = file.path('./data-raw/data-packs/data/', Region),
                # Files may be of the form ..G08_AUS.. or ..G09B_AUS..
                pattern = paste0('2021Census_G', g0, '[A-Z]?_AUST_', Region, '\\.csv$'),
+               recursive = TRUE,
                full.names = TRUE)
   if (length(file_list) > 1) {
     file_list %>%
@@ -1423,7 +1427,7 @@ freadG(24) %>%
 
 # G20 unpaid disability assistance
 ```{r Age_ProvidedUnpaidDisabilityAssistance_Sex}
-freadG(21) %>%
+freadG(25) %>%
   drop_cols(grep("Tot", names(.), value = TRUE)) %>%
   drop_cols(grep("^P_", names(.), value = TRUE)) %>%
   melt.data.table(id.vars = Region_key,
@@ -1436,7 +1440,7 @@ freadG(21) %>%
 ```
 
 ```{r Age_ProvidedUnpaidChildcare_ForOwnChild_ForOtherChild_Sex}
-freadG(22) %>%
+freadG(26) %>%
   drop_cols(grep("Tot", names(.), value = TRUE)) %>%
   drop_cols(grep("^P_", names(.), value = TRUE)) %>%
   melt.data.table(id.vars = Region_key,
@@ -1467,13 +1471,13 @@ freadG(28) %>%
 # G25 - Family composition
 
 ```{r }
-freadG(25) %>%
+freadG(29) %>%
   drop_cols(grep("Tot", names(.), value = TRUE)) %>%
   # families
   drop_cols(grep("_F$", names(.), value = TRUE)) %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "persons_in_families") %>%
-  # Implicit total:
+  # Implicit total:○
   .[variable != "CF_no_children_P"] %>%
   .[grepl("^CF", variable),    FamilyComposition := "Couple"] %>%
   .[grepl("^OPF", variable),   FamilyComposition := "One parent"] %>%
@@ -1488,7 +1492,7 @@ freadG(25) %>%
 
 
 ```{r FamilyComposition_HasChild_HasDependentStudent_HasNonDependentChild}
-freadG(25) %>%
+freadG(29) %>%
   drop_cols(grep("Tot", names(.), value = TRUE)) %>%
   # families
   drop_cols(grep("_P$", names(.), value = TRUE)) %>%
@@ -1506,7 +1510,7 @@ freadG(25) %>%
 ```
 
 ```{r Age_FamilyComposition_ParentsBornAus_children}
-freadG(26) %>%
+freadG(30) %>%
   .[, .SD, .SDcols = c(ngrep("Tot", names(.)))] %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "children") %>%
@@ -1522,6 +1526,7 @@ freadG(26) %>%
 ```
 
 ```{r}
+if (FALSE)
 freadG(27) %>%
   drop_cols(grep("Tot", names(.), value = TRUE)) %>%
   .[] %>%
@@ -1540,7 +1545,7 @@ freadG(27) %>%
 ```
 
 ```{r TotalFamilyIncome}
-freadG(28) %>%
+freadG(32) %>%
   drop_cols(grep("Tot", names(.), value = TRUE)) %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "families") %>%
@@ -1556,7 +1561,7 @@ freadG(28) %>%
 ```
 
 ```{r HouseholdIncome}
-freadG(29) %>%
+freadG(33) %>%
   drop_cols(grep("Tot", names(.), value = TRUE)) %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "households") %>%
@@ -1573,7 +1578,7 @@ freadG(29) %>%
 # G30 - Motor vehicles
 
 ```{r}
-freadG(30) %>%
+freadG(34) %>%
   drop_col("Total_dwelings") %>%
   drop_col("Num_MVs_per_dweling_Tot") %>%
   melt.data.table(id.vars = Region_key,
@@ -1585,7 +1590,7 @@ freadG(30) %>%
 # G31 HouseholdComposition by Number of Persons Usually Resident
 
 ```{r HouseholdComposition_PersonsUsuallyResident}
-freadG(31, na.strings = "..") %>%
+freadG(35, na.strings = c("..", "", "NA")) %>%
   drop_empty_cols %>%
   .[, .SD, .SDcols = ngrep("Tot", names(.))] %>%
   melt.data.table(id.vars = Region_key,
@@ -1608,7 +1613,7 @@ freadG(32, na.strings = "..") %>%
 ```
 
 ```{r}
-freadG(34) %>%
+freadG(38) %>%
   .[, .SD, .SDcols = ngrep("Tot", names(.))] %>%
   .[, .SD, .SDcols = union(Region_key, grep("^..[0-9]", names(.), value = TRUE))] %>%
   melt.data.table(id.vars = Region_key,
@@ -1625,7 +1630,7 @@ freadG(34) %>%
 # G35 - Mortgage repayment monthly by family composition
 
 ```{r G35}
-freadG(35) %>%
+freadG(39) %>%
   .[, .SD, .SDcols = ngrep("Tot", names(.))] %>%
   .[, .SD, .SDcols = unique(c(Region_key, grep("^..[0-9]", names(.), value = TRUE)))] %>%
   melt.data.table(id.vars = Region_key,
@@ -1645,18 +1650,18 @@ freadG(35) %>%
 # G36 - Rent weekly
 
 ```{r G36}
-freadG(36) %>%
+freadG(40) %>%
   .[, .SD, .SDcols = ngrep("Tot", names(.))] %>%
   .[, .SD, .SDcols = unique(c(Region_key, grep("^..[0-9]", names(.), value = TRUE)))] %>%
   # typo:
-  setnames("R_650_over_LT_Lld_type_ns", "R_950_over_LT_Lld_type_ns") %>%
+  # setnames("R_650_over_LT_Lld_type_ns", "R_950_over_LT_Lld_type_ns") %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "occupied_private_dwellings_being_rented") %>%
   .[,                                 Rent.min := as.integer(52.5 * as.integer(sub("^..([0-9]+).*$", "\\1", variable)))] %>%
   .[grepl("Real_.*_agent", variable), Landlord := "Real estate agent"] %>%
-  .[grepl("auth?$", variable),        Landlord := "State or territory housing authority"] %>%
+  .[grepl("_Ste?_ter", variable),        Landlord := "State or territory housing authority"] %>%
   .[grepl("Psn.not", variable),       Landlord := "Person not in same household"] %>%
-  .[grepl("coop", variable),          Landlord := "Co-op/church group etc"] %>%
+  .[grepl("com_hou", variable),          Landlord := "Co-op/church group etc"] %>%
   .[grepl("Other", variable),         Landlord := "(Other)"] %>%
   .[] %>%
   Mop("occupied_private_dwellings_being_rented")
@@ -1665,34 +1670,38 @@ freadG(36) %>%
 # G37 - Internet access
 
 ```{r G37}
-freadG(37) %>%
-  .[, .SD, .SDcols = ngrep("Tot", names(.))] %>%
-  melt.data.table(id.vars = Region_key,
-                  value.name = "occupied_private_dwellings") %>%
-  .[!grepl("IC_(not_stated|NS)", variable), InternetAccessedFromDwelling := grepl("^IA", variable)] %>%
-  .[grepl("Separate_house", variable),      DwellingStructure :=            "Separate house"] %>%
-  .[grepl("SemD", variable),                DwellingStructure :=            "Semi-detached, row/terrace house, townhouse etc."] %>%
-  .[grepl("Flat_", variable),               DwellingStructure :=            "Flat/apartment"] %>%
-  .[grepl("Other", variable),               DwellingStructure :=            "(Other)"] %>%
-  Mop("occupied_private_dwellings")
+# freadG(37) %>%
+#   .[, .SD, .SDcols = ngrep("Tot", names(.))] %>%
+#   melt.data.table(id.vars = Region_key,
+#                   value.name = "occupied_private_dwellings") %>%
+#   .[!grepl("IC_(not_stated|NS)", variable), InternetAccessedFromDwelling := grepl("^IA", variable)] %>%
+#   .[grepl("Separate_house", variable),      DwellingStructure :=            "Separate house"] %>%
+#   .[grepl("SemD", variable),                DwellingStructure :=            "Semi-detached, row/terrace house, townhouse etc."] %>%
+#   .[grepl("Flat_", variable),               DwellingStructure :=            "Flat/apartment"] %>%
+#   .[grepl("Other", variable),               DwellingStructure :=            "(Other)"] %>%
+#   Mop("occupied_private_dwellings")
 ```
 
 ```{r G38}
-freadG(38) %>%
+freadG(41, na.strings = c("..")) %>%
   .[, .SD, .SDcols = ngrep("Tot", names(.))] %>%
+  # select_grep("Dw(ellin)?gs", .and = Region_key) %>%
+  drop_constant_cols() %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "occupied_private_dwellings") %>%
   .[variable %pin% "Separate_house",        DwellingStructure :=  "Separate house"] %>%
-  .[variable %pin% "^Se_d_r",               DwellingStructure :=  "Semi-detached, row/terrace house, townhouse etc."] %>%
+  .[variable %pin% "SD_r_t_h",               DwellingStructure :=  "Semi-detached, row/terrace house, townhouse etc."] %>%
   .[variable %pin% "^Flt",                  DwellingStructure :=  "Flat/apartment"] %>%
   .[variable %pin% "Other",                 DwellingStructure :=  "(Other)"] %>%
 
   .[variable %pin% "^Flt_apt_At_to_a_hse?", DwellingSubtype :=    "Attached to a house"] %>%
-  .[variable %pin% "1_st?_",                DwellingSubtype :=    "1 storey"] %>%
-  .[variable %pin% "1_or2",                 DwellingSubtype :=    "1 or 2 storey block"] %>%
-  .[variable %pin% "Se_d_r_or_t_h_t_2_st",  DwellingSubtype :=    "2 storeys or more"] %>%
-  .[variable %pin% "3_st_bl",               DwellingSubtype :=    "3 storey block"] %>%
-  .[variable %pin% "Flt_apt_4",             DwellingSubtype :=    "4 or more storey block"] %>%
+  .[variable %pin% "1_st?y?_",                DwellingSubtype :=    "1 storey"] %>%
+  .[variable %pin% "1or2",                 DwellingSubtype :=    "1 or 2 storey block"] %>%
+  .[variable %pin% "Se_d_r_or_t_h_t_2_s",  DwellingSubtype :=    "2 storeys or more"] %>%
+  .[variable %pin% "3_st?y?_bl",               DwellingSubtype :=    "3 storey block"] %>%
+  .[variable %pin% "Flt_apt_4to8",             DwellingSubtype :=    "4-8 storey block"] %>%
+  .[variable %pin% "Flt_apt_9",             DwellingSubtype :=    "9 or more storey block"] %>%
+  # .[variable == "Unoccupied_PDs_Dwgs", DwellingSubtype := "Unoccupied"] %>%
   
   # 
   .[!grepl("Nof?B_NS$", variable),           NumberBedrooms.min := sub("^.*Nof?B.([0-9]+).*$", "\\1", variable)] %>%
@@ -1704,7 +1713,7 @@ freadG(38) %>%
 # G39
 
 ```{r Region__DwellingType_FamilyComposition_Storeys}
-freadG(39) %>%
+freadG(42) %>%
   .[, .SD, .SDcols = c(ngrep("Tot", names(.)))] %>%
   melt.data.table(id.vars = Region_key,
                   value.name = "occupied_private_dwellings") %>%
@@ -1717,7 +1726,8 @@ freadG(39) %>%
   .[variable %pin% "^FoA_1_or_2",    DwellingSubtype :=   "1 or 2 storey block"] %>%
   .[variable %pin% "^FoA_3SB",       DwellingSubtype :=   "3 storey block"] %>%
   .[variable %pin% "^FoA_4moSB",     DwellingSubtype :=   "4 storey block or more"] %>%
-  .[variable %pin% "^FoA_Att_to",    DwellingSubtype :=   "Attached to a house"] %>%
+  .[variable %pin% "^FoA_4_to_8",     DwellingSubtype :=   "4-8 storey block"] %>%
+  .[variable %pin% "^FoA_9mo",    DwellingSubtype :=   "9 or more storey block"] %>%
   #
   .[variable %pin% "^OD_C_.",        DwellingSubtype :=   "Caravan"] %>%
   .[variable %pin% "^OD_CH_",        DwellingSubtype :=   "Cabin household"] %>%
@@ -1738,13 +1748,20 @@ FINISH <- Sys.time()
 ```
 
 
-```{r use_data, eval=dir.exists("data")}
+```{r use_data}
+cat("\nSaving data (use_data)\n")
 # Print side-effect ok
 stopifnot(dir.exists("data"))
 ced_tbls <-
   tables(silent = TRUE) %>%
   use_series("NAME") %>%
   grep(pattern = paste0("^", Region, "_"), x = ., value = TRUE)
+
+if (Region == "SA1") {
+  SA1_decoder <- unique(get(ced_tbls[1]), by = "SA1_CODE_2021")[[Region_key]]
+  save(SA1_decoder,
+       file = provide.file("~/Census2021.DataPack.SA1/data/SA1_intrnl_decoder.rda"))
+}
 
 library(Census2016.spec)
 ced_data_list <- mget(ced_tbls)
@@ -1809,16 +1826,13 @@ vapply(region_dtas,
   all %>%
   stopifnot
 
-library(foreach)
-library(doParallel)
-cl <- makeCluster(8)
-registerDoParallel(cl, cores = 8)
+
 # force data_path eval
 invisible(nchar(data_path))
 
 CatR <- function(...) {
-  cat(..., file = "./R/roxygen-data.R", append = TRUE, sep = "")
-  cat("\n", file = "./R/roxygen-data.R", append = TRUE, sep = "")
+  cat(..., file = provide.file("./R/roxygen-data.R"), append = TRUE, sep = "")
+  cat("\n", file = provide.file("./R/roxygen-data.R"), append = TRUE, sep = "")
 }
 if (Region == "STE") {
   CatR("#' @title Data pack data")
@@ -1839,6 +1853,11 @@ do_basic_roxygen <- function(x) {
 lapply(ced_tbls, do_basic_roxygen)
 
 
+
+library(foreach)
+library(doParallel)
+cl <- makeCluster(8)
+registerDoParallel(cl, cores = 8)
 foreach(tbl = ced_tbls, .inorder = FALSE, .export = c(ced_tbls)) %dopar% {
   save(list = tbl,
        file = file.path(data_path, paste0(tbl, ".rda")),
@@ -1876,6 +1895,12 @@ rm_zeros <- function(DT) {
 for (tbl in ced_tbls) {
   file.tsv <- file.path(tsv_path, paste0(tbl, ".tsv"))
   .ced_tbl <- rm_zeros(get(tbl))
+  if (Region == "SA1") {
+    .ced_tbl <- copy(.ced_tbl)
+    .ced_tbl[, "SA1_internal_2021" := fastmatch::fmatch(SA1_CODE_2021, SA1_decoder)]
+    .ced_tbl[, "SA1_CODE_2021" := NULL]
+    set_cols_first(.ced_tbl, "SA1_internal_2021")
+  }
   refwrite(.ced_tbl, file = file.tsv)
 }
 
