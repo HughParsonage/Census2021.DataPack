@@ -1,4 +1,4 @@
-SED_NAME16	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	families
+SED_NAME21	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	families
 Albury					285
 Albury	0	0	0	1	1223
 Albury	0	0	1	0	310

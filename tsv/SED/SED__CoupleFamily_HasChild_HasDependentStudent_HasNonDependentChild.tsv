@@ -1,4 +1,4 @@
-SED_NAME16	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	persons_in_families
+SED_NAME21	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	persons_in_families
 Albury					591
 Albury	0	0	0	1	2619
 Albury	0	0	1	0	676
