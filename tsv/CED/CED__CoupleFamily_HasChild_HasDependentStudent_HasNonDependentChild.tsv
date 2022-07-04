@@ -1,4 +1,4 @@
-CED_NAME16	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	persons_in_families
+CED_NAME21	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	persons_in_families
 Banks					1867
 Banks	0	0	0	1	7531
 Banks	0	0	1	0	1785
