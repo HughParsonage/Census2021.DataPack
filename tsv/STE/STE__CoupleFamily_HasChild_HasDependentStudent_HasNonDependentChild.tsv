@@ -1,4 +1,4 @@
-STE_NAME16	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	persons_in_families
+STE_NAME21	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	persons_in_families
 New South Wales					72385
 New South Wales	0	0	0	1	295787
 New South Wales	0	0	1	0	75256
