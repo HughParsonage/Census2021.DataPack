@@ -10,8 +10,9 @@ for (Region in c("STE", "SED",
   table_killer <- NULL; cat("\n-------", Region, "-------\n");
   invisible(source(knitr::purl("data-raw/put-data.Rmd", output = tempfile(), quiet = TRUE)))
 }
-
+if (FALSE) {
 source("data-raw/put-SA16_decoder.R")
+
 
 for (Region in c("STE", "SED",
                  # "SA1",
@@ -23,4 +24,5 @@ for (Region in c("STE", "SED",
   shell(paste0("git add ./tsv/", Region, "*tsv"))
   shell(paste0("git commit -m ", '"Add ', Region, '"'))
   shell("git push")
+}
 }

@@ -385,32 +385,32 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
     decoder <- 
       switch(Region,
              "SA2" = SA21_decoder[ASGS_Structure == Region,
-                                  .(SA2_MAIN16 = Census_Code_2021,
-                                    SA2_NAME16 = Census_Name_2021)],
+                                  .(SA2_MAIN21 = Census_Code_2021,
+                                    SA2_NAME21 = Census_Name_2021)],
              "SA3" = SA21_decoder[ASGS_Structure == Region,
-                                  .(SA3_MAIN16 = Census_Code_2021,
-                                    SA3_NAME16 = Census_Name_2021)],
+                                  .(SA3_MAIN21 = Census_Code_2021,
+                                    SA3_NAME21 = Census_Name_2021)],
              "SA4" = SA21_decoder[ASGS_Structure == Region,
-                                  .(SA4_MAIN16 = Census_Code_2021,
-                                    SA4_NAME16 = Census_Name_2021)],
+                                  .(SA4_MAIN21 = Census_Code_2021,
+                                    SA4_NAME21 = Census_Name_2021)],
              "STE" = SA21_decoder[ASGS_Structure == Region,
-                                  .(STE_MAIN16 = Census_Code_2021,
-                                    STE_NAME16 = Census_Name_2021)],
+                                  .(STE_MAIN21 = Census_Code_2021,
+                                    STE_NAME21 = Census_Name_2021)],
              "LGA" = {
                NonABS_decoder[ASGS_Structure == Region,
-                              .(Census_Code_2021, LGA_NAME16 = Census_Name_2021)]
+                              .(Census_Code_2021, LGA_NAME21 = Census_Name_2021)]
              },
              "CED" = {
                NonABS_decoder[ASGS_Structure == Region,
-                              .(Census_Code_2021, CED_NAME16 = Census_Name_2021)]
+                              .(Census_Code_2021, CED_NAME21 = Census_Name_2021)]
              },
              "SED" = {
                NonABS_decoder[ASGS_Structure == Region,
-                              .(Census_Code_2021, SED_NAME16 = Census_Name_2021)]
+                              .(Census_Code_2021, SED_NAME21 = Census_Name_2021)]
              },
              "SSC" = {
                NonABS_decoder[ASGS_Structure == Region,
-                              .(Census_Code_2021, SSC_NAME16 = Census_Name_2021)]
+                              .(Census_Code_2021, SSC_NAME21 = Census_Name_2021)]
              },
              NULL) %>%
       unique %>%
