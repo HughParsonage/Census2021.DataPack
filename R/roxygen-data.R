@@ -3219,3 +3219,119 @@
 "POA__Religion_Denomination_Sex"
 #' @rdname POA__Sex
 "POA__Sex"
+#' @rdname GCCSA__Age
+"GCCSA__Age"
+#' @rdname GCCSA__Age.min
+"GCCSA__Age.min"
+#' @rdname GCCSA__Age.min_Sex
+"GCCSA__Age.min_Sex"
+#' @rdname GCCSA__Age_EnglishProficiency_SpeaksEnglishOnly_YearOfArrival.max
+"GCCSA__Age_EnglishProficiency_SpeaksEnglishOnly_YearOfArrival.max"
+#' @rdname GCCSA__Age_HoursHousekeeping_Sex
+"GCCSA__Age_HoursHousekeeping_Sex"
+#' @rdname GCCSA__Age_IncomeTotPersonal.max_Sex
+"GCCSA__Age_IncomeTotPersonal.max_Sex"
+#' @rdname GCCSA__Age_MaritalStatus_Registered
+"GCCSA__Age_MaritalStatus_Registered"
+#' @rdname GCCSA__Age_MaritalStatus_Sex
+"GCCSA__Age_MaritalStatus_Sex"
+#' @rdname GCCSA__Age_MaxSchoolingCompleted_Sex
+"GCCSA__Age_MaxSchoolingCompleted_Sex"
+#' @rdname GCCSA__Age_NeedsAssistance_Sex
+"GCCSA__Age_NeedsAssistance_Sex"
+#' @rdname GCCSA__Age_ProvidedUnpaidChildcare_ForOwnChild_ForOtherChild_Sex
+"GCCSA__Age_ProvidedUnpaidChildcare_ForOwnChild_ForOtherChild_Sex"
+#' @rdname GCCSA__Age_ProvidedUnpaidDisabilityAssistance_Sex
+"GCCSA__Age_ProvidedUnpaidDisabilityAssistance_Sex"
+#' @rdname GCCSA__Age_Sex
+"GCCSA__Age_Sex"
+#' @rdname GCCSA__Age_UsualResidence
+"GCCSA__Age_UsualResidence"
+#' @rdname GCCSA__Age5yr_ChildrenEverBorn
+"GCCSA__Age5yr_ChildrenEverBorn"
+#' @rdname GCCSA__Age5yr_Indigenous
+"GCCSA__Age5yr_Indigenous"
+#' @rdname GCCSA__Age5yr_Indigenous_Sex
+"GCCSA__Age5yr_Indigenous_Sex"
+#' @rdname GCCSA__AgeChild_CoupleFamily_ParentsBornAus
+"GCCSA__AgeChild_CoupleFamily_ParentsBornAus"
+#' @rdname GCCSA__AgeStudent
+"GCCSA__AgeStudent"
+#' @rdname GCCSA__AgeStudent_Sex
+"GCCSA__AgeStudent_Sex"
+#' @rdname GCCSA__Ancestry
+"GCCSA__Ancestry"
+#' @rdname GCCSA__Ancestry_FatherBornAus_MotherBornAus
+"GCCSA__Ancestry_FatherBornAus_MotherBornAus"
+#' @rdname GCCSA__AustCitizen
+"GCCSA__AustCitizen"
+#' @rdname GCCSA__AustCitizen_Sex
+"GCCSA__AustCitizen_Sex"
+#' @rdname GCCSA__BornAust
+"GCCSA__BornAust"
+#' @rdname GCCSA__BornAust_Sex
+"GCCSA__BornAust_Sex"
+#' @rdname GCCSA__CountryOfBirth
+"GCCSA__CountryOfBirth"
+#' @rdname GCCSA__CountryOfBirth_Sex
+"GCCSA__CountryOfBirth_Sex"
+#' @rdname GCCSA__CountryOfBirth_YearOfArrival.max
+"GCCSA__CountryOfBirth_YearOfArrival.max"
+#' @rdname GCCSA__CoupleFamily_HasChild_HasChildUnder15_MortgageRepayment.min
+"GCCSA__CoupleFamily_HasChild_HasChildUnder15_MortgageRepayment.min"
+#' @rdname GCCSA__CoupleFamily_HasChild_HasDependentStudent_HasNonDependentChild
+"GCCSA__CoupleFamily_HasChild_HasDependentStudent_HasNonDependentChild"
+#' @rdname GCCSA__CoupleFamily_HasChild_HasDependentStudent_HasNonDependentChild_families
+"GCCSA__CoupleFamily_HasChild_HasDependentStudent_HasNonDependentChild_families"
+#' @rdname GCCSA__CoupleFamily_HasChild_IncomeFamily.max
+"GCCSA__CoupleFamily_HasChild_IncomeFamily.max"
+#' @rdname GCCSA__DwellingStructure_DwellingSubtype_HouseholdComposition
+"GCCSA__DwellingStructure_DwellingSubtype_HouseholdComposition"
+#' @rdname GCCSA__DwellingStructure_DwellingSubtype_NumberBedrooms.min
+"GCCSA__DwellingStructure_DwellingSubtype_NumberBedrooms.min"
+#' @rdname GCCSA__DwellingStructure_MortgageRepayment.min
+"GCCSA__DwellingStructure_MortgageRepayment.min"
+#' @rdname GCCSA__EduInstitutionType_Sex
+"GCCSA__EduInstitutionType_Sex"
+#' @rdname GCCSA__FamilyHousehold_IncomeHousehold.max
+"GCCSA__FamilyHousehold_IncomeHousehold.max"
+#' @rdname GCCSA__FamilyHousehold_UsualResidents.min
+"GCCSA__FamilyHousehold_UsualResidents.min"
+#' @rdname GCCSA__HomeCensusNight
+"GCCSA__HomeCensusNight"
+#' @rdname GCCSA__HomeCensusNight_Sex
+"GCCSA__HomeCensusNight_Sex"
+#' @rdname GCCSA__IndigenousStatus
+"GCCSA__IndigenousStatus"
+#' @rdname GCCSA__Landlord_Rent.min
+"GCCSA__Landlord_Rent.min"
+#' @rdname GCCSA__MaxSchoolingCompleted
+"GCCSA__MaxSchoolingCompleted"
+#' @rdname GCCSA__MaxSchoolingCompleted_Sex
+"GCCSA__MaxSchoolingCompleted_Sex"
+#' @rdname GCCSA__medianMortgageRepayment
+"GCCSA__medianMortgageRepayment"
+#' @rdname GCCSA__medianRent
+"GCCSA__medianRent"
+#' @rdname GCCSA__medianTotalFamilyIncome
+"GCCSA__medianTotalFamilyIncome"
+#' @rdname GCCSA__medianTotalHouseholdIncome
+"GCCSA__medianTotalHouseholdIncome"
+#' @rdname GCCSA__medianTotalPersonalIncome
+"GCCSA__medianTotalPersonalIncome"
+#' @rdname GCCSA__MotorVehicles.min
+"GCCSA__MotorVehicles.min"
+#' @rdname GCCSA__OnlyEnglishSpokenHome
+"GCCSA__OnlyEnglishSpokenHome"
+#' @rdname GCCSA__OnlyEnglishSpokenHome_Sex
+"GCCSA__OnlyEnglishSpokenHome_Sex"
+#' @rdname GCCSA__Persons
+"GCCSA__Persons"
+#' @rdname GCCSA__PrivateDwelling
+"GCCSA__PrivateDwelling"
+#' @rdname GCCSA__PrivateDwelling_Sex
+"GCCSA__PrivateDwelling_Sex"
+#' @rdname GCCSA__Religion_Denomination_Sex
+"GCCSA__Religion_Denomination_Sex"
+#' @rdname GCCSA__Sex
+"GCCSA__Sex"

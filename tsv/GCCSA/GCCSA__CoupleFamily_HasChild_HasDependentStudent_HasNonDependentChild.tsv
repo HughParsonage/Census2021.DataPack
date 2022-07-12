@@ -1,0 +1,241 @@
+GCCSA_NAME21	CoupleFamily	HasChild	HasDependentStudent	HasNonDependentChild	persons_in_families
+Greater Sydney					50233
+Greater Sydney	0	0	0	1	192172
+Greater Sydney	0	0	1	0	53464
+Greater Sydney	0	0	1	1	33306
+Greater Sydney	0	1	0	0	181624
+Greater Sydney	0	1	0	1	22711
+Greater Sydney	0	1	1	0	48183
+Greater Sydney	0	1	1	1	14519
+Greater Sydney	1	0	0	1	408541
+Greater Sydney	1	0	1	0	213124
+Greater Sydney	1	0	1	1	164912
+Greater Sydney	1	1	0	0	1388558
+Greater Sydney	1	1	0	1	66566
+Greater Sydney	1	1	1	0	303250
+Greater Sydney	1	1	1	1	63980
+Rest of NSW					22150
+Rest of NSW	0	0	0	1	103621
+Rest of NSW	0	0	1	0	21792
+Rest of NSW	0	0	1	1	12801
+Rest of NSW	0	1	0	0	140308
+Rest of NSW	0	1	0	1	20256
+Rest of NSW	0	1	1	0	30087
+Rest of NSW	0	1	1	1	8334
+Rest of NSW	1	0	0	1	180114
+Rest of NSW	1	0	1	0	67542
+Rest of NSW	1	0	1	1	51698
+Rest of NSW	1	1	0	0	609569
+Rest of NSW	1	1	0	1	45379
+Rest of NSW	1	1	1	0	127524
+Rest of NSW	1	1	1	1	29397
+Greater Melbourne					49275
+Greater Melbourne	0	0	0	1	171085
+Greater Melbourne	0	0	1	0	54548
+Greater Melbourne	0	0	1	1	33586
+Greater Melbourne	0	1	0	0	165028
+Greater Melbourne	0	1	0	1	17651
+Greater Melbourne	0	1	1	0	47451
+Greater Melbourne	0	1	1	1	12259
+Greater Melbourne	1	0	0	1	349710
+Greater Melbourne	1	0	1	0	207103
+Greater Melbourne	1	0	1	1	150415
+Greater Melbourne	1	1	0	0	1318749
+Greater Melbourne	1	1	0	1	48660
+Greater Melbourne	1	1	1	0	282333
+Greater Melbourne	1	1	1	1	52705
+Rest of Vic.					11853
+Rest of Vic.	0	0	0	1	52904
+Rest of Vic.	0	0	1	0	12412
+Rest of Vic.	0	0	1	1	7395
+Rest of Vic.	0	1	0	0	70366
+Rest of Vic.	0	1	0	1	8857
+Rest of Vic.	0	1	1	0	16813
+Rest of Vic.	0	1	1	1	4423
+Rest of Vic.	1	0	0	1	95822
+Rest of Vic.	1	0	1	0	40812
+Rest of Vic.	1	0	1	1	30878
+Rest of Vic.	1	1	0	0	346461
+Rest of Vic.	1	1	0	1	19456
+Rest of Vic.	1	1	1	0	74316
+Rest of Vic.	1	1	1	1	16256
+Greater Brisbane					25514
+Greater Brisbane	0	0	0	1	82983
+Greater Brisbane	0	0	1	0	25127
+Greater Brisbane	0	0	1	1	13922
+Greater Brisbane	0	1	0	0	121281
+Greater Brisbane	0	1	0	1	15164
+Greater Brisbane	0	1	1	0	28638
+Greater Brisbane	0	1	1	1	8611
+Greater Brisbane	1	0	0	1	153817
+Greater Brisbane	1	0	1	0	89897
+Greater Brisbane	1	0	1	1	58231
+Greater Brisbane	1	1	0	0	645421
+Greater Brisbane	1	1	0	1	35128
+Greater Brisbane	1	1	1	0	138382
+Greater Brisbane	1	1	1	1	30224
+Rest of Qld					21186
+Rest of Qld	0	0	0	1	85028
+Rest of Qld	0	0	1	0	21463
+Rest of Qld	0	0	1	1	11442
+Rest of Qld	0	1	0	0	133556
+Rest of Qld	0	1	0	1	18638
+Rest of Qld	0	1	1	0	29413
+Rest of Qld	0	1	1	1	7972
+Rest of Qld	1	0	0	1	146531
+Rest of Qld	1	0	1	0	66360
+Rest of Qld	1	0	1	1	43715
+Rest of Qld	1	1	0	0	576740
+Rest of Qld	1	1	0	1	41604
+Rest of Qld	1	1	1	0	123645
+Rest of Qld	1	1	1	1	26711
+Greater Adelaide					13604
+Greater Adelaide	0	0	0	1	52928
+Greater Adelaide	0	0	1	0	15108
+Greater Adelaide	0	0	1	1	8829
+Greater Adelaide	0	1	0	0	58580
+Greater Adelaide	0	1	0	1	7051
+Greater Adelaide	0	1	1	0	14916
+Greater Adelaide	0	1	1	1	3722
+Greater Adelaide	1	0	0	1	95137
+Greater Adelaide	1	0	1	0	51474
+Greater Adelaide	1	0	1	1	36678
+Greater Adelaide	1	1	0	0	326733
+Greater Adelaide	1	1	0	1	14740
+Greater Adelaide	1	1	1	0	71364
+Greater Adelaide	1	1	1	1	14232
+Rest of SA					2820
+Rest of SA	0	0	0	1	11693
+Rest of SA	0	0	1	0	2577
+Rest of SA	0	0	1	1	1487
+Rest of SA	0	1	0	0	17791
+Rest of SA	0	1	0	1	2403
+Rest of SA	0	1	1	0	3746
+Rest of SA	0	1	1	1	988
+Rest of SA	1	0	0	1	22171
+Rest of SA	1	0	1	0	7490
+Rest of SA	1	0	1	1	5781
+Rest of SA	1	1	0	0	76591
+Rest of SA	1	1	0	1	5458
+Rest of SA	1	1	1	0	17359
+Rest of SA	1	1	1	1	3974
+Greater Perth					19279
+Greater Perth	0	0	0	1	64969
+Greater Perth	0	0	1	0	19526
+Greater Perth	0	0	1	1	12134
+Greater Perth	0	1	0	0	86813
+Greater Perth	0	1	0	1	10678
+Greater Perth	0	1	1	0	20863
+Greater Perth	0	1	1	1	5668
+Greater Perth	1	0	0	1	135713
+Greater Perth	1	0	1	0	77416
+Greater Perth	1	0	1	1	55784
+Greater Perth	1	1	0	0	555348
+Greater Perth	1	1	0	1	28827
+Greater Perth	1	1	1	0	115195
+Greater Perth	1	1	1	1	24200
+Rest of WA					3769
+Rest of WA	0	0	0	1	13665
+Rest of WA	0	0	1	0	2897
+Rest of WA	0	0	1	1	1651
+Rest of WA	0	1	0	0	24285
+Rest of WA	0	1	0	1	4076
+Rest of WA	0	1	1	0	5026
+Rest of WA	0	1	1	1	1371
+Rest of WA	1	0	0	1	25622
+Rest of WA	1	0	1	0	9153
+Rest of WA	1	0	1	1	6994
+Rest of WA	1	1	0	0	123228
+Rest of WA	1	1	0	1	9262
+Rest of WA	1	1	1	0	22450
+Rest of WA	1	1	1	1	5269
+Greater Hobart					2206
+Greater Hobart	0	0	0	1	8792
+Greater Hobart	0	0	1	0	2515
+Greater Hobart	0	0	1	1	1333
+Greater Hobart	0	1	0	0	12269
+Greater Hobart	0	1	0	1	1525
+Greater Hobart	0	1	1	0	3015
+Greater Hobart	0	1	1	1	692
+Greater Hobart	1	0	0	1	14554
+Greater Hobart	1	0	1	0	6797
+Greater Hobart	1	0	1	1	4740
+Greater Hobart	1	1	0	0	54121
+Greater Hobart	1	1	0	1	3104
+Greater Hobart	1	1	1	0	11153
+Greater Hobart	1	1	1	1	2228
+Rest of Tas.					2229
+Rest of Tas.	0	0	0	1	10457
+Rest of Tas.	0	0	1	0	2509
+Rest of Tas.	0	0	1	1	1312
+Rest of Tas.	0	1	0	0	15312
+Rest of Tas.	0	1	0	1	1896
+Rest of Tas.	0	1	1	0	3486
+Rest of Tas.	0	1	1	1	839
+Rest of Tas.	1	0	0	1	18958
+Rest of Tas.	1	0	1	0	6991
+Rest of Tas.	1	0	1	1	5089
+Rest of Tas.	1	1	0	0	61001
+Rest of Tas.	1	1	0	1	4589
+Rest of Tas.	1	1	1	0	13257
+Rest of Tas.	1	1	1	1	3171
+Greater Darwin					1219
+Greater Darwin	0	0	0	1	3780
+Greater Darwin	0	0	1	0	928
+Greater Darwin	0	0	1	1	548
+Greater Darwin	0	1	0	0	6873
+Greater Darwin	0	1	0	1	902
+Greater Darwin	0	1	1	0	1298
+Greater Darwin	0	1	1	1	391
+Greater Darwin	1	0	0	1	7016
+Greater Darwin	1	0	1	0	3121
+Greater Darwin	1	0	1	1	2052
+Greater Darwin	1	1	0	0	36850
+Greater Darwin	1	1	0	1	2292
+Greater Darwin	1	1	1	0	6574
+Greater Darwin	1	1	1	1	1568
+Rest of NT					1391
+Rest of NT	0	0	0	1	3456
+Rest of NT	0	0	1	0	359
+Rest of NT	0	0	1	1	240
+Rest of NT	0	1	0	0	6414
+Rest of NT	0	1	0	1	2644
+Rest of NT	0	1	1	0	870
+Rest of NT	0	1	1	1	482
+Rest of NT	1	0	0	1	4004
+Rest of NT	1	0	1	0	931
+Rest of NT	1	0	1	1	660
+Rest of NT	1	1	0	0	22047
+Rest of NT	1	1	0	1	5237
+Rest of NT	1	1	1	0	3062
+Rest of NT	1	1	1	1	1635
+Australian Capital Territory					3726
+Australian Capital Territory	0	0	0	1	12157
+Australian Capital Territory	0	0	1	0	4127
+Australian Capital Territory	0	0	1	1	2240
+Australian Capital Territory	0	1	0	0	16120
+Australian Capital Territory	0	1	0	1	1412
+Australian Capital Territory	0	1	1	0	4083
+Australian Capital Territory	0	1	1	1	1037
+Australian Capital Territory	1	0	0	1	23995
+Australian Capital Territory	1	0	1	0	16528
+Australian Capital Territory	1	0	1	1	9980
+Australian Capital Territory	1	1	0	0	125143
+Australian Capital Territory	1	1	0	1	4239
+Australian Capital Territory	1	1	1	0	23930
+Australian Capital Territory	1	1	1	1	3677
+Other Territories					46
+Other Territories	0	0	0	1	107
+Other Territories	0	0	1	0	21
+Other Territories	0	0	1	1	8
+Other Territories	0	1	0	0	138
+Other Territories	0	1	0	1	37
+Other Territories	0	1	1	0	46
+Other Territories	0	1	1	1	6
+Other Territories	1	0	0	1	211
+Other Territories	1	0	1	0	56
+Other Territories	1	0	1	1	48
+Other Territories	1	1	0	0	1021
+Other Territories	1	1	0	1	86
+Other Territories	1	1	1	0	149
+Other Territories	1	1	1	1	23

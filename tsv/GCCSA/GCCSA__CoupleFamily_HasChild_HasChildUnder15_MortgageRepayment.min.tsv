@@ -1,0 +1,1613 @@
+GCCSA_NAME21	CoupleFamily	HasChild	HasChildUnder15	MortgageRepayment.min	families_in_occupied_private_dwellings_being_purchased
+Greater Sydney		1	1	0	270
+Greater Sydney		1	1	1800	22
+Greater Sydney		1	1	3600	66
+Greater Sydney		1	1	5400	42
+Greater Sydney		1	1	7200	99
+Greater Sydney		1	1	9600	125
+Greater Sydney		1	1	12000	172
+Greater Sydney		1	1	14400	197
+Greater Sydney		1	1	16800	187
+Greater Sydney		1	1	19200	266
+Greater Sydney		1	1	21600	196
+Greater Sydney		1	1	24000	390
+Greater Sydney		1	1	26400	149
+Greater Sydney		1	1	28800	174
+Greater Sydney		1	1	31200	314
+Greater Sydney		1	1	36000	470
+Greater Sydney		1	1	48000	193
+Greater Sydney		1	1	60000	205
+Greater Sydney	0	1	0	0	1722
+Greater Sydney	0	1	0	1800	307
+Greater Sydney	0	1	0	3600	660
+Greater Sydney	0	1	0	5400	592
+Greater Sydney	0	1	0	7200	1044
+Greater Sydney	0	1	0	9600	1433
+Greater Sydney	0	1	0	12000	1805
+Greater Sydney	0	1	0	14400	2134
+Greater Sydney	0	1	0	16800	2037
+Greater Sydney	0	1	0	19200	2288
+Greater Sydney	0	1	0	21600	1524
+Greater Sydney	0	1	0	24000	3177
+Greater Sydney	0	1	0	26400	1235
+Greater Sydney	0	1	0	28800	1029
+Greater Sydney	0	1	0	31200	2179
+Greater Sydney	0	1	0	36000	3356
+Greater Sydney	0	1	0	48000	1468
+Greater Sydney	0	1	0	60000	1457
+Greater Sydney	0	1	1	0	900
+Greater Sydney	0	1	1	1800	152
+Greater Sydney	0	1	1	3600	278
+Greater Sydney	0	1	1	5400	261
+Greater Sydney	0	1	1	7200	463
+Greater Sydney	0	1	1	9600	682
+Greater Sydney	0	1	1	12000	1041
+Greater Sydney	0	1	1	14400	1317
+Greater Sydney	0	1	1	16800	1435
+Greater Sydney	0	1	1	19200	1716
+Greater Sydney	0	1	1	21600	1374
+Greater Sydney	0	1	1	24000	2718
+Greater Sydney	0	1	1	26400	1299
+Greater Sydney	0	1	1	28800	1134
+Greater Sydney	0	1	1	31200	2224
+Greater Sydney	0	1	1	36000	3544
+Greater Sydney	0	1	1	48000	1635
+Greater Sydney	0	1	1	60000	1848
+Greater Sydney	1	0	0	0	6442
+Greater Sydney	1	0	0	1800	1121
+Greater Sydney	1	0	0	3600	1862
+Greater Sydney	1	0	0	5400	1567
+Greater Sydney	1	0	0	7200	2478
+Greater Sydney	1	0	0	9600	3277
+Greater Sydney	1	0	0	12000	4275
+Greater Sydney	1	0	0	14400	4925
+Greater Sydney	1	0	0	16800	4948
+Greater Sydney	1	0	0	19200	6291
+Greater Sydney	1	0	0	21600	5451
+Greater Sydney	1	0	0	24000	11803
+Greater Sydney	1	0	0	26400	6535
+Greater Sydney	1	0	0	28800	6775
+Greater Sydney	1	0	0	31200	12746
+Greater Sydney	1	0	0	36000	21206
+Greater Sydney	1	0	0	48000	10177
+Greater Sydney	1	0	0	60000	11344
+Greater Sydney	1	1	0	0	5144
+Greater Sydney	1	1	0	1800	950
+Greater Sydney	1	1	0	3600	1593
+Greater Sydney	1	1	0	5400	1394
+Greater Sydney	1	1	0	7200	2149
+Greater Sydney	1	1	0	9600	2992
+Greater Sydney	1	1	0	12000	4115
+Greater Sydney	1	1	0	14400	4801
+Greater Sydney	1	1	0	16800	4604
+Greater Sydney	1	1	0	19200	5322
+Greater Sydney	1	1	0	21600	3829
+Greater Sydney	1	1	0	24000	9782
+Greater Sydney	1	1	0	26400	3878
+Greater Sydney	1	1	0	28800	3871
+Greater Sydney	1	1	0	31200	8044
+Greater Sydney	1	1	0	36000	14962
+Greater Sydney	1	1	0	48000	7959
+Greater Sydney	1	1	0	60000	9218
+Greater Sydney	1	1	1	0	6018
+Greater Sydney	1	1	1	1800	653
+Greater Sydney	1	1	1	3600	1202
+Greater Sydney	1	1	1	5400	1117
+Greater Sydney	1	1	1	7200	1912
+Greater Sydney	1	1	1	9600	3099
+Greater Sydney	1	1	1	12000	4922
+Greater Sydney	1	1	1	14400	6524
+Greater Sydney	1	1	1	16800	7883
+Greater Sydney	1	1	1	19200	10251
+Greater Sydney	1	1	1	21600	9795
+Greater Sydney	1	1	1	24000	22416
+Greater Sydney	1	1	1	26400	13033
+Greater Sydney	1	1	1	28800	14060
+Greater Sydney	1	1	1	31200	27315
+Greater Sydney	1	1	1	36000	50944
+Greater Sydney	1	1	1	48000	26610
+Greater Sydney	1	1	1	60000	33886
+Rest of NSW		1	1	0	124
+Rest of NSW		1	1	1800	28
+Rest of NSW		1	1	3600	62
+Rest of NSW		1	1	5400	60
+Rest of NSW		1	1	7200	104
+Rest of NSW		1	1	9600	131
+Rest of NSW		1	1	12000	155
+Rest of NSW		1	1	14400	188
+Rest of NSW		1	1	16800	154
+Rest of NSW		1	1	19200	167
+Rest of NSW		1	1	21600	74
+Rest of NSW		1	1	24000	134
+Rest of NSW		1	1	26400	44
+Rest of NSW		1	1	28800	32
+Rest of NSW		1	1	31200	82
+Rest of NSW		1	1	36000	70
+Rest of NSW		1	1	48000	25
+Rest of NSW		1	1	60000	22
+Rest of NSW	0	1	0	0	691
+Rest of NSW	0	1	0	1800	256
+Rest of NSW	0	1	0	3600	618
+Rest of NSW	0	1	0	5400	542
+Rest of NSW	0	1	0	7200	1021
+Rest of NSW	0	1	0	9600	1388
+Rest of NSW	0	1	0	12000	1590
+Rest of NSW	0	1	0	14400	1882
+Rest of NSW	0	1	0	16800	1380
+Rest of NSW	0	1	0	19200	1479
+Rest of NSW	0	1	0	21600	825
+Rest of NSW	0	1	0	24000	1201
+Rest of NSW	0	1	0	26400	407
+Rest of NSW	0	1	0	28800	194
+Rest of NSW	0	1	0	31200	644
+Rest of NSW	0	1	0	36000	634
+Rest of NSW	0	1	0	48000	236
+Rest of NSW	0	1	0	60000	169
+Rest of NSW	0	1	1	0	411
+Rest of NSW	0	1	1	1800	147
+Rest of NSW	0	1	1	3600	343
+Rest of NSW	0	1	1	5400	418
+Rest of NSW	0	1	1	7200	878
+Rest of NSW	0	1	1	9600	1354
+Rest of NSW	0	1	1	12000	1689
+Rest of NSW	0	1	1	14400	2130
+Rest of NSW	0	1	1	16800	1856
+Rest of NSW	0	1	1	19200	1993
+Rest of NSW	0	1	1	21600	1235
+Rest of NSW	0	1	1	24000	1591
+Rest of NSW	0	1	1	26400	641
+Rest of NSW	0	1	1	28800	334
+Rest of NSW	0	1	1	31200	924
+Rest of NSW	0	1	1	36000	889
+Rest of NSW	0	1	1	48000	255
+Rest of NSW	0	1	1	60000	189
+Rest of NSW	1	0	0	0	4348
+Rest of NSW	1	0	0	1800	1257
+Rest of NSW	1	0	0	3600	2458
+Rest of NSW	1	0	0	5400	2140
+Rest of NSW	1	0	0	7200	3840
+Rest of NSW	1	0	0	9600	5035
+Rest of NSW	1	0	0	12000	5859
+Rest of NSW	1	0	0	14400	7160
+Rest of NSW	1	0	0	16800	6311
+Rest of NSW	1	0	0	19200	7373
+Rest of NSW	1	0	0	21600	5031
+Rest of NSW	1	0	0	24000	8382
+Rest of NSW	1	0	0	26400	3510
+Rest of NSW	1	0	0	28800	2427
+Rest of NSW	1	0	0	31200	5714
+Rest of NSW	1	0	0	36000	6168
+Rest of NSW	1	0	0	48000	2340
+Rest of NSW	1	0	0	60000	1856
+Rest of NSW	1	1	0	0	1647
+Rest of NSW	1	1	0	1800	461
+Rest of NSW	1	1	0	3600	925
+Rest of NSW	1	1	0	5400	833
+Rest of NSW	1	1	0	7200	1608
+Rest of NSW	1	1	0	9600	2424
+Rest of NSW	1	1	0	12000	2912
+Rest of NSW	1	1	0	14400	3736
+Rest of NSW	1	1	0	16800	3289
+Rest of NSW	1	1	0	19200	3715
+Rest of NSW	1	1	0	21600	2443
+Rest of NSW	1	1	0	24000	4661
+Rest of NSW	1	1	0	26400	1560
+Rest of NSW	1	1	0	28800	1078
+Rest of NSW	1	1	0	31200	3073
+Rest of NSW	1	1	0	36000	3644
+Rest of NSW	1	1	0	48000	1491
+Rest of NSW	1	1	0	60000	1129
+Rest of NSW	1	1	1	0	2211
+Rest of NSW	1	1	1	1800	460
+Rest of NSW	1	1	1	3600	1014
+Rest of NSW	1	1	1	5400	1181
+Rest of NSW	1	1	1	7200	2594
+Rest of NSW	1	1	1	9600	4344
+Rest of NSW	1	1	1	12000	6472
+Rest of NSW	1	1	1	14400	9324
+Rest of NSW	1	1	1	16800	9517
+Rest of NSW	1	1	1	19200	11618
+Rest of NSW	1	1	1	21600	9517
+Rest of NSW	1	1	1	24000	14442
+Rest of NSW	1	1	1	26400	7121
+Rest of NSW	1	1	1	28800	4807
+Rest of NSW	1	1	1	31200	11802
+Rest of NSW	1	1	1	36000	12598
+Rest of NSW	1	1	1	48000	4258
+Rest of NSW	1	1	1	60000	3141
+Greater Melbourne		1	1	0	346
+Greater Melbourne		1	1	1800	39
+Greater Melbourne		1	1	3600	78
+Greater Melbourne		1	1	5400	85
+Greater Melbourne		1	1	7200	134
+Greater Melbourne		1	1	9600	202
+Greater Melbourne		1	1	12000	240
+Greater Melbourne		1	1	14400	315
+Greater Melbourne		1	1	16800	358
+Greater Melbourne		1	1	19200	418
+Greater Melbourne		1	1	21600	337
+Greater Melbourne		1	1	24000	495
+Greater Melbourne		1	1	26400	198
+Greater Melbourne		1	1	28800	191
+Greater Melbourne		1	1	31200	261
+Greater Melbourne		1	1	36000	349
+Greater Melbourne		1	1	48000	139
+Greater Melbourne		1	1	60000	152
+Greater Melbourne	0	1	0	0	1896
+Greater Melbourne	0	1	0	1800	454
+Greater Melbourne	0	1	0	3600	1002
+Greater Melbourne	0	1	0	5400	873
+Greater Melbourne	0	1	0	7200	1616
+Greater Melbourne	0	1	0	9600	2036
+Greater Melbourne	0	1	0	12000	2661
+Greater Melbourne	0	1	0	14400	2966
+Greater Melbourne	0	1	0	16800	2780
+Greater Melbourne	0	1	0	19200	2791
+Greater Melbourne	0	1	0	21600	1755
+Greater Melbourne	0	1	0	24000	2968
+Greater Melbourne	0	1	0	26400	1056
+Greater Melbourne	0	1	0	28800	938
+Greater Melbourne	0	1	0	31200	1454
+Greater Melbourne	0	1	0	36000	2076
+Greater Melbourne	0	1	0	48000	890
+Greater Melbourne	0	1	0	60000	889
+Greater Melbourne	0	1	1	0	921
+Greater Melbourne	0	1	1	1800	199
+Greater Melbourne	0	1	1	3600	400
+Greater Melbourne	0	1	1	5400	434
+Greater Melbourne	0	1	1	7200	707
+Greater Melbourne	0	1	1	9600	1227
+Greater Melbourne	0	1	1	12000	1739
+Greater Melbourne	0	1	1	14400	2300
+Greater Melbourne	0	1	1	16800	2482
+Greater Melbourne	0	1	1	19200	2718
+Greater Melbourne	0	1	1	21600	1947
+Greater Melbourne	0	1	1	24000	3005
+Greater Melbourne	0	1	1	26400	1241
+Greater Melbourne	0	1	1	28800	1087
+Greater Melbourne	0	1	1	31200	1644
+Greater Melbourne	0	1	1	36000	2331
+Greater Melbourne	0	1	1	48000	1010
+Greater Melbourne	0	1	1	60000	1272
+Greater Melbourne	1	0	0	0	6422
+Greater Melbourne	1	0	0	1800	1393
+Greater Melbourne	1	0	0	3600	2403
+Greater Melbourne	1	0	0	5400	1945
+Greater Melbourne	1	0	0	7200	3156
+Greater Melbourne	1	0	0	9600	4106
+Greater Melbourne	1	0	0	12000	5756
+Greater Melbourne	1	0	0	14400	7411
+Greater Melbourne	1	0	0	16800	8447
+Greater Melbourne	1	0	0	19200	10116
+Greater Melbourne	1	0	0	21600	9448
+Greater Melbourne	1	0	0	24000	15942
+Greater Melbourne	1	0	0	26400	8454
+Greater Melbourne	1	0	0	28800	7437
+Greater Melbourne	1	0	0	31200	10815
+Greater Melbourne	1	0	0	36000	15743
+Greater Melbourne	1	0	0	48000	6548
+Greater Melbourne	1	0	0	60000	6127
+Greater Melbourne	1	1	0	0	5061
+Greater Melbourne	1	1	0	1800	1210
+Greater Melbourne	1	1	0	3600	2103
+Greater Melbourne	1	1	0	5400	1738
+Greater Melbourne	1	1	0	7200	2834
+Greater Melbourne	1	1	0	9600	3860
+Greater Melbourne	1	1	0	12000	5256
+Greater Melbourne	1	1	0	14400	5864
+Greater Melbourne	1	1	0	16800	6018
+Greater Melbourne	1	1	0	19200	6399
+Greater Melbourne	1	1	0	21600	4594
+Greater Melbourne	1	1	0	24000	10085
+Greater Melbourne	1	1	0	26400	3647
+Greater Melbourne	1	1	0	28800	3517
+Greater Melbourne	1	1	0	31200	5877
+Greater Melbourne	1	1	0	36000	9854
+Greater Melbourne	1	1	0	48000	4759
+Greater Melbourne	1	1	0	60000	5301
+Greater Melbourne	1	1	1	0	6174
+Greater Melbourne	1	1	1	1800	977
+Greater Melbourne	1	1	1	3600	1704
+Greater Melbourne	1	1	1	5400	1677
+Greater Melbourne	1	1	1	7200	2900
+Greater Melbourne	1	1	1	9600	4697
+Greater Melbourne	1	1	1	12000	8226
+Greater Melbourne	1	1	1	14400	11935
+Greater Melbourne	1	1	1	16800	15742
+Greater Melbourne	1	1	1	19200	20568
+Greater Melbourne	1	1	1	21600	19958
+Greater Melbourne	1	1	1	24000	33274
+Greater Melbourne	1	1	1	26400	17744
+Greater Melbourne	1	1	1	28800	15819
+Greater Melbourne	1	1	1	31200	23146
+Greater Melbourne	1	1	1	36000	36661
+Greater Melbourne	1	1	1	48000	16067
+Greater Melbourne	1	1	1	60000	17915
+Rest of Vic.		1	1	0	49
+Rest of Vic.		1	1	1800	15
+Rest of Vic.		1	1	3600	39
+Rest of Vic.		1	1	5400	46
+Rest of Vic.		1	1	7200	72
+Rest of Vic.		1	1	9600	116
+Rest of Vic.		1	1	12000	141
+Rest of Vic.		1	1	14400	153
+Rest of Vic.		1	1	16800	128
+Rest of Vic.		1	1	19200	104
+Rest of Vic.		1	1	21600	48
+Rest of Vic.		1	1	24000	71
+Rest of Vic.		1	1	26400	26
+Rest of Vic.		1	1	28800	11
+Rest of Vic.		1	1	31200	28
+Rest of Vic.		1	1	36000	36
+Rest of Vic.		1	1	48000	9
+Rest of Vic.		1	1	60000	3
+Rest of Vic.	0	1	0	0	361
+Rest of Vic.	0	1	0	1800	214
+Rest of Vic.	0	1	0	3600	488
+Rest of Vic.	0	1	0	5400	437
+Rest of Vic.	0	1	0	7200	974
+Rest of Vic.	0	1	0	9600	1123
+Rest of Vic.	0	1	0	12000	1206
+Rest of Vic.	0	1	0	14400	1158
+Rest of Vic.	0	1	0	16800	789
+Rest of Vic.	0	1	0	19200	701
+Rest of Vic.	0	1	0	21600	308
+Rest of Vic.	0	1	0	24000	471
+Rest of Vic.	0	1	0	26400	127
+Rest of Vic.	0	1	0	28800	74
+Rest of Vic.	0	1	0	31200	185
+Rest of Vic.	0	1	0	36000	190
+Rest of Vic.	0	1	0	48000	87
+Rest of Vic.	0	1	0	60000	66
+Rest of Vic.	0	1	1	0	225
+Rest of Vic.	0	1	1	1800	82
+Rest of Vic.	0	1	1	3600	305
+Rest of Vic.	0	1	1	5400	301
+Rest of Vic.	0	1	1	7200	840
+Rest of Vic.	0	1	1	9600	1157
+Rest of Vic.	0	1	1	12000	1359
+Rest of Vic.	0	1	1	14400	1551
+Rest of Vic.	0	1	1	16800	1143
+Rest of Vic.	0	1	1	19200	982
+Rest of Vic.	0	1	1	21600	451
+Rest of Vic.	0	1	1	24000	614
+Rest of Vic.	0	1	1	26400	163
+Rest of Vic.	0	1	1	28800	111
+Rest of Vic.	0	1	1	31200	243
+Rest of Vic.	0	1	1	36000	296
+Rest of Vic.	0	1	1	48000	83
+Rest of Vic.	0	1	1	60000	70
+Rest of Vic.	1	0	0	0	2296
+Rest of Vic.	1	0	0	1800	886
+Rest of Vic.	1	0	0	3600	1741
+Rest of Vic.	1	0	0	5400	1594
+Rest of Vic.	1	0	0	7200	2945
+Rest of Vic.	1	0	0	9600	3817
+Rest of Vic.	1	0	0	12000	4588
+Rest of Vic.	1	0	0	14400	5223
+Rest of Vic.	1	0	0	16800	4605
+Rest of Vic.	1	0	0	19200	4593
+Rest of Vic.	1	0	0	21600	2749
+Rest of Vic.	1	0	0	24000	4166
+Rest of Vic.	1	0	0	26400	1451
+Rest of Vic.	1	0	0	28800	948
+Rest of Vic.	1	0	0	31200	2006
+Rest of Vic.	1	0	0	36000	2260
+Rest of Vic.	1	0	0	48000	847
+Rest of Vic.	1	0	0	60000	728
+Rest of Vic.	1	1	0	0	950
+Rest of Vic.	1	1	0	1800	330
+Rest of Vic.	1	1	0	3600	735
+Rest of Vic.	1	1	0	5400	737
+Rest of Vic.	1	1	0	7200	1318
+Rest of Vic.	1	1	0	9600	1906
+Rest of Vic.	1	1	0	12000	2289
+Rest of Vic.	1	1	0	14400	2543
+Rest of Vic.	1	1	0	16800	2051
+Rest of Vic.	1	1	0	19200	2113
+Rest of Vic.	1	1	0	21600	1251
+Rest of Vic.	1	1	0	24000	2088
+Rest of Vic.	1	1	0	26400	613
+Rest of Vic.	1	1	0	28800	472
+Rest of Vic.	1	1	0	31200	1152
+Rest of Vic.	1	1	0	36000	1205
+Rest of Vic.	1	1	0	48000	523
+Rest of Vic.	1	1	0	60000	414
+Rest of Vic.	1	1	1	0	1442
+Rest of Vic.	1	1	1	1800	360
+Rest of Vic.	1	1	1	3600	838
+Rest of Vic.	1	1	1	5400	974
+Rest of Vic.	1	1	1	7200	2457
+Rest of Vic.	1	1	1	9600	4299
+Rest of Vic.	1	1	1	12000	5824
+Rest of Vic.	1	1	1	14400	7744
+Rest of Vic.	1	1	1	16800	7531
+Rest of Vic.	1	1	1	19200	8061
+Rest of Vic.	1	1	1	21600	5559
+Rest of Vic.	1	1	1	24000	7329
+Rest of Vic.	1	1	1	26400	2905
+Rest of Vic.	1	1	1	28800	1913
+Rest of Vic.	1	1	1	31200	4031
+Rest of Vic.	1	1	1	36000	4247
+Rest of Vic.	1	1	1	48000	1566
+Rest of Vic.	1	1	1	60000	1255
+Greater Brisbane		1	1	0	124
+Greater Brisbane		1	1	1800	19
+Greater Brisbane		1	1	3600	50
+Greater Brisbane		1	1	5400	34
+Greater Brisbane		1	1	7200	89
+Greater Brisbane		1	1	9600	127
+Greater Brisbane		1	1	12000	173
+Greater Brisbane		1	1	14400	257
+Greater Brisbane		1	1	16800	230
+Greater Brisbane		1	1	19200	237
+Greater Brisbane		1	1	21600	165
+Greater Brisbane		1	1	24000	267
+Greater Brisbane		1	1	26400	103
+Greater Brisbane		1	1	28800	63
+Greater Brisbane		1	1	31200	134
+Greater Brisbane		1	1	36000	147
+Greater Brisbane		1	1	48000	40
+Greater Brisbane		1	1	60000	33
+Greater Brisbane	0	1	0	0	646
+Greater Brisbane	0	1	0	1800	177
+Greater Brisbane	0	1	0	3600	389
+Greater Brisbane	0	1	0	5400	377
+Greater Brisbane	0	1	0	7200	644
+Greater Brisbane	0	1	0	9600	991
+Greater Brisbane	0	1	0	12000	1269
+Greater Brisbane	0	1	0	14400	1603
+Greater Brisbane	0	1	0	16800	1485
+Greater Brisbane	0	1	0	19200	1537
+Greater Brisbane	0	1	0	21600	941
+Greater Brisbane	0	1	0	24000	1400
+Greater Brisbane	0	1	0	26400	493
+Greater Brisbane	0	1	0	28800	323
+Greater Brisbane	0	1	0	31200	710
+Greater Brisbane	0	1	0	36000	810
+Greater Brisbane	0	1	0	48000	239
+Greater Brisbane	0	1	0	60000	196
+Greater Brisbane	0	1	1	0	396
+Greater Brisbane	0	1	1	1800	87
+Greater Brisbane	0	1	1	3600	186
+Greater Brisbane	0	1	1	5400	192
+Greater Brisbane	0	1	1	7200	524
+Greater Brisbane	0	1	1	9600	763
+Greater Brisbane	0	1	1	12000	1185
+Greater Brisbane	0	1	1	14400	1644
+Greater Brisbane	0	1	1	16800	1804
+Greater Brisbane	0	1	1	19200	1898
+Greater Brisbane	0	1	1	21600	1323
+Greater Brisbane	0	1	1	24000	1615
+Greater Brisbane	0	1	1	26400	639
+Greater Brisbane	0	1	1	28800	442
+Greater Brisbane	0	1	1	31200	831
+Greater Brisbane	0	1	1	36000	996
+Greater Brisbane	0	1	1	48000	322
+Greater Brisbane	0	1	1	60000	268
+Greater Brisbane	1	0	0	0	3370
+Greater Brisbane	1	0	0	1800	829
+Greater Brisbane	1	0	0	3600	1528
+Greater Brisbane	1	0	0	5400	1301
+Greater Brisbane	1	0	0	7200	2225
+Greater Brisbane	1	0	0	9600	3180
+Greater Brisbane	1	0	0	12000	4412
+Greater Brisbane	1	0	0	14400	6167
+Greater Brisbane	1	0	0	16800	6480
+Greater Brisbane	1	0	0	19200	8071
+Greater Brisbane	1	0	0	21600	6268
+Greater Brisbane	1	0	0	24000	9040
+Greater Brisbane	1	0	0	26400	4163
+Greater Brisbane	1	0	0	28800	3087
+Greater Brisbane	1	0	0	31200	6023
+Greater Brisbane	1	0	0	36000	6868
+Greater Brisbane	1	0	0	48000	2564
+Greater Brisbane	1	0	0	60000	1929
+Greater Brisbane	1	1	0	0	1812
+Greater Brisbane	1	1	0	1800	457
+Greater Brisbane	1	1	0	3600	809
+Greater Brisbane	1	1	0	5400	717
+Greater Brisbane	1	1	0	7200	1251
+Greater Brisbane	1	1	0	9600	1765
+Greater Brisbane	1	1	0	12000	2389
+Greater Brisbane	1	1	0	14400	3184
+Greater Brisbane	1	1	0	16800	3182
+Greater Brisbane	1	1	0	19200	3843
+Greater Brisbane	1	1	0	21600	2753
+Greater Brisbane	1	1	0	24000	5047
+Greater Brisbane	1	1	0	26400	1971
+Greater Brisbane	1	1	0	28800	1597
+Greater Brisbane	1	1	0	31200	3298
+Greater Brisbane	1	1	0	36000	4561
+Greater Brisbane	1	1	0	48000	1941
+Greater Brisbane	1	1	0	60000	1582
+Greater Brisbane	1	1	1	0	2159
+Greater Brisbane	1	1	1	1800	417
+Greater Brisbane	1	1	1	3600	860
+Greater Brisbane	1	1	1	5400	758
+Greater Brisbane	1	1	1	7200	1479
+Greater Brisbane	1	1	1	9600	2714
+Greater Brisbane	1	1	1	12000	4741
+Greater Brisbane	1	1	1	14400	7590
+Greater Brisbane	1	1	1	16800	9797
+Greater Brisbane	1	1	1	19200	12634
+Greater Brisbane	1	1	1	21600	11011
+Greater Brisbane	1	1	1	24000	16207
+Greater Brisbane	1	1	1	26400	8226
+Greater Brisbane	1	1	1	28800	6484
+Greater Brisbane	1	1	1	31200	12339
+Greater Brisbane	1	1	1	36000	15124
+Greater Brisbane	1	1	1	48000	5762
+Greater Brisbane	1	1	1	60000	4865
+Rest of Qld		1	1	0	100
+Rest of Qld		1	1	1800	20
+Rest of Qld		1	1	3600	56
+Rest of Qld		1	1	5400	40
+Rest of Qld		1	1	7200	100
+Rest of Qld		1	1	9600	156
+Rest of Qld		1	1	12000	192
+Rest of Qld		1	1	14400	199
+Rest of Qld		1	1	16800	185
+Rest of Qld		1	1	19200	183
+Rest of Qld		1	1	21600	110
+Rest of Qld		1	1	24000	177
+Rest of Qld		1	1	26400	39
+Rest of Qld		1	1	28800	38
+Rest of Qld		1	1	31200	106
+Rest of Qld		1	1	36000	74
+Rest of Qld		1	1	48000	29
+Rest of Qld		1	1	60000	26
+Rest of Qld	0	1	0	0	611
+Rest of Qld	0	1	0	1800	178
+Rest of Qld	0	1	0	3600	421
+Rest of Qld	0	1	0	5400	432
+Rest of Qld	0	1	0	7200	805
+Rest of Qld	0	1	0	9600	1229
+Rest of Qld	0	1	0	12000	1334
+Rest of Qld	0	1	0	14400	1670
+Rest of Qld	0	1	0	16800	1350
+Rest of Qld	0	1	0	19200	1401
+Rest of Qld	0	1	0	21600	780
+Rest of Qld	0	1	0	24000	1054
+Rest of Qld	0	1	0	26400	357
+Rest of Qld	0	1	0	28800	212
+Rest of Qld	0	1	0	31200	553
+Rest of Qld	0	1	0	36000	552
+Rest of Qld	0	1	0	48000	217
+Rest of Qld	0	1	0	60000	162
+Rest of Qld	0	1	1	0	423
+Rest of Qld	0	1	1	1800	115
+Rest of Qld	0	1	1	3600	306
+Rest of Qld	0	1	1	5400	369
+Rest of Qld	0	1	1	7200	765
+Rest of Qld	0	1	1	9600	1224
+Rest of Qld	0	1	1	12000	1668
+Rest of Qld	0	1	1	14400	2073
+Rest of Qld	0	1	1	16800	1854
+Rest of Qld	0	1	1	19200	1833
+Rest of Qld	0	1	1	21600	1081
+Rest of Qld	0	1	1	24000	1513
+Rest of Qld	0	1	1	26400	555
+Rest of Qld	0	1	1	28800	307
+Rest of Qld	0	1	1	31200	743
+Rest of Qld	0	1	1	36000	729
+Rest of Qld	0	1	1	48000	250
+Rest of Qld	0	1	1	60000	182
+Rest of Qld	1	0	0	0	3972
+Rest of Qld	1	0	0	1800	1160
+Rest of Qld	1	0	0	3600	2205
+Rest of Qld	1	0	0	5400	1959
+Rest of Qld	1	0	0	7200	3792
+Rest of Qld	1	0	0	9600	5076
+Rest of Qld	1	0	0	12000	6463
+Rest of Qld	1	0	0	14400	7929
+Rest of Qld	1	0	0	16800	7143
+Rest of Qld	1	0	0	19200	8088
+Rest of Qld	1	0	0	21600	5392
+Rest of Qld	1	0	0	24000	8439
+Rest of Qld	1	0	0	26400	3329
+Rest of Qld	1	0	0	28800	2083
+Rest of Qld	1	0	0	31200	4833
+Rest of Qld	1	0	0	36000	5356
+Rest of Qld	1	0	0	48000	2090
+Rest of Qld	1	0	0	60000	1594
+Rest of Qld	1	1	0	0	1387
+Rest of Qld	1	1	0	1800	370
+Rest of Qld	1	1	0	3600	816
+Rest of Qld	1	1	0	5400	747
+Rest of Qld	1	1	0	7200	1399
+Rest of Qld	1	1	0	9600	2009
+Rest of Qld	1	1	0	12000	2483
+Rest of Qld	1	1	0	14400	3202
+Rest of Qld	1	1	0	16800	2976
+Rest of Qld	1	1	0	19200	3633
+Rest of Qld	1	1	0	21600	2517
+Rest of Qld	1	1	0	24000	4278
+Rest of Qld	1	1	0	26400	1599
+Rest of Qld	1	1	0	28800	1117
+Rest of Qld	1	1	0	31200	2779
+Rest of Qld	1	1	0	36000	3217
+Rest of Qld	1	1	0	48000	1216
+Rest of Qld	1	1	0	60000	1001
+Rest of Qld	1	1	1	0	1879
+Rest of Qld	1	1	1	1800	431
+Rest of Qld	1	1	1	3600	924
+Rest of Qld	1	1	1	5400	1029
+Rest of Qld	1	1	1	7200	2451
+Rest of Qld	1	1	1	9600	4237
+Rest of Qld	1	1	1	12000	6349
+Rest of Qld	1	1	1	14400	9497
+Rest of Qld	1	1	1	16800	9988
+Rest of Qld	1	1	1	19200	12012
+Rest of Qld	1	1	1	21600	9422
+Rest of Qld	1	1	1	24000	13540
+Rest of Qld	1	1	1	26400	6166
+Rest of Qld	1	1	1	28800	4085
+Rest of Qld	1	1	1	31200	8789
+Rest of Qld	1	1	1	36000	8931
+Rest of Qld	1	1	1	48000	3094
+Rest of Qld	1	1	1	60000	2549
+Greater Adelaide		1	1	0	84
+Greater Adelaide		1	1	1800	22
+Greater Adelaide		1	1	3600	63
+Greater Adelaide		1	1	5400	36
+Greater Adelaide		1	1	7200	83
+Greater Adelaide		1	1	9600	108
+Greater Adelaide		1	1	12000	141
+Greater Adelaide		1	1	14400	173
+Greater Adelaide		1	1	16800	156
+Greater Adelaide		1	1	19200	143
+Greater Adelaide		1	1	21600	89
+Greater Adelaide		1	1	24000	94
+Greater Adelaide		1	1	26400	29
+Greater Adelaide		1	1	28800	20
+Greater Adelaide		1	1	31200	49
+Greater Adelaide		1	1	36000	49
+Greater Adelaide		1	1	48000	21
+Greater Adelaide		1	1	60000	22
+Greater Adelaide	0	1	0	0	440
+Greater Adelaide	0	1	0	1800	181
+Greater Adelaide	0	1	0	3600	445
+Greater Adelaide	0	1	0	5400	405
+Greater Adelaide	0	1	0	7200	885
+Greater Adelaide	0	1	0	9600	1118
+Greater Adelaide	0	1	0	12000	1315
+Greater Adelaide	0	1	0	14400	1442
+Greater Adelaide	0	1	0	16800	1169
+Greater Adelaide	0	1	0	19200	963
+Greater Adelaide	0	1	0	21600	487
+Greater Adelaide	0	1	0	24000	667
+Greater Adelaide	0	1	0	26400	193
+Greater Adelaide	0	1	0	28800	115
+Greater Adelaide	0	1	0	31200	302
+Greater Adelaide	0	1	0	36000	344
+Greater Adelaide	0	1	0	48000	125
+Greater Adelaide	0	1	0	60000	116
+Greater Adelaide	0	1	1	0	224
+Greater Adelaide	0	1	1	1800	77
+Greater Adelaide	0	1	1	3600	157
+Greater Adelaide	0	1	1	5400	158
+Greater Adelaide	0	1	1	7200	443
+Greater Adelaide	0	1	1	9600	838
+Greater Adelaide	0	1	1	12000	1115
+Greater Adelaide	0	1	1	14400	1430
+Greater Adelaide	0	1	1	16800	1270
+Greater Adelaide	0	1	1	19200	1137
+Greater Adelaide	0	1	1	21600	624
+Greater Adelaide	0	1	1	24000	747
+Greater Adelaide	0	1	1	26400	270
+Greater Adelaide	0	1	1	28800	136
+Greater Adelaide	0	1	1	31200	311
+Greater Adelaide	0	1	1	36000	354
+Greater Adelaide	0	1	1	48000	140
+Greater Adelaide	0	1	1	60000	101
+Greater Adelaide	1	0	0	0	2114
+Greater Adelaide	1	0	0	1800	706
+Greater Adelaide	1	0	0	3600	1288
+Greater Adelaide	1	0	0	5400	1097
+Greater Adelaide	1	0	0	7200	1823
+Greater Adelaide	1	0	0	9600	2602
+Greater Adelaide	1	0	0	12000	3426
+Greater Adelaide	1	0	0	14400	4429
+Greater Adelaide	1	0	0	16800	4459
+Greater Adelaide	1	0	0	19200	4632
+Greater Adelaide	1	0	0	21600	3071
+Greater Adelaide	1	0	0	24000	4070
+Greater Adelaide	1	0	0	26400	1626
+Greater Adelaide	1	0	0	28800	1123
+Greater Adelaide	1	0	0	31200	2283
+Greater Adelaide	1	0	0	36000	2477
+Greater Adelaide	1	0	0	48000	959
+Greater Adelaide	1	0	0	60000	778
+Greater Adelaide	1	1	0	0	1177
+Greater Adelaide	1	1	0	1800	365
+Greater Adelaide	1	1	0	3600	693
+Greater Adelaide	1	1	0	5400	643
+Greater Adelaide	1	1	0	7200	1279
+Greater Adelaide	1	1	0	9600	1707
+Greater Adelaide	1	1	0	12000	2149
+Greater Adelaide	1	1	0	14400	2515
+Greater Adelaide	1	1	0	16800	2326
+Greater Adelaide	1	1	0	19200	2452
+Greater Adelaide	1	1	0	21600	1541
+Greater Adelaide	1	1	0	24000	2552
+Greater Adelaide	1	1	0	26400	924
+Greater Adelaide	1	1	0	28800	631
+Greater Adelaide	1	1	0	31200	1464
+Greater Adelaide	1	1	0	36000	2009
+Greater Adelaide	1	1	0	48000	868
+Greater Adelaide	1	1	0	60000	735
+Greater Adelaide	1	1	1	0	1242
+Greater Adelaide	1	1	1	1800	269
+Greater Adelaide	1	1	1	3600	501
+Greater Adelaide	1	1	1	5400	609
+Greater Adelaide	1	1	1	7200	1292
+Greater Adelaide	1	1	1	9600	2588
+Greater Adelaide	1	1	1	12000	4453
+Greater Adelaide	1	1	1	14400	6757
+Greater Adelaide	1	1	1	16800	7520
+Greater Adelaide	1	1	1	19200	8206
+Greater Adelaide	1	1	1	21600	5978
+Greater Adelaide	1	1	1	24000	7927
+Greater Adelaide	1	1	1	26400	3557
+Greater Adelaide	1	1	1	28800	2442
+Greater Adelaide	1	1	1	31200	4830
+Greater Adelaide	1	1	1	36000	5865
+Greater Adelaide	1	1	1	48000	2134
+Greater Adelaide	1	1	1	60000	1927
+Rest of SA		1	1	0	16
+Rest of SA		1	1	1800	7
+Rest of SA		1	1	3600	22
+Rest of SA		1	1	5400	18
+Rest of SA		1	1	7200	35
+Rest of SA		1	1	9600	34
+Rest of SA		1	1	12000	30
+Rest of SA		1	1	14400	25
+Rest of SA		1	1	16800	26
+Rest of SA		1	1	19200	18
+Rest of SA		1	1	24000	7
+Rest of SA		1	1	31200	5
+Rest of SA		1	1	60000	3
+Rest of SA	0	1	0	0	75
+Rest of SA	0	1	0	1800	63
+Rest of SA	0	1	0	3600	153
+Rest of SA	0	1	0	5400	149
+Rest of SA	0	1	0	7200	322
+Rest of SA	0	1	0	9600	366
+Rest of SA	0	1	0	12000	316
+Rest of SA	0	1	0	14400	237
+Rest of SA	0	1	0	16800	139
+Rest of SA	0	1	0	19200	112
+Rest of SA	0	1	0	21600	41
+Rest of SA	0	1	0	24000	65
+Rest of SA	0	1	0	26400	17
+Rest of SA	0	1	0	28800	6
+Rest of SA	0	1	0	31200	40
+Rest of SA	0	1	0	36000	24
+Rest of SA	0	1	0	48000	4
+Rest of SA	0	1	0	60000	14
+Rest of SA	0	1	1	0	63
+Rest of SA	0	1	1	1800	33
+Rest of SA	0	1	1	3600	100
+Rest of SA	0	1	1	5400	109
+Rest of SA	0	1	1	7200	332
+Rest of SA	0	1	1	9600	411
+Rest of SA	0	1	1	12000	381
+Rest of SA	0	1	1	14400	327
+Rest of SA	0	1	1	16800	215
+Rest of SA	0	1	1	19200	133
+Rest of SA	0	1	1	21600	60
+Rest of SA	0	1	1	24000	75
+Rest of SA	0	1	1	26400	21
+Rest of SA	0	1	1	28800	16
+Rest of SA	0	1	1	31200	37
+Rest of SA	0	1	1	36000	28
+Rest of SA	0	1	1	48000	9
+Rest of SA	0	1	1	60000	8
+Rest of SA	1	0	0	0	683
+Rest of SA	1	0	0	1800	288
+Rest of SA	1	0	0	3600	737
+Rest of SA	1	0	0	5400	672
+Rest of SA	1	0	0	7200	1257
+Rest of SA	1	0	0	9600	1530
+Rest of SA	1	0	0	12000	1574
+Rest of SA	1	0	0	14400	1468
+Rest of SA	1	0	0	16800	1051
+Rest of SA	1	0	0	19200	918
+Rest of SA	1	0	0	21600	462
+Rest of SA	1	0	0	24000	667
+Rest of SA	1	0	0	26400	223
+Rest of SA	1	0	0	28800	128
+Rest of SA	1	0	0	31200	307
+Rest of SA	1	0	0	36000	334
+Rest of SA	1	0	0	48000	132
+Rest of SA	1	0	0	60000	109
+Rest of SA	1	1	0	0	205
+Rest of SA	1	1	0	1800	53
+Rest of SA	1	1	0	3600	202
+Rest of SA	1	1	0	5400	223
+Rest of SA	1	1	0	7200	415
+Rest of SA	1	1	0	9600	586
+Rest of SA	1	1	0	12000	594
+Rest of SA	1	1	0	14400	590
+Rest of SA	1	1	0	16800	512
+Rest of SA	1	1	0	19200	415
+Rest of SA	1	1	0	21600	241
+Rest of SA	1	1	0	24000	373
+Rest of SA	1	1	0	26400	113
+Rest of SA	1	1	0	28800	74
+Rest of SA	1	1	0	31200	128
+Rest of SA	1	1	0	36000	173
+Rest of SA	1	1	0	48000	58
+Rest of SA	1	1	0	60000	65
+Rest of SA	1	1	1	0	322
+Rest of SA	1	1	1	1800	85
+Rest of SA	1	1	1	3600	242
+Rest of SA	1	1	1	5400	394
+Rest of SA	1	1	1	7200	952
+Rest of SA	1	1	1	9600	1550
+Rest of SA	1	1	1	12000	1825
+Rest of SA	1	1	1	14400	2061
+Rest of SA	1	1	1	16800	1753
+Rest of SA	1	1	1	19200	1547
+Rest of SA	1	1	1	21600	839
+Rest of SA	1	1	1	24000	1056
+Rest of SA	1	1	1	26400	367
+Rest of SA	1	1	1	28800	223
+Rest of SA	1	1	1	31200	411
+Rest of SA	1	1	1	36000	466
+Rest of SA	1	1	1	48000	169
+Rest of SA	1	1	1	60000	120
+Greater Perth		1	1	0	159
+Greater Perth		1	1	1800	22
+Greater Perth		1	1	3600	56
+Greater Perth		1	1	5400	46
+Greater Perth		1	1	7200	81
+Greater Perth		1	1	9600	114
+Greater Perth		1	1	12000	168
+Greater Perth		1	1	14400	252
+Greater Perth		1	1	16800	228
+Greater Perth		1	1	19200	228
+Greater Perth		1	1	21600	195
+Greater Perth		1	1	24000	280
+Greater Perth		1	1	26400	101
+Greater Perth		1	1	28800	67
+Greater Perth		1	1	31200	113
+Greater Perth		1	1	36000	131
+Greater Perth		1	1	48000	48
+Greater Perth		1	1	60000	45
+Greater Perth	0	1	0	0	729
+Greater Perth	0	1	0	1800	156
+Greater Perth	0	1	0	3600	384
+Greater Perth	0	1	0	5400	353
+Greater Perth	0	1	0	7200	677
+Greater Perth	0	1	0	9600	919
+Greater Perth	0	1	0	12000	1246
+Greater Perth	0	1	0	14400	1551
+Greater Perth	0	1	0	16800	1414
+Greater Perth	0	1	0	19200	1403
+Greater Perth	0	1	0	21600	966
+Greater Perth	0	1	0	24000	1389
+Greater Perth	0	1	0	26400	510
+Greater Perth	0	1	0	28800	330
+Greater Perth	0	1	0	31200	693
+Greater Perth	0	1	0	36000	844
+Greater Perth	0	1	0	48000	318
+Greater Perth	0	1	0	60000	294
+Greater Perth	0	1	1	0	427
+Greater Perth	0	1	1	1800	88
+Greater Perth	0	1	1	3600	186
+Greater Perth	0	1	1	5400	182
+Greater Perth	0	1	1	7200	389
+Greater Perth	0	1	1	9600	688
+Greater Perth	0	1	1	12000	964
+Greater Perth	0	1	1	14400	1454
+Greater Perth	0	1	1	16800	1587
+Greater Perth	0	1	1	19200	1774
+Greater Perth	0	1	1	21600	1226
+Greater Perth	0	1	1	24000	1812
+Greater Perth	0	1	1	26400	679
+Greater Perth	0	1	1	28800	521
+Greater Perth	0	1	1	31200	872
+Greater Perth	0	1	1	36000	920
+Greater Perth	0	1	1	48000	406
+Greater Perth	0	1	1	60000	261
+Greater Perth	1	0	0	0	3212
+Greater Perth	1	0	0	1800	748
+Greater Perth	1	0	0	3600	1323
+Greater Perth	1	0	0	5400	1138
+Greater Perth	1	0	0	7200	1901
+Greater Perth	1	0	0	9600	2703
+Greater Perth	1	0	0	12000	3943
+Greater Perth	1	0	0	14400	5342
+Greater Perth	1	0	0	16800	6220
+Greater Perth	1	0	0	19200	7396
+Greater Perth	1	0	0	21600	5644
+Greater Perth	1	0	0	24000	8727
+Greater Perth	1	0	0	26400	3849
+Greater Perth	1	0	0	28800	2798
+Greater Perth	1	0	0	31200	5292
+Greater Perth	1	0	0	36000	6617
+Greater Perth	1	0	0	48000	2775
+Greater Perth	1	0	0	60000	2317
+Greater Perth	1	1	0	0	1773
+Greater Perth	1	1	0	1800	387
+Greater Perth	1	1	0	3600	736
+Greater Perth	1	1	0	5400	684
+Greater Perth	1	1	0	7200	1050
+Greater Perth	1	1	0	9600	1528
+Greater Perth	1	1	0	12000	2137
+Greater Perth	1	1	0	14400	2689
+Greater Perth	1	1	0	16800	2679
+Greater Perth	1	1	0	19200	3359
+Greater Perth	1	1	0	21600	2629
+Greater Perth	1	1	0	24000	5123
+Greater Perth	1	1	0	26400	2089
+Greater Perth	1	1	0	28800	1714
+Greater Perth	1	1	0	31200	3500
+Greater Perth	1	1	0	36000	4993
+Greater Perth	1	1	0	48000	2142
+Greater Perth	1	1	0	60000	2076
+Greater Perth	1	1	1	0	2209
+Greater Perth	1	1	1	1800	354
+Greater Perth	1	1	1	3600	695
+Greater Perth	1	1	1	5400	703
+Greater Perth	1	1	1	7200	1379
+Greater Perth	1	1	1	9600	2323
+Greater Perth	1	1	1	12000	4379
+Greater Perth	1	1	1	14400	6934
+Greater Perth	1	1	1	16800	9295
+Greater Perth	1	1	1	19200	12166
+Greater Perth	1	1	1	21600	10677
+Greater Perth	1	1	1	24000	16613
+Greater Perth	1	1	1	26400	8133
+Greater Perth	1	1	1	28800	6444
+Greater Perth	1	1	1	31200	11255
+Greater Perth	1	1	1	36000	14073
+Greater Perth	1	1	1	48000	5751
+Greater Perth	1	1	1	60000	5296
+Rest of WA		1	1	0	20
+Rest of WA		1	1	1800	7
+Rest of WA		1	1	3600	15
+Rest of WA		1	1	5400	9
+Rest of WA		1	1	7200	22
+Rest of WA		1	1	9600	17
+Rest of WA		1	1	12000	31
+Rest of WA		1	1	14400	35
+Rest of WA		1	1	16800	31
+Rest of WA		1	1	19200	27
+Rest of WA		1	1	21600	18
+Rest of WA		1	1	24000	34
+Rest of WA		1	1	26400	6
+Rest of WA		1	1	28800	8
+Rest of WA		1	1	31200	5
+Rest of WA		1	1	36000	3
+Rest of WA		1	1	48000	10
+Rest of WA		1	1	60000	6
+Rest of WA	0	1	0	0	116
+Rest of WA	0	1	0	1800	37
+Rest of WA	0	1	0	3600	103
+Rest of WA	0	1	0	5400	108
+Rest of WA	0	1	0	7200	181
+Rest of WA	0	1	0	9600	223
+Rest of WA	0	1	0	12000	247
+Rest of WA	0	1	0	14400	294
+Rest of WA	0	1	0	16800	206
+Rest of WA	0	1	0	19200	188
+Rest of WA	0	1	0	21600	104
+Rest of WA	0	1	0	24000	169
+Rest of WA	0	1	0	26400	45
+Rest of WA	0	1	0	28800	27
+Rest of WA	0	1	0	31200	81
+Rest of WA	0	1	0	36000	73
+Rest of WA	0	1	0	48000	29
+Rest of WA	0	1	0	60000	21
+Rest of WA	0	1	1	0	86
+Rest of WA	0	1	1	1800	28
+Rest of WA	0	1	1	3600	69
+Rest of WA	0	1	1	5400	65
+Rest of WA	0	1	1	7200	167
+Rest of WA	0	1	1	9600	247
+Rest of WA	0	1	1	12000	337
+Rest of WA	0	1	1	14400	407
+Rest of WA	0	1	1	16800	316
+Rest of WA	0	1	1	19200	338
+Rest of WA	0	1	1	21600	181
+Rest of WA	0	1	1	24000	247
+Rest of WA	0	1	1	26400	75
+Rest of WA	0	1	1	28800	61
+Rest of WA	0	1	1	31200	121
+Rest of WA	0	1	1	36000	110
+Rest of WA	0	1	1	48000	39
+Rest of WA	0	1	1	60000	26
+Rest of WA	1	0	0	0	828
+Rest of WA	1	0	0	1800	242
+Rest of WA	1	0	0	3600	481
+Rest of WA	1	0	0	5400	405
+Rest of WA	1	0	0	7200	786
+Rest of WA	1	0	0	9600	1007
+Rest of WA	1	0	0	12000	1322
+Rest of WA	1	0	0	14400	1507
+Rest of WA	1	0	0	16800	1413
+Rest of WA	1	0	0	19200	1532
+Rest of WA	1	0	0	21600	901
+Rest of WA	1	0	0	24000	1513
+Rest of WA	1	0	0	26400	539
+Rest of WA	1	0	0	28800	349
+Rest of WA	1	0	0	31200	866
+Rest of WA	1	0	0	36000	1069
+Rest of WA	1	0	0	48000	427
+Rest of WA	1	0	0	60000	321
+Rest of WA	1	1	0	0	229
+Rest of WA	1	1	0	1800	52
+Rest of WA	1	1	0	3600	124
+Rest of WA	1	1	0	5400	127
+Rest of WA	1	1	0	7200	263
+Rest of WA	1	1	0	9600	304
+Rest of WA	1	1	0	12000	432
+Rest of WA	1	1	0	14400	558
+Rest of WA	1	1	0	16800	522
+Rest of WA	1	1	0	19200	625
+Rest of WA	1	1	0	21600	417
+Rest of WA	1	1	0	24000	746
+Rest of WA	1	1	0	26400	259
+Rest of WA	1	1	0	28800	140
+Rest of WA	1	1	0	31200	451
+Rest of WA	1	1	0	36000	490
+Rest of WA	1	1	0	48000	216
+Rest of WA	1	1	0	60000	156
+Rest of WA	1	1	1	0	411
+Rest of WA	1	1	1	1800	95
+Rest of WA	1	1	1	3600	241
+Rest of WA	1	1	1	5400	261
+Rest of WA	1	1	1	7200	581
+Rest of WA	1	1	1	9600	907
+Rest of WA	1	1	1	12000	1412
+Rest of WA	1	1	1	14400	1890
+Rest of WA	1	1	1	16800	2175
+Rest of WA	1	1	1	19200	2370
+Rest of WA	1	1	1	21600	1697
+Rest of WA	1	1	1	24000	2472
+Rest of WA	1	1	1	26400	1081
+Rest of WA	1	1	1	28800	667
+Rest of WA	1	1	1	31200	1364
+Rest of WA	1	1	1	36000	1461
+Rest of WA	1	1	1	48000	466
+Rest of WA	1	1	1	60000	334
+Greater Hobart		1	1	0	12
+Greater Hobart		1	1	1800	5
+Greater Hobart		1	1	3600	3
+Greater Hobart		1	1	5400	6
+Greater Hobart		1	1	7200	6
+Greater Hobart		1	1	9600	20
+Greater Hobart		1	1	12000	18
+Greater Hobart		1	1	14400	36
+Greater Hobart		1	1	16800	19
+Greater Hobart		1	1	19200	26
+Greater Hobart		1	1	21600	16
+Greater Hobart		1	1	24000	12
+Greater Hobart		1	1	26400	5
+Greater Hobart		1	1	31200	5
+Greater Hobart		1	1	36000	13
+Greater Hobart		1	1	48000	5
+Greater Hobart	0	1	0	0	83
+Greater Hobart	0	1	0	1800	42
+Greater Hobart	0	1	0	3600	79
+Greater Hobart	0	1	0	5400	60
+Greater Hobart	0	1	0	7200	155
+Greater Hobart	0	1	0	9600	183
+Greater Hobart	0	1	0	12000	221
+Greater Hobart	0	1	0	14400	227
+Greater Hobart	0	1	0	16800	187
+Greater Hobart	0	1	0	19200	172
+Greater Hobart	0	1	0	21600	64
+Greater Hobart	0	1	0	24000	94
+Greater Hobart	0	1	0	26400	23
+Greater Hobart	0	1	0	28800	10
+Greater Hobart	0	1	0	31200	40
+Greater Hobart	0	1	0	36000	51
+Greater Hobart	0	1	0	48000	16
+Greater Hobart	0	1	0	60000	17
+Greater Hobart	0	1	1	0	46
+Greater Hobart	0	1	1	1800	12
+Greater Hobart	0	1	1	3600	46
+Greater Hobart	0	1	1	5400	44
+Greater Hobart	0	1	1	7200	129
+Greater Hobart	0	1	1	9600	186
+Greater Hobart	0	1	1	12000	287
+Greater Hobart	0	1	1	14400	288
+Greater Hobart	0	1	1	16800	261
+Greater Hobart	0	1	1	19200	247
+Greater Hobart	0	1	1	21600	124
+Greater Hobart	0	1	1	24000	140
+Greater Hobart	0	1	1	26400	43
+Greater Hobart	0	1	1	28800	21
+Greater Hobart	0	1	1	31200	61
+Greater Hobart	0	1	1	36000	64
+Greater Hobart	0	1	1	48000	23
+Greater Hobart	0	1	1	60000	15
+Greater Hobart	1	0	0	0	361
+Greater Hobart	1	0	0	1800	157
+Greater Hobart	1	0	0	3600	243
+Greater Hobart	1	0	0	5400	223
+Greater Hobart	1	0	0	7200	359
+Greater Hobart	1	0	0	9600	467
+Greater Hobart	1	0	0	12000	632
+Greater Hobart	1	0	0	14400	779
+Greater Hobart	1	0	0	16800	714
+Greater Hobart	1	0	0	19200	810
+Greater Hobart	1	0	0	21600	522
+Greater Hobart	1	0	0	24000	721
+Greater Hobart	1	0	0	26400	256
+Greater Hobart	1	0	0	28800	142
+Greater Hobart	1	0	0	31200	374
+Greater Hobart	1	0	0	36000	411
+Greater Hobart	1	0	0	48000	181
+Greater Hobart	1	0	0	60000	129
+Greater Hobart	1	1	0	0	154
+Greater Hobart	1	1	0	1800	56
+Greater Hobart	1	1	0	3600	138
+Greater Hobart	1	1	0	5400	100
+Greater Hobart	1	1	0	7200	199
+Greater Hobart	1	1	0	9600	277
+Greater Hobart	1	1	0	12000	332
+Greater Hobart	1	1	0	14400	387
+Greater Hobart	1	1	0	16800	368
+Greater Hobart	1	1	0	19200	325
+Greater Hobart	1	1	0	21600	225
+Greater Hobart	1	1	0	24000	376
+Greater Hobart	1	1	0	26400	118
+Greater Hobart	1	1	0	28800	71
+Greater Hobart	1	1	0	31200	196
+Greater Hobart	1	1	0	36000	204
+Greater Hobart	1	1	0	48000	88
+Greater Hobart	1	1	0	60000	67
+Greater Hobart	1	1	1	0	204
+Greater Hobart	1	1	1	1800	59
+Greater Hobart	1	1	1	3600	132
+Greater Hobart	1	1	1	5400	128
+Greater Hobart	1	1	1	7200	280
+Greater Hobart	1	1	1	9600	533
+Greater Hobart	1	1	1	12000	836
+Greater Hobart	1	1	1	14400	1209
+Greater Hobart	1	1	1	16800	1209
+Greater Hobart	1	1	1	19200	1345
+Greater Hobart	1	1	1	21600	939
+Greater Hobart	1	1	1	24000	1244
+Greater Hobart	1	1	1	26400	499
+Greater Hobart	1	1	1	28800	324
+Greater Hobart	1	1	1	31200	771
+Greater Hobart	1	1	1	36000	725
+Greater Hobart	1	1	1	48000	268
+Greater Hobart	1	1	1	60000	214
+Rest of Tas.		1	1	0	12
+Rest of Tas.		1	1	1800	3
+Rest of Tas.		1	1	3600	16
+Rest of Tas.		1	1	5400	8
+Rest of Tas.		1	1	7200	17
+Rest of Tas.		1	1	9600	22
+Rest of Tas.		1	1	12000	29
+Rest of Tas.		1	1	14400	29
+Rest of Tas.		1	1	16800	22
+Rest of Tas.		1	1	19200	13
+Rest of Tas.		1	1	21600	4
+Rest of Tas.		1	1	24000	8
+Rest of Tas.		1	1	31200	4
+Rest of Tas.		1	1	60000	3
+Rest of Tas.	0	1	0	0	77
+Rest of Tas.	0	1	0	1800	59
+Rest of Tas.	0	1	0	3600	118
+Rest of Tas.	0	1	0	5400	124
+Rest of Tas.	0	1	0	7200	214
+Rest of Tas.	0	1	0	9600	249
+Rest of Tas.	0	1	0	12000	272
+Rest of Tas.	0	1	0	14400	271
+Rest of Tas.	0	1	0	16800	156
+Rest of Tas.	0	1	0	19200	102
+Rest of Tas.	0	1	0	21600	52
+Rest of Tas.	0	1	0	24000	66
+Rest of Tas.	0	1	0	26400	11
+Rest of Tas.	0	1	0	28800	10
+Rest of Tas.	0	1	0	31200	23
+Rest of Tas.	0	1	0	36000	23
+Rest of Tas.	0	1	0	48000	3
+Rest of Tas.	0	1	0	60000	6
+Rest of Tas.	0	1	1	0	51
+Rest of Tas.	0	1	1	1800	19
+Rest of Tas.	0	1	1	3600	63
+Rest of Tas.	0	1	1	5400	101
+Rest of Tas.	0	1	1	7200	219
+Rest of Tas.	0	1	1	9600	305
+Rest of Tas.	0	1	1	12000	376
+Rest of Tas.	0	1	1	14400	339
+Rest of Tas.	0	1	1	16800	245
+Rest of Tas.	0	1	1	19200	155
+Rest of Tas.	0	1	1	21600	58
+Rest of Tas.	0	1	1	24000	105
+Rest of Tas.	0	1	1	26400	20
+Rest of Tas.	0	1	1	28800	11
+Rest of Tas.	0	1	1	31200	38
+Rest of Tas.	0	1	1	36000	34
+Rest of Tas.	0	1	1	48000	10
+Rest of Tas.	0	1	1	60000	5
+Rest of Tas.	1	0	0	0	496
+Rest of Tas.	1	0	0	1800	228
+Rest of Tas.	1	0	0	3600	470
+Rest of Tas.	1	0	0	5400	452
+Rest of Tas.	1	0	0	7200	829
+Rest of Tas.	1	0	0	9600	1085
+Rest of Tas.	1	0	0	12000	1275
+Rest of Tas.	1	0	0	14400	1312
+Rest of Tas.	1	0	0	16800	1026
+Rest of Tas.	1	0	0	19200	890
+Rest of Tas.	1	0	0	21600	455
+Rest of Tas.	1	0	0	24000	684
+Rest of Tas.	1	0	0	26400	211
+Rest of Tas.	1	0	0	28800	110
+Rest of Tas.	1	0	0	31200	286
+Rest of Tas.	1	0	0	36000	309
+Rest of Tas.	1	0	0	48000	121
+Rest of Tas.	1	0	0	60000	88
+Rest of Tas.	1	1	0	0	148
+Rest of Tas.	1	1	0	1800	88
+Rest of Tas.	1	1	0	3600	180
+Rest of Tas.	1	1	0	5400	182
+Rest of Tas.	1	1	0	7200	379
+Rest of Tas.	1	1	0	9600	493
+Rest of Tas.	1	1	0	12000	574
+Rest of Tas.	1	1	0	14400	539
+Rest of Tas.	1	1	0	16800	431
+Rest of Tas.	1	1	0	19200	405
+Rest of Tas.	1	1	0	21600	188
+Rest of Tas.	1	1	0	24000	324
+Rest of Tas.	1	1	0	26400	82
+Rest of Tas.	1	1	0	28800	51
+Rest of Tas.	1	1	0	31200	128
+Rest of Tas.	1	1	0	36000	153
+Rest of Tas.	1	1	0	48000	52
+Rest of Tas.	1	1	0	60000	53
+Rest of Tas.	1	1	1	0	217
+Rest of Tas.	1	1	1	1800	72
+Rest of Tas.	1	1	1	3600	226
+Rest of Tas.	1	1	1	5400	270
+Rest of Tas.	1	1	1	7200	631
+Rest of Tas.	1	1	1	9600	1137
+Rest of Tas.	1	1	1	12000	1553
+Rest of Tas.	1	1	1	14400	1765
+Rest of Tas.	1	1	1	16800	1565
+Rest of Tas.	1	1	1	19200	1354
+Rest of Tas.	1	1	1	21600	740
+Rest of Tas.	1	1	1	24000	991
+Rest of Tas.	1	1	1	26400	310
+Rest of Tas.	1	1	1	28800	169
+Rest of Tas.	1	1	1	31200	458
+Rest of Tas.	1	1	1	36000	431
+Rest of Tas.	1	1	1	48000	143
+Rest of Tas.	1	1	1	60000	107
+Greater Darwin		1	1	0	5
+Greater Darwin		1	1	7200	12
+Greater Darwin		1	1	9600	10
+Greater Darwin		1	1	12000	9
+Greater Darwin		1	1	14400	9
+Greater Darwin		1	1	16800	14
+Greater Darwin		1	1	19200	9
+Greater Darwin		1	1	21600	7
+Greater Darwin		1	1	24000	20
+Greater Darwin		1	1	26400	7
+Greater Darwin		1	1	28800	3
+Greater Darwin		1	1	31200	9
+Greater Darwin		1	1	36000	12
+Greater Darwin		1	1	48000	8
+Greater Darwin		1	1	60000	4
+Greater Darwin	0	1	0	0	28
+Greater Darwin	0	1	0	1800	5
+Greater Darwin	0	1	0	3600	11
+Greater Darwin	0	1	0	5400	8
+Greater Darwin	0	1	0	7200	16
+Greater Darwin	0	1	0	9600	49
+Greater Darwin	0	1	0	12000	48
+Greater Darwin	0	1	0	14400	50
+Greater Darwin	0	1	0	16800	74
+Greater Darwin	0	1	0	19200	76
+Greater Darwin	0	1	0	21600	53
+Greater Darwin	0	1	0	24000	90
+Greater Darwin	0	1	0	26400	38
+Greater Darwin	0	1	0	28800	18
+Greater Darwin	0	1	0	31200	69
+Greater Darwin	0	1	0	36000	59
+Greater Darwin	0	1	0	48000	25
+Greater Darwin	0	1	0	60000	17
+Greater Darwin	0	1	1	0	25
+Greater Darwin	0	1	1	1800	3
+Greater Darwin	0	1	1	3600	9
+Greater Darwin	0	1	1	5400	10
+Greater Darwin	0	1	1	7200	21
+Greater Darwin	0	1	1	9600	23
+Greater Darwin	0	1	1	12000	54
+Greater Darwin	0	1	1	14400	78
+Greater Darwin	0	1	1	16800	89
+Greater Darwin	0	1	1	19200	100
+Greater Darwin	0	1	1	21600	84
+Greater Darwin	0	1	1	24000	130
+Greater Darwin	0	1	1	26400	62
+Greater Darwin	0	1	1	28800	36
+Greater Darwin	0	1	1	31200	80
+Greater Darwin	0	1	1	36000	86
+Greater Darwin	0	1	1	48000	26
+Greater Darwin	0	1	1	60000	26
+Greater Darwin	1	0	0	0	124
+Greater Darwin	1	0	0	1800	29
+Greater Darwin	1	0	0	3600	55
+Greater Darwin	1	0	0	5400	48
+Greater Darwin	1	0	0	7200	102
+Greater Darwin	1	0	0	9600	126
+Greater Darwin	1	0	0	12000	222
+Greater Darwin	1	0	0	14400	243
+Greater Darwin	1	0	0	16800	289
+Greater Darwin	1	0	0	19200	353
+Greater Darwin	1	0	0	21600	310
+Greater Darwin	1	0	0	24000	479
+Greater Darwin	1	0	0	26400	262
+Greater Darwin	1	0	0	28800	166
+Greater Darwin	1	0	0	31200	422
+Greater Darwin	1	0	0	36000	484
+Greater Darwin	1	0	0	48000	187
+Greater Darwin	1	0	0	60000	138
+Greater Darwin	1	1	0	0	75
+Greater Darwin	1	1	0	1800	11
+Greater Darwin	1	1	0	3600	19
+Greater Darwin	1	1	0	5400	20
+Greater Darwin	1	1	0	7200	38
+Greater Darwin	1	1	0	9600	55
+Greater Darwin	1	1	0	12000	94
+Greater Darwin	1	1	0	14400	93
+Greater Darwin	1	1	0	16800	78
+Greater Darwin	1	1	0	19200	128
+Greater Darwin	1	1	0	21600	95
+Greater Darwin	1	1	0	24000	232
+Greater Darwin	1	1	0	26400	104
+Greater Darwin	1	1	0	28800	76
+Greater Darwin	1	1	0	31200	188
+Greater Darwin	1	1	0	36000	303
+Greater Darwin	1	1	0	48000	135
+Greater Darwin	1	1	0	60000	70
+Greater Darwin	1	1	1	0	75
+Greater Darwin	1	1	1	1800	15
+Greater Darwin	1	1	1	3600	28
+Greater Darwin	1	1	1	5400	41
+Greater Darwin	1	1	1	7200	72
+Greater Darwin	1	1	1	9600	107
+Greater Darwin	1	1	1	12000	181
+Greater Darwin	1	1	1	14400	290
+Greater Darwin	1	1	1	16800	311
+Greater Darwin	1	1	1	19200	451
+Greater Darwin	1	1	1	21600	478
+Greater Darwin	1	1	1	24000	822
+Greater Darwin	1	1	1	26400	488
+Greater Darwin	1	1	1	28800	362
+Greater Darwin	1	1	1	31200	863
+Greater Darwin	1	1	1	36000	930
+Greater Darwin	1	1	1	48000	308
+Greater Darwin	1	1	1	60000	238
+Rest of NT		1	1	9600	3
+Rest of NT		1	1	12000	3
+Rest of NT		1	1	14400	4
+Rest of NT		1	1	16800	4
+Rest of NT		1	1	19200	4
+Rest of NT		1	1	24000	3
+Rest of NT		1	1	36000	4
+Rest of NT	0	1	0	0	3
+Rest of NT	0	1	0	5400	3
+Rest of NT	0	1	0	9600	18
+Rest of NT	0	1	0	12000	10
+Rest of NT	0	1	0	14400	17
+Rest of NT	0	1	0	16800	15
+Rest of NT	0	1	0	19200	30
+Rest of NT	0	1	0	21600	19
+Rest of NT	0	1	0	24000	21
+Rest of NT	0	1	0	26400	9
+Rest of NT	0	1	0	31200	13
+Rest of NT	0	1	0	36000	7
+Rest of NT	0	1	1	5400	5
+Rest of NT	0	1	1	7200	11
+Rest of NT	0	1	1	9600	20
+Rest of NT	0	1	1	12000	22
+Rest of NT	0	1	1	14400	25
+Rest of NT	0	1	1	16800	31
+Rest of NT	0	1	1	19200	30
+Rest of NT	0	1	1	21600	19
+Rest of NT	0	1	1	24000	26
+Rest of NT	0	1	1	26400	7
+Rest of NT	0	1	1	28800	6
+Rest of NT	0	1	1	31200	15
+Rest of NT	0	1	1	36000	20
+Rest of NT	0	1	1	48000	3
+Rest of NT	0	1	1	60000	3
+Rest of NT	1	0	0	0	37
+Rest of NT	1	0	0	1800	6
+Rest of NT	1	0	0	3600	22
+Rest of NT	1	0	0	5400	17
+Rest of NT	1	0	0	7200	38
+Rest of NT	1	0	0	9600	62
+Rest of NT	1	0	0	12000	63
+Rest of NT	1	0	0	14400	96
+Rest of NT	1	0	0	16800	128
+Rest of NT	1	0	0	19200	122
+Rest of NT	1	0	0	21600	88
+Rest of NT	1	0	0	24000	137
+Rest of NT	1	0	0	26400	53
+Rest of NT	1	0	0	28800	36
+Rest of NT	1	0	0	31200	80
+Rest of NT	1	0	0	36000	78
+Rest of NT	1	0	0	48000	32
+Rest of NT	1	0	0	60000	32
+Rest of NT	1	1	0	0	13
+Rest of NT	1	1	0	1800	7
+Rest of NT	1	1	0	3600	12
+Rest of NT	1	1	0	7200	10
+Rest of NT	1	1	0	9600	15
+Rest of NT	1	1	0	12000	27
+Rest of NT	1	1	0	14400	39
+Rest of NT	1	1	0	16800	32
+Rest of NT	1	1	0	19200	40
+Rest of NT	1	1	0	21600	30
+Rest of NT	1	1	0	24000	44
+Rest of NT	1	1	0	26400	21
+Rest of NT	1	1	0	28800	15
+Rest of NT	1	1	0	31200	45
+Rest of NT	1	1	0	36000	44
+Rest of NT	1	1	0	48000	11
+Rest of NT	1	1	0	60000	12
+Rest of NT	1	1	1	0	29
+Rest of NT	1	1	1	1800	7
+Rest of NT	1	1	1	3600	16
+Rest of NT	1	1	1	5400	10
+Rest of NT	1	1	1	7200	22
+Rest of NT	1	1	1	9600	55
+Rest of NT	1	1	1	12000	73
+Rest of NT	1	1	1	14400	101
+Rest of NT	1	1	1	16800	127
+Rest of NT	1	1	1	19200	179
+Rest of NT	1	1	1	21600	140
+Rest of NT	1	1	1	24000	198
+Rest of NT	1	1	1	26400	82
+Rest of NT	1	1	1	28800	69
+Rest of NT	1	1	1	31200	126
+Rest of NT	1	1	1	36000	122
+Rest of NT	1	1	1	48000	44
+Rest of NT	1	1	1	60000	28
+Australian Capital Territory		1	1	0	29
+Australian Capital Territory		1	1	3600	6
+Australian Capital Territory		1	1	5400	4
+Australian Capital Territory		1	1	7200	16
+Australian Capital Territory		1	1	9600	20
+Australian Capital Territory		1	1	12000	26
+Australian Capital Territory		1	1	14400	38
+Australian Capital Territory		1	1	16800	47
+Australian Capital Territory		1	1	19200	47
+Australian Capital Territory		1	1	21600	38
+Australian Capital Territory		1	1	24000	46
+Australian Capital Territory		1	1	26400	21
+Australian Capital Territory		1	1	28800	13
+Australian Capital Territory		1	1	31200	33
+Australian Capital Territory		1	1	36000	29
+Australian Capital Territory		1	1	48000	11
+Australian Capital Territory	0	1	0	0	100
+Australian Capital Territory	0	1	0	1800	32
+Australian Capital Territory	0	1	0	3600	52
+Australian Capital Territory	0	1	0	5400	61
+Australian Capital Territory	0	1	0	7200	92
+Australian Capital Territory	0	1	0	9600	137
+Australian Capital Territory	0	1	0	12000	203
+Australian Capital Territory	0	1	0	14400	224
+Australian Capital Territory	0	1	0	16800	241
+Australian Capital Territory	0	1	0	19200	320
+Australian Capital Territory	0	1	0	21600	239
+Australian Capital Territory	0	1	0	24000	329
+Australian Capital Territory	0	1	0	26400	146
+Australian Capital Territory	0	1	0	28800	73
+Australian Capital Territory	0	1	0	31200	190
+Australian Capital Territory	0	1	0	36000	205
+Australian Capital Territory	0	1	0	48000	71
+Australian Capital Territory	0	1	0	60000	56
+Australian Capital Territory	0	1	1	0	64
+Australian Capital Territory	0	1	1	1800	16
+Australian Capital Territory	0	1	1	3600	37
+Australian Capital Territory	0	1	1	5400	37
+Australian Capital Territory	0	1	1	7200	70
+Australian Capital Territory	0	1	1	9600	100
+Australian Capital Territory	0	1	1	12000	149
+Australian Capital Territory	0	1	1	14400	205
+Australian Capital Territory	0	1	1	16800	313
+Australian Capital Territory	0	1	1	19200	341
+Australian Capital Territory	0	1	1	21600	299
+Australian Capital Territory	0	1	1	24000	419
+Australian Capital Territory	0	1	1	26400	220
+Australian Capital Territory	0	1	1	28800	134
+Australian Capital Territory	0	1	1	31200	295
+Australian Capital Territory	0	1	1	36000	301
+Australian Capital Territory	0	1	1	48000	104
+Australian Capital Territory	0	1	1	60000	66
+Australian Capital Territory	1	0	0	0	643
+Australian Capital Territory	1	0	0	1800	161
+Australian Capital Territory	1	0	0	3600	237
+Australian Capital Territory	1	0	0	5400	187
+Australian Capital Territory	1	0	0	7200	343
+Australian Capital Territory	1	0	0	9600	406
+Australian Capital Territory	1	0	0	12000	682
+Australian Capital Territory	1	0	0	14400	838
+Australian Capital Territory	1	0	0	16800	1064
+Australian Capital Territory	1	0	0	19200	1227
+Australian Capital Territory	1	0	0	21600	1111
+Australian Capital Territory	1	0	0	24000	1737
+Australian Capital Territory	1	0	0	26400	957
+Australian Capital Territory	1	0	0	28800	743
+Australian Capital Territory	1	0	0	31200	1400
+Australian Capital Territory	1	0	0	36000	1735
+Australian Capital Territory	1	0	0	48000	657
+Australian Capital Territory	1	0	0	60000	558
+Australian Capital Territory	1	1	0	0	331
+Australian Capital Territory	1	1	0	1800	106
+Australian Capital Territory	1	1	0	3600	136
+Australian Capital Territory	1	1	0	5400	104
+Australian Capital Territory	1	1	0	7200	194
+Australian Capital Territory	1	1	0	9600	227
+Australian Capital Territory	1	1	0	12000	357
+Australian Capital Territory	1	1	0	14400	378
+Australian Capital Territory	1	1	0	16800	394
+Australian Capital Territory	1	1	0	19200	497
+Australian Capital Territory	1	1	0	21600	398
+Australian Capital Territory	1	1	0	24000	796
+Australian Capital Territory	1	1	0	26400	367
+Australian Capital Territory	1	1	0	28800	253
+Australian Capital Territory	1	1	0	31200	719
+Australian Capital Territory	1	1	0	36000	1096
+Australian Capital Territory	1	1	0	48000	502
+Australian Capital Territory	1	1	0	60000	426
+Australian Capital Territory	1	1	1	0	499
+Australian Capital Territory	1	1	1	1800	88
+Australian Capital Territory	1	1	1	3600	110
+Australian Capital Territory	1	1	1	5400	135
+Australian Capital Territory	1	1	1	7200	223
+Australian Capital Territory	1	1	1	9600	369
+Australian Capital Territory	1	1	1	12000	641
+Australian Capital Territory	1	1	1	14400	910
+Australian Capital Territory	1	1	1	16800	1233
+Australian Capital Territory	1	1	1	19200	1748
+Australian Capital Territory	1	1	1	21600	1797
+Australian Capital Territory	1	1	1	24000	3061
+Australian Capital Territory	1	1	1	26400	1880
+Australian Capital Territory	1	1	1	28800	1549
+Australian Capital Territory	1	1	1	31200	3400
+Australian Capital Territory	1	1	1	36000	4519
+Australian Capital Territory	1	1	1	48000	1686
+Australian Capital Territory	1	1	1	60000	1323
+Other Territories	0	1	0	14400	4
+Other Territories	1	0	0	0	8
+Other Territories	1	0	0	3600	6
+Other Territories	1	0	0	5400	3
+Other Territories	1	0	0	7200	5
+Other Territories	1	0	0	9600	9
+Other Territories	1	0	0	12000	7
+Other Territories	1	0	0	14400	3
+Other Territories	1	0	0	19200	12
+Other Territories	1	0	0	21600	4
+Other Territories	1	0	0	24000	8
+Other Territories	1	0	0	28800	4
+Other Territories	1	0	0	31200	5
+Other Territories	1	0	0	36000	4
+Other Territories	1	0	0	48000	5
+Other Territories	1	1	0	12000	5
+Other Territories	1	1	0	16800	5
+Other Territories	1	1	0	19200	5
+Other Territories	1	1	0	24000	7
+Other Territories	1	1	1	5400	5
+Other Territories	1	1	1	7200	4
+Other Territories	1	1	1	9600	6
+Other Territories	1	1	1	12000	13
+Other Territories	1	1	1	14400	16
+Other Territories	1	1	1	16800	8
+Other Territories	1	1	1	19200	9
+Other Territories	1	1	1	21600	6
+Other Territories	1	1	1	24000	10
+Other Territories	1	1	1	60000	3

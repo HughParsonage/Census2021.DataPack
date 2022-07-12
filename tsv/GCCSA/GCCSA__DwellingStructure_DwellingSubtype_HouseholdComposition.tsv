@@ -1,0 +1,1102 @@
+GCCSA_NAME21	DwellingStructure	DwellingSubtype	HouseholdComposition	occupied_private_dwellings
+Greater Sydney			Couple family with children	787
+Greater Sydney			Couple family with no children	816
+Greater Sydney			Group household	280
+Greater Sydney			Lone-person household	1800
+Greater Sydney			One parent family with children	292
+Greater Sydney			Other family	46
+Greater Sydney	(Other)	Cabin household	Couple family with children	39
+Greater Sydney	(Other)	Cabin household	Couple family with no children	172
+Greater Sydney	(Other)	Cabin household	Group household	37
+Greater Sydney	(Other)	Cabin household	Lone-person household	637
+Greater Sydney	(Other)	Cabin household	One parent family with children	85
+Greater Sydney	(Other)	Cabin household	Other family	10
+Greater Sydney	(Other)	Caravan	Couple family with children	34
+Greater Sydney	(Other)	Caravan	Couple family with no children	131
+Greater Sydney	(Other)	Caravan	Group household	29
+Greater Sydney	(Other)	Caravan	Lone-person household	439
+Greater Sydney	(Other)	Caravan	One parent family with children	41
+Greater Sydney	(Other)	Caravan	Other family	7
+Greater Sydney	(Other)	House or flat attached to a shop, office, etc	Couple family with children	1108
+Greater Sydney	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	1452
+Greater Sydney	(Other)	House or flat attached to a shop, office, etc	Group household	832
+Greater Sydney	(Other)	House or flat attached to a shop, office, etc	Lone-person household	2345
+Greater Sydney	(Other)	House or flat attached to a shop, office, etc	One parent family with children	591
+Greater Sydney	(Other)	House or flat attached to a shop, office, etc	Other family	146
+Greater Sydney	(Other)	Improvised home, tent sleepers	Couple family with children	15
+Greater Sydney	(Other)	Improvised home, tent sleepers	Couple family with no children	18
+Greater Sydney	(Other)	Improvised home, tent sleepers	Lone-person household	35
+Greater Sydney	(Other)	Improvised home, tent sleepers	One parent family with children	6
+Greater Sydney	Flat/apartment		Couple family with children	2498
+Greater Sydney	Flat/apartment		Couple family with no children	1893
+Greater Sydney	Flat/apartment		Group household	436
+Greater Sydney	Flat/apartment		Lone-person household	2459
+Greater Sydney	Flat/apartment		One parent family with children	1006
+Greater Sydney	Flat/apartment		Other family	132
+Greater Sydney	Flat/apartment	1 or 2 storey block	Couple family with children	15948
+Greater Sydney	Flat/apartment	1 or 2 storey block	Couple family with no children	20048
+Greater Sydney	Flat/apartment	1 or 2 storey block	Group household	6089
+Greater Sydney	Flat/apartment	1 or 2 storey block	Lone-person household	41731
+Greater Sydney	Flat/apartment	1 or 2 storey block	One parent family with children	8545
+Greater Sydney	Flat/apartment	1 or 2 storey block	Other family	1444
+Greater Sydney	Flat/apartment	3 storey block	Couple family with children	28024
+Greater Sydney	Flat/apartment	3 storey block	Couple family with no children	38104
+Greater Sydney	Flat/apartment	3 storey block	Group household	11657
+Greater Sydney	Flat/apartment	3 storey block	Lone-person household	59559
+Greater Sydney	Flat/apartment	3 storey block	One parent family with children	14770
+Greater Sydney	Flat/apartment	3 storey block	Other family	2634
+Greater Sydney	Flat/apartment	4-8 storey block	Couple family with children	37105
+Greater Sydney	Flat/apartment	4-8 storey block	Couple family with no children	54062
+Greater Sydney	Flat/apartment	4-8 storey block	Group household	13101
+Greater Sydney	Flat/apartment	4-8 storey block	Lone-person household	64521
+Greater Sydney	Flat/apartment	4-8 storey block	One parent family with children	14591
+Greater Sydney	Flat/apartment	4-8 storey block	Other family	3021
+Greater Sydney	Flat/apartment	9 or more storey block	Couple family with children	20244
+Greater Sydney	Flat/apartment	9 or more storey block	Couple family with no children	37668
+Greater Sydney	Flat/apartment	9 or more storey block	Group household	11233
+Greater Sydney	Flat/apartment	9 or more storey block	Lone-person household	40224
+Greater Sydney	Flat/apartment	9 or more storey block	One parent family with children	7014
+Greater Sydney	Flat/apartment	9 or more storey block	Other family	2230
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	55229
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	33818
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.		Group household	7106
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	35879
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	20756
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.		Other family	1806
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	20627
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	17991
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	3148
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	27852
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	8883
+Greater Sydney	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	903
+Greater Sydney	Separate house		Couple family with children	476280
+Greater Sydney	Separate house		Couple family with no children	239791
+Greater Sydney	Separate house		Group household	22612
+Greater Sydney	Separate house		Lone-person household	147223
+Greater Sydney	Separate house		One parent family with children	123598
+Greater Sydney	Separate house		Other family	11119
+Rest of NSW			Couple family with children	574
+Rest of NSW			Couple family with no children	825
+Rest of NSW			Group household	162
+Rest of NSW			Lone-person household	1878
+Rest of NSW			One parent family with children	257
+Rest of NSW			Other family	33
+Rest of NSW	(Other)	Cabin household	Couple family with children	157
+Rest of NSW	(Other)	Cabin household	Couple family with no children	1296
+Rest of NSW	(Other)	Cabin household	Group household	180
+Rest of NSW	(Other)	Cabin household	Lone-person household	3135
+Rest of NSW	(Other)	Cabin household	One parent family with children	248
+Rest of NSW	(Other)	Cabin household	Other family	49
+Rest of NSW	(Other)	Caravan	Couple family with children	129
+Rest of NSW	(Other)	Caravan	Couple family with no children	722
+Rest of NSW	(Other)	Caravan	Group household	101
+Rest of NSW	(Other)	Caravan	Lone-person household	1945
+Rest of NSW	(Other)	Caravan	One parent family with children	132
+Rest of NSW	(Other)	Caravan	Other family	17
+Rest of NSW	(Other)	House or flat attached to a shop, office, etc	Couple family with children	449
+Rest of NSW	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	626
+Rest of NSW	(Other)	House or flat attached to a shop, office, etc	Group household	187
+Rest of NSW	(Other)	House or flat attached to a shop, office, etc	Lone-person household	1028
+Rest of NSW	(Other)	House or flat attached to a shop, office, etc	One parent family with children	254
+Rest of NSW	(Other)	House or flat attached to a shop, office, etc	Other family	43
+Rest of NSW	(Other)	Improvised home, tent sleepers	Couple family with children	42
+Rest of NSW	(Other)	Improvised home, tent sleepers	Couple family with no children	102
+Rest of NSW	(Other)	Improvised home, tent sleepers	Group household	25
+Rest of NSW	(Other)	Improvised home, tent sleepers	Lone-person household	258
+Rest of NSW	(Other)	Improvised home, tent sleepers	One parent family with children	39
+Rest of NSW	(Other)	Improvised home, tent sleepers	Other family	3
+Rest of NSW	Flat/apartment		Couple family with children	348
+Rest of NSW	Flat/apartment		Couple family with no children	554
+Rest of NSW	Flat/apartment		Group household	110
+Rest of NSW	Flat/apartment		Lone-person household	863
+Rest of NSW	Flat/apartment		One parent family with children	233
+Rest of NSW	Flat/apartment		Other family	28
+Rest of NSW	Flat/apartment	1 or 2 storey block	Couple family with children	2908
+Rest of NSW	Flat/apartment	1 or 2 storey block	Couple family with no children	6473
+Rest of NSW	Flat/apartment	1 or 2 storey block	Group household	2005
+Rest of NSW	Flat/apartment	1 or 2 storey block	Lone-person household	24052
+Rest of NSW	Flat/apartment	1 or 2 storey block	One parent family with children	3593
+Rest of NSW	Flat/apartment	1 or 2 storey block	Other family	432
+Rest of NSW	Flat/apartment	3 storey block	Couple family with children	841
+Rest of NSW	Flat/apartment	3 storey block	Couple family with no children	2525
+Rest of NSW	Flat/apartment	3 storey block	Group household	856
+Rest of NSW	Flat/apartment	3 storey block	Lone-person household	5782
+Rest of NSW	Flat/apartment	3 storey block	One parent family with children	884
+Rest of NSW	Flat/apartment	3 storey block	Other family	107
+Rest of NSW	Flat/apartment	4-8 storey block	Couple family with children	804
+Rest of NSW	Flat/apartment	4-8 storey block	Couple family with no children	3383
+Rest of NSW	Flat/apartment	4-8 storey block	Group household	726
+Rest of NSW	Flat/apartment	4-8 storey block	Lone-person household	5063
+Rest of NSW	Flat/apartment	4-8 storey block	One parent family with children	678
+Rest of NSW	Flat/apartment	4-8 storey block	Other family	123
+Rest of NSW	Flat/apartment	9 or more storey block	Couple family with children	391
+Rest of NSW	Flat/apartment	9 or more storey block	Couple family with no children	1682
+Rest of NSW	Flat/apartment	9 or more storey block	Group household	367
+Rest of NSW	Flat/apartment	9 or more storey block	Lone-person household	1973
+Rest of NSW	Flat/apartment	9 or more storey block	One parent family with children	229
+Rest of NSW	Flat/apartment	9 or more storey block	Other family	37
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	5442
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	8951
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.		Group household	2332
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	15009
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	5156
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.		Other family	454
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	5857
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	14728
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	2482
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	38121
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	7332
+Rest of NSW	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	705
+Rest of NSW	Separate house		Couple family with children	266367
+Rest of NSW	Separate house		Couple family with no children	275361
+Rest of NSW	Separate house		Group household	25547
+Rest of NSW	Separate house		Lone-person household	199896
+Rest of NSW	Separate house		One parent family with children	106386
+Rest of NSW	Separate house		Other family	8541
+Greater Melbourne			Couple family with children	328
+Greater Melbourne			Couple family with no children	369
+Greater Melbourne			Group household	123
+Greater Melbourne			Lone-person household	837
+Greater Melbourne			One parent family with children	143
+Greater Melbourne			Other family	29
+Greater Melbourne	(Other)	Cabin household	Couple family with children	22
+Greater Melbourne	(Other)	Cabin household	Couple family with no children	182
+Greater Melbourne	(Other)	Cabin household	Group household	25
+Greater Melbourne	(Other)	Cabin household	Lone-person household	1148
+Greater Melbourne	(Other)	Cabin household	One parent family with children	56
+Greater Melbourne	(Other)	Cabin household	Other family	9
+Greater Melbourne	(Other)	Caravan	Couple family with children	7
+Greater Melbourne	(Other)	Caravan	Couple family with no children	61
+Greater Melbourne	(Other)	Caravan	Group household	4
+Greater Melbourne	(Other)	Caravan	Lone-person household	331
+Greater Melbourne	(Other)	Caravan	One parent family with children	11
+Greater Melbourne	(Other)	Caravan	Other family	4
+Greater Melbourne	(Other)	House or flat attached to a shop, office, etc	Couple family with children	451
+Greater Melbourne	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	916
+Greater Melbourne	(Other)	House or flat attached to a shop, office, etc	Group household	456
+Greater Melbourne	(Other)	House or flat attached to a shop, office, etc	Lone-person household	1531
+Greater Melbourne	(Other)	House or flat attached to a shop, office, etc	One parent family with children	260
+Greater Melbourne	(Other)	House or flat attached to a shop, office, etc	Other family	59
+Greater Melbourne	(Other)	Improvised home, tent sleepers	Couple family with children	4
+Greater Melbourne	(Other)	Improvised home, tent sleepers	Couple family with no children	3
+Greater Melbourne	(Other)	Improvised home, tent sleepers	Lone-person household	14
+Greater Melbourne	(Other)	Improvised home, tent sleepers	One parent family with children	5
+Greater Melbourne	Flat/apartment		Couple family with children	217
+Greater Melbourne	Flat/apartment		Couple family with no children	189
+Greater Melbourne	Flat/apartment		Group household	24
+Greater Melbourne	Flat/apartment		Lone-person household	463
+Greater Melbourne	Flat/apartment		One parent family with children	104
+Greater Melbourne	Flat/apartment		Other family	14
+Greater Melbourne	Flat/apartment	1 or 2 storey block	Couple family with children	11324
+Greater Melbourne	Flat/apartment	1 or 2 storey block	Couple family with no children	18975
+Greater Melbourne	Flat/apartment	1 or 2 storey block	Group household	5543
+Greater Melbourne	Flat/apartment	1 or 2 storey block	Lone-person household	42577
+Greater Melbourne	Flat/apartment	1 or 2 storey block	One parent family with children	6931
+Greater Melbourne	Flat/apartment	1 or 2 storey block	Other family	1288
+Greater Melbourne	Flat/apartment	3 storey block	Couple family with children	3967
+Greater Melbourne	Flat/apartment	3 storey block	Couple family with no children	13020
+Greater Melbourne	Flat/apartment	3 storey block	Group household	4386
+Greater Melbourne	Flat/apartment	3 storey block	Lone-person household	27729
+Greater Melbourne	Flat/apartment	3 storey block	One parent family with children	2888
+Greater Melbourne	Flat/apartment	3 storey block	Other family	812
+Greater Melbourne	Flat/apartment	4-8 storey block	Couple family with children	4576
+Greater Melbourne	Flat/apartment	4-8 storey block	Couple family with no children	17255
+Greater Melbourne	Flat/apartment	4-8 storey block	Group household	4657
+Greater Melbourne	Flat/apartment	4-8 storey block	Lone-person household	31975
+Greater Melbourne	Flat/apartment	4-8 storey block	One parent family with children	3319
+Greater Melbourne	Flat/apartment	4-8 storey block	Other family	964
+Greater Melbourne	Flat/apartment	9 or more storey block	Couple family with children	5442
+Greater Melbourne	Flat/apartment	9 or more storey block	Couple family with no children	19984
+Greater Melbourne	Flat/apartment	9 or more storey block	Group household	8363
+Greater Melbourne	Flat/apartment	9 or more storey block	Lone-person household	35051
+Greater Melbourne	Flat/apartment	9 or more storey block	One parent family with children	3691
+Greater Melbourne	Flat/apartment	9 or more storey block	Other family	1790
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	37262
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	34443
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.		Group household	9264
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	29779
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	14679
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.		Other family	2083
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	32079
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	38287
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	8240
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	64333
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	16028
+Greater Melbourne	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	2059
+Greater Melbourne	Separate house		Couple family with children	519629
+Greater Melbourne	Separate house		Couple family with no children	292408
+Greater Melbourne	Separate house		Group household	35527
+Greater Melbourne	Separate house		Lone-person household	205364
+Greater Melbourne	Separate house		One parent family with children	140904
+Greater Melbourne	Separate house		Other family	14067
+Rest of Vic.			Couple family with children	186
+Rest of Vic.			Couple family with no children	308
+Rest of Vic.			Group household	79
+Rest of Vic.			Lone-person household	494
+Rest of Vic.			One parent family with children	65
+Rest of Vic.			Other family	8
+Rest of Vic.	(Other)	Cabin household	Couple family with children	87
+Rest of Vic.	(Other)	Cabin household	Couple family with no children	521
+Rest of Vic.	(Other)	Cabin household	Group household	75
+Rest of Vic.	(Other)	Cabin household	Lone-person household	1313
+Rest of Vic.	(Other)	Cabin household	One parent family with children	97
+Rest of Vic.	(Other)	Cabin household	Other family	14
+Rest of Vic.	(Other)	Caravan	Couple family with children	70
+Rest of Vic.	(Other)	Caravan	Couple family with no children	296
+Rest of Vic.	(Other)	Caravan	Group household	48
+Rest of Vic.	(Other)	Caravan	Lone-person household	1056
+Rest of Vic.	(Other)	Caravan	One parent family with children	53
+Rest of Vic.	(Other)	Caravan	Other family	6
+Rest of Vic.	(Other)	House or flat attached to a shop, office, etc	Couple family with children	192
+Rest of Vic.	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	304
+Rest of Vic.	(Other)	House or flat attached to a shop, office, etc	Group household	54
+Rest of Vic.	(Other)	House or flat attached to a shop, office, etc	Lone-person household	470
+Rest of Vic.	(Other)	House or flat attached to a shop, office, etc	One parent family with children	80
+Rest of Vic.	(Other)	House or flat attached to a shop, office, etc	Other family	12
+Rest of Vic.	(Other)	Improvised home, tent sleepers	Couple family with children	22
+Rest of Vic.	(Other)	Improvised home, tent sleepers	Couple family with no children	45
+Rest of Vic.	(Other)	Improvised home, tent sleepers	Group household	9
+Rest of Vic.	(Other)	Improvised home, tent sleepers	Lone-person household	76
+Rest of Vic.	(Other)	Improvised home, tent sleepers	One parent family with children	9
+Rest of Vic.	Flat/apartment		Couple family with children	22
+Rest of Vic.	Flat/apartment		Couple family with no children	34
+Rest of Vic.	Flat/apartment		Lone-person household	95
+Rest of Vic.	Flat/apartment		One parent family with children	12
+Rest of Vic.	Flat/apartment	1 or 2 storey block	Couple family with children	531
+Rest of Vic.	Flat/apartment	1 or 2 storey block	Couple family with no children	1532
+Rest of Vic.	Flat/apartment	1 or 2 storey block	Group household	381
+Rest of Vic.	Flat/apartment	1 or 2 storey block	Lone-person household	7109
+Rest of Vic.	Flat/apartment	1 or 2 storey block	One parent family with children	810
+Rest of Vic.	Flat/apartment	1 or 2 storey block	Other family	96
+Rest of Vic.	Flat/apartment	3 storey block	Couple family with children	31
+Rest of Vic.	Flat/apartment	3 storey block	Couple family with no children	105
+Rest of Vic.	Flat/apartment	3 storey block	Group household	27
+Rest of Vic.	Flat/apartment	3 storey block	Lone-person household	294
+Rest of Vic.	Flat/apartment	3 storey block	One parent family with children	30
+Rest of Vic.	Flat/apartment	3 storey block	Other family	3
+Rest of Vic.	Flat/apartment	4-8 storey block	Couple family with children	21
+Rest of Vic.	Flat/apartment	4-8 storey block	Couple family with no children	77
+Rest of Vic.	Flat/apartment	4-8 storey block	Group household	23
+Rest of Vic.	Flat/apartment	4-8 storey block	Lone-person household	208
+Rest of Vic.	Flat/apartment	4-8 storey block	One parent family with children	13
+Rest of Vic.	Flat/apartment	4-8 storey block	Other family	3
+Rest of Vic.	Flat/apartment	9 or more storey block	Couple family with children	8
+Rest of Vic.	Flat/apartment	9 or more storey block	Couple family with no children	70
+Rest of Vic.	Flat/apartment	9 or more storey block	Group household	7
+Rest of Vic.	Flat/apartment	9 or more storey block	Lone-person household	63
+Rest of Vic.	Flat/apartment	9 or more storey block	One parent family with children	6
+Rest of Vic.	Flat/apartment	9 or more storey block	Other family	5
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	676
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	1401
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.		Group household	355
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	2121
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	672
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.		Other family	66
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	2489
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	6542
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	1343
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	24483
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	3198
+Rest of Vic.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	378
+Rest of Vic.	Separate house		Couple family with children	155421
+Rest of Vic.	Separate house		Couple family with no children	170159
+Rest of Vic.	Separate house		Group household	15545
+Rest of Vic.	Separate house		Lone-person household	140629
+Rest of Vic.	Separate house		One parent family with children	60665
+Rest of Vic.	Separate house		Other family	5088
+Greater Brisbane			Couple family with children	224
+Greater Brisbane			Couple family with no children	313
+Greater Brisbane			Group household	110
+Greater Brisbane			Lone-person household	876
+Greater Brisbane			One parent family with children	137
+Greater Brisbane			Other family	16
+Greater Brisbane	(Other)	Cabin household	Couple family with children	67
+Greater Brisbane	(Other)	Cabin household	Couple family with no children	313
+Greater Brisbane	(Other)	Cabin household	Group household	47
+Greater Brisbane	(Other)	Cabin household	Lone-person household	1290
+Greater Brisbane	(Other)	Cabin household	One parent family with children	100
+Greater Brisbane	(Other)	Cabin household	Other family	11
+Greater Brisbane	(Other)	Caravan	Couple family with children	41
+Greater Brisbane	(Other)	Caravan	Couple family with no children	299
+Greater Brisbane	(Other)	Caravan	Group household	31
+Greater Brisbane	(Other)	Caravan	Lone-person household	983
+Greater Brisbane	(Other)	Caravan	One parent family with children	64
+Greater Brisbane	(Other)	House or flat attached to a shop, office, etc	Couple family with children	61
+Greater Brisbane	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	84
+Greater Brisbane	(Other)	House or flat attached to a shop, office, etc	Group household	39
+Greater Brisbane	(Other)	House or flat attached to a shop, office, etc	Lone-person household	115
+Greater Brisbane	(Other)	House or flat attached to a shop, office, etc	One parent family with children	27
+Greater Brisbane	(Other)	House or flat attached to a shop, office, etc	Other family	3
+Greater Brisbane	(Other)	Improvised home, tent sleepers	Couple family with children	20
+Greater Brisbane	(Other)	Improvised home, tent sleepers	Couple family with no children	16
+Greater Brisbane	(Other)	Improvised home, tent sleepers	Group household	3
+Greater Brisbane	(Other)	Improvised home, tent sleepers	Lone-person household	32
+Greater Brisbane	(Other)	Improvised home, tent sleepers	One parent family with children	11
+Greater Brisbane	Flat/apartment		Couple family with children	214
+Greater Brisbane	Flat/apartment		Couple family with no children	471
+Greater Brisbane	Flat/apartment		Group household	136
+Greater Brisbane	Flat/apartment		Lone-person household	699
+Greater Brisbane	Flat/apartment		One parent family with children	134
+Greater Brisbane	Flat/apartment		Other family	29
+Greater Brisbane	Flat/apartment	1 or 2 storey block	Couple family with children	2894
+Greater Brisbane	Flat/apartment	1 or 2 storey block	Couple family with no children	6420
+Greater Brisbane	Flat/apartment	1 or 2 storey block	Group household	2689
+Greater Brisbane	Flat/apartment	1 or 2 storey block	Lone-person household	19782
+Greater Brisbane	Flat/apartment	1 or 2 storey block	One parent family with children	3116
+Greater Brisbane	Flat/apartment	1 or 2 storey block	Other family	609
+Greater Brisbane	Flat/apartment	3 storey block	Couple family with children	2986
+Greater Brisbane	Flat/apartment	3 storey block	Couple family with no children	8773
+Greater Brisbane	Flat/apartment	3 storey block	Group household	3585
+Greater Brisbane	Flat/apartment	3 storey block	Lone-person household	16313
+Greater Brisbane	Flat/apartment	3 storey block	One parent family with children	2491
+Greater Brisbane	Flat/apartment	3 storey block	Other family	755
+Greater Brisbane	Flat/apartment	4-8 storey block	Couple family with children	2885
+Greater Brisbane	Flat/apartment	4-8 storey block	Couple family with no children	9728
+Greater Brisbane	Flat/apartment	4-8 storey block	Group household	3404
+Greater Brisbane	Flat/apartment	4-8 storey block	Lone-person household	12740
+Greater Brisbane	Flat/apartment	4-8 storey block	One parent family with children	1736
+Greater Brisbane	Flat/apartment	4-8 storey block	Other family	555
+Greater Brisbane	Flat/apartment	9 or more storey block	Couple family with children	2502
+Greater Brisbane	Flat/apartment	9 or more storey block	Couple family with no children	9880
+Greater Brisbane	Flat/apartment	9 or more storey block	Group household	3367
+Greater Brisbane	Flat/apartment	9 or more storey block	Lone-person household	13046
+Greater Brisbane	Flat/apartment	9 or more storey block	One parent family with children	1447
+Greater Brisbane	Flat/apartment	9 or more storey block	Other family	502
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	13790
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	15886
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.		Group household	5034
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	22985
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	12279
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.		Other family	1386
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	2760
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	6679
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	1042
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	17435
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	3903
+Greater Brisbane	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	374
+Greater Brisbane	Separate house		Couple family with children	264565
+Greater Brisbane	Separate house		Couple family with no children	181331
+Greater Brisbane	Separate house		Group household	22940
+Greater Brisbane	Separate house		Lone-person household	109242
+Greater Brisbane	Separate house		One parent family with children	83272
+Greater Brisbane	Separate house		Other family	7884
+Rest of Qld			Couple family with children	602
+Rest of Qld			Couple family with no children	1213
+Rest of Qld			Group household	179
+Rest of Qld			Lone-person household	1938
+Rest of Qld			One parent family with children	283
+Rest of Qld			Other family	40
+Rest of Qld	(Other)	Cabin household	Couple family with children	138
+Rest of Qld	(Other)	Cabin household	Couple family with no children	646
+Rest of Qld	(Other)	Cabin household	Group household	86
+Rest of Qld	(Other)	Cabin household	Lone-person household	1478
+Rest of Qld	(Other)	Cabin household	One parent family with children	127
+Rest of Qld	(Other)	Cabin household	Other family	23
+Rest of Qld	(Other)	Caravan	Couple family with children	257
+Rest of Qld	(Other)	Caravan	Couple family with no children	1664
+Rest of Qld	(Other)	Caravan	Group household	177
+Rest of Qld	(Other)	Caravan	Lone-person household	3147
+Rest of Qld	(Other)	Caravan	One parent family with children	198
+Rest of Qld	(Other)	Caravan	Other family	36
+Rest of Qld	(Other)	House or flat attached to a shop, office, etc	Couple family with children	151
+Rest of Qld	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	281
+Rest of Qld	(Other)	House or flat attached to a shop, office, etc	Group household	58
+Rest of Qld	(Other)	House or flat attached to a shop, office, etc	Lone-person household	335
+Rest of Qld	(Other)	House or flat attached to a shop, office, etc	One parent family with children	99
+Rest of Qld	(Other)	House or flat attached to a shop, office, etc	Other family	9
+Rest of Qld	(Other)	Improvised home, tent sleepers	Couple family with children	97
+Rest of Qld	(Other)	Improvised home, tent sleepers	Couple family with no children	200
+Rest of Qld	(Other)	Improvised home, tent sleepers	Group household	33
+Rest of Qld	(Other)	Improvised home, tent sleepers	Lone-person household	522
+Rest of Qld	(Other)	Improvised home, tent sleepers	One parent family with children	62
+Rest of Qld	(Other)	Improvised home, tent sleepers	Other family	4
+Rest of Qld	Flat/apartment		Couple family with children	154
+Rest of Qld	Flat/apartment		Couple family with no children	271
+Rest of Qld	Flat/apartment		Group household	27
+Rest of Qld	Flat/apartment		Lone-person household	374
+Rest of Qld	Flat/apartment		One parent family with children	91
+Rest of Qld	Flat/apartment		Other family	3
+Rest of Qld	Flat/apartment	1 or 2 storey block	Couple family with children	2973
+Rest of Qld	Flat/apartment	1 or 2 storey block	Couple family with no children	6711
+Rest of Qld	Flat/apartment	1 or 2 storey block	Group household	2263
+Rest of Qld	Flat/apartment	1 or 2 storey block	Lone-person household	20236
+Rest of Qld	Flat/apartment	1 or 2 storey block	One parent family with children	4354
+Rest of Qld	Flat/apartment	1 or 2 storey block	Other family	483
+Rest of Qld	Flat/apartment	3 storey block	Couple family with children	2050
+Rest of Qld	Flat/apartment	3 storey block	Couple family with no children	6316
+Rest of Qld	Flat/apartment	3 storey block	Group household	2212
+Rest of Qld	Flat/apartment	3 storey block	Lone-person household	10411
+Rest of Qld	Flat/apartment	3 storey block	One parent family with children	2260
+Rest of Qld	Flat/apartment	3 storey block	Other family	319
+Rest of Qld	Flat/apartment	4-8 storey block	Couple family with children	1583
+Rest of Qld	Flat/apartment	4-8 storey block	Couple family with no children	6532
+Rest of Qld	Flat/apartment	4-8 storey block	Group household	1458
+Rest of Qld	Flat/apartment	4-8 storey block	Lone-person household	7267
+Rest of Qld	Flat/apartment	4-8 storey block	One parent family with children	1585
+Rest of Qld	Flat/apartment	4-8 storey block	Other family	264
+Rest of Qld	Flat/apartment	9 or more storey block	Couple family with children	1620
+Rest of Qld	Flat/apartment	9 or more storey block	Couple family with no children	7559
+Rest of Qld	Flat/apartment	9 or more storey block	Group household	1199
+Rest of Qld	Flat/apartment	9 or more storey block	Lone-person household	7670
+Rest of Qld	Flat/apartment	9 or more storey block	One parent family with children	1220
+Rest of Qld	Flat/apartment	9 or more storey block	Other family	171
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	9234
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	14156
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.		Group household	3750
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	19081
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	8835
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.		Other family	715
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	5696
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	12982
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	2490
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	30393
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	6992
+Rest of Qld	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	661
+Rest of Qld	Separate house		Couple family with children	239730
+Rest of Qld	Separate house		Couple family with no children	227891
+Rest of Qld	Separate house		Group household	24198
+Rest of Qld	Separate house		Lone-person household	142594
+Rest of Qld	Separate house		One parent family with children	86894
+Rest of Qld	Separate house		Other family	7371
+Greater Adelaide			Couple family with children	201
+Greater Adelaide			Couple family with no children	245
+Greater Adelaide			Group household	85
+Greater Adelaide			Lone-person household	601
+Greater Adelaide			One parent family with children	102
+Greater Adelaide			Other family	12
+Greater Adelaide	(Other)	Cabin household	Couple family with children	9
+Greater Adelaide	(Other)	Cabin household	Couple family with no children	58
+Greater Adelaide	(Other)	Cabin household	Group household	7
+Greater Adelaide	(Other)	Cabin household	Lone-person household	252
+Greater Adelaide	(Other)	Cabin household	One parent family with children	10
+Greater Adelaide	(Other)	Caravan	Couple family with children	23
+Greater Adelaide	(Other)	Caravan	Couple family with no children	146
+Greater Adelaide	(Other)	Caravan	Group household	10
+Greater Adelaide	(Other)	Caravan	Lone-person household	353
+Greater Adelaide	(Other)	Caravan	One parent family with children	26
+Greater Adelaide	(Other)	House or flat attached to a shop, office, etc	Couple family with children	77
+Greater Adelaide	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	98
+Greater Adelaide	(Other)	House or flat attached to a shop, office, etc	Group household	45
+Greater Adelaide	(Other)	House or flat attached to a shop, office, etc	Lone-person household	179
+Greater Adelaide	(Other)	House or flat attached to a shop, office, etc	One parent family with children	46
+Greater Adelaide	(Other)	House or flat attached to a shop, office, etc	Other family	5
+Greater Adelaide	(Other)	Improvised home, tent sleepers	Lone-person household	5
+Greater Adelaide	Flat/apartment		Couple family with children	61
+Greater Adelaide	Flat/apartment		Couple family with no children	70
+Greater Adelaide	Flat/apartment		Group household	15
+Greater Adelaide	Flat/apartment		Lone-person household	104
+Greater Adelaide	Flat/apartment		One parent family with children	27
+Greater Adelaide	Flat/apartment		Other family	4
+Greater Adelaide	Flat/apartment	1 or 2 storey block	Couple family with children	3141
+Greater Adelaide	Flat/apartment	1 or 2 storey block	Couple family with no children	5879
+Greater Adelaide	Flat/apartment	1 or 2 storey block	Group household	1561
+Greater Adelaide	Flat/apartment	1 or 2 storey block	Lone-person household	16659
+Greater Adelaide	Flat/apartment	1 or 2 storey block	One parent family with children	2189
+Greater Adelaide	Flat/apartment	1 or 2 storey block	Other family	421
+Greater Adelaide	Flat/apartment	3 storey block	Couple family with children	297
+Greater Adelaide	Flat/apartment	3 storey block	Couple family with no children	1008
+Greater Adelaide	Flat/apartment	3 storey block	Group household	339
+Greater Adelaide	Flat/apartment	3 storey block	Lone-person household	2402
+Greater Adelaide	Flat/apartment	3 storey block	One parent family with children	221
+Greater Adelaide	Flat/apartment	3 storey block	Other family	78
+Greater Adelaide	Flat/apartment	4-8 storey block	Couple family with children	395
+Greater Adelaide	Flat/apartment	4-8 storey block	Couple family with no children	1600
+Greater Adelaide	Flat/apartment	4-8 storey block	Group household	478
+Greater Adelaide	Flat/apartment	4-8 storey block	Lone-person household	2770
+Greater Adelaide	Flat/apartment	4-8 storey block	One parent family with children	263
+Greater Adelaide	Flat/apartment	4-8 storey block	Other family	104
+Greater Adelaide	Flat/apartment	9 or more storey block	Couple family with children	203
+Greater Adelaide	Flat/apartment	9 or more storey block	Couple family with no children	1047
+Greater Adelaide	Flat/apartment	9 or more storey block	Group household	500
+Greater Adelaide	Flat/apartment	9 or more storey block	Lone-person household	1746
+Greater Adelaide	Flat/apartment	9 or more storey block	One parent family with children	116
+Greater Adelaide	Flat/apartment	9 or more storey block	Other family	69
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	4640
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	6151
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.		Group household	1793
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	7902
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	2843
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.		Other family	408
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	8308
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	13274
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	2628
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	31601
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	7112
+Greater Adelaide	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	871
+Greater Adelaide	Separate house		Couple family with children	141131
+Greater Adelaide	Separate house		Couple family with no children	110491
+Greater Adelaide	Separate house		Group household	12395
+Greater Adelaide	Separate house		Lone-person household	84066
+Greater Adelaide	Separate house		One parent family with children	49535
+Greater Adelaide	Separate house		Other family	4518
+Rest of SA			Couple family with children	85
+Rest of SA			Couple family with no children	196
+Rest of SA			Group household	22
+Rest of SA			Lone-person household	300
+Rest of SA			One parent family with children	31
+Rest of SA	(Other)	Cabin household	Couple family with children	17
+Rest of SA	(Other)	Cabin household	Couple family with no children	121
+Rest of SA	(Other)	Cabin household	Group household	28
+Rest of SA	(Other)	Cabin household	Lone-person household	221
+Rest of SA	(Other)	Cabin household	One parent family with children	28
+Rest of SA	(Other)	Cabin household	Other family	4
+Rest of SA	(Other)	Caravan	Couple family with children	35
+Rest of SA	(Other)	Caravan	Couple family with no children	180
+Rest of SA	(Other)	Caravan	Group household	46
+Rest of SA	(Other)	Caravan	Lone-person household	373
+Rest of SA	(Other)	Caravan	One parent family with children	10
+Rest of SA	(Other)	House or flat attached to a shop, office, etc	Couple family with children	63
+Rest of SA	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	76
+Rest of SA	(Other)	House or flat attached to a shop, office, etc	Group household	7
+Rest of SA	(Other)	House or flat attached to a shop, office, etc	Lone-person household	100
+Rest of SA	(Other)	House or flat attached to a shop, office, etc	One parent family with children	20
+Rest of SA	(Other)	House or flat attached to a shop, office, etc	Other family	4
+Rest of SA	(Other)	Improvised home, tent sleepers	Couple family with children	17
+Rest of SA	(Other)	Improvised home, tent sleepers	Couple family with no children	15
+Rest of SA	(Other)	Improvised home, tent sleepers	Lone-person household	29
+Rest of SA	(Other)	Improvised home, tent sleepers	One parent family with children	6
+Rest of SA	Flat/apartment		Couple family with children	14
+Rest of SA	Flat/apartment		Couple family with no children	13
+Rest of SA	Flat/apartment		Lone-person household	18
+Rest of SA	Flat/apartment		One parent family with children	3
+Rest of SA	Flat/apartment	1 or 2 storey block	Couple family with children	114
+Rest of SA	Flat/apartment	1 or 2 storey block	Couple family with no children	346
+Rest of SA	Flat/apartment	1 or 2 storey block	Group household	97
+Rest of SA	Flat/apartment	1 or 2 storey block	Lone-person household	2287
+Rest of SA	Flat/apartment	1 or 2 storey block	One parent family with children	180
+Rest of SA	Flat/apartment	1 or 2 storey block	Other family	39
+Rest of SA	Flat/apartment	3 storey block	Couple family with children	4
+Rest of SA	Flat/apartment	3 storey block	Couple family with no children	25
+Rest of SA	Flat/apartment	3 storey block	Group household	5
+Rest of SA	Flat/apartment	3 storey block	Lone-person household	71
+Rest of SA	Flat/apartment	3 storey block	One parent family with children	4
+Rest of SA	Flat/apartment	4-8 storey block	Couple family with no children	13
+Rest of SA	Flat/apartment	4-8 storey block	Lone-person household	16
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	72
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	191
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.		Group household	19
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	188
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	45
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.		Other family	7
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	1072
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	2253
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	369
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	7136
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	1616
+Rest of SA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	126
+Rest of SA	Separate house		Couple family with children	34340
+Rest of SA	Separate house		Couple family with no children	47064
+Rest of SA	Separate house		Group household	3077
+Rest of SA	Separate house		Lone-person household	37876
+Rest of SA	Separate house		One parent family with children	13361
+Rest of SA	Separate house		Other family	1139
+Greater Perth			Couple family with children	131
+Greater Perth			Couple family with no children	179
+Greater Perth			Group household	25
+Greater Perth			Lone-person household	411
+Greater Perth			One parent family with children	65
+Greater Perth			Other family	10
+Greater Perth	(Other)	Cabin household	Couple family with children	16
+Greater Perth	(Other)	Cabin household	Couple family with no children	303
+Greater Perth	(Other)	Cabin household	Group household	16
+Greater Perth	(Other)	Cabin household	Lone-person household	685
+Greater Perth	(Other)	Cabin household	One parent family with children	41
+Greater Perth	(Other)	Cabin household	Other family	7
+Greater Perth	(Other)	Caravan	Couple family with children	25
+Greater Perth	(Other)	Caravan	Couple family with no children	226
+Greater Perth	(Other)	Caravan	Group household	22
+Greater Perth	(Other)	Caravan	Lone-person household	639
+Greater Perth	(Other)	Caravan	One parent family with children	39
+Greater Perth	(Other)	Caravan	Other family	4
+Greater Perth	(Other)	House or flat attached to a shop, office, etc	Couple family with children	68
+Greater Perth	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	130
+Greater Perth	(Other)	House or flat attached to a shop, office, etc	Group household	39
+Greater Perth	(Other)	House or flat attached to a shop, office, etc	Lone-person household	153
+Greater Perth	(Other)	House or flat attached to a shop, office, etc	One parent family with children	28
+Greater Perth	(Other)	House or flat attached to a shop, office, etc	Other family	8
+Greater Perth	(Other)	Improvised home, tent sleepers	Couple family with children	21
+Greater Perth	(Other)	Improvised home, tent sleepers	Couple family with no children	25
+Greater Perth	(Other)	Improvised home, tent sleepers	Lone-person household	48
+Greater Perth	(Other)	Improvised home, tent sleepers	One parent family with children	3
+Greater Perth	Flat/apartment		Couple family with children	147
+Greater Perth	Flat/apartment		Couple family with no children	203
+Greater Perth	Flat/apartment		Group household	20
+Greater Perth	Flat/apartment		Lone-person household	348
+Greater Perth	Flat/apartment		One parent family with children	67
+Greater Perth	Flat/apartment		Other family	11
+Greater Perth	Flat/apartment	1 or 2 storey block	Couple family with children	1679
+Greater Perth	Flat/apartment	1 or 2 storey block	Couple family with no children	3919
+Greater Perth	Flat/apartment	1 or 2 storey block	Group household	1024
+Greater Perth	Flat/apartment	1 or 2 storey block	Lone-person household	10785
+Greater Perth	Flat/apartment	1 or 2 storey block	One parent family with children	1229
+Greater Perth	Flat/apartment	1 or 2 storey block	Other family	262
+Greater Perth	Flat/apartment	3 storey block	Couple family with children	1047
+Greater Perth	Flat/apartment	3 storey block	Couple family with no children	3403
+Greater Perth	Flat/apartment	3 storey block	Group household	969
+Greater Perth	Flat/apartment	3 storey block	Lone-person household	7990
+Greater Perth	Flat/apartment	3 storey block	One parent family with children	765
+Greater Perth	Flat/apartment	3 storey block	Other family	201
+Greater Perth	Flat/apartment	4-8 storey block	Couple family with children	1219
+Greater Perth	Flat/apartment	4-8 storey block	Couple family with no children	4726
+Greater Perth	Flat/apartment	4-8 storey block	Group household	1023
+Greater Perth	Flat/apartment	4-8 storey block	Lone-person household	8219
+Greater Perth	Flat/apartment	4-8 storey block	One parent family with children	749
+Greater Perth	Flat/apartment	4-8 storey block	Other family	187
+Greater Perth	Flat/apartment	9 or more storey block	Couple family with children	877
+Greater Perth	Flat/apartment	9 or more storey block	Couple family with no children	3116
+Greater Perth	Flat/apartment	9 or more storey block	Group household	692
+Greater Perth	Flat/apartment	9 or more storey block	Lone-person household	4097
+Greater Perth	Flat/apartment	9 or more storey block	One parent family with children	396
+Greater Perth	Flat/apartment	9 or more storey block	Other family	133
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	5333
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	8462
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.		Group household	2224
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	11481
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	2963
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.		Other family	520
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	11610
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	17417
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	3608
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	37386
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	8263
+Greater Perth	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	1062
+Greater Perth	Separate house		Couple family with children	236560
+Greater Perth	Separate house		Couple family with no children	163242
+Greater Perth	Separate house		Group household	17788
+Greater Perth	Separate house		Lone-person household	111931
+Greater Perth	Separate house		One parent family with children	69160
+Greater Perth	Separate house		Other family	6774
+Rest of WA			Couple family with children	194
+Rest of WA			Couple family with no children	311
+Rest of WA			Group household	41
+Rest of WA			Lone-person household	589
+Rest of WA			One parent family with children	62
+Rest of WA			Other family	15
+Rest of WA	(Other)	Cabin household	Couple family with children	30
+Rest of WA	(Other)	Cabin household	Couple family with no children	220
+Rest of WA	(Other)	Cabin household	Group household	29
+Rest of WA	(Other)	Cabin household	Lone-person household	490
+Rest of WA	(Other)	Cabin household	One parent family with children	19
+Rest of WA	(Other)	Cabin household	Other family	6
+Rest of WA	(Other)	Caravan	Couple family with children	118
+Rest of WA	(Other)	Caravan	Couple family with no children	639
+Rest of WA	(Other)	Caravan	Group household	58
+Rest of WA	(Other)	Caravan	Lone-person household	1072
+Rest of WA	(Other)	Caravan	One parent family with children	73
+Rest of WA	(Other)	Caravan	Other family	17
+Rest of WA	(Other)	House or flat attached to a shop, office, etc	Couple family with children	69
+Rest of WA	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	101
+Rest of WA	(Other)	House or flat attached to a shop, office, etc	Group household	15
+Rest of WA	(Other)	House or flat attached to a shop, office, etc	Lone-person household	103
+Rest of WA	(Other)	House or flat attached to a shop, office, etc	One parent family with children	25
+Rest of WA	(Other)	House or flat attached to a shop, office, etc	Other family	3
+Rest of WA	(Other)	Improvised home, tent sleepers	Couple family with children	30
+Rest of WA	(Other)	Improvised home, tent sleepers	Couple family with no children	61
+Rest of WA	(Other)	Improvised home, tent sleepers	Group household	6
+Rest of WA	(Other)	Improvised home, tent sleepers	Lone-person household	122
+Rest of WA	(Other)	Improvised home, tent sleepers	One parent family with children	8
+Rest of WA	(Other)	Improvised home, tent sleepers	Other family	6
+Rest of WA	Flat/apartment		Couple family with children	13
+Rest of WA	Flat/apartment		Couple family with no children	25
+Rest of WA	Flat/apartment		Group household	8
+Rest of WA	Flat/apartment		Lone-person household	42
+Rest of WA	Flat/apartment		One parent family with children	10
+Rest of WA	Flat/apartment	1 or 2 storey block	Couple family with children	171
+Rest of WA	Flat/apartment	1 or 2 storey block	Couple family with no children	394
+Rest of WA	Flat/apartment	1 or 2 storey block	Group household	84
+Rest of WA	Flat/apartment	1 or 2 storey block	Lone-person household	1337
+Rest of WA	Flat/apartment	1 or 2 storey block	One parent family with children	144
+Rest of WA	Flat/apartment	1 or 2 storey block	Other family	23
+Rest of WA	Flat/apartment	3 storey block	Couple family with children	22
+Rest of WA	Flat/apartment	3 storey block	Couple family with no children	72
+Rest of WA	Flat/apartment	3 storey block	Group household	14
+Rest of WA	Flat/apartment	3 storey block	Lone-person household	175
+Rest of WA	Flat/apartment	3 storey block	One parent family with children	20
+Rest of WA	Flat/apartment	3 storey block	Other family	3
+Rest of WA	Flat/apartment	4-8 storey block	Couple family with children	18
+Rest of WA	Flat/apartment	4-8 storey block	Couple family with no children	48
+Rest of WA	Flat/apartment	4-8 storey block	Group household	4
+Rest of WA	Flat/apartment	4-8 storey block	Lone-person household	71
+Rest of WA	Flat/apartment	4-8 storey block	One parent family with children	4
+Rest of WA	Flat/apartment	9 or more storey block	Couple family with children	9
+Rest of WA	Flat/apartment	9 or more storey block	Couple family with no children	49
+Rest of WA	Flat/apartment	9 or more storey block	Group household	6
+Rest of WA	Flat/apartment	9 or more storey block	Lone-person household	98
+Rest of WA	Flat/apartment	9 or more storey block	One parent family with children	5
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	383
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	657
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.		Group household	128
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	925
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	183
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.		Other family	14
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	1266
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	2420
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	420
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	7376
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	1213
+Rest of WA	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	146
+Rest of WA	Separate house		Couple family with children	50094
+Rest of WA	Separate house		Couple family with no children	51623
+Rest of WA	Separate house		Group household	4331
+Rest of WA	Separate house		Lone-person household	38614
+Rest of WA	Separate house		One parent family with children	17391
+Rest of WA	Separate house		Other family	1531
+Greater Hobart			Couple family with children	33
+Greater Hobart			Couple family with no children	47
+Greater Hobart			Group household	6
+Greater Hobart			Lone-person household	97
+Greater Hobart			One parent family with children	15
+Greater Hobart	(Other)	Cabin household	Couple family with children	10
+Greater Hobart	(Other)	Cabin household	Couple family with no children	31
+Greater Hobart	(Other)	Cabin household	Group household	3
+Greater Hobart	(Other)	Cabin household	Lone-person household	56
+Greater Hobart	(Other)	Cabin household	One parent family with children	6
+Greater Hobart	(Other)	Caravan	Couple family with children	9
+Greater Hobart	(Other)	Caravan	Couple family with no children	27
+Greater Hobart	(Other)	Caravan	Lone-person household	55
+Greater Hobart	(Other)	Caravan	One parent family with children	4
+Greater Hobart	(Other)	House or flat attached to a shop, office, etc	Couple family with children	34
+Greater Hobart	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	52
+Greater Hobart	(Other)	House or flat attached to a shop, office, etc	Group household	21
+Greater Hobart	(Other)	House or flat attached to a shop, office, etc	Lone-person household	62
+Greater Hobart	(Other)	House or flat attached to a shop, office, etc	One parent family with children	15
+Greater Hobart	(Other)	House or flat attached to a shop, office, etc	Other family	7
+Greater Hobart	(Other)	Improvised home, tent sleepers	Couple family with no children	5
+Greater Hobart	(Other)	Improvised home, tent sleepers	Lone-person household	3
+Greater Hobart	Flat/apartment		Couple family with children	22
+Greater Hobart	Flat/apartment		Couple family with no children	44
+Greater Hobart	Flat/apartment		Group household	9
+Greater Hobart	Flat/apartment		Lone-person household	59
+Greater Hobart	Flat/apartment		One parent family with children	13
+Greater Hobart	Flat/apartment		Other family	4
+Greater Hobart	Flat/apartment	1 or 2 storey block	Couple family with children	562
+Greater Hobart	Flat/apartment	1 or 2 storey block	Couple family with no children	1309
+Greater Hobart	Flat/apartment	1 or 2 storey block	Group household	401
+Greater Hobart	Flat/apartment	1 or 2 storey block	Lone-person household	3074
+Greater Hobart	Flat/apartment	1 or 2 storey block	One parent family with children	553
+Greater Hobart	Flat/apartment	1 or 2 storey block	Other family	66
+Greater Hobart	Flat/apartment	3 storey block	Couple family with children	62
+Greater Hobart	Flat/apartment	3 storey block	Couple family with no children	252
+Greater Hobart	Flat/apartment	3 storey block	Group household	91
+Greater Hobart	Flat/apartment	3 storey block	Lone-person household	569
+Greater Hobart	Flat/apartment	3 storey block	One parent family with children	39
+Greater Hobart	Flat/apartment	3 storey block	Other family	15
+Greater Hobart	Flat/apartment	4-8 storey block	Couple family with children	35
+Greater Hobart	Flat/apartment	4-8 storey block	Couple family with no children	162
+Greater Hobart	Flat/apartment	4-8 storey block	Group household	63
+Greater Hobart	Flat/apartment	4-8 storey block	Lone-person household	276
+Greater Hobart	Flat/apartment	4-8 storey block	One parent family with children	43
+Greater Hobart	Flat/apartment	4-8 storey block	Other family	11
+Greater Hobart	Flat/apartment	9 or more storey block	Couple family with no children	14
+Greater Hobart	Flat/apartment	9 or more storey block	Lone-person household	16
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	316
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	715
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.		Group household	233
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	1004
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	228
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.		Other family	37
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	260
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	571
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	181
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	1898
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	303
+Greater Hobart	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	37
+Greater Hobart	Separate house		Couple family with children	24153
+Greater Hobart	Separate house		Couple family with no children	23280
+Greater Hobart	Separate house		Group household	2995
+Greater Hobart	Separate house		Lone-person household	19082
+Greater Hobart	Separate house		One parent family with children	10451
+Greater Hobart	Separate house		Other family	881
+Rest of Tas.			Couple family with children	50
+Rest of Tas.			Couple family with no children	73
+Rest of Tas.			Group household	8
+Rest of Tas.			Lone-person household	140
+Rest of Tas.			One parent family with children	10
+Rest of Tas.			Other family	3
+Rest of Tas.	(Other)	Cabin household	Couple family with children	14
+Rest of Tas.	(Other)	Cabin household	Couple family with no children	76
+Rest of Tas.	(Other)	Cabin household	Group household	12
+Rest of Tas.	(Other)	Cabin household	Lone-person household	125
+Rest of Tas.	(Other)	Cabin household	One parent family with children	19
+Rest of Tas.	(Other)	Cabin household	Other family	3
+Rest of Tas.	(Other)	Caravan	Couple family with children	16
+Rest of Tas.	(Other)	Caravan	Couple family with no children	101
+Rest of Tas.	(Other)	Caravan	Group household	10
+Rest of Tas.	(Other)	Caravan	Lone-person household	292
+Rest of Tas.	(Other)	Caravan	One parent family with children	23
+Rest of Tas.	(Other)	House or flat attached to a shop, office, etc	Couple family with children	34
+Rest of Tas.	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	69
+Rest of Tas.	(Other)	House or flat attached to a shop, office, etc	Group household	23
+Rest of Tas.	(Other)	House or flat attached to a shop, office, etc	Lone-person household	105
+Rest of Tas.	(Other)	House or flat attached to a shop, office, etc	One parent family with children	24
+Rest of Tas.	(Other)	House or flat attached to a shop, office, etc	Other family	8
+Rest of Tas.	(Other)	Improvised home, tent sleepers	Couple family with children	13
+Rest of Tas.	(Other)	Improvised home, tent sleepers	Couple family with no children	10
+Rest of Tas.	(Other)	Improvised home, tent sleepers	Group household	4
+Rest of Tas.	(Other)	Improvised home, tent sleepers	Lone-person household	24
+Rest of Tas.	(Other)	Improvised home, tent sleepers	One parent family with children	4
+Rest of Tas.	Flat/apartment		Couple family with children	16
+Rest of Tas.	Flat/apartment		Couple family with no children	23
+Rest of Tas.	Flat/apartment		Group household	6
+Rest of Tas.	Flat/apartment		Lone-person household	73
+Rest of Tas.	Flat/apartment		One parent family with children	18
+Rest of Tas.	Flat/apartment	1 or 2 storey block	Couple family with children	201
+Rest of Tas.	Flat/apartment	1 or 2 storey block	Couple family with no children	617
+Rest of Tas.	Flat/apartment	1 or 2 storey block	Group household	152
+Rest of Tas.	Flat/apartment	1 or 2 storey block	Lone-person household	2142
+Rest of Tas.	Flat/apartment	1 or 2 storey block	One parent family with children	297
+Rest of Tas.	Flat/apartment	1 or 2 storey block	Other family	25
+Rest of Tas.	Flat/apartment	3 storey block	Couple family with children	15
+Rest of Tas.	Flat/apartment	3 storey block	Couple family with no children	19
+Rest of Tas.	Flat/apartment	3 storey block	Group household	6
+Rest of Tas.	Flat/apartment	3 storey block	Lone-person household	106
+Rest of Tas.	Flat/apartment	3 storey block	One parent family with children	10
+Rest of Tas.	Flat/apartment	4-8 storey block	Couple family with no children	20
+Rest of Tas.	Flat/apartment	4-8 storey block	Group household	4
+Rest of Tas.	Flat/apartment	4-8 storey block	Lone-person household	51
+Rest of Tas.	Flat/apartment	4-8 storey block	One parent family with children	3
+Rest of Tas.	Flat/apartment	9 or more storey block	Couple family with no children	6
+Rest of Tas.	Flat/apartment	9 or more storey block	Lone-person household	3
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	210
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	363
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.		Group household	86
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	565
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	154
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.		Other family	18
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	336
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	1010
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	188
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	4037
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	596
+Rest of Tas.	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	54
+Rest of Tas.	Separate house		Couple family with children	28638
+Rest of Tas.	Separate house		Couple family with no children	36143
+Rest of Tas.	Separate house		Group household	2922
+Rest of Tas.	Separate house		Lone-person household	29439
+Rest of Tas.	Separate house		One parent family with children	12610
+Rest of Tas.	Separate house		Other family	966
+Greater Darwin			Couple family with children	13
+Greater Darwin			Couple family with no children	30
+Greater Darwin			Group household	3
+Greater Darwin			Lone-person household	87
+Greater Darwin			One parent family with children	14
+Greater Darwin	(Other)	Cabin household	Couple family with children	6
+Greater Darwin	(Other)	Cabin household	Couple family with no children	24
+Greater Darwin	(Other)	Cabin household	Lone-person household	43
+Greater Darwin	(Other)	Caravan	Couple family with children	28
+Greater Darwin	(Other)	Caravan	Couple family with no children	110
+Greater Darwin	(Other)	Caravan	Group household	7
+Greater Darwin	(Other)	Caravan	Lone-person household	142
+Greater Darwin	(Other)	Caravan	One parent family with children	7
+Greater Darwin	(Other)	House or flat attached to a shop, office, etc	Couple family with children	4
+Greater Darwin	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	10
+Greater Darwin	(Other)	House or flat attached to a shop, office, etc	Group household	4
+Greater Darwin	(Other)	House or flat attached to a shop, office, etc	Lone-person household	3
+Greater Darwin	(Other)	Improvised home, tent sleepers	Couple family with children	3
+Greater Darwin	(Other)	Improvised home, tent sleepers	Couple family with no children	8
+Greater Darwin	(Other)	Improvised home, tent sleepers	Group household	3
+Greater Darwin	(Other)	Improvised home, tent sleepers	Lone-person household	19
+Greater Darwin	Flat/apartment		Couple family with children	3
+Greater Darwin	Flat/apartment		Couple family with no children	5
+Greater Darwin	Flat/apartment		Lone-person household	15
+Greater Darwin	Flat/apartment		One parent family with children	3
+Greater Darwin	Flat/apartment	1 or 2 storey block	Couple family with children	702
+Greater Darwin	Flat/apartment	1 or 2 storey block	Couple family with no children	918
+Greater Darwin	Flat/apartment	1 or 2 storey block	Group household	273
+Greater Darwin	Flat/apartment	1 or 2 storey block	Lone-person household	1668
+Greater Darwin	Flat/apartment	1 or 2 storey block	One parent family with children	414
+Greater Darwin	Flat/apartment	1 or 2 storey block	Other family	67
+Greater Darwin	Flat/apartment	3 storey block	Couple family with children	403
+Greater Darwin	Flat/apartment	3 storey block	Couple family with no children	469
+Greater Darwin	Flat/apartment	3 storey block	Group household	162
+Greater Darwin	Flat/apartment	3 storey block	Lone-person household	727
+Greater Darwin	Flat/apartment	3 storey block	One parent family with children	131
+Greater Darwin	Flat/apartment	3 storey block	Other family	25
+Greater Darwin	Flat/apartment	4-8 storey block	Couple family with children	584
+Greater Darwin	Flat/apartment	4-8 storey block	Couple family with no children	887
+Greater Darwin	Flat/apartment	4-8 storey block	Group household	351
+Greater Darwin	Flat/apartment	4-8 storey block	Lone-person household	1110
+Greater Darwin	Flat/apartment	4-8 storey block	One parent family with children	271
+Greater Darwin	Flat/apartment	4-8 storey block	Other family	44
+Greater Darwin	Flat/apartment	9 or more storey block	Couple family with children	352
+Greater Darwin	Flat/apartment	9 or more storey block	Couple family with no children	881
+Greater Darwin	Flat/apartment	9 or more storey block	Group household	271
+Greater Darwin	Flat/apartment	9 or more storey block	Lone-person household	949
+Greater Darwin	Flat/apartment	9 or more storey block	One parent family with children	106
+Greater Darwin	Flat/apartment	9 or more storey block	Other family	24
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	419
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	554
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.		Group household	184
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	704
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	294
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.		Other family	35
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	446
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	569
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	123
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	1216
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	351
+Greater Darwin	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	51
+Greater Darwin	Separate house		Couple family with children	12546
+Greater Darwin	Separate house		Couple family with no children	7628
+Greater Darwin	Separate house		Group household	1278
+Greater Darwin	Separate house		Lone-person household	4369
+Greater Darwin	Separate house		One parent family with children	3803
+Greater Darwin	Separate house		Other family	317
+Rest of NT			Couple family with children	62
+Rest of NT			Couple family with no children	122
+Rest of NT			Group household	15
+Rest of NT			Lone-person household	267
+Rest of NT			One parent family with children	33
+Rest of NT			Other family	7
+Rest of NT	(Other)	Cabin household	Couple family with children	16
+Rest of NT	(Other)	Cabin household	Couple family with no children	17
+Rest of NT	(Other)	Cabin household	Group household	5
+Rest of NT	(Other)	Cabin household	Lone-person household	71
+Rest of NT	(Other)	Cabin household	One parent family with children	7
+Rest of NT	(Other)	Caravan	Couple family with children	36
+Rest of NT	(Other)	Caravan	Couple family with no children	151
+Rest of NT	(Other)	Caravan	Group household	11
+Rest of NT	(Other)	Caravan	Lone-person household	235
+Rest of NT	(Other)	Caravan	One parent family with children	20
+Rest of NT	(Other)	Caravan	Other family	4
+Rest of NT	(Other)	House or flat attached to a shop, office, etc	Couple family with children	3
+Rest of NT	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	17
+Rest of NT	(Other)	House or flat attached to a shop, office, etc	Lone-person household	15
+Rest of NT	(Other)	Improvised home, tent sleepers	Couple family with children	13
+Rest of NT	(Other)	Improvised home, tent sleepers	Couple family with no children	42
+Rest of NT	(Other)	Improvised home, tent sleepers	Group household	3
+Rest of NT	(Other)	Improvised home, tent sleepers	Lone-person household	69
+Rest of NT	(Other)	Improvised home, tent sleepers	One parent family with children	9
+Rest of NT	(Other)	Improvised home, tent sleepers	Other family	3
+Rest of NT	Flat/apartment		Couple family with children	6
+Rest of NT	Flat/apartment		Couple family with no children	3
+Rest of NT	Flat/apartment		Lone-person household	3
+Rest of NT	Flat/apartment		One parent family with children	5
+Rest of NT	Flat/apartment	1 or 2 storey block	Couple family with children	74
+Rest of NT	Flat/apartment	1 or 2 storey block	Couple family with no children	168
+Rest of NT	Flat/apartment	1 or 2 storey block	Group household	30
+Rest of NT	Flat/apartment	1 or 2 storey block	Lone-person household	419
+Rest of NT	Flat/apartment	1 or 2 storey block	One parent family with children	61
+Rest of NT	Flat/apartment	1 or 2 storey block	Other family	13
+Rest of NT	Flat/apartment	3 storey block	Couple family with no children	3
+Rest of NT	Flat/apartment	3 storey block	Lone-person household	16
+Rest of NT	Flat/apartment	3 storey block	One parent family with children	6
+Rest of NT	Flat/apartment	4-8 storey block	Couple family with children	5
+Rest of NT	Flat/apartment	4-8 storey block	Couple family with no children	3
+Rest of NT	Flat/apartment	4-8 storey block	Lone-person household	5
+Rest of NT	Flat/apartment	4-8 storey block	One parent family with children	4
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	189
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	237
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.		Group household	69
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	392
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	116
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.		Other family	12
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	641
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	588
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	122
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	1248
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	349
+Rest of NT	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	56
+Rest of NT	Separate house		Couple family with children	6542
+Rest of NT	Separate house		Couple family with no children	3837
+Rest of NT	Separate house		Group household	691
+Rest of NT	Separate house		Lone-person household	3011
+Rest of NT	Separate house		One parent family with children	2751
+Rest of NT	Separate house		Other family	439
+Australian Capital Territory			Couple family with children	38
+Australian Capital Territory			Couple family with no children	47
+Australian Capital Territory			Group household	15
+Australian Capital Territory			Lone-person household	90
+Australian Capital Territory			One parent family with children	18
+Australian Capital Territory			Other family	3
+Australian Capital Territory	(Other)	Cabin household	Couple family with children	8
+Australian Capital Territory	(Other)	Cabin household	Couple family with no children	17
+Australian Capital Territory	(Other)	Cabin household	Group household	6
+Australian Capital Territory	(Other)	Cabin household	Lone-person household	63
+Australian Capital Territory	(Other)	Cabin household	One parent family with children	13
+Australian Capital Territory	(Other)	Cabin household	Other family	5
+Australian Capital Territory	(Other)	Caravan	Couple family with children	3
+Australian Capital Territory	(Other)	Caravan	Couple family with no children	5
+Australian Capital Territory	(Other)	Caravan	Lone-person household	29
+Australian Capital Territory	(Other)	Caravan	One parent family with children	5
+Australian Capital Territory	(Other)	House or flat attached to a shop, office, etc	Couple family with children	5
+Australian Capital Territory	(Other)	House or flat attached to a shop, office, etc	Couple family with no children	3
+Australian Capital Territory	(Other)	House or flat attached to a shop, office, etc	Group household	4
+Australian Capital Territory	(Other)	House or flat attached to a shop, office, etc	Lone-person household	3
+Australian Capital Territory	Flat/apartment		Couple family with children	62
+Australian Capital Territory	Flat/apartment		Couple family with no children	115
+Australian Capital Territory	Flat/apartment		Group household	26
+Australian Capital Territory	Flat/apartment		Lone-person household	198
+Australian Capital Territory	Flat/apartment		One parent family with children	28
+Australian Capital Territory	Flat/apartment		Other family	3
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	Couple family with children	666
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	Couple family with no children	1330
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	Group household	409
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	Lone-person household	2745
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	One parent family with children	432
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	Other family	46
+Australian Capital Territory	Flat/apartment	3 storey block	Couple family with children	882
+Australian Capital Territory	Flat/apartment	3 storey block	Couple family with no children	2147
+Australian Capital Territory	Flat/apartment	3 storey block	Group household	697
+Australian Capital Territory	Flat/apartment	3 storey block	Lone-person household	3476
+Australian Capital Territory	Flat/apartment	3 storey block	One parent family with children	428
+Australian Capital Territory	Flat/apartment	3 storey block	Other family	112
+Australian Capital Territory	Flat/apartment	4-8 storey block	Couple family with children	1181
+Australian Capital Territory	Flat/apartment	4-8 storey block	Couple family with no children	4037
+Australian Capital Territory	Flat/apartment	4-8 storey block	Group household	904
+Australian Capital Territory	Flat/apartment	4-8 storey block	Lone-person household	5810
+Australian Capital Territory	Flat/apartment	4-8 storey block	One parent family with children	569
+Australian Capital Territory	Flat/apartment	4-8 storey block	Other family	143
+Australian Capital Territory	Flat/apartment	9 or more storey block	Couple family with children	538
+Australian Capital Territory	Flat/apartment	9 or more storey block	Couple family with no children	2047
+Australian Capital Territory	Flat/apartment	9 or more storey block	Group household	578
+Australian Capital Territory	Flat/apartment	9 or more storey block	Lone-person household	2697
+Australian Capital Territory	Flat/apartment	9 or more storey block	One parent family with children	258
+Australian Capital Territory	Flat/apartment	9 or more storey block	Other family	88
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	3449
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	4074
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.		Group household	1301
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	4431
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	1672
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.		Other family	240
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	2265
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	3065
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.	1 storey	Group household	546
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	6103
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	1618
+Australian Capital Territory	Semi-detached, row/terrace house, townhouse etc.	1 storey	Other family	148
+Australian Capital Territory	Separate house		Couple family with children	44820
+Australian Capital Territory	Separate house		Couple family with no children	28306
+Australian Capital Territory	Separate house		Group household	3365
+Australian Capital Territory	Separate house		Lone-person household	17682
+Australian Capital Territory	Separate house		One parent family with children	11282
+Australian Capital Territory	Separate house		Other family	983
+Other Territories			Couple family with no children	7
+Other Territories			Lone-person household	13
+Other Territories	Flat/apartment		Couple family with no children	5
+Other Territories	Flat/apartment		Lone-person household	7
+Other Territories	Flat/apartment	1 or 2 storey block	Couple family with children	10
+Other Territories	Flat/apartment	1 or 2 storey block	Couple family with no children	22
+Other Territories	Flat/apartment	1 or 2 storey block	Group household	6
+Other Territories	Flat/apartment	1 or 2 storey block	Lone-person household	44
+Other Territories	Flat/apartment	1 or 2 storey block	One parent family with children	3
+Other Territories	Flat/apartment	3 storey block	Couple family with children	22
+Other Territories	Flat/apartment	3 storey block	Couple family with no children	10
+Other Territories	Flat/apartment	3 storey block	Lone-person household	8
+Other Territories	Flat/apartment	3 storey block	One parent family with children	9
+Other Territories	Flat/apartment	3 storey block	Other family	3
+Other Territories	Flat/apartment	4-8 storey block	Couple family with children	3
+Other Territories	Semi-detached, row/terrace house, townhouse etc.		Couple family with children	4
+Other Territories	Semi-detached, row/terrace house, townhouse etc.		Couple family with no children	3
+Other Territories	Semi-detached, row/terrace house, townhouse etc.		Lone-person household	3
+Other Territories	Semi-detached, row/terrace house, townhouse etc.		One parent family with children	3
+Other Territories	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with children	31
+Other Territories	Semi-detached, row/terrace house, townhouse etc.	1 storey	Couple family with no children	23
+Other Territories	Semi-detached, row/terrace house, townhouse etc.	1 storey	Lone-person household	33
+Other Territories	Semi-detached, row/terrace house, townhouse etc.	1 storey	One parent family with children	6
+Other Territories	Separate house		Couple family with children	336
+Other Territories	Separate house		Couple family with no children	386
+Other Territories	Separate house		Group household	21
+Other Territories	Separate house		Lone-person household	384
+Other Territories	Separate house		One parent family with children	116
+Other Territories	Separate house		Other family	19

@@ -1,0 +1,1570 @@
+GCCSA_NAME21	Age	NeedsAssistance	Sex	persons
+No usual address (NSW)	0-4		F	90
+No usual address (NSW)	0-4		M	87
+No usual address (NSW)	0-4	0	F	113
+No usual address (NSW)	0-4	0	M	157
+No usual address (NSW)	0-4	1	F	3
+No usual address (NSW)	0-4	1	M	6
+No usual address (NSW)	5-14		F	182
+No usual address (NSW)	5-14		M	167
+No usual address (NSW)	5-14	0	F	218
+No usual address (NSW)	5-14	0	M	200
+No usual address (NSW)	5-14	1	F	9
+No usual address (NSW)	5-14	1	M	24
+No usual address (NSW)	15-19		F	91
+No usual address (NSW)	15-19		M	91
+No usual address (NSW)	15-19	0	F	180
+No usual address (NSW)	15-19	0	M	156
+No usual address (NSW)	15-19	1	F	9
+No usual address (NSW)	15-19	1	M	8
+No usual address (NSW)	20-24		F	135
+No usual address (NSW)	20-24		M	136
+No usual address (NSW)	20-24	0	F	274
+No usual address (NSW)	20-24	0	M	267
+No usual address (NSW)	20-24	1	F	13
+No usual address (NSW)	20-24	1	M	12
+No usual address (NSW)	25-34		F	333
+No usual address (NSW)	25-34		M	414
+No usual address (NSW)	25-34	0	F	667
+No usual address (NSW)	25-34	0	M	723
+No usual address (NSW)	25-34	1	F	26
+No usual address (NSW)	25-34	1	M	25
+No usual address (NSW)	35-44		F	286
+No usual address (NSW)	35-44		M	480
+No usual address (NSW)	35-44	0	F	434
+No usual address (NSW)	35-44	0	M	586
+No usual address (NSW)	35-44	1	F	27
+No usual address (NSW)	35-44	1	M	34
+No usual address (NSW)	45-54		F	197
+No usual address (NSW)	45-54		M	433
+No usual address (NSW)	45-54	0	F	428
+No usual address (NSW)	45-54	0	M	531
+No usual address (NSW)	45-54	1	F	41
+No usual address (NSW)	45-54	1	M	42
+No usual address (NSW)	55-64		F	149
+No usual address (NSW)	55-64		M	308
+No usual address (NSW)	55-64	0	F	500
+No usual address (NSW)	55-64	0	M	569
+No usual address (NSW)	55-64	1	F	51
+No usual address (NSW)	55-64	1	M	73
+No usual address (NSW)	65-74		F	64
+No usual address (NSW)	65-74		M	130
+No usual address (NSW)	65-74	0	F	312
+No usual address (NSW)	65-74	0	M	476
+No usual address (NSW)	65-74	1	F	31
+No usual address (NSW)	65-74	1	M	39
+No usual address (NSW)	75-84		F	20
+No usual address (NSW)	75-84		M	35
+No usual address (NSW)	75-84	0	F	76
+No usual address (NSW)	75-84	0	M	115
+No usual address (NSW)	75-84	1	F	12
+No usual address (NSW)	75-84	1	M	20
+No usual address (NSW)	85+		F	8
+No usual address (NSW)	85+		M	6
+No usual address (NSW)	85+	0	F	5
+No usual address (NSW)	85+	0	M	10
+No usual address (NSW)	85+	1	F	15
+No usual address (NSW)	85+	1	M	8
+Greater Sydney	0-4		F	8435
+Greater Sydney	0-4		M	8914
+Greater Sydney	0-4	0	F	141787
+Greater Sydney	0-4	0	M	149294
+Greater Sydney	0-4	1	F	1347
+Greater Sydney	0-4	1	M	2585
+Greater Sydney	5-14		F	16318
+Greater Sydney	5-14		M	17506
+Greater Sydney	5-14	0	F	293099
+Greater Sydney	5-14	0	M	301740
+Greater Sydney	5-14	1	F	6974
+Greater Sydney	5-14	1	M	15210
+Greater Sydney	15-19		F	6562
+Greater Sydney	15-19		M	7423
+Greater Sydney	15-19	0	F	133001
+Greater Sydney	15-19	0	M	139698
+Greater Sydney	15-19	1	F	2970
+Greater Sydney	15-19	1	M	5103
+Greater Sydney	20-24		F	8870
+Greater Sydney	20-24		M	10700
+Greater Sydney	20-24	0	F	155218
+Greater Sydney	20-24	0	M	162050
+Greater Sydney	20-24	1	F	2482
+Greater Sydney	20-24	1	M	3749
+Greater Sydney	25-34		F	23557
+Greater Sydney	25-34		M	26152
+Greater Sydney	25-34	0	F	381598
+Greater Sydney	25-34	0	M	369169
+Greater Sydney	25-34	1	F	5034
+Greater Sydney	25-34	1	M	5802
+Greater Sydney	35-44		F	19585
+Greater Sydney	35-44		M	21885
+Greater Sydney	35-44	0	F	366167
+Greater Sydney	35-44	0	M	357359
+Greater Sydney	35-44	1	F	6498
+Greater Sydney	35-44	1	M	6246
+Greater Sydney	45-54		F	14586
+Greater Sydney	45-54		M	16419
+Greater Sydney	45-54	0	F	315261
+Greater Sydney	45-54	0	M	301443
+Greater Sydney	45-54	1	F	10549
+Greater Sydney	45-54	1	M	8919
+Greater Sydney	55-64		F	12041
+Greater Sydney	55-64		M	13514
+Greater Sydney	55-64	0	F	266812
+Greater Sydney	55-64	0	M	254822
+Greater Sydney	55-64	1	F	17640
+Greater Sydney	55-64	1	M	14336
+Greater Sydney	65-74		F	10116
+Greater Sydney	65-74		M	9923
+Greater Sydney	65-74	0	F	194898
+Greater Sydney	65-74	0	M	178550
+Greater Sydney	65-74	1	F	25588
+Greater Sydney	65-74	1	M	20400
+Greater Sydney	75-84		F	8967
+Greater Sydney	75-84		M	7446
+Greater Sydney	75-84	0	F	90533
+Greater Sydney	75-84	0	M	84839
+Greater Sydney	75-84	1	F	34515
+Greater Sydney	75-84	1	M	23210
+Greater Sydney	85+		F	9532
+Greater Sydney	85+		M	4936
+Greater Sydney	85+	0	F	21555
+Greater Sydney	85+	0	M	18204
+Greater Sydney	85+	1	F	33817
+Greater Sydney	85+	1	M	17684
+Rest of NSW	0-4		F	4994
+Rest of NSW	0-4		M	5173
+Rest of NSW	0-4	0	F	69725
+Rest of NSW	0-4	0	M	72927
+Rest of NSW	0-4	1	F	852
+Rest of NSW	0-4	1	M	1553
+Rest of NSW	5-14		F	11877
+Rest of NSW	5-14		M	12587
+Rest of NSW	5-14	0	F	152554
+Rest of NSW	5-14	0	M	155234
+Rest of NSW	5-14	1	F	5843
+Rest of NSW	5-14	1	M	12223
+Rest of NSW	15-19		F	5223
+Rest of NSW	15-19		M	5774
+Rest of NSW	15-19	0	F	71178
+Rest of NSW	15-19	0	M	73589
+Rest of NSW	15-19	1	F	2539
+Rest of NSW	15-19	1	M	4300
+Rest of NSW	20-24		F	4881
+Rest of NSW	20-24		M	6467
+Rest of NSW	20-24	0	F	67487
+Rest of NSW	20-24	0	M	68360
+Rest of NSW	20-24	1	F	2021
+Rest of NSW	20-24	1	M	3084
+Rest of NSW	25-34		F	10855
+Rest of NSW	25-34		M	13980
+Rest of NSW	25-34	0	F	151944
+Rest of NSW	25-34	0	M	143343
+Rest of NSW	25-34	1	F	3824
+Rest of NSW	25-34	1	M	4580
+Rest of NSW	35-44		F	10515
+Rest of NSW	35-44		M	12813
+Rest of NSW	35-44	0	F	150832
+Rest of NSW	35-44	0	M	140211
+Rest of NSW	35-44	1	F	4636
+Rest of NSW	35-44	1	M	4559
+Rest of NSW	45-54		F	10107
+Rest of NSW	45-54		M	12406
+Rest of NSW	45-54	0	F	160926
+Rest of NSW	45-54	0	M	150065
+Rest of NSW	45-54	1	F	7698
+Rest of NSW	45-54	1	M	6896
+Rest of NSW	55-64		F	10415
+Rest of NSW	55-64		M	12046
+Rest of NSW	55-64	0	F	173878
+Rest of NSW	55-64	0	M	161793
+Rest of NSW	55-64	1	F	11609
+Rest of NSW	55-64	1	M	11221
+Rest of NSW	65-74		F	9362
+Rest of NSW	65-74		M	10274
+Rest of NSW	65-74	0	F	151822
+Rest of NSW	65-74	0	M	145120
+Rest of NSW	65-74	1	F	15527
+Rest of NSW	65-74	1	M	16110
+Rest of NSW	75-84		F	7185
+Rest of NSW	75-84		M	6441
+Rest of NSW	75-84	0	F	77297
+Rest of NSW	75-84	0	M	72694
+Rest of NSW	75-84	1	F	21604
+Rest of NSW	75-84	1	M	16509
+Rest of NSW	85+		F	5130
+Rest of NSW	85+		M	3033
+Rest of NSW	85+	0	F	18426
+Rest of NSW	85+	0	M	15189
+Rest of NSW	85+	1	F	24326
+Rest of NSW	85+	1	M	12012
+No usual address (Vic.)	0-4		F	66
+No usual address (Vic.)	0-4		M	88
+No usual address (Vic.)	0-4	0	F	117
+No usual address (Vic.)	0-4	0	M	129
+No usual address (Vic.)	0-4	1	F	3
+No usual address (Vic.)	0-4	1	M	6
+No usual address (Vic.)	5-14		F	146
+No usual address (Vic.)	5-14		M	152
+No usual address (Vic.)	5-14	0	F	192
+No usual address (Vic.)	5-14	0	M	179
+No usual address (Vic.)	5-14	1	F	21
+No usual address (Vic.)	5-14	1	M	37
+No usual address (Vic.)	15-19		F	83
+No usual address (Vic.)	15-19		M	87
+No usual address (Vic.)	15-19	0	F	139
+No usual address (Vic.)	15-19	0	M	129
+No usual address (Vic.)	15-19	1	F	9
+No usual address (Vic.)	15-19	1	M	15
+No usual address (Vic.)	20-24		F	96
+No usual address (Vic.)	20-24		M	120
+No usual address (Vic.)	20-24	0	F	223
+No usual address (Vic.)	20-24	0	M	214
+No usual address (Vic.)	20-24	1	F	9
+No usual address (Vic.)	20-24	1	M	20
+No usual address (Vic.)	25-34		F	301
+No usual address (Vic.)	25-34		M	382
+No usual address (Vic.)	25-34	0	F	548
+No usual address (Vic.)	25-34	0	M	527
+No usual address (Vic.)	25-34	1	F	33
+No usual address (Vic.)	25-34	1	M	24
+No usual address (Vic.)	35-44		F	337
+No usual address (Vic.)	35-44		M	519
+No usual address (Vic.)	35-44	0	F	342
+No usual address (Vic.)	35-44	0	M	449
+No usual address (Vic.)	35-44	1	F	48
+No usual address (Vic.)	35-44	1	M	42
+No usual address (Vic.)	45-54		F	185
+No usual address (Vic.)	45-54		M	458
+No usual address (Vic.)	45-54	0	F	238
+No usual address (Vic.)	45-54	0	M	397
+No usual address (Vic.)	45-54	1	F	58
+No usual address (Vic.)	45-54	1	M	63
+No usual address (Vic.)	55-64		F	112
+No usual address (Vic.)	55-64		M	283
+No usual address (Vic.)	55-64	0	F	285
+No usual address (Vic.)	55-64	0	M	315
+No usual address (Vic.)	55-64	1	F	33
+No usual address (Vic.)	55-64	1	M	46
+No usual address (Vic.)	65-74		F	61
+No usual address (Vic.)	65-74		M	134
+No usual address (Vic.)	65-74	0	F	142
+No usual address (Vic.)	65-74	0	M	232
+No usual address (Vic.)	65-74	1	F	15
+No usual address (Vic.)	65-74	1	M	21
+No usual address (Vic.)	75-84		F	5
+No usual address (Vic.)	75-84		M	25
+No usual address (Vic.)	75-84	0	F	45
+No usual address (Vic.)	75-84	0	M	61
+No usual address (Vic.)	75-84	1	F	14
+No usual address (Vic.)	75-84	1	M	12
+No usual address (Vic.)	85+		F	8
+No usual address (Vic.)	85+		M	8
+No usual address (Vic.)	85+	0	F	9
+No usual address (Vic.)	85+	0	M	3
+No usual address (Vic.)	85+	1	F	7
+No usual address (Vic.)	85+	1	M	4
+Migratory - Offshore - Shipping (Vic.)	35-44		M	9
+Migratory - Offshore - Shipping (Vic.)	35-44	0	M	4
+Migratory - Offshore - Shipping (Vic.)	45-54		M	3
+Migratory - Offshore - Shipping (Vic.)	55-64		F	3
+Migratory - Offshore - Shipping (Vic.)	55-64		M	7
+Migratory - Offshore - Shipping (Vic.)	55-64	0	M	3
+Greater Melbourne	0-4		F	7307
+Greater Melbourne	0-4		M	7498
+Greater Melbourne	0-4	0	F	132727
+Greater Melbourne	0-4	0	M	139410
+Greater Melbourne	0-4	1	F	1356
+Greater Melbourne	0-4	1	M	2351
+Greater Melbourne	5-14		F	14306
+Greater Melbourne	5-14		M	15115
+Greater Melbourne	5-14	0	F	270342
+Greater Melbourne	5-14	0	M	277460
+Greater Melbourne	5-14	1	F	7682
+Greater Melbourne	5-14	1	M	16031
+Greater Melbourne	15-19		F	5976
+Greater Melbourne	15-19		M	6401
+Greater Melbourne	15-19	0	F	124515
+Greater Melbourne	15-19	0	M	129224
+Greater Melbourne	15-19	1	F	3339
+Greater Melbourne	15-19	1	M	5243
+Greater Melbourne	20-24		F	7774
+Greater Melbourne	20-24		M	9493
+Greater Melbourne	20-24	0	F	149464
+Greater Melbourne	20-24	0	M	155219
+Greater Melbourne	20-24	1	F	2847
+Greater Melbourne	20-24	1	M	3739
+Greater Melbourne	25-34		F	21070
+Greater Melbourne	25-34		M	23640
+Greater Melbourne	25-34	0	F	370973
+Greater Melbourne	25-34	0	M	360966
+Greater Melbourne	25-34	1	F	6046
+Greater Melbourne	25-34	1	M	5987
+Greater Melbourne	35-44		F	17029
+Greater Melbourne	35-44		M	18847
+Greater Melbourne	35-44	0	F	347061
+Greater Melbourne	35-44	0	M	338686
+Greater Melbourne	35-44	1	F	7116
+Greater Melbourne	35-44	1	M	6367
+Greater Melbourne	45-54		F	13217
+Greater Melbourne	45-54		M	14565
+Greater Melbourne	45-54	0	F	298367
+Greater Melbourne	45-54	0	M	282823
+Greater Melbourne	45-54	1	F	11178
+Greater Melbourne	45-54	1	M	8962
+Greater Melbourne	55-64		F	10733
+Greater Melbourne	55-64		M	11438
+Greater Melbourne	55-64	0	F	245968
+Greater Melbourne	55-64	0	M	232058
+Greater Melbourne	55-64	1	F	16653
+Greater Melbourne	55-64	1	M	13124
+Greater Melbourne	65-74		F	8945
+Greater Melbourne	65-74		M	8399
+Greater Melbourne	65-74	0	F	181669
+Greater Melbourne	65-74	0	M	163389
+Greater Melbourne	65-74	1	F	24213
+Greater Melbourne	65-74	1	M	18408
+Greater Melbourne	75-84		F	6676
+Greater Melbourne	75-84		M	5841
+Greater Melbourne	75-84	0	F	85736
+Greater Melbourne	75-84	0	M	78805
+Greater Melbourne	75-84	1	F	35193
+Greater Melbourne	75-84	1	M	22740
+Greater Melbourne	85+		F	5232
+Greater Melbourne	85+		M	3004
+Greater Melbourne	85+	0	F	20324
+Greater Melbourne	85+	0	M	17440
+Greater Melbourne	85+	1	F	35974
+Greater Melbourne	85+	1	M	18051
+Rest of Vic.	0-4		F	2577
+Rest of Vic.	0-4		M	2663
+Rest of Vic.	0-4	0	F	38579
+Rest of Vic.	0-4	0	M	39710
+Rest of Vic.	0-4	1	F	481
+Rest of Vic.	0-4	1	M	828
+Rest of Vic.	5-14		F	6164
+Rest of Vic.	5-14		M	6744
+Rest of Vic.	5-14	0	F	83208
+Rest of Vic.	5-14	0	M	85181
+Rest of Vic.	5-14	1	F	3506
+Rest of Vic.	5-14	1	M	7084
+Rest of Vic.	15-19		F	2700
+Rest of Vic.	15-19		M	2864
+Rest of Vic.	15-19	0	F	38403
+Rest of Vic.	15-19	0	M	39995
+Rest of Vic.	15-19	1	F	1519
+Rest of Vic.	15-19	1	M	2562
+Rest of Vic.	20-24		F	2429
+Rest of Vic.	20-24		M	2999
+Rest of Vic.	20-24	0	F	35792
+Rest of Vic.	20-24	0	M	36928
+Rest of Vic.	20-24	1	F	1172
+Rest of Vic.	20-24	1	M	1808
+Rest of Vic.	25-34		F	5789
+Rest of Vic.	25-34		M	7284
+Rest of Vic.	25-34	0	F	85376
+Rest of Vic.	25-34	0	M	81386
+Rest of Vic.	25-34	1	F	2356
+Rest of Vic.	25-34	1	M	2793
+Rest of Vic.	35-44		F	5955
+Rest of Vic.	35-44		M	6951
+Rest of Vic.	35-44	0	F	85224
+Rest of Vic.	35-44	0	M	78169
+Rest of Vic.	35-44	1	F	2907
+Rest of Vic.	35-44	1	M	2675
+Rest of Vic.	45-54		F	5714
+Rest of Vic.	45-54		M	6862
+Rest of Vic.	45-54	0	F	91020
+Rest of Vic.	45-54	0	M	84256
+Rest of Vic.	45-54	1	F	4586
+Rest of Vic.	45-54	1	M	3944
+Rest of Vic.	55-64		F	6017
+Rest of Vic.	55-64		M	6817
+Rest of Vic.	55-64	0	F	98635
+Rest of Vic.	55-64	0	M	91005
+Rest of Vic.	55-64	1	F	6870
+Rest of Vic.	55-64	1	M	6139
+Rest of Vic.	65-74		F	5596
+Rest of Vic.	65-74		M	6237
+Rest of Vic.	65-74	0	F	86960
+Rest of Vic.	65-74	0	M	83577
+Rest of Vic.	65-74	1	F	8920
+Rest of Vic.	65-74	1	M	8632
+Rest of Vic.	75-84		F	3995
+Rest of Vic.	75-84		M	3784
+Rest of Vic.	75-84	0	F	41793
+Rest of Vic.	75-84	0	M	39608
+Rest of Vic.	75-84	1	F	11428
+Rest of Vic.	75-84	1	M	9045
+Rest of Vic.	85+		F	2860
+Rest of Vic.	85+		M	1740
+Rest of Vic.	85+	0	F	9912
+Rest of Vic.	85+	0	M	8240
+Rest of Vic.	85+	1	F	13131
+Rest of Vic.	85+	1	M	6538
+No usual address (Qld)	0-4		F	33
+No usual address (Qld)	0-4		M	36
+No usual address (Qld)	0-4	0	F	190
+No usual address (Qld)	0-4	0	M	236
+No usual address (Qld)	0-4	1	F	6
+No usual address (Qld)	0-4	1	M	4
+No usual address (Qld)	5-14		F	63
+No usual address (Qld)	5-14		M	67
+No usual address (Qld)	5-14	0	F	376
+No usual address (Qld)	5-14	0	M	372
+No usual address (Qld)	5-14	1	F	20
+No usual address (Qld)	5-14	1	M	42
+No usual address (Qld)	15-19		F	55
+No usual address (Qld)	15-19		M	67
+No usual address (Qld)	15-19	0	F	218
+No usual address (Qld)	15-19	0	M	187
+No usual address (Qld)	15-19	1	F	18
+No usual address (Qld)	15-19	1	M	21
+No usual address (Qld)	20-24		F	125
+No usual address (Qld)	20-24		M	147
+No usual address (Qld)	20-24	0	F	348
+No usual address (Qld)	20-24	0	M	273
+No usual address (Qld)	20-24	1	F	11
+No usual address (Qld)	20-24	1	M	21
+No usual address (Qld)	25-34		F	364
+No usual address (Qld)	25-34		M	390
+No usual address (Qld)	25-34	0	F	949
+No usual address (Qld)	25-34	0	M	872
+No usual address (Qld)	25-34	1	F	31
+No usual address (Qld)	25-34	1	M	37
+No usual address (Qld)	35-44		F	260
+No usual address (Qld)	35-44		M	453
+No usual address (Qld)	35-44	0	F	589
+No usual address (Qld)	35-44	0	M	698
+No usual address (Qld)	35-44	1	F	34
+No usual address (Qld)	35-44	1	M	45
+No usual address (Qld)	45-54		F	218
+No usual address (Qld)	45-54		M	391
+No usual address (Qld)	45-54	0	F	610
+No usual address (Qld)	45-54	0	M	611
+No usual address (Qld)	45-54	1	F	60
+No usual address (Qld)	45-54	1	M	45
+No usual address (Qld)	55-64		F	193
+No usual address (Qld)	55-64		M	306
+No usual address (Qld)	55-64	0	F	890
+No usual address (Qld)	55-64	0	M	897
+No usual address (Qld)	55-64	1	F	85
+No usual address (Qld)	55-64	1	M	92
+No usual address (Qld)	65-74		F	107
+No usual address (Qld)	65-74		M	204
+No usual address (Qld)	65-74	0	F	702
+No usual address (Qld)	65-74	0	M	956
+No usual address (Qld)	65-74	1	F	62
+No usual address (Qld)	65-74	1	M	98
+No usual address (Qld)	75-84		F	17
+No usual address (Qld)	75-84		M	38
+No usual address (Qld)	75-84	0	F	118
+No usual address (Qld)	75-84	0	M	220
+No usual address (Qld)	75-84	1	F	23
+No usual address (Qld)	75-84	1	M	23
+No usual address (Qld)	85+		F	3
+No usual address (Qld)	85+		M	5
+No usual address (Qld)	85+	0	F	7
+No usual address (Qld)	85+	0	M	9
+No usual address (Qld)	85+	1	F	9
+No usual address (Qld)	85+	1	M	5
+Migratory - Offshore - Shipping (Qld)	20-24		F	4
+Migratory - Offshore - Shipping (Qld)	20-24		M	9
+Migratory - Offshore - Shipping (Qld)	20-24	0	M	4
+Migratory - Offshore - Shipping (Qld)	25-34		F	13
+Migratory - Offshore - Shipping (Qld)	25-34		M	24
+Migratory - Offshore - Shipping (Qld)	25-34	0	F	3
+Migratory - Offshore - Shipping (Qld)	25-34	0	M	14
+Migratory - Offshore - Shipping (Qld)	35-44		F	5
+Migratory - Offshore - Shipping (Qld)	35-44		M	42
+Migratory - Offshore - Shipping (Qld)	35-44	0	M	11
+Migratory - Offshore - Shipping (Qld)	45-54		M	29
+Migratory - Offshore - Shipping (Qld)	45-54	0	M	16
+Migratory - Offshore - Shipping (Qld)	55-64		M	3
+Greater Brisbane	0-4		F	3694
+Greater Brisbane	0-4		M	3953
+Greater Brisbane	0-4	0	F	68491
+Greater Brisbane	0-4	0	M	71945
+Greater Brisbane	0-4	1	F	881
+Greater Brisbane	0-4	1	M	1528
+Greater Brisbane	5-14		F	7943
+Greater Brisbane	5-14		M	8514
+Greater Brisbane	5-14	0	F	148538
+Greater Brisbane	5-14	0	M	151390
+Greater Brisbane	5-14	1	F	5753
+Greater Brisbane	5-14	1	M	11501
+Greater Brisbane	15-19		F	3466
+Greater Brisbane	15-19		M	3750
+Greater Brisbane	15-19	0	F	70937
+Greater Brisbane	15-19	0	M	72800
+Greater Brisbane	15-19	1	F	2375
+Greater Brisbane	15-19	1	M	3787
+Greater Brisbane	20-24		F	4555
+Greater Brisbane	20-24		M	5561
+Greater Brisbane	20-24	0	F	80254
+Greater Brisbane	20-24	0	M	79711
+Greater Brisbane	20-24	1	F	1948
+Greater Brisbane	20-24	1	M	2609
+Greater Brisbane	25-34		F	10414
+Greater Brisbane	25-34		M	13071
+Greater Brisbane	25-34	0	F	175984
+Greater Brisbane	25-34	0	M	166801
+Greater Brisbane	25-34	1	F	3839
+Greater Brisbane	25-34	1	M	3966
+Greater Brisbane	35-44		F	8628
+Greater Brisbane	35-44		M	10690
+Greater Brisbane	35-44	0	F	171182
+Greater Brisbane	35-44	0	M	161406
+Greater Brisbane	35-44	1	F	4396
+Greater Brisbane	35-44	1	M	4038
+Greater Brisbane	45-54		F	6735
+Greater Brisbane	45-54		M	8743
+Greater Brisbane	45-54	0	F	155210
+Greater Brisbane	45-54	0	M	146456
+Greater Brisbane	45-54	1	F	6558
+Greater Brisbane	45-54	1	M	5348
+Greater Brisbane	55-64		F	5325
+Greater Brisbane	55-64		M	6378
+Greater Brisbane	55-64	0	F	127002
+Greater Brisbane	55-64	0	M	118716
+Greater Brisbane	55-64	1	F	8815
+Greater Brisbane	55-64	1	M	7558
+Greater Brisbane	65-74		F	4394
+Greater Brisbane	65-74		M	4666
+Greater Brisbane	65-74	0	F	96066
+Greater Brisbane	65-74	0	M	86732
+Greater Brisbane	65-74	1	F	11653
+Greater Brisbane	65-74	1	M	10652
+Greater Brisbane	75-84		F	3300
+Greater Brisbane	75-84		M	2781
+Greater Brisbane	75-84	0	F	43940
+Greater Brisbane	75-84	0	M	40099
+Greater Brisbane	75-84	1	F	14823
+Greater Brisbane	75-84	1	M	11073
+Greater Brisbane	85+		F	2616
+Greater Brisbane	85+		M	1390
+Greater Brisbane	85+	0	F	9378
+Greater Brisbane	85+	0	M	7563
+Greater Brisbane	85+	1	F	14775
+Greater Brisbane	85+	1	M	7155
+Rest of Qld	0-4		F	4607
+Rest of Qld	0-4		M	4997
+Rest of Qld	0-4	0	F	63070
+Rest of Qld	0-4	0	M	66628
+Rest of Qld	0-4	1	F	769
+Rest of Qld	0-4	1	M	1375
+Rest of Qld	5-14		F	11287
+Rest of Qld	5-14		M	12187
+Rest of Qld	5-14	0	F	146931
+Rest of Qld	5-14	0	M	150100
+Rest of Qld	5-14	1	F	5617
+Rest of Qld	5-14	1	M	11164
+Rest of Qld	15-19		F	5065
+Rest of Qld	15-19		M	5669
+Rest of Qld	15-19	0	F	68398
+Rest of Qld	15-19	0	M	70470
+Rest of Qld	15-19	1	F	2449
+Rest of Qld	15-19	1	M	3771
+Rest of Qld	20-24		F	5892
+Rest of Qld	20-24		M	7438
+Rest of Qld	20-24	0	F	66048
+Rest of Qld	20-24	0	M	64569
+Rest of Qld	20-24	1	F	1657
+Rest of Qld	20-24	1	M	2552
+Rest of Qld	25-34		F	13433
+Rest of Qld	25-34		M	17099
+Rest of Qld	25-34	0	F	149528
+Rest of Qld	25-34	0	M	137960
+Rest of Qld	25-34	1	F	3102
+Rest of Qld	25-34	1	M	3828
+Rest of Qld	35-44		F	11692
+Rest of Qld	35-44		M	15199
+Rest of Qld	35-44	0	F	152597
+Rest of Qld	35-44	0	M	137668
+Rest of Qld	35-44	1	F	4040
+Rest of Qld	35-44	1	M	4142
+Rest of Qld	45-54		F	11398
+Rest of Qld	45-54		M	15123
+Rest of Qld	45-54	0	F	157618
+Rest of Qld	45-54	0	M	146030
+Rest of Qld	45-54	1	F	6879
+Rest of Qld	45-54	1	M	6051
+Rest of Qld	55-64		F	10453
+Rest of Qld	55-64		M	13248
+Rest of Qld	55-64	0	F	152940
+Rest of Qld	55-64	0	M	142089
+Rest of Qld	55-64	1	F	10427
+Rest of Qld	55-64	1	M	9862
+Rest of Qld	65-74		F	8233
+Rest of Qld	65-74		M	9533
+Rest of Qld	65-74	0	F	123357
+Rest of Qld	65-74	0	M	118348
+Rest of Qld	65-74	1	F	13478
+Rest of Qld	65-74	1	M	14216
+Rest of Qld	75-84		F	5629
+Rest of Qld	75-84		M	5356
+Rest of Qld	75-84	0	F	58320
+Rest of Qld	75-84	0	M	56943
+Rest of Qld	75-84	1	F	17753
+Rest of Qld	75-84	1	M	14531
+Rest of Qld	85+		F	3519
+Rest of Qld	85+		M	2212
+Rest of Qld	85+	0	F	11933
+Rest of Qld	85+	0	M	10670
+Rest of Qld	85+	1	F	16876
+Rest of Qld	85+	1	M	9000
+No usual address (SA)	0-4		F	8
+No usual address (SA)	0-4		M	16
+No usual address (SA)	0-4	0	F	49
+No usual address (SA)	0-4	0	M	59
+No usual address (SA)	0-4	1	M	8
+No usual address (SA)	5-14		F	28
+No usual address (SA)	5-14		M	28
+No usual address (SA)	5-14	0	F	106
+No usual address (SA)	5-14	0	M	85
+No usual address (SA)	5-14	1	F	4
+No usual address (SA)	5-14	1	M	10
+No usual address (SA)	15-19		F	19
+No usual address (SA)	15-19		M	14
+No usual address (SA)	15-19	0	F	88
+No usual address (SA)	15-19	0	M	58
+No usual address (SA)	15-19	1	F	7
+No usual address (SA)	20-24		F	16
+No usual address (SA)	20-24		M	19
+No usual address (SA)	20-24	0	F	72
+No usual address (SA)	20-24	0	M	85
+No usual address (SA)	20-24	1	F	6
+No usual address (SA)	20-24	1	M	3
+No usual address (SA)	25-34		F	71
+No usual address (SA)	25-34		M	87
+No usual address (SA)	25-34	0	F	213
+No usual address (SA)	25-34	0	M	225
+No usual address (SA)	25-34	1	F	15
+No usual address (SA)	25-34	1	M	13
+No usual address (SA)	35-44		F	78
+No usual address (SA)	35-44		M	84
+No usual address (SA)	35-44	0	F	154
+No usual address (SA)	35-44	0	M	195
+No usual address (SA)	35-44	1	F	10
+No usual address (SA)	35-44	1	M	9
+No usual address (SA)	45-54		F	46
+No usual address (SA)	45-54		M	94
+No usual address (SA)	45-54	0	F	123
+No usual address (SA)	45-54	0	M	188
+No usual address (SA)	45-54	1	F	12
+No usual address (SA)	45-54	1	M	19
+No usual address (SA)	55-64		F	28
+No usual address (SA)	55-64		M	103
+No usual address (SA)	55-64	0	F	161
+No usual address (SA)	55-64	0	M	193
+No usual address (SA)	55-64	1	F	15
+No usual address (SA)	55-64	1	M	20
+No usual address (SA)	65-74		F	19
+No usual address (SA)	65-74		M	45
+No usual address (SA)	65-74	0	F	113
+No usual address (SA)	65-74	0	M	158
+No usual address (SA)	65-74	1	F	11
+No usual address (SA)	65-74	1	M	13
+No usual address (SA)	75-84		F	6
+No usual address (SA)	75-84		M	7
+No usual address (SA)	75-84	0	F	16
+No usual address (SA)	75-84	0	M	29
+No usual address (SA)	75-84	1	F	3
+No usual address (SA)	75-84	1	M	4
+No usual address (SA)	85+	0	F	7
+No usual address (SA)	85+	0	M	3
+No usual address (SA)	85+	1	F	3
+No usual address (SA)	85+	1	M	4
+Migratory - Offshore - Shipping (SA)	45-54		M	7
+Migratory - Offshore - Shipping (SA)	45-54	0	M	8
+Greater Adelaide	0-4		F	1435
+Greater Adelaide	0-4		M	1432
+Greater Adelaide	0-4	0	F	34335
+Greater Adelaide	0-4	0	M	36120
+Greater Adelaide	0-4	1	F	529
+Greater Adelaide	0-4	1	M	889
+Greater Adelaide	5-14		F	2955
+Greater Adelaide	5-14		M	3276
+Greater Adelaide	5-14	0	F	73277
+Greater Adelaide	5-14	0	M	73979
+Greater Adelaide	5-14	1	F	2994
+Greater Adelaide	5-14	1	M	6304
+Greater Adelaide	15-19		F	1376
+Greater Adelaide	15-19		M	1510
+Greater Adelaide	15-19	0	F	35507
+Greater Adelaide	15-19	0	M	36662
+Greater Adelaide	15-19	1	F	1235
+Greater Adelaide	15-19	1	M	1997
+Greater Adelaide	20-24		F	1716
+Greater Adelaide	20-24		M	2024
+Greater Adelaide	20-24	0	F	41825
+Greater Adelaide	20-24	0	M	43160
+Greater Adelaide	20-24	1	F	924
+Greater Adelaide	20-24	1	M	1413
+Greater Adelaide	25-34		F	3893
+Greater Adelaide	25-34		M	4603
+Greater Adelaide	25-34	0	F	91273
+Greater Adelaide	25-34	0	M	89931
+Greater Adelaide	25-34	1	F	1929
+Greater Adelaide	25-34	1	M	2083
+Greater Adelaide	35-44		F	3386
+Greater Adelaide	35-44		M	4186
+Greater Adelaide	35-44	0	F	87951
+Greater Adelaide	35-44	0	M	84461
+Greater Adelaide	35-44	1	F	2392
+Greater Adelaide	35-44	1	M	2274
+Greater Adelaide	45-54		F	3062
+Greater Adelaide	45-54		M	3760
+Greater Adelaide	45-54	0	F	82078
+Greater Adelaide	45-54	0	M	79359
+Greater Adelaide	45-54	1	F	3691
+Greater Adelaide	45-54	1	M	3124
+Greater Adelaide	55-64		F	2832
+Greater Adelaide	55-64		M	3307
+Greater Adelaide	55-64	0	F	78975
+Greater Adelaide	55-64	0	M	73353
+Greater Adelaide	55-64	1	F	5355
+Greater Adelaide	55-64	1	M	4583
+Greater Adelaide	65-74		F	2501
+Greater Adelaide	65-74		M	2373
+Greater Adelaide	65-74	0	F	65123
+Greater Adelaide	65-74	0	M	57554
+Greater Adelaide	65-74	1	F	7034
+Greater Adelaide	65-74	1	M	6161
+Greater Adelaide	75-84		F	1913
+Greater Adelaide	75-84		M	1577
+Greater Adelaide	75-84	0	F	32586
+Greater Adelaide	75-84	0	M	28396
+Greater Adelaide	75-84	1	F	10336
+Greater Adelaide	75-84	1	M	6747
+Greater Adelaide	85+		F	1380
+Greater Adelaide	85+		M	813
+Greater Adelaide	85+	0	F	8345
+Greater Adelaide	85+	0	M	6825
+Greater Adelaide	85+	1	F	12806
+Greater Adelaide	85+	1	M	6088
+Rest of SA	0-4		F	634
+Rest of SA	0-4		M	639
+Rest of SA	0-4	0	F	8767
+Rest of SA	0-4	0	M	8987
+Rest of SA	0-4	1	F	107
+Rest of SA	0-4	1	M	203
+Rest of SA	5-14		F	1546
+Rest of SA	5-14		M	1633
+Rest of SA	5-14	0	F	19960
+Rest of SA	5-14	0	M	20315
+Rest of SA	5-14	1	F	811
+Rest of SA	5-14	1	M	1590
+Rest of SA	15-19		F	665
+Rest of SA	15-19		M	758
+Rest of SA	15-19	0	F	8810
+Rest of SA	15-19	0	M	9571
+Rest of SA	15-19	1	F	336
+Rest of SA	15-19	1	M	544
+Rest of SA	20-24		F	542
+Rest of SA	20-24		M	841
+Rest of SA	20-24	0	F	7647
+Rest of SA	20-24	0	M	8246
+Rest of SA	20-24	1	F	265
+Rest of SA	20-24	1	M	360
+Rest of SA	25-34		F	1354
+Rest of SA	25-34		M	2187
+Rest of SA	25-34	0	F	18372
+Rest of SA	25-34	0	M	17932
+Rest of SA	25-34	1	F	490
+Rest of SA	25-34	1	M	613
+Rest of SA	35-44		F	1361
+Rest of SA	35-44		M	2196
+Rest of SA	35-44	0	F	18873
+Rest of SA	35-44	0	M	17875
+Rest of SA	35-44	1	F	577
+Rest of SA	35-44	1	M	588
+Rest of SA	45-54		F	1537
+Rest of SA	45-54		M	2175
+Rest of SA	45-54	0	F	21979
+Rest of SA	45-54	0	M	21271
+Rest of SA	45-54	1	F	1086
+Rest of SA	45-54	1	M	1042
+Rest of SA	55-64		F	1650
+Rest of SA	55-64		M	2058
+Rest of SA	55-64	0	F	25516
+Rest of SA	55-64	0	M	25365
+Rest of SA	55-64	1	F	1856
+Rest of SA	55-64	1	M	1773
+Rest of SA	65-74		F	1499
+Rest of SA	65-74		M	1698
+Rest of SA	65-74	0	F	23465
+Rest of SA	65-74	0	M	23743
+Rest of SA	65-74	1	F	2315
+Rest of SA	65-74	1	M	2511
+Rest of SA	75-84		F	1005
+Rest of SA	75-84		M	992
+Rest of SA	75-84	0	F	11846
+Rest of SA	75-84	0	M	11757
+Rest of SA	75-84	1	F	3013
+Rest of SA	75-84	1	M	2422
+Rest of SA	85+		F	585
+Rest of SA	85+		M	381
+Rest of SA	85+	0	F	2628
+Rest of SA	85+	0	M	2432
+Rest of SA	85+	1	F	3347
+Rest of SA	85+	1	M	1681
+No usual address (WA)	0-4		F	39
+No usual address (WA)	0-4		M	38
+No usual address (WA)	0-4	0	F	108
+No usual address (WA)	0-4	0	M	113
+No usual address (WA)	0-4	1	M	6
+No usual address (WA)	5-14		F	46
+No usual address (WA)	5-14		M	51
+No usual address (WA)	5-14	0	F	182
+No usual address (WA)	5-14	0	M	181
+No usual address (WA)	5-14	1	F	6
+No usual address (WA)	5-14	1	M	10
+No usual address (WA)	15-19		F	58
+No usual address (WA)	15-19		M	40
+No usual address (WA)	15-19	0	F	85
+No usual address (WA)	15-19	0	M	69
+No usual address (WA)	15-19	1	F	5
+No usual address (WA)	15-19	1	M	9
+No usual address (WA)	20-24		F	104
+No usual address (WA)	20-24		M	124
+No usual address (WA)	20-24	0	F	147
+No usual address (WA)	20-24	0	M	160
+No usual address (WA)	20-24	1	F	4
+No usual address (WA)	20-24	1	M	12
+No usual address (WA)	25-34		F	256
+No usual address (WA)	25-34		M	385
+No usual address (WA)	25-34	0	F	426
+No usual address (WA)	25-34	0	M	424
+No usual address (WA)	25-34	1	F	9
+No usual address (WA)	25-34	1	M	11
+No usual address (WA)	35-44		F	274
+No usual address (WA)	35-44		M	528
+No usual address (WA)	35-44	0	F	319
+No usual address (WA)	35-44	0	M	385
+No usual address (WA)	35-44	1	F	17
+No usual address (WA)	35-44	1	M	16
+No usual address (WA)	45-54		F	224
+No usual address (WA)	45-54		M	518
+No usual address (WA)	45-54	0	F	225
+No usual address (WA)	45-54	0	M	311
+No usual address (WA)	45-54	1	F	20
+No usual address (WA)	45-54	1	M	16
+No usual address (WA)	55-64		F	152
+No usual address (WA)	55-64		M	334
+No usual address (WA)	55-64	0	F	303
+No usual address (WA)	55-64	0	M	310
+No usual address (WA)	55-64	1	F	18
+No usual address (WA)	55-64	1	M	23
+No usual address (WA)	65-74		F	86
+No usual address (WA)	65-74		M	144
+No usual address (WA)	65-74	0	F	216
+No usual address (WA)	65-74	0	M	273
+No usual address (WA)	65-74	1	F	13
+No usual address (WA)	65-74	1	M	26
+No usual address (WA)	75-84		F	16
+No usual address (WA)	75-84		M	47
+No usual address (WA)	75-84	0	F	21
+No usual address (WA)	75-84	0	M	61
+No usual address (WA)	75-84	1	F	4
+No usual address (WA)	75-84	1	M	3
+No usual address (WA)	85+		F	12
+No usual address (WA)	85+		M	10
+No usual address (WA)	85+	0	M	4
+No usual address (WA)	85+	1	F	5
+No usual address (WA)	85+	1	M	5
+Migratory - Offshore - Shipping (WA)	15-19		M	3
+Migratory - Offshore - Shipping (WA)	15-19	0	M	3
+Migratory - Offshore - Shipping (WA)	20-24		F	5
+Migratory - Offshore - Shipping (WA)	20-24		M	13
+Migratory - Offshore - Shipping (WA)	20-24	0	F	5
+Migratory - Offshore - Shipping (WA)	20-24	0	M	12
+Migratory - Offshore - Shipping (WA)	25-34		F	3
+Migratory - Offshore - Shipping (WA)	25-34		M	43
+Migratory - Offshore - Shipping (WA)	25-34	0	F	8
+Migratory - Offshore - Shipping (WA)	25-34	0	M	55
+Migratory - Offshore - Shipping (WA)	35-44		F	5
+Migratory - Offshore - Shipping (WA)	35-44		M	68
+Migratory - Offshore - Shipping (WA)	35-44	0	F	4
+Migratory - Offshore - Shipping (WA)	35-44	0	M	93
+Migratory - Offshore - Shipping (WA)	45-54		F	8
+Migratory - Offshore - Shipping (WA)	45-54		M	43
+Migratory - Offshore - Shipping (WA)	45-54	0	F	5
+Migratory - Offshore - Shipping (WA)	45-54	0	M	57
+Migratory - Offshore - Shipping (WA)	55-64		M	24
+Migratory - Offshore - Shipping (WA)	55-64	0	F	5
+Migratory - Offshore - Shipping (WA)	55-64	0	M	33
+Migratory - Offshore - Shipping (WA)	65-74		M	4
+Migratory - Offshore - Shipping (WA)	65-74	0	F	5
+Migratory - Offshore - Shipping (WA)	65-74	0	M	5
+Greater Perth	0-4		F	2613
+Greater Perth	0-4		M	2831
+Greater Perth	0-4	0	F	59689
+Greater Perth	0-4	0	M	62852
+Greater Perth	0-4	1	F	593
+Greater Perth	0-4	1	M	1021
+Greater Perth	5-14		F	5666
+Greater Perth	5-14		M	5926
+Greater Perth	5-14	0	F	123193
+Greater Perth	5-14	0	M	126830
+Greater Perth	5-14	1	F	3252
+Greater Perth	5-14	1	M	6773
+Greater Perth	15-19		F	2455
+Greater Perth	15-19		M	2618
+Greater Perth	15-19	0	F	56218
+Greater Perth	15-19	0	M	58211
+Greater Perth	15-19	1	F	1509
+Greater Perth	15-19	1	M	2307
+Greater Perth	20-24		F	3119
+Greater Perth	20-24		M	4224
+Greater Perth	20-24	0	F	61053
+Greater Perth	20-24	0	M	61464
+Greater Perth	20-24	1	F	1166
+Greater Perth	20-24	1	M	1596
+Greater Perth	25-34		F	8037
+Greater Perth	25-34		M	11663
+Greater Perth	25-34	0	F	144329
+Greater Perth	25-34	0	M	135145
+Greater Perth	25-34	1	F	2277
+Greater Perth	25-34	1	M	2452
+Greater Perth	35-44		F	6769
+Greater Perth	35-44		M	10848
+Greater Perth	35-44	0	F	145676
+Greater Perth	35-44	0	M	138718
+Greater Perth	35-44	1	F	2625
+Greater Perth	35-44	1	M	2289
+Greater Perth	45-54		F	5511
+Greater Perth	45-54		M	8912
+Greater Perth	45-54	0	F	129461
+Greater Perth	45-54	0	M	123729
+Greater Perth	45-54	1	F	3776
+Greater Perth	45-54	1	M	3185
+Greater Perth	55-64		F	4647
+Greater Perth	55-64		M	6670
+Greater Perth	55-64	0	F	112869
+Greater Perth	55-64	0	M	105770
+Greater Perth	55-64	1	F	5628
+Greater Perth	55-64	1	M	4596
+Greater Perth	65-74		F	3911
+Greater Perth	65-74		M	4096
+Greater Perth	65-74	0	F	87818
+Greater Perth	65-74	0	M	79896
+Greater Perth	65-74	1	F	7572
+Greater Perth	65-74	1	M	6654
+Greater Perth	75-84		F	3154
+Greater Perth	75-84		M	2664
+Greater Perth	75-84	0	F	40489
+Greater Perth	75-84	0	M	37413
+Greater Perth	75-84	1	F	11353
+Greater Perth	75-84	1	M	8027
+Greater Perth	85+		F	2577
+Greater Perth	85+		M	1552
+Greater Perth	85+	0	F	9641
+Greater Perth	85+	0	M	8011
+Greater Perth	85+	1	F	12825
+Greater Perth	85+	1	M	6230
+Rest of WA	0-4		F	1369
+Rest of WA	0-4		M	1507
+Rest of WA	0-4	0	F	13959
+Rest of WA	0-4	0	M	14695
+Rest of WA	0-4	1	F	131
+Rest of WA	0-4	1	M	190
+Rest of WA	5-14		F	3445
+Rest of WA	5-14		M	3597
+Rest of WA	5-14	0	F	30640
+Rest of WA	5-14	0	M	31721
+Rest of WA	5-14	1	F	844
+Rest of WA	5-14	1	M	1660
+Rest of WA	15-19		F	1250
+Rest of WA	15-19		M	1456
+Rest of WA	15-19	0	F	12689
+Rest of WA	15-19	0	M	13389
+Rest of WA	15-19	1	F	308
+Rest of WA	15-19	1	M	571
+Rest of WA	20-24		F	1323
+Rest of WA	20-24		M	1857
+Rest of WA	20-24	0	F	10513
+Rest of WA	20-24	0	M	11288
+Rest of WA	20-24	1	F	249
+Rest of WA	20-24	1	M	368
+Rest of WA	25-34		F	3544
+Rest of WA	25-34		M	5412
+Rest of WA	25-34	0	F	28986
+Rest of WA	25-34	0	M	27794
+Rest of WA	25-34	1	F	507
+Rest of WA	25-34	1	M	580
+Rest of WA	35-44		F	3419
+Rest of WA	35-44		M	5297
+Rest of WA	35-44	0	F	31008
+Rest of WA	35-44	0	M	29928
+Rest of WA	35-44	1	F	648
+Rest of WA	35-44	1	M	559
+Rest of WA	45-54		F	3179
+Rest of WA	45-54		M	5039
+Rest of WA	45-54	0	F	31033
+Rest of WA	45-54	0	M	31080
+Rest of WA	45-54	1	F	1069
+Rest of WA	45-54	1	M	868
+Rest of WA	55-64		F	2852
+Rest of WA	55-64		M	4147
+Rest of WA	55-64	0	F	30739
+Rest of WA	55-64	0	M	31261
+Rest of WA	55-64	1	F	1620
+Rest of WA	55-64	1	M	1435
+Rest of WA	65-74		F	2050
+Rest of WA	65-74		M	2516
+Rest of WA	65-74	0	F	23359
+Rest of WA	65-74	0	M	24600
+Rest of WA	65-74	1	F	2084
+Rest of WA	65-74	1	M	2045
+Rest of WA	75-84		F	1179
+Rest of WA	75-84		M	1221
+Rest of WA	75-84	0	F	10276
+Rest of WA	75-84	0	M	10451
+Rest of WA	75-84	1	F	2553
+Rest of WA	75-84	1	M	2197
+Rest of WA	85+		F	565
+Rest of WA	85+		M	410
+Rest of WA	85+	0	F	2257
+Rest of WA	85+	0	M	2078
+Rest of WA	85+	1	F	2580
+Rest of WA	85+	1	M	1357
+No usual address (Tas.)	0-4	0	F	21
+No usual address (Tas.)	0-4	0	M	15
+No usual address (Tas.)	5-14		F	7
+No usual address (Tas.)	5-14		M	14
+No usual address (Tas.)	5-14	0	F	34
+No usual address (Tas.)	5-14	0	M	38
+No usual address (Tas.)	5-14	1	F	4
+No usual address (Tas.)	5-14	1	M	4
+No usual address (Tas.)	15-19		F	9
+No usual address (Tas.)	15-19		M	15
+No usual address (Tas.)	15-19	0	F	43
+No usual address (Tas.)	15-19	0	M	23
+No usual address (Tas.)	15-19	1	M	4
+No usual address (Tas.)	20-24		F	7
+No usual address (Tas.)	20-24		M	7
+No usual address (Tas.)	20-24	0	F	44
+No usual address (Tas.)	20-24	0	M	54
+No usual address (Tas.)	20-24	1	F	6
+No usual address (Tas.)	20-24	1	M	9
+No usual address (Tas.)	25-34		F	12
+No usual address (Tas.)	25-34		M	41
+No usual address (Tas.)	25-34	0	F	82
+No usual address (Tas.)	25-34	0	M	91
+No usual address (Tas.)	25-34	1	F	3
+No usual address (Tas.)	25-34	1	M	5
+No usual address (Tas.)	35-44		F	23
+No usual address (Tas.)	35-44		M	26
+No usual address (Tas.)	35-44	0	F	65
+No usual address (Tas.)	35-44	0	M	67
+No usual address (Tas.)	35-44	1	F	10
+No usual address (Tas.)	35-44	1	M	3
+No usual address (Tas.)	45-54		F	19
+No usual address (Tas.)	45-54		M	31
+No usual address (Tas.)	45-54	0	F	49
+No usual address (Tas.)	45-54	0	M	85
+No usual address (Tas.)	45-54	1	F	7
+No usual address (Tas.)	45-54	1	M	16
+No usual address (Tas.)	55-64		F	21
+No usual address (Tas.)	55-64		M	33
+No usual address (Tas.)	55-64	0	F	70
+No usual address (Tas.)	55-64	0	M	65
+No usual address (Tas.)	55-64	1	F	3
+No usual address (Tas.)	55-64	1	M	8
+No usual address (Tas.)	65-74		F	29
+No usual address (Tas.)	65-74		M	46
+No usual address (Tas.)	65-74	0	F	43
+No usual address (Tas.)	65-74	0	M	42
+No usual address (Tas.)	75-84		F	7
+No usual address (Tas.)	75-84		M	4
+No usual address (Tas.)	75-84	0	F	10
+No usual address (Tas.)	75-84	0	M	8
+Migratory - Offshore - Shipping (Tas.)	35-44	0	M	3
+Migratory - Offshore - Shipping (Tas.)	45-54	0	M	3
+Greater Hobart	0-4		F	286
+Greater Hobart	0-4		M	305
+Greater Hobart	0-4	0	F	5857
+Greater Hobart	0-4	0	M	6200
+Greater Hobart	0-4	1	F	71
+Greater Hobart	0-4	1	M	132
+Greater Hobart	5-14		F	682
+Greater Hobart	5-14		M	675
+Greater Hobart	5-14	0	F	12836
+Greater Hobart	5-14	0	M	13046
+Greater Hobart	5-14	1	F	495
+Greater Hobart	5-14	1	M	990
+Greater Hobart	15-19		F	305
+Greater Hobart	15-19		M	323
+Greater Hobart	15-19	0	F	5910
+Greater Hobart	15-19	0	M	6208
+Greater Hobart	15-19	1	F	240
+Greater Hobart	15-19	1	M	340
+Greater Hobart	20-24		F	333
+Greater Hobart	20-24		M	375
+Greater Hobart	20-24	0	F	6830
+Greater Hobart	20-24	0	M	6866
+Greater Hobart	20-24	1	F	179
+Greater Hobart	20-24	1	M	233
+Greater Hobart	25-34		F	916
+Greater Hobart	25-34		M	1125
+Greater Hobart	25-34	0	F	18561
+Greater Hobart	25-34	0	M	18421
+Greater Hobart	25-34	1	F	359
+Greater Hobart	25-34	1	M	376
+Greater Hobart	35-44		F	720
+Greater Hobart	35-44		M	886
+Greater Hobart	35-44	0	F	15117
+Greater Hobart	35-44	0	M	14108
+Greater Hobart	35-44	1	F	417
+Greater Hobart	35-44	1	M	409
+Greater Hobart	45-54		F	597
+Greater Hobart	45-54		M	720
+Greater Hobart	45-54	0	F	14138
+Greater Hobart	45-54	0	M	12919
+Greater Hobart	45-54	1	F	703
+Greater Hobart	45-54	1	M	574
+Greater Hobart	55-64		F	592
+Greater Hobart	55-64		M	660
+Greater Hobart	55-64	0	F	14140
+Greater Hobart	55-64	0	M	12784
+Greater Hobart	55-64	1	F	933
+Greater Hobart	55-64	1	M	823
+Greater Hobart	65-74		F	577
+Greater Hobart	65-74		M	554
+Greater Hobart	65-74	0	F	11968
+Greater Hobart	65-74	0	M	10671
+Greater Hobart	65-74	1	F	1266
+Greater Hobart	65-74	1	M	1114
+Greater Hobart	75-84		F	428
+Greater Hobart	75-84		M	382
+Greater Hobart	75-84	0	F	5876
+Greater Hobart	75-84	0	M	4989
+Greater Hobart	75-84	1	F	1726
+Greater Hobart	75-84	1	M	1194
+Greater Hobart	85+		F	233
+Greater Hobart	85+		M	134
+Greater Hobart	85+	0	F	1381
+Greater Hobart	85+	0	M	1096
+Greater Hobart	85+	1	F	1907
+Greater Hobart	85+	1	M	885
+Rest of Tas.	0-4		F	450
+Rest of Tas.	0-4		M	467
+Rest of Tas.	0-4	0	F	6956
+Rest of Tas.	0-4	0	M	7241
+Rest of Tas.	0-4	1	F	107
+Rest of Tas.	0-4	1	M	158
+Rest of Tas.	5-14		F	969
+Rest of Tas.	5-14		M	1076
+Rest of Tas.	5-14	0	F	15688
+Rest of Tas.	5-14	0	M	15810
+Rest of Tas.	5-14	1	F	659
+Rest of Tas.	5-14	1	M	1345
+Rest of Tas.	15-19		F	423
+Rest of Tas.	15-19		M	517
+Rest of Tas.	15-19	0	F	7292
+Rest of Tas.	15-19	0	M	7602
+Rest of Tas.	15-19	1	F	328
+Rest of Tas.	15-19	1	M	492
+Rest of Tas.	20-24		F	477
+Rest of Tas.	20-24		M	529
+Rest of Tas.	20-24	0	F	7103
+Rest of Tas.	20-24	0	M	7357
+Rest of Tas.	20-24	1	F	244
+Rest of Tas.	20-24	1	M	368
+Rest of Tas.	25-34		F	1051
+Rest of Tas.	25-34		M	1146
+Rest of Tas.	25-34	0	F	16847
+Rest of Tas.	25-34	0	M	16603
+Rest of Tas.	25-34	1	F	468
+Rest of Tas.	25-34	1	M	556
+Rest of Tas.	35-44		F	946
+Rest of Tas.	35-44		M	1046
+Rest of Tas.	35-44	0	F	16155
+Rest of Tas.	35-44	0	M	14814
+Rest of Tas.	35-44	1	F	607
+Rest of Tas.	35-44	1	M	526
+Rest of Tas.	45-54		F	1027
+Rest of Tas.	45-54		M	1149
+Rest of Tas.	45-54	0	F	18219
+Rest of Tas.	45-54	0	M	16879
+Rest of Tas.	45-54	1	F	1108
+Rest of Tas.	45-54	1	M	958
+Rest of Tas.	55-64		F	1176
+Rest of Tas.	55-64		M	1262
+Rest of Tas.	55-64	0	F	20479
+Rest of Tas.	55-64	0	M	19212
+Rest of Tas.	55-64	1	F	1595
+Rest of Tas.	55-64	1	M	1515
+Rest of Tas.	65-74		F	1044
+Rest of Tas.	65-74		M	1186
+Rest of Tas.	65-74	0	F	17462
+Rest of Tas.	65-74	0	M	16935
+Rest of Tas.	65-74	1	F	1957
+Rest of Tas.	65-74	1	M	2109
+Rest of Tas.	75-84		F	691
+Rest of Tas.	75-84		M	646
+Rest of Tas.	75-84	0	F	8388
+Rest of Tas.	75-84	0	M	8131
+Rest of Tas.	75-84	1	F	2292
+Rest of Tas.	75-84	1	M	1867
+Rest of Tas.	85+		F	352
+Rest of Tas.	85+		M	278
+Rest of Tas.	85+	0	F	1868
+Rest of Tas.	85+	0	M	1539
+Rest of Tas.	85+	1	F	2189
+Rest of Tas.	85+	1	M	1127
+No usual address (NT)	0-4		F	18
+No usual address (NT)	0-4		M	34
+No usual address (NT)	0-4	0	F	57
+No usual address (NT)	0-4	0	M	55
+No usual address (NT)	5-14		F	30
+No usual address (NT)	5-14		M	37
+No usual address (NT)	5-14	0	F	85
+No usual address (NT)	5-14	0	M	124
+No usual address (NT)	5-14	1	M	4
+No usual address (NT)	15-19		F	34
+No usual address (NT)	15-19		M	11
+No usual address (NT)	15-19	0	F	27
+No usual address (NT)	15-19	0	M	18
+No usual address (NT)	20-24		F	35
+No usual address (NT)	20-24		M	43
+No usual address (NT)	20-24	0	F	64
+No usual address (NT)	20-24	0	M	37
+No usual address (NT)	25-34		F	134
+No usual address (NT)	25-34		M	112
+No usual address (NT)	25-34	0	F	231
+No usual address (NT)	25-34	0	M	177
+No usual address (NT)	35-44		F	106
+No usual address (NT)	35-44		M	135
+No usual address (NT)	35-44	0	F	165
+No usual address (NT)	35-44	0	M	164
+No usual address (NT)	35-44	1	M	7
+No usual address (NT)	45-54		F	128
+No usual address (NT)	45-54		M	164
+No usual address (NT)	45-54	0	F	137
+No usual address (NT)	45-54	0	M	139
+No usual address (NT)	45-54	1	F	8
+No usual address (NT)	45-54	1	M	13
+No usual address (NT)	55-64		F	111
+No usual address (NT)	55-64		M	121
+No usual address (NT)	55-64	0	F	152
+No usual address (NT)	55-64	0	M	165
+No usual address (NT)	55-64	1	F	19
+No usual address (NT)	55-64	1	M	17
+No usual address (NT)	65-74		F	29
+No usual address (NT)	65-74		M	54
+No usual address (NT)	65-74	0	F	81
+No usual address (NT)	65-74	0	M	141
+No usual address (NT)	65-74	1	F	6
+No usual address (NT)	65-74	1	M	7
+No usual address (NT)	75-84		F	5
+No usual address (NT)	75-84		M	10
+No usual address (NT)	75-84	0	F	10
+No usual address (NT)	75-84	0	M	18
+No usual address (NT)	75-84	1	M	3
+No usual address (NT)	85+	0	M	4
+Migratory - Offshore - Shipping (NT)	15-19	0	M	5
+Migratory - Offshore - Shipping (NT)	20-24	0	M	6
+Migratory - Offshore - Shipping (NT)	25-34		M	4
+Migratory - Offshore - Shipping (NT)	25-34	0	M	16
+Migratory - Offshore - Shipping (NT)	35-44		M	4
+Migratory - Offshore - Shipping (NT)	35-44	0	M	13
+Migratory - Offshore - Shipping (NT)	45-54		M	5
+Migratory - Offshore - Shipping (NT)	45-54	0	F	3
+Migratory - Offshore - Shipping (NT)	45-54	0	M	11
+Migratory - Offshore - Shipping (NT)	55-64		M	3
+Migratory - Offshore - Shipping (NT)	55-64	0	M	11
+Greater Darwin	0-4		F	409
+Greater Darwin	0-4		M	388
+Greater Darwin	0-4	0	F	4208
+Greater Darwin	0-4	0	M	4435
+Greater Darwin	0-4	1	F	43
+Greater Darwin	0-4	1	M	84
+Greater Darwin	5-14		F	809
+Greater Darwin	5-14		M	840
+Greater Darwin	5-14	0	F	8150
+Greater Darwin	5-14	0	M	8187
+Greater Darwin	5-14	1	F	244
+Greater Darwin	5-14	1	M	503
+Greater Darwin	15-19		F	321
+Greater Darwin	15-19		M	356
+Greater Darwin	15-19	0	F	3332
+Greater Darwin	15-19	0	M	3423
+Greater Darwin	15-19	1	F	86
+Greater Darwin	15-19	1	M	140
+Greater Darwin	20-24		F	368
+Greater Darwin	20-24		M	661
+Greater Darwin	20-24	0	F	3706
+Greater Darwin	20-24	0	M	4147
+Greater Darwin	20-24	1	F	67
+Greater Darwin	20-24	1	M	101
+Greater Darwin	25-34		F	1163
+Greater Darwin	25-34		M	1644
+Greater Darwin	25-34	0	F	11922
+Greater Darwin	25-34	0	M	10950
+Greater Darwin	25-34	1	F	114
+Greater Darwin	25-34	1	M	155
+Greater Darwin	35-44		F	976
+Greater Darwin	35-44		M	1298
+Greater Darwin	35-44	0	F	10126
+Greater Darwin	35-44	0	M	9379
+Greater Darwin	35-44	1	F	183
+Greater Darwin	35-44	1	M	151
+Greater Darwin	45-54		F	771
+Greater Darwin	45-54		M	1105
+Greater Darwin	45-54	0	F	8047
+Greater Darwin	45-54	0	M	8029
+Greater Darwin	45-54	1	F	229
+Greater Darwin	45-54	1	M	235
+Greater Darwin	55-64		F	577
+Greater Darwin	55-64		M	764
+Greater Darwin	55-64	0	F	6246
+Greater Darwin	55-64	0	M	6393
+Greater Darwin	55-64	1	F	318
+Greater Darwin	55-64	1	M	340
+Greater Darwin	65-74		F	355
+Greater Darwin	65-74		M	446
+Greater Darwin	65-74	0	F	3712
+Greater Darwin	65-74	0	M	3979
+Greater Darwin	65-74	1	F	446
+Greater Darwin	65-74	1	M	432
+Greater Darwin	75-84		F	150
+Greater Darwin	75-84		M	168
+Greater Darwin	75-84	0	F	1169
+Greater Darwin	75-84	0	M	1296
+Greater Darwin	75-84	1	F	459
+Greater Darwin	75-84	1	M	367
+Greater Darwin	85+		F	65
+Greater Darwin	85+		M	38
+Greater Darwin	85+	0	F	105
+Greater Darwin	85+	0	M	161
+Greater Darwin	85+	1	F	292
+Greater Darwin	85+	1	M	171
+Rest of NT	0-4		F	256
+Rest of NT	0-4		M	323
+Rest of NT	0-4	0	F	2768
+Rest of NT	0-4	0	M	3098
+Rest of NT	0-4	1	F	27
+Rest of NT	0-4	1	M	29
+Rest of NT	5-14		F	613
+Rest of NT	5-14		M	658
+Rest of NT	5-14	0	F	5874
+Rest of NT	5-14	0	M	6233
+Rest of NT	5-14	1	F	79
+Rest of NT	5-14	1	M	198
+Rest of NT	15-19		F	283
+Rest of NT	15-19		M	335
+Rest of NT	15-19	0	F	2748
+Rest of NT	15-19	0	M	2960
+Rest of NT	15-19	1	F	24
+Rest of NT	15-19	1	M	75
+Rest of NT	20-24		F	324
+Rest of NT	20-24		M	451
+Rest of NT	20-24	0	F	2853
+Rest of NT	20-24	0	M	2827
+Rest of NT	20-24	1	F	47
+Rest of NT	20-24	1	M	52
+Rest of NT	25-34		F	864
+Rest of NT	25-34		M	1173
+Rest of NT	25-34	0	F	7455
+Rest of NT	25-34	0	M	6623
+Rest of NT	25-34	1	F	72
+Rest of NT	25-34	1	M	74
+Rest of NT	35-44		F	700
+Rest of NT	35-44		M	961
+Rest of NT	35-44	0	F	5787
+Rest of NT	35-44	0	M	5440
+Rest of NT	35-44	1	F	120
+Rest of NT	35-44	1	M	111
+Rest of NT	45-54		F	577
+Rest of NT	45-54		M	744
+Rest of NT	45-54	0	F	4795
+Rest of NT	45-54	0	M	4423
+Rest of NT	45-54	1	F	222
+Rest of NT	45-54	1	M	190
+Rest of NT	55-64		F	498
+Rest of NT	55-64		M	609
+Rest of NT	55-64	0	F	3682
+Rest of NT	55-64	0	M	3637
+Rest of NT	55-64	1	F	326
+Rest of NT	55-64	1	M	243
+Rest of NT	65-74		F	245
+Rest of NT	65-74		M	314
+Rest of NT	65-74	0	F	1707
+Rest of NT	65-74	0	M	1923
+Rest of NT	65-74	1	F	348
+Rest of NT	65-74	1	M	260
+Rest of NT	75-84		F	67
+Rest of NT	75-84		M	107
+Rest of NT	75-84	0	F	426
+Rest of NT	75-84	0	M	499
+Rest of NT	75-84	1	F	223
+Rest of NT	75-84	1	M	170
+Rest of NT	85+		F	17
+Rest of NT	85+		M	18
+Rest of NT	85+	0	F	68
+Rest of NT	85+	0	M	51
+Rest of NT	85+	1	F	121
+Rest of NT	85+	1	M	60
+No usual address (ACT)	0-4	0	F	9
+No usual address (ACT)	0-4	0	M	11
+No usual address (ACT)	5-14		F	3
+No usual address (ACT)	5-14	0	F	11
+No usual address (ACT)	5-14	0	M	13
+No usual address (ACT)	15-19	0	F	37
+No usual address (ACT)	15-19	0	M	24
+No usual address (ACT)	20-24		F	4
+No usual address (ACT)	20-24		M	7
+No usual address (ACT)	20-24	0	F	32
+No usual address (ACT)	20-24	0	M	32
+No usual address (ACT)	20-24	1	F	6
+No usual address (ACT)	20-24	1	M	4
+No usual address (ACT)	25-34		F	7
+No usual address (ACT)	25-34		M	11
+No usual address (ACT)	25-34	0	F	43
+No usual address (ACT)	25-34	0	M	43
+No usual address (ACT)	25-34	1	M	6
+No usual address (ACT)	35-44		F	7
+No usual address (ACT)	35-44		M	30
+No usual address (ACT)	35-44	0	F	31
+No usual address (ACT)	35-44	0	M	36
+No usual address (ACT)	45-54		F	4
+No usual address (ACT)	45-54		M	19
+No usual address (ACT)	45-54	0	F	25
+No usual address (ACT)	45-54	0	M	27
+No usual address (ACT)	45-54	1	M	3
+No usual address (ACT)	55-64		F	8
+No usual address (ACT)	55-64		M	16
+No usual address (ACT)	55-64	0	F	31
+No usual address (ACT)	55-64	0	M	21
+No usual address (ACT)	55-64	1	M	3
+No usual address (ACT)	65-74		F	4
+No usual address (ACT)	65-74		M	10
+No usual address (ACT)	65-74	0	F	5
+No usual address (ACT)	65-74	0	M	17
+No usual address (ACT)	75-84	0	F	4
+No usual address (ACT)	75-84	1	M	4
+Australian Capital Territory	0-4		F	525
+Australian Capital Territory	0-4		M	498
+Australian Capital Territory	0-4	0	F	12292
+Australian Capital Territory	0-4	0	M	13077
+Australian Capital Territory	0-4	1	F	97
+Australian Capital Territory	0-4	1	M	173
+Australian Capital Territory	5-14		F	991
+Australian Capital Territory	5-14		M	1039
+Australian Capital Territory	5-14	0	F	25473
+Australian Capital Territory	5-14	0	M	26436
+Australian Capital Territory	5-14	1	F	765
+Australian Capital Territory	5-14	1	M	1536
+Australian Capital Territory	15-19		F	615
+Australian Capital Territory	15-19		M	644
+Australian Capital Territory	15-19	0	F	11929
+Australian Capital Territory	15-19	0	M	12236
+Australian Capital Territory	15-19	1	F	351
+Australian Capital Territory	15-19	1	M	503
+Australian Capital Territory	20-24		F	886
+Australian Capital Territory	20-24		M	1040
+Australian Capital Territory	20-24	0	F	15852
+Australian Capital Territory	20-24	0	M	15574
+Australian Capital Territory	20-24	1	F	393
+Australian Capital Territory	20-24	1	M	419
+Australian Capital Territory	25-34		F	1708
+Australian Capital Territory	25-34		M	2060
+Australian Capital Territory	25-34	0	F	36561
+Australian Capital Territory	25-34	0	M	36009
+Australian Capital Territory	25-34	1	F	730
+Australian Capital Territory	25-34	1	M	565
+Australian Capital Territory	35-44		F	1258
+Australian Capital Territory	35-44		M	1512
+Australian Capital Territory	35-44	0	F	32962
+Australian Capital Territory	35-44	0	M	32170
+Australian Capital Territory	35-44	1	F	791
+Australian Capital Territory	35-44	1	M	587
+Australian Capital Territory	45-54		F	939
+Australian Capital Territory	45-54		M	1097
+Australian Capital Territory	45-54	0	F	26478
+Australian Capital Territory	45-54	0	M	25966
+Australian Capital Territory	45-54	1	F	922
+Australian Capital Territory	45-54	1	M	721
+Australian Capital Territory	55-64		F	747
+Australian Capital Territory	55-64		M	895
+Australian Capital Territory	55-64	0	F	21545
+Australian Capital Territory	55-64	0	M	20091
+Australian Capital Territory	55-64	1	F	1174
+Australian Capital Territory	55-64	1	M	882
+Australian Capital Territory	65-74		F	733
+Australian Capital Territory	65-74		M	670
+Australian Capital Territory	65-74	0	F	16658
+Australian Capital Territory	65-74	0	M	14753
+Australian Capital Territory	65-74	1	F	1624
+Australian Capital Territory	65-74	1	M	1206
+Australian Capital Territory	75-84		F	468
+Australian Capital Territory	75-84		M	449
+Australian Capital Territory	75-84	0	F	7739
+Australian Capital Territory	75-84	0	M	6887
+Australian Capital Territory	75-84	1	F	2344
+Australian Capital Territory	75-84	1	M	1450
+Australian Capital Territory	85+		F	297
+Australian Capital Territory	85+		M	192
+Australian Capital Territory	85+	0	F	1698
+Australian Capital Territory	85+	0	M	1475
+Australian Capital Territory	85+	1	F	2318
+Australian Capital Territory	85+	1	M	1196
+No usual address (OT)	55-64	0	M	3
+Other Territories	0-4		F	16
+Other Territories	0-4		M	15
+Other Territories	0-4	0	F	98
+Other Territories	0-4	0	M	115
+Other Territories	5-14		F	36
+Other Territories	5-14		M	49
+Other Territories	5-14	0	F	231
+Other Territories	5-14	0	M	256
+Other Territories	5-14	1	F	5
+Other Territories	5-14	1	M	9
+Other Territories	15-19		F	14
+Other Territories	15-19		M	12
+Other Territories	15-19	0	F	88
+Other Territories	15-19	0	M	76
+Other Territories	20-24		F	18
+Other Territories	20-24		M	40
+Other Territories	20-24	0	F	89
+Other Territories	20-24	0	M	72
+Other Territories	20-24	1	M	6
+Other Territories	25-34		F	46
+Other Territories	25-34		M	154
+Other Territories	25-34	0	F	186
+Other Territories	25-34	0	M	176
+Other Territories	25-34	1	F	6
+Other Territories	35-44		F	48
+Other Territories	35-44		M	106
+Other Territories	35-44	0	F	260
+Other Territories	35-44	0	M	221
+Other Territories	35-44	1	F	3
+Other Territories	35-44	1	M	3
+Other Territories	45-54		F	39
+Other Territories	45-54		M	92
+Other Territories	45-54	0	F	269
+Other Territories	45-54	0	M	254
+Other Territories	45-54	1	F	3
+Other Territories	55-64		F	44
+Other Territories	55-64		M	54
+Other Territories	55-64	0	F	324
+Other Territories	55-64	0	M	317
+Other Territories	55-64	1	F	12
+Other Territories	55-64	1	M	12
+Other Territories	65-74		F	26
+Other Territories	65-74		M	45
+Other Territories	65-74	0	F	215
+Other Territories	65-74	0	M	256
+Other Territories	65-74	1	F	21
+Other Territories	65-74	1	M	17
+Other Territories	75-84		F	17
+Other Territories	75-84		M	20
+Other Territories	75-84	0	F	87
+Other Territories	75-84	0	M	91
+Other Territories	75-84	1	F	25
+Other Territories	75-84	1	M	14
+Other Territories	85+	0	F	13
+Other Territories	85+	0	M	17
+Other Territories	85+	1	F	14
+Other Territories	85+	1	M	14

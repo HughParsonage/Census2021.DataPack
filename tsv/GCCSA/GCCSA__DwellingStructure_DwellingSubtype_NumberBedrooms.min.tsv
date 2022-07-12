@@ -1,0 +1,1115 @@
+GCCSA_NAME21	DwellingStructure	DwellingSubtype	NumberBedrooms.min	occupied_private_dwellings
+Greater Sydney				393
+Greater Sydney			0	232
+Greater Sydney			1	892
+Greater Sydney			2	1212
+Greater Sydney			3	632
+Greater Sydney			4	419
+Greater Sydney			5	163
+Greater Sydney			6	73
+Greater Sydney		1 storey		1261
+Greater Sydney		1 storey	0	741
+Greater Sydney		1 storey	1	5781
+Greater Sydney		1 storey	2	29363
+Greater Sydney		1 storey	3	34687
+Greater Sydney		1 storey	4	6344
+Greater Sydney		1 storey	5	997
+Greater Sydney		1 storey	6	237
+Greater Sydney		2 storeys or more		1983
+Greater Sydney		2 storeys or more	0	598
+Greater Sydney		2 storeys or more	1	8444
+Greater Sydney		2 storeys or more	2	32559
+Greater Sydney		2 storeys or more	3	77608
+Greater Sydney		2 storeys or more	4	28571
+Greater Sydney		2 storeys or more	5	4080
+Greater Sydney		2 storeys or more	6	757
+Greater Sydney	(Other)			214
+Greater Sydney	(Other)		0	395
+Greater Sydney	(Other)		1	2101
+Greater Sydney	(Other)		2	3379
+Greater Sydney	(Other)		3	1622
+Greater Sydney	(Other)		4	346
+Greater Sydney	(Other)		5	99
+Greater Sydney	(Other)		6	51
+Greater Sydney	Flat/apartment		0	144
+Greater Sydney	Flat/apartment	1 or 2 storey block		1818
+Greater Sydney	Flat/apartment	1 or 2 storey block	0	2463
+Greater Sydney	Flat/apartment	1 or 2 storey block	1	20089
+Greater Sydney	Flat/apartment	1 or 2 storey block	2	51032
+Greater Sydney	Flat/apartment	1 or 2 storey block	3	16033
+Greater Sydney	Flat/apartment	1 or 2 storey block	4	1793
+Greater Sydney	Flat/apartment	1 or 2 storey block	5	373
+Greater Sydney	Flat/apartment	1 or 2 storey block	6	212
+Greater Sydney	Flat/apartment	3 storey block		2224
+Greater Sydney	Flat/apartment	3 storey block	0	2641
+Greater Sydney	Flat/apartment	3 storey block	1	23191
+Greater Sydney	Flat/apartment	3 storey block	2	104295
+Greater Sydney	Flat/apartment	3 storey block	3	21178
+Greater Sydney	Flat/apartment	3 storey block	4	978
+Greater Sydney	Flat/apartment	3 storey block	5	114
+Greater Sydney	Flat/apartment	3 storey block	6	122
+Greater Sydney	Flat/apartment	4-8 storey block		2414
+Greater Sydney	Flat/apartment	4-8 storey block	0	3964
+Greater Sydney	Flat/apartment	4-8 storey block	1	40932
+Greater Sydney	Flat/apartment	4-8 storey block	2	110525
+Greater Sydney	Flat/apartment	4-8 storey block	3	27317
+Greater Sydney	Flat/apartment	4-8 storey block	4	1017
+Greater Sydney	Flat/apartment	4-8 storey block	5	141
+Greater Sydney	Flat/apartment	4-8 storey block	6	79
+Greater Sydney	Flat/apartment	9 or more storey block		1594
+Greater Sydney	Flat/apartment	9 or more storey block	0	3344
+Greater Sydney	Flat/apartment	9 or more storey block	1	34569
+Greater Sydney	Flat/apartment	9 or more storey block	2	63043
+Greater Sydney	Flat/apartment	9 or more storey block	3	15371
+Greater Sydney	Flat/apartment	9 or more storey block	4	600
+Greater Sydney	Flat/apartment	9 or more storey block	5	43
+Greater Sydney	Flat/apartment	9 or more storey block	6	50
+Greater Sydney	Flat/apartment	Attached to a house		228
+Greater Sydney	Flat/apartment	Attached to a house	1	1229
+Greater Sydney	Flat/apartment	Attached to a house	2	3470
+Greater Sydney	Flat/apartment	Attached to a house	3	1676
+Greater Sydney	Flat/apartment	Attached to a house	4	1002
+Greater Sydney	Flat/apartment	Attached to a house	5	485
+Greater Sydney	Flat/apartment	Attached to a house	6	191
+Greater Sydney	Separate house			11587
+Greater Sydney	Separate house		0	1678
+Greater Sydney	Separate house		1	10624
+Greater Sydney	Separate house		2	71321
+Greater Sydney	Separate house		3	369347
+Greater Sydney	Separate house		4	399278
+Greater Sydney	Separate house		5	127330
+Greater Sydney	Separate house		6	29469
+Rest of NSW				476
+Rest of NSW			0	170
+Rest of NSW			1	736
+Rest of NSW			2	883
+Rest of NSW			3	793
+Rest of NSW			4	415
+Rest of NSW			5	135
+Rest of NSW			6	117
+Rest of NSW		1 storey		1770
+Rest of NSW		1 storey	0	293
+Rest of NSW		1 storey	1	6848
+Rest of NSW		1 storey	2	36716
+Rest of NSW		1 storey	3	21282
+Rest of NSW		1 storey	4	1977
+Rest of NSW		1 storey	5	238
+Rest of NSW		1 storey	6	106
+Rest of NSW		2 storeys or more		598
+Rest of NSW		2 storeys or more	0	104
+Rest of NSW		2 storeys or more	1	3259
+Rest of NSW		2 storeys or more	2	12946
+Rest of NSW		2 storeys or more	3	17663
+Rest of NSW		2 storeys or more	4	2368
+Rest of NSW		2 storeys or more	5	300
+Rest of NSW		2 storeys or more	6	101
+Rest of NSW	(Other)			766
+Rest of NSW	(Other)		0	894
+Rest of NSW	(Other)		1	3536
+Rest of NSW	(Other)		2	3775
+Rest of NSW	(Other)		3	1419
+Rest of NSW	(Other)		4	522
+Rest of NSW	(Other)		5	151
+Rest of NSW	(Other)		6	93
+Rest of NSW	Flat/apartment		0	56
+Rest of NSW	Flat/apartment	1 or 2 storey block		1117
+Rest of NSW	Flat/apartment	1 or 2 storey block	0	600
+Rest of NSW	Flat/apartment	1 or 2 storey block	1	9313
+Rest of NSW	Flat/apartment	1 or 2 storey block	2	21668
+Rest of NSW	Flat/apartment	1 or 2 storey block	3	5882
+Rest of NSW	Flat/apartment	1 or 2 storey block	4	661
+Rest of NSW	Flat/apartment	1 or 2 storey block	5	118
+Rest of NSW	Flat/apartment	1 or 2 storey block	6	107
+Rest of NSW	Flat/apartment	3 storey block		211
+Rest of NSW	Flat/apartment	3 storey block	0	98
+Rest of NSW	Flat/apartment	3 storey block	1	1611
+Rest of NSW	Flat/apartment	3 storey block	2	7263
+Rest of NSW	Flat/apartment	3 storey block	3	1713
+Rest of NSW	Flat/apartment	3 storey block	4	68
+Rest of NSW	Flat/apartment	3 storey block	5	22
+Rest of NSW	Flat/apartment	3 storey block	6	12
+Rest of NSW	Flat/apartment	4-8 storey block		169
+Rest of NSW	Flat/apartment	4-8 storey block	0	102
+Rest of NSW	Flat/apartment	4-8 storey block	1	1699
+Rest of NSW	Flat/apartment	4-8 storey block	2	6216
+Rest of NSW	Flat/apartment	4-8 storey block	3	2460
+Rest of NSW	Flat/apartment	4-8 storey block	4	107
+Rest of NSW	Flat/apartment	4-8 storey block	5	11
+Rest of NSW	Flat/apartment	4-8 storey block	6	16
+Rest of NSW	Flat/apartment	9 or more storey block		46
+Rest of NSW	Flat/apartment	9 or more storey block	0	46
+Rest of NSW	Flat/apartment	9 or more storey block	1	795
+Rest of NSW	Flat/apartment	9 or more storey block	2	2450
+Rest of NSW	Flat/apartment	9 or more storey block	3	1265
+Rest of NSW	Flat/apartment	9 or more storey block	4	67
+Rest of NSW	Flat/apartment	9 or more storey block	5	8
+Rest of NSW	Flat/apartment	9 or more storey block	6	3
+Rest of NSW	Flat/apartment	Attached to a house		43
+Rest of NSW	Flat/apartment	Attached to a house	1	519
+Rest of NSW	Flat/apartment	Attached to a house	2	699
+Rest of NSW	Flat/apartment	Attached to a house	3	421
+Rest of NSW	Flat/apartment	Attached to a house	4	275
+Rest of NSW	Flat/apartment	Attached to a house	5	87
+Rest of NSW	Flat/apartment	Attached to a house	6	37
+Rest of NSW	Separate house			12720
+Rest of NSW	Separate house		0	2490
+Rest of NSW	Separate house		1	14612
+Rest of NSW	Separate house		2	94760
+Rest of NSW	Separate house		3	387751
+Rest of NSW	Separate house		4	297093
+Rest of NSW	Separate house		5	59165
+Rest of NSW	Separate house		6	13509
+Greater Melbourne				141
+Greater Melbourne			0	60
+Greater Melbourne			1	354
+Greater Melbourne			2	501
+Greater Melbourne			3	455
+Greater Melbourne			4	247
+Greater Melbourne			5	45
+Greater Melbourne			6	34
+Greater Melbourne		1 storey		2525
+Greater Melbourne		1 storey	0	346
+Greater Melbourne		1 storey	1	11211
+Greater Melbourne		1 storey	2	80073
+Greater Melbourne		1 storey	3	54872
+Greater Melbourne		1 storey	4	10690
+Greater Melbourne		1 storey	5	1063
+Greater Melbourne		1 storey	6	241
+Greater Melbourne		2 storeys or more		1350
+Greater Melbourne		2 storeys or more	0	193
+Greater Melbourne		2 storeys or more	1	3540
+Greater Melbourne		2 storeys or more	2	35724
+Greater Melbourne		2 storeys or more	3	64322
+Greater Melbourne		2 storeys or more	4	19744
+Greater Melbourne		2 storeys or more	5	2279
+Greater Melbourne		2 storeys or more	6	352
+Greater Melbourne	(Other)			141
+Greater Melbourne	(Other)		0	209
+Greater Melbourne	(Other)		1	1819
+Greater Melbourne	(Other)		2	2202
+Greater Melbourne	(Other)		3	897
+Greater Melbourne	(Other)		4	218
+Greater Melbourne	(Other)		5	50
+Greater Melbourne	(Other)		6	20
+Greater Melbourne	Flat/apartment		0	26
+Greater Melbourne	Flat/apartment	1 or 2 storey block		1373
+Greater Melbourne	Flat/apartment	1 or 2 storey block	0	959
+Greater Melbourne	Flat/apartment	1 or 2 storey block	1	19045
+Greater Melbourne	Flat/apartment	1 or 2 storey block	2	46768
+Greater Melbourne	Flat/apartment	1 or 2 storey block	3	16293
+Greater Melbourne	Flat/apartment	1 or 2 storey block	4	1878
+Greater Melbourne	Flat/apartment	1 or 2 storey block	5	202
+Greater Melbourne	Flat/apartment	1 or 2 storey block	6	125
+Greater Melbourne	Flat/apartment	3 storey block		669
+Greater Melbourne	Flat/apartment	3 storey block	0	855
+Greater Melbourne	Flat/apartment	3 storey block	1	15926
+Greater Melbourne	Flat/apartment	3 storey block	2	30282
+Greater Melbourne	Flat/apartment	3 storey block	3	4705
+Greater Melbourne	Flat/apartment	3 storey block	4	277
+Greater Melbourne	Flat/apartment	3 storey block	5	48
+Greater Melbourne	Flat/apartment	3 storey block	6	34
+Greater Melbourne	Flat/apartment	4-8 storey block		696
+Greater Melbourne	Flat/apartment	4-8 storey block	0	1014
+Greater Melbourne	Flat/apartment	4-8 storey block	1	20343
+Greater Melbourne	Flat/apartment	4-8 storey block	2	35429
+Greater Melbourne	Flat/apartment	4-8 storey block	3	4960
+Greater Melbourne	Flat/apartment	4-8 storey block	4	251
+Greater Melbourne	Flat/apartment	4-8 storey block	5	24
+Greater Melbourne	Flat/apartment	4-8 storey block	6	26
+Greater Melbourne	Flat/apartment	9 or more storey block		939
+Greater Melbourne	Flat/apartment	9 or more storey block	0	1306
+Greater Melbourne	Flat/apartment	9 or more storey block	1	24154
+Greater Melbourne	Flat/apartment	9 or more storey block	2	40356
+Greater Melbourne	Flat/apartment	9 or more storey block	3	7254
+Greater Melbourne	Flat/apartment	9 or more storey block	4	254
+Greater Melbourne	Flat/apartment	9 or more storey block	5	23
+Greater Melbourne	Flat/apartment	9 or more storey block	6	38
+Greater Melbourne	Flat/apartment	Attached to a house		26
+Greater Melbourne	Flat/apartment	Attached to a house	1	281
+Greater Melbourne	Flat/apartment	Attached to a house	2	308
+Greater Melbourne	Flat/apartment	Attached to a house	3	174
+Greater Melbourne	Flat/apartment	Attached to a house	4	123
+Greater Melbourne	Flat/apartment	Attached to a house	5	51
+Greater Melbourne	Flat/apartment	Attached to a house	6	22
+Greater Melbourne	Separate house			14245
+Greater Melbourne	Separate house		0	1127
+Greater Melbourne	Separate house		1	7142
+Greater Melbourne	Separate house		2	90970
+Greater Melbourne	Separate house		3	548257
+Greater Melbourne	Separate house		4	447873
+Greater Melbourne	Separate house		5	84164
+Greater Melbourne	Separate house		6	14125
+Rest of Vic.				88
+Rest of Vic.			0	42
+Rest of Vic.			1	186
+Rest of Vic.			2	239
+Rest of Vic.			3	314
+Rest of Vic.			4	183
+Rest of Vic.			5	39
+Rest of Vic.			6	50
+Rest of Vic.		1 storey		1229
+Rest of Vic.		1 storey	0	200
+Rest of Vic.		1 storey	1	6726
+Rest of Vic.		1 storey	2	21857
+Rest of Vic.		1 storey	3	7292
+Rest of Vic.		1 storey	4	989
+Rest of Vic.		1 storey	5	98
+Rest of Vic.		1 storey	6	47
+Rest of Vic.		2 storeys or more		86
+Rest of Vic.		2 storeys or more	0	28
+Rest of Vic.		2 storeys or more	1	427
+Rest of Vic.		2 storeys or more	2	1750
+Rest of Vic.		2 storeys or more	3	2383
+Rest of Vic.		2 storeys or more	4	527
+Rest of Vic.		2 storeys or more	5	63
+Rest of Vic.		2 storeys or more	6	24
+Rest of Vic.	(Other)			322
+Rest of Vic.	(Other)		0	397
+Rest of Vic.	(Other)		1	1614
+Rest of Vic.	(Other)		2	1572
+Rest of Vic.	(Other)		3	643
+Rest of Vic.	(Other)		4	268
+Rest of Vic.	(Other)		5	42
+Rest of Vic.	(Other)		6	41
+Rest of Vic.	Flat/apartment		0	3
+Rest of Vic.	Flat/apartment	1 or 2 storey block		313
+Rest of Vic.	Flat/apartment	1 or 2 storey block	0	87
+Rest of Vic.	Flat/apartment	1 or 2 storey block	1	2653
+Rest of Vic.	Flat/apartment	1 or 2 storey block	2	5903
+Rest of Vic.	Flat/apartment	1 or 2 storey block	3	1358
+Rest of Vic.	Flat/apartment	1 or 2 storey block	4	103
+Rest of Vic.	Flat/apartment	1 or 2 storey block	5	13
+Rest of Vic.	Flat/apartment	1 or 2 storey block	6	21
+Rest of Vic.	Flat/apartment	3 storey block		7
+Rest of Vic.	Flat/apartment	3 storey block	0	17
+Rest of Vic.	Flat/apartment	3 storey block	1	139
+Rest of Vic.	Flat/apartment	3 storey block	2	253
+Rest of Vic.	Flat/apartment	3 storey block	3	58
+Rest of Vic.	Flat/apartment	3 storey block	4	10
+Rest of Vic.	Flat/apartment	3 storey block	5	3
+Rest of Vic.	Flat/apartment	4-8 storey block		4
+Rest of Vic.	Flat/apartment	4-8 storey block	0	3
+Rest of Vic.	Flat/apartment	4-8 storey block	1	92
+Rest of Vic.	Flat/apartment	4-8 storey block	2	199
+Rest of Vic.	Flat/apartment	4-8 storey block	3	40
+Rest of Vic.	Flat/apartment	4-8 storey block	4	7
+Rest of Vic.	Flat/apartment	9 or more storey block	1	26
+Rest of Vic.	Flat/apartment	9 or more storey block	2	68
+Rest of Vic.	Flat/apartment	9 or more storey block	3	44
+Rest of Vic.	Flat/apartment	9 or more storey block	4	9
+Rest of Vic.	Flat/apartment	9 or more storey block	6	3
+Rest of Vic.	Flat/apartment	Attached to a house		7
+Rest of Vic.	Flat/apartment	Attached to a house	1	64
+Rest of Vic.	Flat/apartment	Attached to a house	2	42
+Rest of Vic.	Flat/apartment	Attached to a house	3	29
+Rest of Vic.	Flat/apartment	Attached to a house	4	19
+Rest of Vic.	Flat/apartment	Attached to a house	5	6
+Rest of Vic.	Separate house			8325
+Rest of Vic.	Separate house		0	933
+Rest of Vic.	Separate house		1	6841
+Rest of Vic.	Separate house		2	62130
+Rest of Vic.	Separate house		3	278317
+Rest of Vic.	Separate house		4	163818
+Rest of Vic.	Separate house		5	22657
+Rest of Vic.	Separate house		6	4495
+Greater Brisbane				194
+Greater Brisbane			0	87
+Greater Brisbane			1	388
+Greater Brisbane			2	393
+Greater Brisbane			3	351
+Greater Brisbane			4	198
+Greater Brisbane			5	45
+Greater Brisbane			6	34
+Greater Brisbane		1 storey		812
+Greater Brisbane		1 storey	0	247
+Greater Brisbane		1 storey	1	4003
+Greater Brisbane		1 storey	2	14325
+Greater Brisbane		1 storey	3	11273
+Greater Brisbane		1 storey	4	1409
+Greater Brisbane		1 storey	5	79
+Greater Brisbane		1 storey	6	35
+Greater Brisbane		2 storeys or more		1052
+Greater Brisbane		2 storeys or more	0	183
+Greater Brisbane		2 storeys or more	1	3182
+Greater Brisbane		2 storeys or more	2	17036
+Greater Brisbane		2 storeys or more	3	44782
+Greater Brisbane		2 storeys or more	4	4780
+Greater Brisbane		2 storeys or more	5	245
+Greater Brisbane		2 storeys or more	6	95
+Greater Brisbane	(Other)			328
+Greater Brisbane	(Other)		0	405
+Greater Brisbane	(Other)		1	1709
+Greater Brisbane	(Other)		2	844
+Greater Brisbane	(Other)		3	227
+Greater Brisbane	(Other)		4	109
+Greater Brisbane	(Other)		5	22
+Greater Brisbane	(Other)		6	13
+Greater Brisbane	Flat/apartment		0	34
+Greater Brisbane	Flat/apartment	1 or 2 storey block		778
+Greater Brisbane	Flat/apartment	1 or 2 storey block	0	637
+Greater Brisbane	Flat/apartment	1 or 2 storey block	1	9669
+Greater Brisbane	Flat/apartment	1 or 2 storey block	2	17172
+Greater Brisbane	Flat/apartment	1 or 2 storey block	3	6328
+Greater Brisbane	Flat/apartment	1 or 2 storey block	4	705
+Greater Brisbane	Flat/apartment	1 or 2 storey block	5	127
+Greater Brisbane	Flat/apartment	1 or 2 storey block	6	93
+Greater Brisbane	Flat/apartment	3 storey block		547
+Greater Brisbane	Flat/apartment	3 storey block	0	420
+Greater Brisbane	Flat/apartment	3 storey block	1	4479
+Greater Brisbane	Flat/apartment	3 storey block	2	24234
+Greater Brisbane	Flat/apartment	3 storey block	3	4892
+Greater Brisbane	Flat/apartment	3 storey block	4	256
+Greater Brisbane	Flat/apartment	3 storey block	5	33
+Greater Brisbane	Flat/apartment	3 storey block	6	45
+Greater Brisbane	Flat/apartment	4-8 storey block		459
+Greater Brisbane	Flat/apartment	4-8 storey block	0	460
+Greater Brisbane	Flat/apartment	4-8 storey block	1	6280
+Greater Brisbane	Flat/apartment	4-8 storey block	2	17970
+Greater Brisbane	Flat/apartment	4-8 storey block	3	5546
+Greater Brisbane	Flat/apartment	4-8 storey block	4	287
+Greater Brisbane	Flat/apartment	4-8 storey block	5	29
+Greater Brisbane	Flat/apartment	4-8 storey block	6	16
+Greater Brisbane	Flat/apartment	9 or more storey block		327
+Greater Brisbane	Flat/apartment	9 or more storey block	0	399
+Greater Brisbane	Flat/apartment	9 or more storey block	1	9773
+Greater Brisbane	Flat/apartment	9 or more storey block	2	15603
+Greater Brisbane	Flat/apartment	9 or more storey block	3	4344
+Greater Brisbane	Flat/apartment	9 or more storey block	4	262
+Greater Brisbane	Flat/apartment	9 or more storey block	5	14
+Greater Brisbane	Flat/apartment	9 or more storey block	6	16
+Greater Brisbane	Flat/apartment	Attached to a house		38
+Greater Brisbane	Flat/apartment	Attached to a house	1	394
+Greater Brisbane	Flat/apartment	Attached to a house	2	728
+Greater Brisbane	Flat/apartment	Attached to a house	3	244
+Greater Brisbane	Flat/apartment	Attached to a house	4	126
+Greater Brisbane	Flat/apartment	Attached to a house	5	77
+Greater Brisbane	Flat/apartment	Attached to a house	6	44
+Greater Brisbane	Separate house			7562
+Greater Brisbane	Separate house		0	825
+Greater Brisbane	Separate house		1	5479
+Greater Brisbane	Separate house		2	38338
+Greater Brisbane	Separate house		3	251669
+Greater Brisbane	Separate house		4	282728
+Greater Brisbane	Separate house		5	67735
+Greater Brisbane	Separate house		6	14899
+Rest of Qld				421
+Rest of Qld			0	264
+Rest of Qld			1	981
+Rest of Qld			2	954
+Rest of Qld			3	937
+Rest of Qld			4	469
+Rest of Qld			5	123
+Rest of Qld			6	120
+Rest of Qld		1 storey		1437
+Rest of Qld		1 storey	0	368
+Rest of Qld		1 storey	1	4960
+Rest of Qld		1 storey	2	31203
+Rest of Qld		1 storey	3	19104
+Rest of Qld		1 storey	4	1861
+Rest of Qld		1 storey	5	197
+Rest of Qld		1 storey	6	91
+Rest of Qld		2 storeys or more		993
+Rest of Qld		2 storeys or more	0	228
+Rest of Qld		2 storeys or more	1	3367
+Rest of Qld		2 storeys or more	2	17644
+Rest of Qld		2 storeys or more	3	28970
+Rest of Qld		2 storeys or more	4	4141
+Rest of Qld		2 storeys or more	5	309
+Rest of Qld		2 storeys or more	6	120
+Rest of Qld	(Other)			984
+Rest of Qld	(Other)		0	1492
+Rest of Qld	(Other)		1	4003
+Rest of Qld	(Other)		2	1795
+Rest of Qld	(Other)		3	931
+Rest of Qld	(Other)		4	470
+Rest of Qld	(Other)		5	78
+Rest of Qld	(Other)		6	92
+Rest of Qld	Flat/apartment		0	28
+Rest of Qld	Flat/apartment	1 or 2 storey block		1050
+Rest of Qld	Flat/apartment	1 or 2 storey block	0	569
+Rest of Qld	Flat/apartment	1 or 2 storey block	1	6462
+Rest of Qld	Flat/apartment	1 or 2 storey block	2	21249
+Rest of Qld	Flat/apartment	1 or 2 storey block	3	6828
+Rest of Qld	Flat/apartment	1 or 2 storey block	4	686
+Rest of Qld	Flat/apartment	1 or 2 storey block	5	102
+Rest of Qld	Flat/apartment	1 or 2 storey block	6	68
+Rest of Qld	Flat/apartment	3 storey block		419
+Rest of Qld	Flat/apartment	3 storey block	0	151
+Rest of Qld	Flat/apartment	3 storey block	1	3611
+Rest of Qld	Flat/apartment	3 storey block	2	15211
+Rest of Qld	Flat/apartment	3 storey block	3	3919
+Rest of Qld	Flat/apartment	3 storey block	4	215
+Rest of Qld	Flat/apartment	3 storey block	5	25
+Rest of Qld	Flat/apartment	3 storey block	6	24
+Rest of Qld	Flat/apartment	4-8 storey block		242
+Rest of Qld	Flat/apartment	4-8 storey block	0	132
+Rest of Qld	Flat/apartment	4-8 storey block	1	2788
+Rest of Qld	Flat/apartment	4-8 storey block	2	10605
+Rest of Qld	Flat/apartment	4-8 storey block	3	4602
+Rest of Qld	Flat/apartment	4-8 storey block	4	290
+Rest of Qld	Flat/apartment	4-8 storey block	5	17
+Rest of Qld	Flat/apartment	4-8 storey block	6	15
+Rest of Qld	Flat/apartment	9 or more storey block		329
+Rest of Qld	Flat/apartment	9 or more storey block	0	304
+Rest of Qld	Flat/apartment	9 or more storey block	1	3817
+Rest of Qld	Flat/apartment	9 or more storey block	2	10610
+Rest of Qld	Flat/apartment	9 or more storey block	3	4125
+Rest of Qld	Flat/apartment	9 or more storey block	4	236
+Rest of Qld	Flat/apartment	9 or more storey block	5	16
+Rest of Qld	Flat/apartment	9 or more storey block	6	6
+Rest of Qld	Flat/apartment	Attached to a house		33
+Rest of Qld	Flat/apartment	Attached to a house	1	218
+Rest of Qld	Flat/apartment	Attached to a house	2	296
+Rest of Qld	Flat/apartment	Attached to a house	3	155
+Rest of Qld	Flat/apartment	Attached to a house	4	97
+Rest of Qld	Flat/apartment	Attached to a house	5	53
+Rest of Qld	Flat/apartment	Attached to a house	6	29
+Rest of Qld	Separate house			10989
+Rest of Qld	Separate house		0	2312
+Rest of Qld	Separate house		1	11747
+Rest of Qld	Separate house		2	61538
+Rest of Qld	Separate house		3	301444
+Rest of Qld	Separate house		4	278245
+Rest of Qld	Separate house		5	50231
+Rest of Qld	Separate house		6	12174
+Greater Adelaide				82
+Greater Adelaide			0	59
+Greater Adelaide			1	230
+Greater Adelaide			2	298
+Greater Adelaide			3	382
+Greater Adelaide			4	149
+Greater Adelaide			5	18
+Greater Adelaide			6	27
+Greater Adelaide		1 storey		1135
+Greater Adelaide		1 storey	0	178
+Greater Adelaide		1 storey	1	5258
+Greater Adelaide		1 storey	2	30663
+Greater Adelaide		1 storey	3	23861
+Greater Adelaide		1 storey	4	2373
+Greater Adelaide		1 storey	5	248
+Greater Adelaide		1 storey	6	80
+Greater Adelaide		2 storeys or more		241
+Greater Adelaide		2 storeys or more	0	28
+Greater Adelaide		2 storeys or more	1	902
+Greater Adelaide		2 storeys or more	2	7240
+Greater Adelaide		2 storeys or more	3	13100
+Greater Adelaide		2 storeys or more	4	1962
+Greater Adelaide		2 storeys or more	5	234
+Greater Adelaide		2 storeys or more	6	36
+Greater Adelaide	(Other)			69
+Greater Adelaide	(Other)		0	135
+Greater Adelaide	(Other)		1	492
+Greater Adelaide	(Other)		2	363
+Greater Adelaide	(Other)		3	210
+Greater Adelaide	(Other)		4	60
+Greater Adelaide	(Other)		5	13
+Greater Adelaide	(Other)		6	9
+Greater Adelaide	Flat/apartment		0	5
+Greater Adelaide	Flat/apartment	1 or 2 storey block		458
+Greater Adelaide	Flat/apartment	1 or 2 storey block	0	171
+Greater Adelaide	Flat/apartment	1 or 2 storey block	1	5378
+Greater Adelaide	Flat/apartment	1 or 2 storey block	2	20309
+Greater Adelaide	Flat/apartment	1 or 2 storey block	3	3306
+Greater Adelaide	Flat/apartment	1 or 2 storey block	4	173
+Greater Adelaide	Flat/apartment	1 or 2 storey block	5	28
+Greater Adelaide	Flat/apartment	1 or 2 storey block	6	27
+Greater Adelaide	Flat/apartment	3 storey block		55
+Greater Adelaide	Flat/apartment	3 storey block	0	58
+Greater Adelaide	Flat/apartment	3 storey block	1	605
+Greater Adelaide	Flat/apartment	3 storey block	2	3095
+Greater Adelaide	Flat/apartment	3 storey block	3	512
+Greater Adelaide	Flat/apartment	3 storey block	4	22
+Greater Adelaide	Flat/apartment	3 storey block	6	5
+Greater Adelaide	Flat/apartment	4-8 storey block		63
+Greater Adelaide	Flat/apartment	4-8 storey block	0	74
+Greater Adelaide	Flat/apartment	4-8 storey block	1	1096
+Greater Adelaide	Flat/apartment	4-8 storey block	2	3596
+Greater Adelaide	Flat/apartment	4-8 storey block	3	732
+Greater Adelaide	Flat/apartment	4-8 storey block	4	38
+Greater Adelaide	Flat/apartment	9 or more storey block		37
+Greater Adelaide	Flat/apartment	9 or more storey block	0	65
+Greater Adelaide	Flat/apartment	9 or more storey block	1	1149
+Greater Adelaide	Flat/apartment	9 or more storey block	2	1940
+Greater Adelaide	Flat/apartment	9 or more storey block	3	471
+Greater Adelaide	Flat/apartment	9 or more storey block	4	10
+Greater Adelaide	Flat/apartment	9 or more storey block	5	4
+Greater Adelaide	Flat/apartment	Attached to a house		7
+Greater Adelaide	Flat/apartment	Attached to a house	1	72
+Greater Adelaide	Flat/apartment	Attached to a house	2	86
+Greater Adelaide	Flat/apartment	Attached to a house	3	66
+Greater Adelaide	Flat/apartment	Attached to a house	4	29
+Greater Adelaide	Flat/apartment	Attached to a house	5	14
+Greater Adelaide	Flat/apartment	Attached to a house	6	5
+Greater Adelaide	Separate house			3733
+Greater Adelaide	Separate house		0	288
+Greater Adelaide	Separate house		1	2764
+Greater Adelaide	Separate house		2	32806
+Greater Adelaide	Separate house		3	232295
+Greater Adelaide	Separate house		4	108860
+Greater Adelaide	Separate house		5	18123
+Greater Adelaide	Separate house		6	3268
+Rest of SA				62
+Rest of SA			0	29
+Rest of SA			1	111
+Rest of SA			2	132
+Rest of SA			3	188
+Rest of SA			4	81
+Rest of SA			5	13
+Rest of SA			6	11
+Rest of SA		1 storey		367
+Rest of SA		1 storey	0	35
+Rest of SA		1 storey	1	1177
+Rest of SA		1 storey	2	4563
+Rest of SA		1 storey	3	5845
+Rest of SA		1 storey	4	436
+Rest of SA		1 storey	5	86
+Rest of SA		1 storey	6	60
+Rest of SA		2 storeys or more		4
+Rest of SA		2 storeys or more	1	24
+Rest of SA		2 storeys or more	2	104
+Rest of SA		2 storeys or more	3	279
+Rest of SA		2 storeys or more	4	94
+Rest of SA		2 storeys or more	5	18
+Rest of SA		2 storeys or more	6	3
+Rest of SA	(Other)			103
+Rest of SA	(Other)		0	145
+Rest of SA	(Other)		1	501
+Rest of SA	(Other)		2	255
+Rest of SA	(Other)		3	268
+Rest of SA	(Other)		4	101
+Rest of SA	(Other)		5	26
+Rest of SA	(Other)		6	10
+Rest of SA	Flat/apartment	1 or 2 storey block		94
+Rest of SA	Flat/apartment	1 or 2 storey block	0	30
+Rest of SA	Flat/apartment	1 or 2 storey block	1	651
+Rest of SA	Flat/apartment	1 or 2 storey block	2	1790
+Rest of SA	Flat/apartment	1 or 2 storey block	3	445
+Rest of SA	Flat/apartment	1 or 2 storey block	4	42
+Rest of SA	Flat/apartment	1 or 2 storey block	5	4
+Rest of SA	Flat/apartment	1 or 2 storey block	6	6
+Rest of SA	Flat/apartment	3 storey block	1	35
+Rest of SA	Flat/apartment	3 storey block	2	54
+Rest of SA	Flat/apartment	3 storey block	3	14
+Rest of SA	Flat/apartment	3 storey block	4	6
+Rest of SA	Flat/apartment	4-8 storey block	2	20
+Rest of SA	Flat/apartment	4-8 storey block	3	10
+Rest of SA	Flat/apartment	Attached to a house		6
+Rest of SA	Flat/apartment	Attached to a house	1	7
+Rest of SA	Flat/apartment	Attached to a house	2	12
+Rest of SA	Flat/apartment	Attached to a house	3	26
+Rest of SA	Flat/apartment	Attached to a house	4	9
+Rest of SA	Separate house			2039
+Rest of SA	Separate house		0	337
+Rest of SA	Separate house		1	2458
+Rest of SA	Separate house		2	17441
+Rest of SA	Separate house		3	73730
+Rest of SA	Separate house		4	35065
+Rest of SA	Separate house		5	4852
+Rest of SA	Separate house		6	949
+Greater Perth				138
+Greater Perth			0	21
+Greater Perth			1	109
+Greater Perth			2	165
+Greater Perth			3	202
+Greater Perth			4	137
+Greater Perth			5	23
+Greater Perth			6	19
+Greater Perth		1 storey		1433
+Greater Perth		1 storey	0	119
+Greater Perth		1 storey	1	5582
+Greater Perth		1 storey	2	26437
+Greater Perth		1 storey	3	41374
+Greater Perth		1 storey	4	3920
+Greater Perth		1 storey	5	336
+Greater Perth		1 storey	6	148
+Greater Perth		2 storeys or more		377
+Greater Perth		2 storeys or more	0	79
+Greater Perth		2 storeys or more	1	2165
+Greater Perth		2 storeys or more	2	9094
+Greater Perth		2 storeys or more	3	15573
+Greater Perth		2 storeys or more	4	3247
+Greater Perth		2 storeys or more	5	335
+Greater Perth		2 storeys or more	6	108
+Greater Perth	(Other)			138
+Greater Perth	(Other)		0	204
+Greater Perth	(Other)		1	883
+Greater Perth	(Other)		2	905
+Greater Perth	(Other)		3	252
+Greater Perth	(Other)		4	109
+Greater Perth	(Other)		5	27
+Greater Perth	(Other)		6	14
+Greater Perth	Flat/apartment		0	16
+Greater Perth	Flat/apartment	1 or 2 storey block		370
+Greater Perth	Flat/apartment	1 or 2 storey block	0	120
+Greater Perth	Flat/apartment	1 or 2 storey block	1	4091
+Greater Perth	Flat/apartment	1 or 2 storey block	2	10886
+Greater Perth	Flat/apartment	1 or 2 storey block	3	3125
+Greater Perth	Flat/apartment	1 or 2 storey block	4	243
+Greater Perth	Flat/apartment	1 or 2 storey block	5	24
+Greater Perth	Flat/apartment	1 or 2 storey block	6	35
+Greater Perth	Flat/apartment	3 storey block		211
+Greater Perth	Flat/apartment	3 storey block	0	194
+Greater Perth	Flat/apartment	3 storey block	1	4028
+Greater Perth	Flat/apartment	3 storey block	2	8062
+Greater Perth	Flat/apartment	3 storey block	3	1794
+Greater Perth	Flat/apartment	3 storey block	4	74
+Greater Perth	Flat/apartment	3 storey block	5	6
+Greater Perth	Flat/apartment	3 storey block	6	8
+Greater Perth	Flat/apartment	4-8 storey block		194
+Greater Perth	Flat/apartment	4-8 storey block	0	222
+Greater Perth	Flat/apartment	4-8 storey block	1	4971
+Greater Perth	Flat/apartment	4-8 storey block	2	8220
+Greater Perth	Flat/apartment	4-8 storey block	3	2403
+Greater Perth	Flat/apartment	4-8 storey block	4	92
+Greater Perth	Flat/apartment	4-8 storey block	5	4
+Greater Perth	Flat/apartment	4-8 storey block	6	10
+Greater Perth	Flat/apartment	9 or more storey block		97
+Greater Perth	Flat/apartment	9 or more storey block	0	128
+Greater Perth	Flat/apartment	9 or more storey block	1	2201
+Greater Perth	Flat/apartment	9 or more storey block	2	5201
+Greater Perth	Flat/apartment	9 or more storey block	3	1595
+Greater Perth	Flat/apartment	9 or more storey block	4	60
+Greater Perth	Flat/apartment	9 or more storey block	5	3
+Greater Perth	Flat/apartment	9 or more storey block	6	6
+Greater Perth	Flat/apartment	Attached to a house		19
+Greater Perth	Flat/apartment	Attached to a house	1	208
+Greater Perth	Flat/apartment	Attached to a house	2	262
+Greater Perth	Flat/apartment	Attached to a house	3	118
+Greater Perth	Flat/apartment	Attached to a house	4	107
+Greater Perth	Flat/apartment	Attached to a house	5	42
+Greater Perth	Flat/apartment	Attached to a house	6	33
+Greater Perth	Separate house			6271
+Greater Perth	Separate house		0	446
+Greater Perth	Separate house		1	3635
+Greater Perth	Separate house		2	28866
+Greater Perth	Separate house		3	219565
+Greater Perth	Separate house		4	297348
+Greater Perth	Separate house		5	42065
+Greater Perth	Separate house		6	7258
+Rest of WA				148
+Rest of WA			0	54
+Rest of WA			1	232
+Rest of WA			2	221
+Rest of WA			3	239
+Rest of WA			4	181
+Rest of WA			5	53
+Rest of WA			6	73
+Rest of WA		1 storey		436
+Rest of WA		1 storey	0	63
+Rest of WA		1 storey	1	1894
+Rest of WA		1 storey	2	5522
+Rest of WA		1 storey	3	4272
+Rest of WA		1 storey	4	579
+Rest of WA		1 storey	5	49
+Rest of WA		1 storey	6	28
+Rest of WA		2 storeys or more		47
+Rest of WA		2 storeys or more	0	14
+Rest of WA		2 storeys or more	1	203
+Rest of WA		2 storeys or more	2	625
+Rest of WA		2 storeys or more	3	987
+Rest of WA		2 storeys or more	4	350
+Rest of WA		2 storeys or more	5	51
+Rest of WA		2 storeys or more	6	5
+Rest of WA	(Other)			278
+Rest of WA	(Other)		0	439
+Rest of WA	(Other)		1	1296
+Rest of WA	(Other)		2	646
+Rest of WA	(Other)		3	360
+Rest of WA	(Other)		4	228
+Rest of WA	(Other)		5	44
+Rest of WA	(Other)		6	33
+Rest of WA	Flat/apartment		0	3
+Rest of WA	Flat/apartment	1 or 2 storey block		81
+Rest of WA	Flat/apartment	1 or 2 storey block	0	23
+Rest of WA	Flat/apartment	1 or 2 storey block	1	629
+Rest of WA	Flat/apartment	1 or 2 storey block	2	941
+Rest of WA	Flat/apartment	1 or 2 storey block	3	404
+Rest of WA	Flat/apartment	1 or 2 storey block	4	47
+Rest of WA	Flat/apartment	1 or 2 storey block	5	5
+Rest of WA	Flat/apartment	1 or 2 storey block	6	14
+Rest of WA	Flat/apartment	3 storey block	1	67
+Rest of WA	Flat/apartment	3 storey block	2	174
+Rest of WA	Flat/apartment	3 storey block	3	49
+Rest of WA	Flat/apartment	3 storey block	4	5
+Rest of WA	Flat/apartment	4-8 storey block		3
+Rest of WA	Flat/apartment	4-8 storey block	1	38
+Rest of WA	Flat/apartment	4-8 storey block	2	83
+Rest of WA	Flat/apartment	4-8 storey block	3	35
+Rest of WA	Flat/apartment	9 or more storey block	1	67
+Rest of WA	Flat/apartment	9 or more storey block	2	71
+Rest of WA	Flat/apartment	9 or more storey block	3	27
+Rest of WA	Flat/apartment	9 or more storey block	4	4
+Rest of WA	Flat/apartment	Attached to a house		3
+Rest of WA	Flat/apartment	Attached to a house	1	26
+Rest of WA	Flat/apartment	Attached to a house	2	30
+Rest of WA	Flat/apartment	Attached to a house	3	16
+Rest of WA	Flat/apartment	Attached to a house	4	11
+Rest of WA	Flat/apartment	Attached to a house	5	4
+Rest of WA	Flat/apartment	Attached to a house	6	4
+Rest of WA	Separate house			2667
+Rest of WA	Separate house		0	406
+Rest of WA	Separate house		1	2918
+Rest of WA	Separate house		2	15044
+Rest of WA	Separate house		3	68920
+Rest of WA	Separate house		4	63545
+Rest of WA	Separate house		5	8214
+Rest of WA	Separate house		6	1871
+Greater Hobart				18
+Greater Hobart			0	8
+Greater Hobart			1	38
+Greater Hobart			2	63
+Greater Hobart			3	40
+Greater Hobart			4	27
+Greater Hobart			6	10
+Greater Hobart		1 storey		84
+Greater Hobart		1 storey	0	36
+Greater Hobart		1 storey	1	875
+Greater Hobart		1 storey	2	1760
+Greater Hobart		1 storey	3	402
+Greater Hobart		1 storey	4	69
+Greater Hobart		1 storey	5	12
+Greater Hobart		1 storey	6	4
+Greater Hobart		2 storeys or more		32
+Greater Hobart		2 storeys or more	0	10
+Greater Hobart		2 storeys or more	1	293
+Greater Hobart		2 storeys or more	2	1370
+Greater Hobart		2 storeys or more	3	675
+Greater Hobart		2 storeys or more	4	119
+Greater Hobart		2 storeys or more	5	27
+Greater Hobart		2 storeys or more	6	5
+Greater Hobart	(Other)			16
+Greater Hobart	(Other)		0	44
+Greater Hobart	(Other)		1	125
+Greater Hobart	(Other)		2	98
+Greater Hobart	(Other)		3	75
+Greater Hobart	(Other)		4	29
+Greater Hobart	(Other)		5	3
+Greater Hobart	Flat/apartment	1 or 2 storey block		137
+Greater Hobart	Flat/apartment	1 or 2 storey block	0	90
+Greater Hobart	Flat/apartment	1 or 2 storey block	1	1672
+Greater Hobart	Flat/apartment	1 or 2 storey block	2	3140
+Greater Hobart	Flat/apartment	1 or 2 storey block	3	738
+Greater Hobart	Flat/apartment	1 or 2 storey block	4	131
+Greater Hobart	Flat/apartment	1 or 2 storey block	5	29
+Greater Hobart	Flat/apartment	1 or 2 storey block	6	14
+Greater Hobart	Flat/apartment	3 storey block		16
+Greater Hobart	Flat/apartment	3 storey block	0	49
+Greater Hobart	Flat/apartment	3 storey block	1	325
+Greater Hobart	Flat/apartment	3 storey block	2	510
+Greater Hobart	Flat/apartment	3 storey block	3	115
+Greater Hobart	Flat/apartment	3 storey block	4	22
+Greater Hobart	Flat/apartment	3 storey block	5	7
+Greater Hobart	Flat/apartment	3 storey block	6	3
+Greater Hobart	Flat/apartment	4-8 storey block		14
+Greater Hobart	Flat/apartment	4-8 storey block	0	16
+Greater Hobart	Flat/apartment	4-8 storey block	1	124
+Greater Hobart	Flat/apartment	4-8 storey block	2	372
+Greater Hobart	Flat/apartment	4-8 storey block	3	68
+Greater Hobart	Flat/apartment	4-8 storey block	4	3
+Greater Hobart	Flat/apartment	9 or more storey block	2	22
+Greater Hobart	Flat/apartment	9 or more storey block	3	6
+Greater Hobart	Flat/apartment	Attached to a house	1	64
+Greater Hobart	Flat/apartment	Attached to a house	2	36
+Greater Hobart	Flat/apartment	Attached to a house	3	24
+Greater Hobart	Flat/apartment	Attached to a house	4	18
+Greater Hobart	Flat/apartment	Attached to a house	5	5
+Greater Hobart	Separate house			872
+Greater Hobart	Separate house		0	133
+Greater Hobart	Separate house		1	1286
+Greater Hobart	Separate house		2	12934
+Greater Hobart	Separate house		3	43358
+Greater Hobart	Separate house		4	17501
+Greater Hobart	Separate house		5	3909
+Greater Hobart	Separate house		6	848
+Rest of Tas.				19
+Rest of Tas.			0	19
+Rest of Tas.			1	50
+Rest of Tas.			2	57
+Rest of Tas.			3	65
+Rest of Tas.			4	39
+Rest of Tas.			5	10
+Rest of Tas.			6	18
+Rest of Tas.		1 storey		337
+Rest of Tas.		1 storey	0	30
+Rest of Tas.		1 storey	1	1510
+Rest of Tas.		1 storey	2	3567
+Rest of Tas.		1 storey	3	674
+Rest of Tas.		1 storey	4	77
+Rest of Tas.		1 storey	5	21
+Rest of Tas.		1 storey	6	10
+Rest of Tas.		2 storeys or more		14
+Rest of Tas.		2 storeys or more	0	11
+Rest of Tas.		2 storeys or more	1	104
+Rest of Tas.		2 storeys or more	2	589
+Rest of Tas.		2 storeys or more	3	464
+Rest of Tas.		2 storeys or more	4	157
+Rest of Tas.		2 storeys or more	5	49
+Rest of Tas.		2 storeys or more	6	11
+Rest of Tas.	(Other)			106
+Rest of Tas.	(Other)		0	116
+Rest of Tas.	(Other)		1	354
+Rest of Tas.	(Other)		2	208
+Rest of Tas.	(Other)		3	157
+Rest of Tas.	(Other)		4	33
+Rest of Tas.	(Other)		5	11
+Rest of Tas.	(Other)		6	10
+Rest of Tas.	Flat/apartment		0	3
+Rest of Tas.	Flat/apartment	1 or 2 storey block		81
+Rest of Tas.	Flat/apartment	1 or 2 storey block	0	37
+Rest of Tas.	Flat/apartment	1 or 2 storey block	1	844
+Rest of Tas.	Flat/apartment	1 or 2 storey block	2	2036
+Rest of Tas.	Flat/apartment	1 or 2 storey block	3	364
+Rest of Tas.	Flat/apartment	1 or 2 storey block	4	47
+Rest of Tas.	Flat/apartment	1 or 2 storey block	5	17
+Rest of Tas.	Flat/apartment	1 or 2 storey block	6	7
+Rest of Tas.	Flat/apartment	3 storey block		5
+Rest of Tas.	Flat/apartment	3 storey block	0	17
+Rest of Tas.	Flat/apartment	3 storey block	1	47
+Rest of Tas.	Flat/apartment	3 storey block	2	80
+Rest of Tas.	Flat/apartment	3 storey block	3	6
+Rest of Tas.	Flat/apartment	3 storey block	4	4
+Rest of Tas.	Flat/apartment	4-8 storey block	0	7
+Rest of Tas.	Flat/apartment	4-8 storey block	1	26
+Rest of Tas.	Flat/apartment	4-8 storey block	2	29
+Rest of Tas.	Flat/apartment	4-8 storey block	3	12
+Rest of Tas.	Flat/apartment	4-8 storey block	4	4
+Rest of Tas.	Flat/apartment	9 or more storey block	2	6
+Rest of Tas.	Flat/apartment	9 or more storey block	3	9
+Rest of Tas.	Flat/apartment	Attached to a house	1	53
+Rest of Tas.	Flat/apartment	Attached to a house	2	47
+Rest of Tas.	Flat/apartment	Attached to a house	3	28
+Rest of Tas.	Flat/apartment	Attached to a house	4	10
+Rest of Tas.	Flat/apartment	Attached to a house	5	6
+Rest of Tas.	Separate house			1586
+Rest of Tas.	Separate house		0	394
+Rest of Tas.	Separate house		1	2570
+Rest of Tas.	Separate house		2	17788
+Rest of Tas.	Separate house		3	61126
+Rest of Tas.	Separate house		4	22176
+Rest of Tas.	Separate house		5	4068
+Rest of Tas.	Separate house		6	999
+Greater Darwin				30
+Greater Darwin			0	9
+Greater Darwin			1	51
+Greater Darwin			2	37
+Greater Darwin			3	10
+Greater Darwin			4	10
+Greater Darwin			5	3
+Greater Darwin		1 storey		71
+Greater Darwin		1 storey	0	13
+Greater Darwin		1 storey	1	341
+Greater Darwin		1 storey	2	1486
+Greater Darwin		1 storey	3	785
+Greater Darwin		1 storey	4	52
+Greater Darwin		1 storey	5	3
+Greater Darwin		2 storeys or more		33
+Greater Darwin		2 storeys or more	0	9
+Greater Darwin		2 storeys or more	1	98
+Greater Darwin		2 storeys or more	2	1201
+Greater Darwin		2 storeys or more	3	734
+Greater Darwin		2 storeys or more	4	107
+Greater Darwin		2 storeys or more	5	4
+Greater Darwin		2 storeys or more	6	6
+Greater Darwin	(Other)			44
+Greater Darwin	(Other)		0	98
+Greater Darwin	(Other)		1	199
+Greater Darwin	(Other)		2	34
+Greater Darwin	(Other)		3	35
+Greater Darwin	(Other)		4	21
+Greater Darwin	(Other)		5	4
+Greater Darwin	(Other)		6	3
+Greater Darwin	Flat/apartment	1 or 2 storey block		106
+Greater Darwin	Flat/apartment	1 or 2 storey block	0	18
+Greater Darwin	Flat/apartment	1 or 2 storey block	1	499
+Greater Darwin	Flat/apartment	1 or 2 storey block	2	2262
+Greater Darwin	Flat/apartment	1 or 2 storey block	3	1031
+Greater Darwin	Flat/apartment	1 or 2 storey block	4	102
+Greater Darwin	Flat/apartment	1 or 2 storey block	5	8
+Greater Darwin	Flat/apartment	1 or 2 storey block	6	4
+Greater Darwin	Flat/apartment	3 storey block		43
+Greater Darwin	Flat/apartment	3 storey block	0	45
+Greater Darwin	Flat/apartment	3 storey block	1	293
+Greater Darwin	Flat/apartment	3 storey block	2	1178
+Greater Darwin	Flat/apartment	3 storey block	3	361
+Greater Darwin	Flat/apartment	3 storey block	4	5
+Greater Darwin	Flat/apartment	4-8 storey block		49
+Greater Darwin	Flat/apartment	4-8 storey block	0	14
+Greater Darwin	Flat/apartment	4-8 storey block	1	308
+Greater Darwin	Flat/apartment	4-8 storey block	2	1838
+Greater Darwin	Flat/apartment	4-8 storey block	3	1005
+Greater Darwin	Flat/apartment	4-8 storey block	4	24
+Greater Darwin	Flat/apartment	4-8 storey block	6	6
+Greater Darwin	Flat/apartment	9 or more storey block		31
+Greater Darwin	Flat/apartment	9 or more storey block	0	38
+Greater Darwin	Flat/apartment	9 or more storey block	1	461
+Greater Darwin	Flat/apartment	9 or more storey block	2	1071
+Greater Darwin	Flat/apartment	9 or more storey block	3	935
+Greater Darwin	Flat/apartment	9 or more storey block	4	44
+Greater Darwin	Flat/apartment	9 or more storey block	5	5
+Greater Darwin	Flat/apartment	Attached to a house	1	13
+Greater Darwin	Flat/apartment	Attached to a house	2	3
+Greater Darwin	Separate house			462
+Greater Darwin	Separate house		0	130
+Greater Darwin	Separate house		1	598
+Greater Darwin	Separate house		2	1661
+Greater Darwin	Separate house		3	14462
+Greater Darwin	Separate house		4	9954
+Greater Darwin	Separate house		5	2102
+Greater Darwin	Separate house		6	570
+Rest of NT				71
+Rest of NT			0	50
+Rest of NT			1	151
+Rest of NT			2	109
+Rest of NT			3	78
+Rest of NT			4	38
+Rest of NT			5	10
+Rest of NT			6	14
+Rest of NT		1 storey		89
+Rest of NT		1 storey	0	36
+Rest of NT		1 storey	1	676
+Rest of NT		1 storey	2	1540
+Rest of NT		1 storey	3	571
+Rest of NT		1 storey	4	78
+Rest of NT		1 storey	5	4
+Rest of NT		1 storey	6	3
+Rest of NT		2 storeys or more		28
+Rest of NT		2 storeys or more	0	8
+Rest of NT		2 storeys or more	1	139
+Rest of NT		2 storeys or more	2	606
+Rest of NT		2 storeys or more	3	224
+Rest of NT		2 storeys or more	4	13
+Rest of NT	(Other)			75
+Rest of NT	(Other)		0	187
+Rest of NT	(Other)		1	297
+Rest of NT	(Other)		2	82
+Rest of NT	(Other)		3	60
+Rest of NT	(Other)		4	35
+Rest of NT	(Other)		5	3
+Rest of NT	(Other)		6	5
+Rest of NT	Flat/apartment	1 or 2 storey block		29
+Rest of NT	Flat/apartment	1 or 2 storey block	0	52
+Rest of NT	Flat/apartment	1 or 2 storey block	1	305
+Rest of NT	Flat/apartment	1 or 2 storey block	2	300
+Rest of NT	Flat/apartment	1 or 2 storey block	3	71
+Rest of NT	Flat/apartment	1 or 2 storey block	4	3
+Rest of NT	Flat/apartment	1 or 2 storey block	5	3
+Rest of NT	Flat/apartment	1 or 2 storey block	6	4
+Rest of NT	Flat/apartment	3 storey block		3
+Rest of NT	Flat/apartment	3 storey block	0	3
+Rest of NT	Flat/apartment	3 storey block	1	14
+Rest of NT	Flat/apartment	3 storey block	2	9
+Rest of NT	Flat/apartment	4-8 storey block	1	4
+Rest of NT	Flat/apartment	4-8 storey block	2	11
+Rest of NT	Flat/apartment	Attached to a house		5
+Rest of NT	Flat/apartment	Attached to a house	1	6
+Rest of NT	Flat/apartment	Attached to a house	2	4
+Rest of NT	Separate house			383
+Rest of NT	Separate house		0	109
+Rest of NT	Separate house		1	712
+Rest of NT	Separate house		2	2382
+Rest of NT	Separate house		3	9353
+Rest of NT	Separate house		4	3550
+Rest of NT	Separate house		5	585
+Rest of NT	Separate house		6	198
+Australian Capital Territory				9
+Australian Capital Territory			0	6
+Australian Capital Territory			1	52
+Australian Capital Territory			2	54
+Australian Capital Territory			3	44
+Australian Capital Territory			4	33
+Australian Capital Territory			5	6
+Australian Capital Territory			6	5
+Australian Capital Territory		1 storey		147
+Australian Capital Territory		1 storey	0	33
+Australian Capital Territory		1 storey	1	841
+Australian Capital Territory		1 storey	2	4913
+Australian Capital Territory		1 storey	3	7029
+Australian Capital Territory		1 storey	4	726
+Australian Capital Territory		1 storey	5	55
+Australian Capital Territory		1 storey	6	18
+Australian Capital Territory		2 storeys or more		107
+Australian Capital Territory		2 storeys or more	0	34
+Australian Capital Territory		2 storeys or more	1	1140
+Australian Capital Territory		2 storeys or more	2	4264
+Australian Capital Territory		2 storeys or more	3	7882
+Australian Capital Territory		2 storeys or more	4	1618
+Australian Capital Territory		2 storeys or more	5	102
+Australian Capital Territory		2 storeys or more	6	22
+Australian Capital Territory	(Other)			4
+Australian Capital Territory	(Other)		0	5
+Australian Capital Territory	(Other)		1	56
+Australian Capital Territory	(Other)		2	75
+Australian Capital Territory	(Other)		3	24
+Australian Capital Territory	(Other)		4	3
+Australian Capital Territory	Flat/apartment		0	14
+Australian Capital Territory	Flat/apartment	1 or 2 storey block		75
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	0	58
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	1	1487
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	2	2727
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	3	1136
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	4	141
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	5	8
+Australian Capital Territory	Flat/apartment	1 or 2 storey block	6	5
+Australian Capital Territory	Flat/apartment	3 storey block		75
+Australian Capital Territory	Flat/apartment	3 storey block	0	69
+Australian Capital Territory	Flat/apartment	3 storey block	1	2476
+Australian Capital Territory	Flat/apartment	3 storey block	2	4147
+Australian Capital Territory	Flat/apartment	3 storey block	3	894
+Australian Capital Territory	Flat/apartment	3 storey block	4	82
+Australian Capital Territory	Flat/apartment	4-8 storey block		94
+Australian Capital Territory	Flat/apartment	4-8 storey block	0	68
+Australian Capital Territory	Flat/apartment	4-8 storey block	1	4731
+Australian Capital Territory	Flat/apartment	4-8 storey block	2	6144
+Australian Capital Territory	Flat/apartment	4-8 storey block	3	1528
+Australian Capital Territory	Flat/apartment	4-8 storey block	4	68
+Australian Capital Territory	Flat/apartment	4-8 storey block	5	4
+Australian Capital Territory	Flat/apartment	9 or more storey block		56
+Australian Capital Territory	Flat/apartment	9 or more storey block	0	49
+Australian Capital Territory	Flat/apartment	9 or more storey block	1	2439
+Australian Capital Territory	Flat/apartment	9 or more storey block	2	2961
+Australian Capital Territory	Flat/apartment	9 or more storey block	3	675
+Australian Capital Territory	Flat/apartment	9 or more storey block	4	21
+Australian Capital Territory	Flat/apartment	Attached to a house		3
+Australian Capital Territory	Flat/apartment	Attached to a house	1	165
+Australian Capital Territory	Flat/apartment	Attached to a house	2	162
+Australian Capital Territory	Flat/apartment	Attached to a house	3	65
+Australian Capital Territory	Flat/apartment	Attached to a house	4	17
+Australian Capital Territory	Flat/apartment	Attached to a house	5	7
+Australian Capital Territory	Separate house			851
+Australian Capital Territory	Separate house		0	67
+Australian Capital Territory	Separate house		1	807
+Australian Capital Territory	Separate house		2	4037
+Australian Capital Territory	Separate house		3	43261
+Australian Capital Territory	Separate house		4	45726
+Australian Capital Territory	Separate house		5	9966
+Australian Capital Territory	Separate house		6	1717
+Other Territories				7
+Other Territories			1	8
+Other Territories			2	5
+Other Territories			3	5
+Other Territories		1 storey		3
+Other Territories		1 storey	1	3
+Other Territories		1 storey	2	43
+Other Territories		1 storey	3	37
+Other Territories		1 storey	4	3
+Other Territories		1 storey	5	4
+Other Territories		2 storeys or more	2	4
+Other Territories		2 storeys or more	3	6
+Other Territories	(Other)		3	3
+Other Territories	Flat/apartment	1 or 2 storey block		3
+Other Territories	Flat/apartment	1 or 2 storey block	1	32
+Other Territories	Flat/apartment	1 or 2 storey block	2	29
+Other Territories	Flat/apartment	1 or 2 storey block	3	14
+Other Territories	Flat/apartment	3 storey block	2	13
+Other Territories	Flat/apartment	3 storey block	3	25
+Other Territories	Flat/apartment	3 storey block	4	3
+Other Territories	Flat/apartment	4-8 storey block	3	9
+Other Territories	Flat/apartment	Attached to a house	1	3
+Other Territories	Flat/apartment	Attached to a house	2	3
+Other Territories	Separate house			50
+Other Territories	Separate house		1	75
+Other Territories	Separate house		2	260
+Other Territories	Separate house		3	546
+Other Territories	Separate house		4	266
+Other Territories	Separate house		5	51
+Other Territories	Separate house		6	14

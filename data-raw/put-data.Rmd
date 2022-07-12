@@ -412,6 +412,12 @@ Mop <- function(DT, value.name = "persons", suborder = NULL) {
                NonABS_decoder[ASGS_Structure == Region,
                               .(Census_Code_2021, SSC_NAME21 = Census_Name_2021)]
              },
+             "GCCSA" = {
+               read_excel("./data-raw/data-packs/Metadata/2021Census_geog_desc_1st_release.xlsx",
+                          sheet = "2021_ASGS_GCCSA_Structure") %>%
+                 as.data.table %>%
+                 .[, .(Census_Code_2021, GCCSA_NAME21 = Census_Name_2021)]
+             },
              NULL) %>%
       unique %>%
       setnames(1, Region_key)

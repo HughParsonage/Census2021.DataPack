@@ -1,0 +1,575 @@
+GCCSA_NAME21	FamilyHousehold	IncomeHousehold.max	households
+Greater Sydney	0		23528
+Greater Sydney	0	0	21328
+Greater Sydney	0	7875	6127
+Greater Sydney	0	15750	14345
+Greater Sydney	0	21000	29693
+Greater Sydney	0	26250	60280
+Greater Sydney	0	34125	37541
+Greater Sydney	0	42000	28479
+Greater Sydney	0	52500	35942
+Greater Sydney	0	65625	41711
+Greater Sydney	0	78750	35384
+Greater Sydney	0	91875	31638
+Greater Sydney	0	105000	26946
+Greater Sydney	0	131250	51714
+Greater Sydney	0	157500	7743
+Greater Sydney	0	183750	15664
+Greater Sydney	0	210000	4072
+Greater Sydney	0	Inf	29136
+Greater Sydney	1		81043
+Greater Sydney	1	0	17217
+Greater Sydney	1	7875	5018
+Greater Sydney	1	15750	5695
+Greater Sydney	1	21000	6481
+Greater Sydney	1	26250	18525
+Greater Sydney	1	34125	20460
+Greater Sydney	1	42000	56086
+Greater Sydney	1	52500	52129
+Greater Sydney	1	65625	66650
+Greater Sydney	1	78750	80056
+Greater Sydney	1	91875	63860
+Greater Sydney	1	105000	68331
+Greater Sydney	1	131250	157986
+Greater Sydney	1	157500	125027
+Greater Sydney	1	183750	112907
+Greater Sydney	1	210000	80946
+Greater Sydney	1	Inf	309176
+Rest of NSW	0		19033
+Rest of NSW	0	0	10210
+Rest of NSW	0	7875	4224
+Rest of NSW	0	15750	11293
+Rest of NSW	0	21000	23550
+Rest of NSW	0	26250	64275
+Rest of NSW	0	34125	39708
+Rest of NSW	0	42000	23950
+Rest of NSW	0	52500	29411
+Rest of NSW	0	65625	28517
+Rest of NSW	0	78750	19646
+Rest of NSW	0	91875	15813
+Rest of NSW	0	105000	11987
+Rest of NSW	0	131250	18408
+Rest of NSW	0	157500	2800
+Rest of NSW	0	183750	4036
+Rest of NSW	0	210000	970
+Rest of NSW	0	Inf	6274
+Rest of NSW	1		58933
+Rest of NSW	1	0	7528
+Rest of NSW	1	7875	3448
+Rest of NSW	1	15750	3312
+Rest of NSW	1	21000	4050
+Rest of NSW	1	26250	14061
+Rest of NSW	1	34125	15492
+Rest of NSW	1	42000	54397
+Rest of NSW	1	52500	45977
+Rest of NSW	1	65625	53600
+Rest of NSW	1	78750	61370
+Rest of NSW	1	91875	42313
+Rest of NSW	1	105000	45127
+Rest of NSW	1	131250	92660
+Rest of NSW	1	157500	67944
+Rest of NSW	1	183750	53374
+Rest of NSW	1	210000	33329
+Rest of NSW	1	Inf	80597
+Greater Melbourne	0		23680
+Greater Melbourne	0	0	21881
+Greater Melbourne	0	7875	6449
+Greater Melbourne	0	15750	14558
+Greater Melbourne	0	21000	28108
+Greater Melbourne	0	26250	63493
+Greater Melbourne	0	34125	40790
+Greater Melbourne	0	42000	31363
+Greater Melbourne	0	52500	40046
+Greater Melbourne	0	65625	46152
+Greater Melbourne	0	78750	39722
+Greater Melbourne	0	91875	35950
+Greater Melbourne	0	105000	28712
+Greater Melbourne	0	131250	50247
+Greater Melbourne	0	157500	7712
+Greater Melbourne	0	183750	13571
+Greater Melbourne	0	210000	3674
+Greater Melbourne	0	Inf	21643
+Greater Melbourne	1		80396
+Greater Melbourne	1	0	16659
+Greater Melbourne	1	7875	5604
+Greater Melbourne	1	15750	6343
+Greater Melbourne	1	21000	6512
+Greater Melbourne	1	26250	18578
+Greater Melbourne	1	34125	20319
+Greater Melbourne	1	42000	57552
+Greater Melbourne	1	52500	55838
+Greater Melbourne	1	65625	70330
+Greater Melbourne	1	78750	84502
+Greater Melbourne	1	91875	67312
+Greater Melbourne	1	105000	71251
+Greater Melbourne	1	131250	161091
+Greater Melbourne	1	157500	128070
+Greater Melbourne	1	183750	108210
+Greater Melbourne	1	210000	73369
+Greater Melbourne	1	Inf	231665
+Rest of Vic.	0		11097
+Rest of Vic.	0	0	5991
+Rest of Vic.	0	7875	2500
+Rest of Vic.	0	15750	6512
+Rest of Vic.	0	21000	13937
+Rest of Vic.	0	26250	37498
+Rest of Vic.	0	34125	22900
+Rest of Vic.	0	42000	14742
+Rest of Vic.	0	52500	17991
+Rest of Vic.	0	65625	17238
+Rest of Vic.	0	78750	11908
+Rest of Vic.	0	91875	9697
+Rest of Vic.	0	105000	6975
+Rest of Vic.	0	131250	9698
+Rest of Vic.	0	157500	1433
+Rest of Vic.	0	183750	2172
+Rest of Vic.	0	210000	508
+Rest of Vic.	0	Inf	3557
+Rest of Vic.	1		32982
+Rest of Vic.	1	0	4179
+Rest of Vic.	1	7875	1978
+Rest of Vic.	1	15750	1907
+Rest of Vic.	1	21000	2342
+Rest of Vic.	1	26250	8381
+Rest of Vic.	1	34125	9221
+Rest of Vic.	1	42000	30760
+Rest of Vic.	1	52500	27208
+Rest of Vic.	1	65625	31174
+Rest of Vic.	1	78750	35446
+Rest of Vic.	1	91875	24721
+Rest of Vic.	1	105000	26538
+Rest of Vic.	1	131250	53730
+Rest of Vic.	1	157500	38218
+Rest of Vic.	1	183750	28536
+Rest of Vic.	1	210000	16778
+Rest of Vic.	1	Inf	38438
+Greater Brisbane	0		13083
+Greater Brisbane	0	0	8044
+Greater Brisbane	0	7875	2726
+Greater Brisbane	0	15750	6689
+Greater Brisbane	0	21000	14022
+Greater Brisbane	0	26250	33451
+Greater Brisbane	0	34125	24629
+Greater Brisbane	0	42000	16471
+Greater Brisbane	0	52500	21577
+Greater Brisbane	0	65625	24349
+Greater Brisbane	0	78750	20172
+Greater Brisbane	0	91875	17047
+Greater Brisbane	0	105000	13527
+Greater Brisbane	0	131250	22850
+Greater Brisbane	0	157500	4060
+Greater Brisbane	0	183750	5723
+Greater Brisbane	0	210000	1466
+Greater Brisbane	0	Inf	8102
+Greater Brisbane	1		45824
+Greater Brisbane	1	0	5841
+Greater Brisbane	1	7875	2285
+Greater Brisbane	1	15750	2537
+Greater Brisbane	1	21000	2915
+Greater Brisbane	1	26250	8756
+Greater Brisbane	1	34125	11155
+Greater Brisbane	1	42000	31801
+Greater Brisbane	1	52500	31140
+Greater Brisbane	1	65625	38582
+Greater Brisbane	1	78750	45664
+Greater Brisbane	1	91875	36134
+Greater Brisbane	1	105000	38251
+Greater Brisbane	1	131250	85979
+Greater Brisbane	1	157500	65895
+Greater Brisbane	1	183750	55005
+Greater Brisbane	1	210000	37607
+Greater Brisbane	1	Inf	108689
+Rest of Qld	0		16845
+Rest of Qld	0	0	9072
+Rest of Qld	0	7875	3404
+Rest of Qld	0	15750	8716
+Rest of Qld	0	21000	18202
+Rest of Qld	0	26250	46570
+Rest of Qld	0	34125	31458
+Rest of Qld	0	42000	19787
+Rest of Qld	0	52500	25324
+Rest of Qld	0	65625	25255
+Rest of Qld	0	78750	19140
+Rest of Qld	0	91875	15232
+Rest of Qld	0	105000	11693
+Rest of Qld	0	131250	17953
+Rest of Qld	0	157500	3055
+Rest of Qld	0	183750	4506
+Rest of Qld	0	210000	1063
+Rest of Qld	0	Inf	6328
+Rest of Qld	1		66409
+Rest of Qld	1	0	7324
+Rest of Qld	1	7875	3204
+Rest of Qld	1	15750	3135
+Rest of Qld	1	21000	3627
+Rest of Qld	1	26250	12272
+Rest of Qld	1	34125	13934
+Rest of Qld	1	42000	45578
+Rest of Qld	1	52500	39571
+Rest of Qld	1	65625	46417
+Rest of Qld	1	78750	53491
+Rest of Qld	1	91875	38729
+Rest of Qld	1	105000	41555
+Rest of Qld	1	131250	86334
+Rest of Qld	1	157500	62531
+Rest of Qld	1	183750	48440
+Rest of Qld	1	210000	29782
+Rest of Qld	1	Inf	71488
+Greater Adelaide	0		7450
+Greater Adelaide	0	0	4869
+Greater Adelaide	0	7875	1923
+Greater Adelaide	0	15750	5685
+Greater Adelaide	0	21000	11674
+Greater Adelaide	0	26250	28648
+Greater Adelaide	0	34125	18249
+Greater Adelaide	0	42000	12069
+Greater Adelaide	0	52500	14849
+Greater Adelaide	0	65625	15754
+Greater Adelaide	0	78750	12020
+Greater Adelaide	0	91875	9643
+Greater Adelaide	0	105000	7069
+Greater Adelaide	0	131250	10460
+Greater Adelaide	0	157500	1792
+Greater Adelaide	0	183750	2327
+Greater Adelaide	0	210000	603
+Greater Adelaide	0	Inf	3426
+Greater Adelaide	1		25714
+Greater Adelaide	1	0	3086
+Greater Adelaide	1	7875	1351
+Greater Adelaide	1	15750	1524
+Greater Adelaide	1	21000	1853
+Greater Adelaide	1	26250	5904
+Greater Adelaide	1	34125	7214
+Greater Adelaide	1	42000	21885
+Greater Adelaide	1	52500	21576
+Greater Adelaide	1	65625	25790
+Greater Adelaide	1	78750	29464
+Greater Adelaide	1	91875	21921
+Greater Adelaide	1	105000	22863
+Greater Adelaide	1	131250	49215
+Greater Adelaide	1	157500	36892
+Greater Adelaide	1	183750	28401
+Greater Adelaide	1	210000	18088
+Greater Adelaide	1	Inf	44785
+Rest of SA	0		2775
+Rest of SA	0	0	1381
+Rest of SA	0	7875	674
+Rest of SA	0	15750	2100
+Rest of SA	0	21000	4346
+Rest of SA	0	26250	11648
+Rest of SA	0	34125	6338
+Rest of SA	0	42000	3993
+Rest of SA	0	52500	4720
+Rest of SA	0	65625	4321
+Rest of SA	0	78750	2880
+Rest of SA	0	91875	2220
+Rest of SA	0	105000	1457
+Rest of SA	0	131250	2029
+Rest of SA	0	157500	225
+Rest of SA	0	183750	412
+Rest of SA	0	210000	70
+Rest of SA	0	Inf	703
+Rest of SA	1		10253
+Rest of SA	1	0	1070
+Rest of SA	1	7875	518
+Rest of SA	1	15750	540
+Rest of SA	1	21000	643
+Rest of SA	1	26250	2582
+Rest of SA	1	34125	2702
+Rest of SA	1	42000	9953
+Rest of SA	1	52500	8081
+Rest of SA	1	65625	8529
+Rest of SA	1	78750	9750
+Rest of SA	1	91875	6144
+Rest of SA	1	105000	6615
+Rest of SA	1	131250	12262
+Rest of SA	1	157500	8149
+Rest of SA	1	183750	5705
+Rest of SA	1	210000	3118
+Rest of SA	1	Inf	6354
+Greater Perth	0		11147
+Greater Perth	0	0	7431
+Greater Perth	0	7875	2611
+Greater Perth	0	15750	6716
+Greater Perth	0	21000	13373
+Greater Perth	0	26250	30687
+Greater Perth	0	34125	20355
+Greater Perth	0	42000	13423
+Greater Perth	0	52500	16739
+Greater Perth	0	65625	19578
+Greater Perth	0	78750	16574
+Greater Perth	0	91875	14622
+Greater Perth	0	105000	11416
+Greater Perth	0	131250	20169
+Greater Perth	0	157500	2543
+Greater Perth	0	183750	5357
+Greater Perth	0	210000	1096
+Greater Perth	0	Inf	7766
+Greater Perth	1		58957
+Greater Perth	1	0	5251
+Greater Perth	1	7875	2099
+Greater Perth	1	15750	2423
+Greater Perth	1	21000	2781
+Greater Perth	1	26250	7956
+Greater Perth	1	34125	9514
+Greater Perth	1	42000	26189
+Greater Perth	1	52500	24497
+Greater Perth	1	65625	30032
+Greater Perth	1	78750	34623
+Greater Perth	1	91875	27742
+Greater Perth	1	105000	29699
+Greater Perth	1	131250	67269
+Greater Perth	1	157500	53325
+Greater Perth	1	183750	46930
+Greater Perth	1	210000	30768
+Greater Perth	1	Inf	96960
+Rest of WA	0		3271
+Rest of WA	0	0	1654
+Rest of WA	0	7875	677
+Rest of WA	0	15750	1997
+Rest of WA	0	21000	3775
+Rest of WA	0	26250	9056
+Rest of WA	0	34125	5306
+Rest of WA	0	42000	3539
+Rest of WA	0	52500	4401
+Rest of WA	0	65625	4697
+Rest of WA	0	78750	3608
+Rest of WA	0	91875	3296
+Rest of WA	0	105000	2681
+Rest of WA	0	131250	4743
+Rest of WA	0	157500	423
+Rest of WA	0	183750	1248
+Rest of WA	0	210000	220
+Rest of WA	0	Inf	1584
+Rest of WA	1		17596
+Rest of WA	1	0	1222
+Rest of WA	1	7875	603
+Rest of WA	1	15750	719
+Rest of WA	1	21000	802
+Rest of WA	1	26250	2624
+Rest of WA	1	34125	2709
+Rest of WA	1	42000	8288
+Rest of WA	1	52500	6755
+Rest of WA	1	65625	7819
+Rest of WA	1	78750	8636
+Rest of WA	1	91875	6249
+Rest of WA	1	105000	7020
+Rest of WA	1	131250	15203
+Rest of WA	1	157500	11798
+Rest of WA	1	183750	10098
+Rest of WA	1	210000	6077
+Rest of WA	1	Inf	15718
+Greater Hobart	0		1472
+Greater Hobart	0	0	722
+Greater Hobart	0	7875	285
+Greater Hobart	0	15750	893
+Greater Hobart	0	21000	1885
+Greater Hobart	0	26250	5249
+Greater Hobart	0	34125	3269
+Greater Hobart	0	42000	2316
+Greater Hobart	0	52500	2628
+Greater Hobart	0	65625	2853
+Greater Hobart	0	78750	2049
+Greater Hobart	0	91875	1855
+Greater Hobart	0	105000	1287
+Greater Hobart	0	131250	1866
+Greater Hobart	0	157500	365
+Greater Hobart	0	183750	486
+Greater Hobart	0	210000	143
+Greater Hobart	0	Inf	651
+Greater Hobart	1		4770
+Greater Hobart	1	0	463
+Greater Hobart	1	7875	197
+Greater Hobart	1	15750	251
+Greater Hobart	1	21000	319
+Greater Hobart	1	26250	1099
+Greater Hobart	1	34125	1418
+Greater Hobart	1	42000	3744
+Greater Hobart	1	52500	3692
+Greater Hobart	1	65625	4561
+Greater Hobart	1	78750	5482
+Greater Hobart	1	91875	3985
+Greater Hobart	1	105000	4124
+Greater Hobart	1	131250	8668
+Greater Hobart	1	157500	6430
+Greater Hobart	1	183750	4877
+Greater Hobart	1	210000	3225
+Greater Hobart	1	Inf	7407
+Rest of Tas.	0		2044
+Rest of Tas.	0	0	1009
+Rest of Tas.	0	7875	473
+Rest of Tas.	0	15750	1517
+Rest of Tas.	0	21000	3290
+Rest of Tas.	0	26250	9144
+Rest of Tas.	0	34125	5018
+Rest of Tas.	0	42000	3009
+Rest of Tas.	0	52500	3665
+Rest of Tas.	0	65625	3444
+Rest of Tas.	0	78750	2175
+Rest of Tas.	0	91875	1769
+Rest of Tas.	0	105000	1294
+Rest of Tas.	0	131250	1536
+Rest of Tas.	0	157500	244
+Rest of Tas.	0	183750	303
+Rest of Tas.	0	210000	73
+Rest of Tas.	0	Inf	517
+Rest of Tas.	1		7251
+Rest of Tas.	1	0	684
+Rest of Tas.	1	7875	403
+Rest of Tas.	1	15750	409
+Rest of Tas.	1	21000	597
+Rest of Tas.	1	26250	2010
+Rest of Tas.	1	34125	2263
+Rest of Tas.	1	42000	7966
+Rest of Tas.	1	52500	6347
+Rest of Tas.	1	65625	6793
+Rest of Tas.	1	78750	7694
+Rest of Tas.	1	91875	5273
+Rest of Tas.	1	105000	5252
+Rest of Tas.	1	131250	10308
+Rest of Tas.	1	157500	6873
+Rest of Tas.	1	183750	4789
+Rest of Tas.	1	210000	2691
+Rest of Tas.	1	Inf	5310
+Greater Darwin	0		949
+Greater Darwin	0	0	354
+Greater Darwin	0	7875	104
+Greater Darwin	0	15750	282
+Greater Darwin	0	21000	694
+Greater Darwin	0	26250	1066
+Greater Darwin	0	34125	688
+Greater Darwin	0	42000	623
+Greater Darwin	0	52500	977
+Greater Darwin	0	65625	1207
+Greater Darwin	0	78750	1190
+Greater Darwin	0	91875	1160
+Greater Darwin	0	105000	1005
+Greater Darwin	0	131250	1811
+Greater Darwin	0	157500	303
+Greater Darwin	0	183750	439
+Greater Darwin	0	210000	161
+Greater Darwin	0	Inf	696
+Greater Darwin	1		4121
+Greater Darwin	1	0	184
+Greater Darwin	1	7875	59
+Greater Darwin	1	15750	116
+Greater Darwin	1	21000	170
+Greater Darwin	1	26250	350
+Greater Darwin	1	34125	416
+Greater Darwin	1	42000	865
+Greater Darwin	1	52500	873
+Greater Darwin	1	65625	1307
+Greater Darwin	1	78750	1651
+Greater Darwin	1	91875	1454
+Greater Darwin	1	105000	1673
+Greater Darwin	1	131250	4442
+Greater Darwin	1	157500	3658
+Greater Darwin	1	183750	3273
+Greater Darwin	1	210000	2478
+Greater Darwin	1	Inf	6465
+Rest of NT	0		482
+Rest of NT	0	0	142
+Rest of NT	0	7875	82
+Rest of NT	0	15750	250
+Rest of NT	0	21000	291
+Rest of NT	0	26250	491
+Rest of NT	0	34125	320
+Rest of NT	0	42000	322
+Rest of NT	0	52500	454
+Rest of NT	0	65625	643
+Rest of NT	0	78750	621
+Rest of NT	0	91875	597
+Rest of NT	0	105000	471
+Rest of NT	0	131250	903
+Rest of NT	0	157500	93
+Rest of NT	0	183750	208
+Rest of NT	0	210000	58
+Rest of NT	0	Inf	279
+Rest of NT	1		2227
+Rest of NT	1	0	84
+Rest of NT	1	7875	170
+Rest of NT	1	15750	302
+Rest of NT	1	21000	184
+Rest of NT	1	26250	608
+Rest of NT	1	34125	392
+Rest of NT	1	42000	850
+Rest of NT	1	52500	879
+Rest of NT	1	65625	997
+Rest of NT	1	78750	1074
+Rest of NT	1	91875	814
+Rest of NT	1	105000	814
+Rest of NT	1	131250	1760
+Rest of NT	1	157500	1469
+Rest of NT	1	183750	1271
+Rest of NT	1	210000	836
+Rest of NT	1	Inf	1925
+Australian Capital Territory	0		1847
+Australian Capital Territory	0	0	1016
+Australian Capital Territory	0	7875	375
+Australian Capital Territory	0	15750	951
+Australian Capital Territory	0	21000	1881
+Australian Capital Territory	0	26250	4175
+Australian Capital Territory	0	34125	2726
+Australian Capital Territory	0	42000	2657
+Australian Capital Territory	0	52500	3318
+Australian Capital Territory	0	65625	4107
+Australian Capital Territory	0	78750	4349
+Australian Capital Territory	0	91875	4773
+Australian Capital Territory	0	105000	4131
+Australian Capital Territory	0	131250	8230
+Australian Capital Territory	0	157500	968
+Australian Capital Territory	0	183750	1954
+Australian Capital Territory	0	210000	574
+Australian Capital Territory	0	Inf	3176
+Australian Capital Territory	1		6590
+Australian Capital Territory	1	0	542
+Australian Capital Territory	1	7875	239
+Australian Capital Territory	1	15750	248
+Australian Capital Territory	1	21000	319
+Australian Capital Territory	1	26250	855
+Australian Capital Territory	1	34125	1096
+Australian Capital Territory	1	42000	2531
+Australian Capital Territory	1	52500	2737
+Australian Capital Territory	1	65625	4041
+Australian Capital Territory	1	78750	5688
+Australian Capital Territory	1	91875	5113
+Australian Capital Territory	1	105000	5486
+Australian Capital Territory	1	131250	14033
+Australian Capital Territory	1	157500	12128
+Australian Capital Territory	1	183750	12033
+Australian Capital Territory	1	210000	9814
+Australian Capital Territory	1	Inf	33714
+Other Territories	0		21
+Other Territories	0	0	16
+Other Territories	0	7875	12
+Other Territories	0	15750	14
+Other Territories	0	21000	36
+Other Territories	0	26250	80
+Other Territories	0	34125	45
+Other Territories	0	42000	46
+Other Territories	0	52500	51
+Other Territories	0	65625	52
+Other Territories	0	78750	39
+Other Territories	0	91875	31
+Other Territories	0	105000	36
+Other Territories	0	131250	30
+Other Territories	0	183750	14
+Other Territories	0	Inf	9
+Other Territories	1		123
+Other Territories	1	0	8
+Other Territories	1	7875	7
+Other Territories	1	15750	6
+Other Territories	1	21000	12
+Other Territories	1	26250	20
+Other Territories	1	34125	21
+Other Territories	1	42000	50
+Other Territories	1	52500	55
+Other Territories	1	65625	64
+Other Territories	1	78750	72
+Other Territories	1	91875	63
+Other Territories	1	105000	72
+Other Territories	1	131250	127
+Other Territories	1	157500	97
+Other Territories	1	183750	75
+Other Territories	1	210000	57
+Other Territories	1	Inf	94

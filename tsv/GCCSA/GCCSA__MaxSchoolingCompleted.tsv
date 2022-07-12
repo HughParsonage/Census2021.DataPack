@@ -1,0 +1,161 @@
+GCCSA_NAME21	MaxSchoolingCompleted	adults
+No usual address (NSW)	Did not go to school	75
+No usual address (NSW)	Year 8	332
+No usual address (NSW)	Year 9	576
+No usual address (NSW)	Year 10	1883
+No usual address (NSW)	Year 11	526
+No usual address (NSW)	Year 12	3320
+Greater Sydney	Did not go to school	63459
+Greater Sydney	Year 8	147253
+Greater Sydney	Year 9	181586
+Greater Sydney	Year 10	657316
+Greater Sydney	Year 11	210168
+Greater Sydney	Year 12	2753279
+Rest of NSW	Did not go to school	10299
+Rest of NSW	Year 8	104663
+Rest of NSW	Year 9	188657
+Rest of NSW	Year 10	665563
+Rest of NSW	Year 11	172031
+Rest of NSW	Year 12	1000447
+No usual address (Vic.)	Did not go to school	51
+No usual address (Vic.)	Year 8	240
+No usual address (Vic.)	Year 9	395
+No usual address (Vic.)	Year 10	919
+No usual address (Vic.)	Year 11	652
+No usual address (Vic.)	Year 12	2452
+Migratory - Offshore - Shipping (Vic.)	Year 12	5
+Greater Melbourne	Did not go to school	59666
+Greater Melbourne	Year 8	177704
+Greater Melbourne	Year 9	180848
+Greater Melbourne	Year 10	418249
+Greater Melbourne	Year 11	380643
+Greater Melbourne	Year 12	2590704
+Rest of Vic.	Did not go to school	7692
+Rest of Vic.	Year 8	70257
+Rest of Vic.	Year 9	102635
+Rest of Vic.	Year 10	237814
+Rest of Vic.	Year 11	202138
+Rest of Vic.	Year 12	578750
+No usual address (Qld)	Did not go to school	64
+No usual address (Qld)	Year 8	428
+No usual address (Qld)	Year 9	752
+No usual address (Qld)	Year 10	2785
+No usual address (Qld)	Year 11	1026
+No usual address (Qld)	Year 12	4685
+Migratory - Offshore - Shipping (Qld)	Year 10	15
+Migratory - Offshore - Shipping (Qld)	Year 11	3
+Migratory - Offshore - Shipping (Qld)	Year 12	29
+Greater Brisbane	Did not go to school	14171
+Greater Brisbane	Year 8	69741
+Greater Brisbane	Year 9	85073
+Greater Brisbane	Year 10	370325
+Greater Brisbane	Year 11	136078
+Greater Brisbane	Year 12	1253849
+Rest of Qld	Did not go to school	9533
+Rest of Qld	Year 8	92076
+Rest of Qld	Year 9	115982
+Rest of Qld	Year 10	516085
+Rest of Qld	Year 11	175077
+Rest of Qld	Year 12	1046527
+No usual address (SA)	Did not go to school	21
+No usual address (SA)	Year 8	95
+No usual address (SA)	Year 9	185
+No usual address (SA)	Year 10	543
+No usual address (SA)	Year 11	509
+No usual address (SA)	Year 12	850
+Migratory - Offshore - Shipping (SA)	Year 12	4
+Greater Adelaide	Did not go to school	12897
+Greater Adelaide	Year 8	46157
+Greater Adelaide	Year 9	50596
+Greater Adelaide	Year 10	154849
+Greater Adelaide	Year 11	177171
+Greater Adelaide	Year 12	655080
+Rest of SA	Did not go to school	1503
+Rest of SA	Year 8	18921
+Rest of SA	Year 9	22438
+Rest of SA	Year 10	65159
+Rest of SA	Year 11	68950
+Rest of SA	Year 12	122319
+No usual address (WA)	Did not go to school	30
+No usual address (WA)	Year 8	118
+No usual address (WA)	Year 9	241
+No usual address (WA)	Year 10	1036
+No usual address (WA)	Year 11	457
+No usual address (WA)	Year 12	2024
+Migratory - Offshore - Shipping (WA)	Did not go to school	3
+Migratory - Offshore - Shipping (WA)	Year 9	16
+Migratory - Offshore - Shipping (WA)	Year 10	61
+Migratory - Offshore - Shipping (WA)	Year 11	38
+Migratory - Offshore - Shipping (WA)	Year 12	174
+Greater Perth	Did not go to school	12636
+Greater Perth	Year 8	43841
+Greater Perth	Year 9	67737
+Greater Perth	Year 10	313503
+Greater Perth	Year 11	155135
+Greater Perth	Year 12	1022646
+Rest of WA	Did not go to school	2081
+Rest of WA	Year 8	13926
+Rest of WA	Year 9	23110
+Rest of WA	Year 10	110658
+Rest of WA	Year 11	50181
+Rest of WA	Year 12	181293
+No usual address (Tas.)	Did not go to school	8
+No usual address (Tas.)	Year 8	50
+No usual address (Tas.)	Year 9	75
+No usual address (Tas.)	Year 10	314
+No usual address (Tas.)	Year 11	94
+No usual address (Tas.)	Year 12	374
+Migratory - Offshore - Shipping (Tas.)	Year 11	3
+Migratory - Offshore - Shipping (Tas.)	Year 12	7
+Greater Hobart	Did not go to school	1022
+Greater Hobart	Year 8	6414
+Greater Hobart	Year 9	11436
+Greater Hobart	Year 10	47424
+Greater Hobart	Year 11	15897
+Greater Hobart	Year 12	112427
+Rest of Tas.	Did not go to school	1208
+Rest of Tas.	Year 8	10831
+Rest of Tas.	Year 9	21415
+Rest of Tas.	Year 10	84054
+Rest of Tas.	Year 11	23433
+Rest of Tas.	Year 12	98796
+No usual address (NT)	Did not go to school	28
+No usual address (NT)	Year 8	127
+No usual address (NT)	Year 9	173
+No usual address (NT)	Year 10	473
+No usual address (NT)	Year 11	255
+No usual address (NT)	Year 12	805
+Migratory - Offshore - Shipping (NT)	Year 9	5
+Migratory - Offshore - Shipping (NT)	Year 10	21
+Migratory - Offshore - Shipping (NT)	Year 11	8
+Migratory - Offshore - Shipping (NT)	Year 12	29
+Greater Darwin	Did not go to school	868
+Greater Darwin	Year 8	3263
+Greater Darwin	Year 9	4354
+Greater Darwin	Year 10	17542
+Greater Darwin	Year 11	12327
+Greater Darwin	Year 12	62538
+Rest of NT	Did not go to school	1477
+Rest of NT	Year 8	5843
+Rest of NT	Year 9	5597
+Rest of NT	Year 10	13628
+Rest of NT	Year 11	8641
+Rest of NT	Year 12	25377
+No usual address (ACT)	Year 8	11
+No usual address (ACT)	Year 9	23
+No usual address (ACT)	Year 10	94
+No usual address (ACT)	Year 11	44
+No usual address (ACT)	Year 12	253
+Australian Capital Territory	Did not go to school	1840
+Australian Capital Territory	Year 8	7785
+Australian Capital Territory	Year 9	11105
+Australian Capital Territory	Year 10	41830
+Australian Capital Territory	Year 11	16494
+Australian Capital Territory	Year 12	275232
+No usual address (OT)	Year 12	3
+Other Territories	Did not go to school	119
+Other Territories	Year 8	157
+Other Territories	Year 9	142
+Other Territories	Year 10	761
+Other Territories	Year 11	269
+Other Territories	Year 12	1651
